@@ -101,7 +101,9 @@ public class CSVReader
 public CoreData.charStatus LoadUserData()
     {
         CoreData.charStatus charStatus = new CoreData.charStatus();
-        #if UNITY_EDITOR
+        #if PLATFORM_STANDALONE_WIN
+            string path = Application.dataPath + "/Resources";
+        #elif UNITY_EDITOR
             string path = Application.dataPath + "/Resources";
         #elif UNITY_ANDROID
             string path = Application.persistentDataPath;
@@ -126,7 +128,9 @@ public CoreData.charStatus LoadUserData()
 
     public void SaveUserData(CoreData.charStatus charStatus)
     {
-        #if UNITY_EDITOR
+        #if PLATFORM_STANDALONE_WIN
+            string path = Application.dataPath + "/Resources";
+        #elif UNITY_EDITOR
             string path = Application.dataPath + "/Resources";
         #elif UNITY_ANDROID
             string path = Application.persistentDataPath;

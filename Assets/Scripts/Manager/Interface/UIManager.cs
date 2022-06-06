@@ -17,8 +17,7 @@ public class UIManager : SingleTone<UIManager>
         base.Init();
         UICanvas = GameObject.Find("UICanvas").gameObject;
         resetButton = UIObject.GetT<Button>(UICanvas.transform, nameof(resetButton));
-        UIObject.SetAction(resetButton, delegate { EnemyManager.instance.SpwnAllEnemies(20); });
-
+       
         showInputBoxButton = UIObject.GetT<Button>(UICanvas.transform, nameof(showInputBoxButton));
         inputPanel = UIObject.GetT<RectTransform>(UICanvas.transform, nameof(inputPanel));
         UIObject.SetAction(showInputBoxButton, () => { inputPanel.gameObject.SetActive(true); });

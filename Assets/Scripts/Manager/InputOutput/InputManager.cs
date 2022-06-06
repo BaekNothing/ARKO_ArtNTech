@@ -8,7 +8,6 @@ public class InputManager : SingleTone<InputManager>
 {
     Player player;
     Dictionary<KeyCode, System.Action> inputDic;
-    Button attackButton;
 
     Vector2 parryVector;
 
@@ -16,7 +15,6 @@ public class InputManager : SingleTone<InputManager>
     protected override void Init()
     {
         base.Init();
-        player = PlayerManager.instance.GetPlayer();
         inputDic = new Dictionary<KeyCode, System.Action>{
             {KeyCode.W, GetKey_W},
             {KeyCode.A, GetKey_A},
@@ -25,8 +23,6 @@ public class InputManager : SingleTone<InputManager>
         };
 
         GameObject inputCanvas = GameObject.Find("InputCanvas");
-        attackButton = UIObject.GetT<Button>(inputCanvas.transform, nameof(attackButton));
-        UIObject.SetAction(attackButton, GetKey_Attack);
     }
 
     void Update()

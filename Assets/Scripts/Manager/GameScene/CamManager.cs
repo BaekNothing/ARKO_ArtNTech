@@ -22,10 +22,10 @@ public class CamManager : SingleTone<CamManager>
     // Update is called once per frame
     void Update()
     {
-        CamFollowPlayer();
+        //CamFollowPlayer();
     }
 
-    void CamFollowPlayer() => mainCam.transform.position = 
-        new Vector3(PlayerManager.instance.GetPlayer().transform.position.x, 0, -10f);
+    //void CamFollowPlayer() => mainCam.transform.position = 
+    //    new Vector3(PlayerManager.instance.GetPlayer().transform.position.x, 0, -10f);
 
 }

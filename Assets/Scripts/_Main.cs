@@ -12,10 +12,8 @@ public class _Main : MonoBehaviour
 
     private void Start()
     {
-        PlayerManager.instance.Standby();
         CamManager.instance.Standby();
         InputManager.instance.Standby();
-        EnemyManager.instance.Standby();
         UIManager.instance.Standby();
         DialogManager.instance.Standby();
         SocketManager.instance.Standby();
@@ -23,7 +21,6 @@ public class _Main : MonoBehaviour
 
     void OnApplicationQuit() 
     {
-        DataManager.instance.SaveUserData(PlayerManager.instance.playerStatus);
         System.GC.Collect();
     }
 }
