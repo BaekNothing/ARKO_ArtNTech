@@ -76,6 +76,8 @@ models/*.bin
 DataSet/
 unity/
 skt/
+build/
+dist/
 APK/python/models/data/*.csv
 APK/python/models/models/*.bin
 .fake

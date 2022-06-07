@@ -2,6 +2,8 @@ import subprocess
 import sys
 import pip
 import socket
+import threading
+import os
 
 def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
@@ -20,19 +22,24 @@ try :
     pip_install_requirements('./requirements.txt')
 except :
     print("error : pip update")
-    exit()
+    exit(input())
+
+def runUnity():
+    try :
+        subprocess.run(["./unity/ARKO_Unity.exe"])
+    except Exception as e:
+        print("error : unity ", e)
+        exit(input())
 
 #run unity.exe 
 try :
-    unity = subprocess.run(["./unity/ARKO_Unity.exe"])
-    print("unity run")
-except :
-    print("error : no unity.exe")
-    exit()
+    unityThread = threading.Thread(target=runUnity)
+    unityThread.start()
+except Exception as e:
+    print("error : no unity.exe", e)
+    exit(input())
     
 #run doTcpNetwork.py
-if subprocess.run([sys.executable, "./python/doTcpConnect.py"]) :
-    unity.kill()
-    print("error : no doTcpNetwork.py")
-    exit()
-
+subprocess.run([sys.executable, "./python/doTcpConnect.py"])
+os.kill(unityThread, 2)
+exit(input())

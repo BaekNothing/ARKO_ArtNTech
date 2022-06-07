@@ -15,7 +15,7 @@ MASK = '<unused0>'
 SENT = '<unused1>'
 PAD = '<pad>'
 
-koGPT2_TOKENIZER = PreTrainedTokenizerFast.from_pretrained(os.getcwd() + "/models/skt/kogpt2-base-v2",
+koGPT2_TOKENIZER = PreTrainedTokenizerFast.from_pretrained("python/models/skt/kogpt2-base-v2",
             bos_token=BOS, eos_token=EOS, unk_token='<unk>',
             pad_token=PAD, mask_token=MASK) 
 print(koGPT2_TOKENIZER.tokenize("Tokenizer : Ready [],/."))
@@ -23,7 +23,7 @@ print(koGPT2_TOKENIZER.tokenize("Tokenizer : Ready [],/."))
 #set Model
 import torch
 from transformers import GPT2LMHeadModel
-path = os.getcwd() + '/models/_finalModel.bin'
+path = 'python/models/models/_finalModel.bin'
 if(os.path.exists(path)):
     model = torch.load(path)
 # elif(os.path.exists('python/' + path)) :
