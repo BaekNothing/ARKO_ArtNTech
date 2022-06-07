@@ -11,6 +11,9 @@ chatbot baseData : [haven-jeon/KoGPT2-charbot](https://github.com/haven-jeon/KoG
   
 --  
   
+[crawlData](https://github.com/BaekNothing/ARKO_ArtNTech/tree/main/APK/python/models/data)  
+[APK](https://github.com/BaekNothing/ARKO_ArtNTech/tree/main/APK)
+  
 /* 
  * 이 저장소에는 "APK/unity/ARKO_unity.exe" 파일과 
  * "APK/python/models/models/_finalModel.bin"파일이 포함되어있지 않음. 
