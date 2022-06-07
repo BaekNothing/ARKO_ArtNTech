@@ -72,6 +72,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 TextMesh Pro/
-models/
+models/*.bin
 DataSet/
 unity/
+skt/
+APK/python/models/data/*.csv
+.fake
