@@ -16,7 +16,7 @@ if socket.gethostbyname(socket.gethostname())=="127.0.0.1":
 
 #pip Update
 try :
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip"])
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "--user", "pip"])
     pip_install_requirements('./requirements.txt')
 except :
     print("error : pip update")
@@ -24,15 +24,15 @@ except :
 
 #run unity.exe 
 try :
-    subprocess.check_call(["./unity/ARKO_Unity.exe"])
+    unity = subprocess.run(["./unity/ARKO_Unity.exe"])
+    print("unity run")
 except :
     print("error : no unity.exe")
     exit()
     
 #run doTcpNetwork.py
-try :
-    subprocess.check_call([sys.executable, "./python/doTcpConnect.py"])
-except :
+if subprocess.run([sys.executable, "./python/doTcpConnect.py"]) :
+    unity.kill()
     print("error : no doTcpNetwork.py")
     exit()
 

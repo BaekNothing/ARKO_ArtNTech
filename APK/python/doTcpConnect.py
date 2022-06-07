@@ -1,6 +1,9 @@
+from distutils.log import error
+import sys
 from tkinter import E
 from numpy import empty
 from transformers import PreTrainedTokenizerFast
+import os
 
 #set tokenizer
 Q_TKN = "<usr>"
@@ -12,7 +15,7 @@ MASK = '<unused0>'
 SENT = '<unused1>'
 PAD = '<pad>'
 
-koGPT2_TOKENIZER = PreTrainedTokenizerFast.from_pretrained("skt/kogpt2-base-v2",
+koGPT2_TOKENIZER = PreTrainedTokenizerFast.from_pretrained(os.getcwd() + "/models/skt/kogpt2-base-v2",
             bos_token=BOS, eos_token=EOS, unk_token='<unk>',
             pad_token=PAD, mask_token=MASK) 
 print(koGPT2_TOKENIZER.tokenize("Tokenizer : Ready [],/."))
@@ -20,14 +23,14 @@ print(koGPT2_TOKENIZER.tokenize("Tokenizer : Ready [],/."))
 #set Model
 import torch
 from transformers import GPT2LMHeadModel
-import os
-path = 'models/_finalModel.bin'
+path = os.getcwd() + '/models/_finalModel.bin'
 if(os.path.exists(path)):
     model = torch.load(path)
-elif(os.path.exists('python/' + path)) :
-    model = torch.load('python/' + path)
+# elif(os.path.exists('python/' + path)) :
+#     model = torch.load('python/' + path)
 else :
-    exit(print("model not found"))
+    print("model not found", file=sys.stderr)
+    exit()
 print('modelReady')
 
 def RunGPT2Model(text) :
