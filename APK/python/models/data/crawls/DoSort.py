@@ -56,8 +56,6 @@ def col_classify(str):
     else :
         return "other"
 
-
-
 name = input('filename: ')
 if name == 'all':
     read_All_textfile_write_csv('results/archives')
