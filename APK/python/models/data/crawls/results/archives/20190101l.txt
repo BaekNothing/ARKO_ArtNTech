@@ -1,4 +1,6 @@
 /archives/20190101l
+
+******** description ********
 풍경의 건축 품격의 건축
 
 SPACE(공간) 2019년 1월호
@@ -54,3 +56,8 @@ Art Prism
 114   Exhibition | 'New Wave II: Design and Engaging Communities'_Lee Jiyoon
 
 Vol.20190101l | 풍경의 건축 품격의 건축
+******** imgSrcs ********
+https://neolook.com/archives/2019010101l.jpg
+https://neolook.com/archives/2019010102l.jpg
+https://neolook.com/archives/2019010103l.jpg
+https://neolook.com/archives/2019010104l.jpg

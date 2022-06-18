@@ -1,4 +1,6 @@
 /archives/20190110b
+
+******** description ********
 인카네이션 문화예술재단
 
 제1회 창작스튜디오 입주 작가 모집
@@ -56,3 +58,6 @@ Inacarnation Cultural Arts Foundation,
 5월 개최 예정
 
 Vol.20190110b | 인카네이션 문화예술재단 제1회 창작스튜디오 입주 작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2019011001b.jpg
+https://neolook.com/archives/2019011002b.jpg

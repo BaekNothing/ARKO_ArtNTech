@@ -1,4 +1,6 @@
 /archives/20100107e
+
+******** description ********
 응시의 도시 City of Gaze
 
 정정주展 /  JEONGJEONGJU / 程廷柱 / video.installation
@@ -36,3 +38,11 @@ www.gallerychosun.com,
 철학박사 서울대학교 인문학 연구원 연구원이며 대학에서 강의한다. 미학자이며 미술비평가로서 활동한다. 저서로 『서울생활의 발견』 『한국미술의 원더풀 리얼리티』 등이 있으며 발터 벤야민 미학에 대한 다수의 연구논문을 썼다. 독립기획자로서 '번역에 저항한다' 전시를 기획해 2005년 '올해의 예술상'을 수상했다. ,    * 이 글은 서울문화재단 월간지 『문화+서울』 2010년 1월호에 실린 Young Artist 2010 기사내용에서 발췌했습니다.
 
 Vol.20100107e | 정정주展 / JEONGJEONGJU / 程廷柱 / video.installation
+******** imgSrcs ********
+https://neolook.com/archives/2010010701e.jpg
+https://neolook.com/archives/2010010702e.jpg
+https://neolook.com/archives/2010010703e.jpg
+https://neolook.com/archives/2010010704e.jpg
+https://neolook.com/archives/2010010706e.jpg
+https://neolook.com/archives/2010010707e.jpg
+https://neolook.com/archives/2010010705e.jpg

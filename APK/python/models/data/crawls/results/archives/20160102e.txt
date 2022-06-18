@@ -1,4 +1,6 @@
 /archives/20160102e
+
+******** description ********
 곰이야기
 
 최아영展 / CHOIAHYOUNG / 崔娥英 / sculpture
@@ -34,3 +36,14 @@ cafe.naver.com/gallery2yeonju,
 최아영_한림로401번길_조합토 산백토 흑토 아크릴채색_가변설치_2016
 
 최아영_곰이야기展_이연주 갤러리_2016,    Vol.20160102e | 최아영展 / CHOIAHYOUNG / 崔娥英 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2016010201e.jpg
+https://neolook.com/archives/2016010202e.jpg
+https://neolook.com/archives/2016010203e.jpg
+https://neolook.com/archives/2016010204e.jpg
+https://neolook.com/archives/2016010205e.jpg
+https://neolook.com/archives/2016010206e.jpg
+https://neolook.com/archives/2016010207e.jpg
+https://neolook.com/archives/2016010208e.jpg
+https://neolook.com/archives/2016010209e.jpg
+https://neolook.com/archives/2016010210e.jpg

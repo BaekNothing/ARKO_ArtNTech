@@ -1,4 +1,6 @@
 /archives/20160115a
+
+******** description ********
 사람이랑 사랑해 Love one Love all
 
 우현아展 / WOOHYUNAH / 禹賢雅 / painting
@@ -27,3 +29,7 @@ www.shinhangallery.co.kr,
 ■ 장서윤
 
 Vol.20160115a | 우현아展 / WOOHYUNAH / 禹賢雅 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011501a.jpg
+https://neolook.com/archives/2016011502a.jpg
+https://neolook.com/archives/2016011503a.jpg

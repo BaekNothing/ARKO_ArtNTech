@@ -1,4 +1,6 @@
 /archives/20100109d
+
+******** description ********
 Shin'm Project  신'음(身'音)_인터랙티브 미디어 프로젝트
 
 강은수展 / Eunsu Kang / 羌恩穗 / interactive media installation.performance
@@ -38,3 +40,11 @@ Welcome to Shin'm (身'音) ● Please dive into Shin'm a lively space that brea
 * 이 전시는 1월 9일 낮에 갤러리 쿤스트독에서 열리는 HYBRID ART FORUM: Body Digital Media and Performance와 연합으로 이루어집니다. 자세한 내용은 포럼 포스팅을 참조해주십시오.
 
 Vol.20100109d | 강은수展 / Eunsu Kang / 羌恩穗 / interactive media installation.performance
+******** imgSrcs ********
+https://neolook.com/archives/2010010901d.jpg
+https://neolook.com/archives/2010010902d.jpg
+https://neolook.com/archives/2010010903d.jpg
+https://neolook.com/archives/2010010904d.jpg
+https://neolook.com/archives/2010010905d.jpg
+https://neolook.com/archives/2010010906d.jpg
+https://neolook.com/archives/2010010907d.jpg

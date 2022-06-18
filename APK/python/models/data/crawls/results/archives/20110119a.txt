@@ -1,4 +1,6 @@
 /archives/20110119a
+
+******** description ********
 홍기사 아트프로젝트(Feat. 한휘건)
 
 Vol.1 용암동 장애인 자립생활 아트프로젝트
@@ -43,3 +45,11 @@ www.cjartstudio.com,
 4) 홍기사 크리스마스 - 대전_대전 정림동의 작은 어린이집(근화 어린이집)과 협업으로 이뤄지는 크리스마스 프로젝트이다. 일일 산타로 변신하여 수당을 받게 되는 전액으로 더 많은 아이들에게 선물의 기회를 받을 수 있도록 한다. 
 
 Vol.20110119a | 홍원석展 / HONGWONSEOK / 洪原錫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011901a.jpg
+https://neolook.com/archives/2011011902a.jpg
+https://neolook.com/archives/2011011903a.jpg
+https://neolook.com/archives/2011011904a.jpg
+https://neolook.com/archives/2011011905a.jpg
+https://neolook.com/archives/2011011906a.jpg
+https://neolook.com/archives/2011011907a.jpg

@@ -1,4 +1,6 @@
 /archives/20180117g
+
+******** description ********
 Good Life
 
 김원展 / KIMWON / 金元 / painting
@@ -41,3 +43,14 @@ www.gallerymeme.com,
 ■ 김원
 
 Vol.20180117g | 김원展 / KIMWON / 金元 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011701g.jpg
+https://neolook.com/archives/2018011702g.jpg
+https://neolook.com/archives/2018011703g.jpg
+https://neolook.com/archives/2018011704g.jpg
+https://neolook.com/archives/2018011705g.jpg
+https://neolook.com/archives/2018011706g.jpg
+https://neolook.com/archives/2018011707g.jpg
+https://neolook.com/archives/2018011708g.jpg
+https://neolook.com/archives/2018011709g.jpg
+https://neolook.com/archives/2018011710g.jpg

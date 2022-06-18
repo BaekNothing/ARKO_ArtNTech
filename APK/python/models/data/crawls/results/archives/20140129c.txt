@@ -1,4 +1,6 @@
 /archives/20140129c
+
+******** description ********
 아무도 오지 않는 전시
 
 고현정_권현빈_이동원_이지인_정희원展
@@ -47,3 +49,12 @@ cafe.naver.com/woosukhall,
 ■ 정희원
 
 Vol.20140129c | 아무도 오지 않는 전시展
+******** imgSrcs ********
+https://neolook.com/archives/2014012901c.jpg
+https://neolook.com/archives/2014012902c.jpg
+https://neolook.com/archives/2014012903c.jpg
+https://neolook.com/archives/2014012904c.jpg
+https://neolook.com/archives/2014012905c.jpg
+https://neolook.com/archives/2014012906c.jpg
+https://neolook.com/archives/2014012907c.jpg
+https://neolook.com/archives/2014012908c.jpg

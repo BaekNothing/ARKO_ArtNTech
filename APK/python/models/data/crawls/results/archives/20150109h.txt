@@ -1,4 +1,6 @@
 /archives/20150109h
+
+******** description ********
 기억의 잔상 Impressive Image of my Memory
 
 김형곤展 / KIMHYEONGGON / 金瀅坤 / painting
@@ -68,3 +70,11 @@ An opinion about Kim's art with a focus on his control of light in relation with
 ■ Gyunghan Hong
 
 Vol.20150109h | 김형곤展 / KIMHYEONGGON / 金瀅坤 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010901h.jpg
+https://neolook.com/archives/2015010902h.jpg
+https://neolook.com/archives/2015010903h.jpg
+https://neolook.com/archives/2015010904h.jpg
+https://neolook.com/archives/2015010905h.jpg
+https://neolook.com/archives/2015010906h.jpg
+https://neolook.com/archives/2015010907h.jpg

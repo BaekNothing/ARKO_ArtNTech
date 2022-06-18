@@ -1,4 +1,6 @@
 /archives/20100101f
+
+******** description ********
 새해를 여는 8장의 편지
 
 월간 포토넷 2010년 1월호
@@ -61,3 +63,10 @@ Digital & Analogue Life _product review iPhone + Photography | iPhone 사진 어
 
 별책부록_조습 포트폴리오,    별책부록    조습 포트폴리오
 Vol.20100101f | 월간 포토넷 2010년 1월호 / 새해를 여는 8장의 편지
+******** imgSrcs ********
+https://neolook.com/archives/2010010101f.jpg
+https://neolook.com/archives/2010010102f.jpg
+https://neolook.com/archives/2010010103f.jpg
+https://neolook.com/archives/2010010104f.jpg
+https://neolook.com/archives/2010010105f.jpg
+https://neolook.com/archives/2010010106f.jpg

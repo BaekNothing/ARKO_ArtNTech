@@ -1,4 +1,6 @@
 /archives/20080106c
+
+******** description ********
 중국현대아트
 지은이_마키 요이치,    지은이_마키 요이치 || 옮긴이_류은규_박지연 || 분류_예술 || 판형_176×243 || 면수_152쪽
 발행일_2008년 1월 3일 || ISBN: 978-89-960515-1-0 || 가격_20000원 || 도서출판 토향
@@ -56,3 +58,11 @@ www.tohyang.co.kr,
 3. 아트와 자유
 
 Vol.20080106c | 중국현대아트 / 지은이_마키 요이치 / 도서출판 토향
+******** imgSrcs ********
+/archives/2008010601c.gif
+/archives/2008010602c.gif
+/archives/2008010603c.gif
+/archives/2008010604c.gif
+/archives/2008010605c.gif
+https://neolook.com/archives/2008010606c.jpg
+https://neolook.com/archives/2008010607c.jpg

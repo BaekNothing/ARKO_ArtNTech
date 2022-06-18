@@ -1,4 +1,6 @@
 /archives/20180101b
+
+******** description ********
 HUMAN ERROR_The 45 Most Exciting Artists
 
 아트인컬처 2018년 1월호
@@ -83,3 +85,12 @@ REPORT_언리미티드 에디션 더 스크랩: 대안마켓 무엇을 얻었는
 173   SUBSCRIPTION
 
 Vol.20180101b | HUMAN ERROR_The 45 Most Exciting Artists
+******** imgSrcs ********
+https://neolook.com/archives/2018010101b.jpg
+https://neolook.com/archives/2018010102b.jpg
+https://neolook.com/archives/2018010103b.jpg
+https://neolook.com/archives/2018010104b.jpg
+https://neolook.com/archives/2018010105b.jpg
+https://neolook.com/archives/2018010106b.jpg
+https://neolook.com/archives/2018010107b.jpg
+https://neolook.com/archives/2018010108b.jpg

@@ -1,4 +1,6 @@
 /archives/20150108f
+
+******** description ********
 권세진_정혜련展
 
 예술가처럼 생각하기 워크숍
@@ -62,3 +64,12 @@ www.bongsanart.org,
             트위터(@bongsanart) 페이스북(bongsanart)
 
 Vol.20150108f | 권세진_정혜련展-예술가처럼 생각하기 워크숍
+******** imgSrcs ********
+https://neolook.com/archives/2015010801f.jpg
+https://neolook.com/archives/2015010802f.jpg
+https://neolook.com/archives/2015010803f.jpg
+https://neolook.com/archives/2015010804f.jpg
+https://neolook.com/archives/2015010805f.jpg
+https://neolook.com/archives/2015010806f.jpg
+https://neolook.com/archives/2015010807f.jpg
+https://neolook.com/archives/2015010808f.jpg

@@ -1,4 +1,6 @@
 /archives/20120125c
+
+******** description ********
 적응의 방법 - Method for Adapting
 
 신혜정展 / SHINHYEJUNG / 申惠貞 / painting.installation
@@ -43,3 +45,10 @@ Mask
 ■ SHINHYEJUNG
 
 Vol.20120125c | 신혜정展 / SHINHYEJUNG / 申惠貞 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2012012501c.jpg
+https://neolook.com/archives/2012012502c.jpg
+https://neolook.com/archives/2012012503c.jpg
+https://neolook.com/archives/2012012504c.jpg
+https://neolook.com/archives/2012012505c.jpg
+https://neolook.com/archives/2012012506c.jpg

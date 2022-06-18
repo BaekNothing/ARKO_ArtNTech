@@ -1,4 +1,6 @@
 /archives/20140105c
+
+******** description ********
 2014 Chinese New Year project :: Life is Colorful - HK 
 
 홍지윤展 / HONGJIYOON / 洪志侖 / painting.installation
@@ -85,3 +87,6 @@ projects beside of fine art.
 ■ 
 
 Vol.20140105c | 홍지윤展 / HONGJIYOON / 洪志侖 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010501c.jpg
+https://neolook.com/archives/2014010502c.jpg

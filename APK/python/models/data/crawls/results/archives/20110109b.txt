@@ -1,4 +1,6 @@
 /archives/20110109b
+
+******** description ********
 동심 - 童心 動心
 
 김병주展 / KIMBYUNGJU / 金昺周 / painting
@@ -54,3 +56,11 @@ Tel. +82.2.412.9560,
 ■ 김병주
 
 Vol.20110109b | 김병주展 / KIMBYUNGJU / 金昺周 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010901b.jpg
+https://neolook.com/archives/2011010902b.jpg
+https://neolook.com/archives/2011010903b.jpg
+https://neolook.com/archives/2011010904b.jpg
+https://neolook.com/archives/2011010905b.jpg
+https://neolook.com/archives/2011010906b.jpg
+https://neolook.com/archives/2011010907b.jpg

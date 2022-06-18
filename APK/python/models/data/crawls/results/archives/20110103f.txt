@@ -1,4 +1,6 @@
 /archives/20110103f
+
+******** description ********
 Rococo No. 33B
 
 도로시 엠 윤展  / DOROTHY M. YOON / photography
@@ -44,3 +46,11 @@ www.galleryhyundai.com,
 ■ 폰투스 키안더
 
 Vol.20110103f | 도로시 엠 윤展  / DOROTHY M. YOON / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011010301f.jpg
+https://neolook.com/archives/2011010302f.jpg
+https://neolook.com/archives/2011010303f.jpg
+https://neolook.com/archives/2011010304f.jpg
+https://neolook.com/archives/2011010305f.jpg
+https://neolook.com/archives/2011010306f.jpg
+https://neolook.com/archives/2011010307f.jpg

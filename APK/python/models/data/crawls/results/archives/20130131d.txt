@@ -1,4 +1,6 @@
 /archives/20130131d
+
+******** description ********
 기억의 해석 Interpretation of Memory
 
 윤희경展 / YUNHEEKYUNG / 尹僖逕 / drawing.installation
@@ -41,3 +43,8 @@ www.seoulartspace.or.kr,
 ■ 윤희경
 
 Vol.20130131d | 윤희경展 / YUNHEEKYUNG / 尹僖逕 / drawing.installation
+******** imgSrcs ********
+https://neolook.com/archives/2013013101d.jpg
+https://neolook.com/archives/2013013102d.jpg
+https://neolook.com/archives/2013013103d.jpg
+https://neolook.com/archives/2013013104d.jpg

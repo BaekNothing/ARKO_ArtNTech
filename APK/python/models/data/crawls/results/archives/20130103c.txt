@@ -1,4 +1,6 @@
 /archives/20130103c
+
+******** description ********
 상상(像像 想像)을 블렌딩(Blending) 하다
 
 강성욱展 / KANGSUNGUCK / 姜聲旭 / sculpture
@@ -31,3 +33,10 @@ Vitgallery.com,
 ■ 강성욱
 
 Vol.20130103c | 강성욱展 / KANGSUNGUCK / 姜聲旭 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013010301c.jpg
+https://neolook.com/archives/2013010302c.jpg
+https://neolook.com/archives/2013010303c.jpg
+https://neolook.com/archives/2013010304c.jpg
+https://neolook.com/archives/2013010305c.jpg
+https://neolook.com/archives/2013010306c.jpg

@@ -1,4 +1,6 @@
 /archives/20150101c
+
+******** description ********
 세계 미술현장의 새 지형도
 
 월간미술 2015년 1월호
@@ -98,3 +100,9 @@ Koh Jaewook | Lim Seunghyun,    152   Critic
 182   postscript
 
 Vol.20150101c | 세계 미술현장의 새 지형도
+******** imgSrcs ********
+https://neolook.com/archives/2015010101c.jpg
+https://neolook.com/archives/2015010102c.jpg
+https://neolook.com/archives/2015010103c.jpg
+https://neolook.com/archives/2015010104c.jpg
+https://neolook.com/archives/2015010105c.jpg

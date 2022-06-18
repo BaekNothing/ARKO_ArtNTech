@@ -1,4 +1,6 @@
 /archives/20070127c
+
+******** description ********
 프린트 보다 워크샵
 
 Hp 와 Phase One이 함께하는
@@ -32,3 +34,5 @@ www.bodaphoto.com,
 ● 참가신청 및 문의_프린트 보다(Print Boda)_Tel. 02_3474_3477 / e-mail_info@bodaphoto.com
 
 Vol.20070127c | 프린트 보다 워크샵
+******** imgSrcs ********
+https://neolook.com/archives/2007012701c.jpg

@@ -1,4 +1,6 @@
 /archives/20220120e
+
+******** description ********
 Moments in Time 시간의 순간들
 
 이윤기展 / LEEYOONKEE / 李潤基 / photography
@@ -39,3 +41,10 @@ cafe.daum.net/gallerybresson,
 "내가 62학번이요. 흘림사진의 이미지들처럼 청춘의 나이는 60년 전 휙 사라졌지만 하여튼 멋지게 나이 들고 남에게 민폐 주지 않고 조용히 세상과 같이 흘러가는게 최고의 행복이라고 생각하고 있어요. 사진 덕분에 조용히 세상과 같이 간다는 것이 얼마나 좋아요. 그게 사실 인생의 제일 중요한 목표가 아닌가 싶고..." ■ 노형석
 
 Vol.20220120e | 이윤기展 / LEEYOONKEE / 李潤基 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2022012001e.jpg
+https://neolook.com/archives/2022012002e.jpg
+https://neolook.com/archives/2022012003e.jpg
+https://neolook.com/archives/2022012004e.jpg
+https://neolook.com/archives/2022012005e.jpg
+https://neolook.com/archives/2022012006e.jpg

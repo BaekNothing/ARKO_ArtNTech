@@ -1,4 +1,6 @@
 /archives/20190110e
+
+******** description ********
 국가의 상태 State of the Nation
 
 클레가展 / Klega / installation
@@ -48,3 +50,11 @@ State of the Nation
 ■ Klega
 
 Vol.20190110e | 클레가展 / Klega / installation
+******** imgSrcs ********
+https://neolook.com/archives/2019011001e.jpg
+https://neolook.com/archives/2019011002e.jpg
+https://neolook.com/archives/2019011003e.jpg
+https://neolook.com/archives/2019011004e.jpg
+https://neolook.com/archives/2019011005e.jpg
+https://neolook.com/archives/2019011006e.jpg
+https://neolook.com/archives/2019011007e.jpg

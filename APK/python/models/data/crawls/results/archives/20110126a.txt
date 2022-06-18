@@ -1,4 +1,6 @@
 /archives/20110126a
+
+******** description ********
 IN-completion
 
 상명대학교 문화예술대학원 비주얼아트전공 순수파트 그룹展
@@ -34,3 +36,12 @@ www.gallerylux.net,
 ■ 장정민
 
 Vol.20110126a | IN-completion-상명대학교 문화예술대학원 비주얼아트전공 순수파트 그룹展
+******** imgSrcs ********
+https://neolook.com/archives/2011012601a.jpg
+https://neolook.com/archives/2011012602a.jpg
+https://neolook.com/archives/2011012603a.jpg
+https://neolook.com/archives/2011012604a.jpg
+https://neolook.com/archives/2011012605a.jpg
+https://neolook.com/archives/2011012606a.jpg
+https://neolook.com/archives/2011012607a.jpg
+https://neolook.com/archives/2011012608a.jpg

@@ -1,4 +1,6 @@
 /archives/20070115b
+
+******** description ********
 Threshold 13
 
 2006년 문화콘텐츠창조센터 운영조직화사업
@@ -47,3 +49,20 @@ Vincent-Leon_subway-express,    이렇게 아시아를 포함하여 전국 각 �
 
 워크숍 작업실 - 어윤정,    문화콘텐츠 창작워크숍[threshold 13 展]은 1월15일부터 24일까지 광주"예술의 거리"에 있는 무등갤러리(신관)와 자리아트에서 열리며 2월2일부터 11일까지는 서울 대학로 국민대 디자인센터에서 전시된다. 관람료는 무료이다.
 Vol.20070115b | Threshold 13展
+******** imgSrcs ********
+/archives/2007011501b.gif
+https://neolook.com/archives/2007011502b.jpg
+https://neolook.com/archives/2007011503b.jpg
+https://neolook.com/archives/2007011504b.jpg
+/archives/2007011505b.gif
+https://neolook.com/archives/2007011506b.jpg
+https://neolook.com/archives/2007011507b.jpg
+https://neolook.com/archives/2007011508b.jpg
+https://neolook.com/archives/2007011509b.jpg
+https://neolook.com/archives/2007011510b.jpg
+https://neolook.com/archives/2007011511b.jpg
+https://neolook.com/archives/2007011512b.jpg
+https://neolook.com/archives/2007011513b.jpg
+https://neolook.com/archives/2007011514b.jpg
+https://neolook.com/archives/2007011515b.jpg
+https://neolook.com/archives/2007011516b.jpg

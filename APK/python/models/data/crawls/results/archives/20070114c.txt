@@ -1,4 +1,6 @@
 /archives/20070114c
+
+******** description ********
 HP와 A.p Boda가 진행하는
 
 boda residency program
@@ -42,3 +44,5 @@ www.bodaphoto.com,
 담당자_김소희 / 전화_02_3474_00134 / FAX_02_3473_0015 / 이메일_info@bodaphoto.com
 
 Vol.20070114c | boda residency program_제2기 residency 작가공모
+******** imgSrcs ********
+https://neolook.com/archives/2007011401c.jpg

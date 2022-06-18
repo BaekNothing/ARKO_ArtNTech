@@ -1,4 +1,6 @@
 /archives/20140123d
+
+******** description ********
 안성하展 / ANSUNGHA / 安誠河 / painting
  
 2014_0123 ▶ 2014_0216,    
@@ -33,3 +35,11 @@ www.ganaart.com,
 ■ 김현경
 
 Vol.20140123d | 안성하展 / ANSUNGHA / 安誠河 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012301d.jpg
+https://neolook.com/archives/2014012302d.jpg
+https://neolook.com/archives/2014012303d.jpg
+https://neolook.com/archives/2014012304d.jpg
+https://neolook.com/archives/2014012305d.jpg
+https://neolook.com/archives/2014012306d.jpg
+https://neolook.com/archives/2014012307d.jpg

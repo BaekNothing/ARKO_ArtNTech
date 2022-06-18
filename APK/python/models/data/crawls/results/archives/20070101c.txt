@@ -1,4 +1,6 @@
 /archives/20070101c
+
+******** description ********
 특집 미술인 16인의 발언
 
 아트인컬처 1월호
@@ -50,3 +52,10 @@ Somewhere In Time展 | 마이클 주展_이대범
 145 에디터의 블로그
 
 Vol.20070101c | 특집 미술인 16인의 발언
+******** imgSrcs ********
+https://neolook.com/archives/2007010101c.jpg
+https://neolook.com/archives/2007010102c.jpg
+https://neolook.com/archives/2007010103c.jpg
+https://neolook.com/archives/2007010104c.jpg
+https://neolook.com/archives/2007010105c.jpg
+https://neolook.com/archives/2007010106c.jpg

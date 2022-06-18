@@ -1,4 +1,6 @@
 /archives/20100116b
+
+******** description ********
 EACH POINT
 
 2010_0116 ▶ 2010_0203 / 월요일 휴관,    ,    초대일시_2010_0116_토요일_03:00pm
@@ -42,3 +44,11 @@ www.heyri.net,
 ■ 최형주
 
 Vol.20100116b | EACH POINT
+******** imgSrcs ********
+https://neolook.com/archives/2010011601b.jpg
+https://neolook.com/archives/2010011602b.jpg
+https://neolook.com/archives/2010011603b.jpg
+https://neolook.com/archives/2010011604b.jpg
+https://neolook.com/archives/2010011605b.jpg
+https://neolook.com/archives/2010011606b.jpg
+https://neolook.com/archives/2010011607b.jpg

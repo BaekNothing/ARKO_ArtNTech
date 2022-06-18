@@ -1,4 +1,6 @@
 /archives/20190109d
+
+******** description ********
 겨울에 피는 봄 Spring blooming in winter
 
 조정은展 / JOJUNGEUN / 趙瀞恩 / painting
@@ -36,3 +38,11 @@ www.gallerytoast.com,
 ■ 조정은
 
 Vol.20190109d | 조정은展 / JOJUNGEUN / 趙瀞恩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019010901d.jpg
+https://neolook.com/archives/2019010902d.jpg
+https://neolook.com/archives/2019010903d.jpg
+https://neolook.com/archives/2019010904d.jpg
+https://neolook.com/archives/2019010905d.jpg
+https://neolook.com/archives/2019010906d.jpg
+https://neolook.com/archives/2019010907d.jpg

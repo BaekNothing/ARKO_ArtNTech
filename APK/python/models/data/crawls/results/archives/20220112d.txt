@@ -1,4 +1,6 @@
 /archives/20220112d
+
+******** description ********
 시리얼 우주 Cereal Universe
 
 석다슬展 / SEOKDASLE / 石多璱 / video
@@ -33,3 +35,9 @@ XYZ SEOUL - Songridan
 ■ 석다슬
 
 Vol.20220112d | 석다슬展 / SEOKDASLE / 石多璱 / video
+******** imgSrcs ********
+https://neolook.com/archives/2022011201d.jpg
+https://neolook.com/archives/2022011202d.jpg
+https://neolook.com/archives/2022011203d.jpg
+https://neolook.com/archives/2022011204d.jpg
+https://neolook.com/archives/2022011205d.jpg

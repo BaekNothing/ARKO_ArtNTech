@@ -1,4 +1,6 @@
 /archives/20100123b
+
+******** description ********
 MONSTER DRAW
 
 윤진호展 / YOONGINO / 尹珍浩 / painting
@@ -38,3 +40,11 @@ Tel. +82.31.577.0104,
 ■ 윤진호
 
 Vol.20100123b | 윤진호展 / YOONGINO / 尹珍浩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012301b.jpg
+https://neolook.com/archives/2010012302b.jpg
+https://neolook.com/archives/2010012303b.jpg
+https://neolook.com/archives/2010012304b.jpg
+https://neolook.com/archives/2010012305b.jpg
+https://neolook.com/archives/2010012306b.jpg
+https://neolook.com/archives/2010012307b.jpg

@@ -1,4 +1,6 @@
 /archives/20120102b
+
+******** description ********
 재료의 연금술사
 
 Alchemist of Material展
@@ -39,3 +41,10 @@ Tel. +82.2.2029.9885,
 ■ 고경옥
 
 Vol.20120102b | 재료의 연금술사展
+******** imgSrcs ********
+https://neolook.com/archives/2012010201b.jpg
+https://neolook.com/archives/2012010202b.jpg
+https://neolook.com/archives/2012010203b.jpg
+https://neolook.com/archives/2012010204b.jpg
+https://neolook.com/archives/2012010205b.jpg
+https://neolook.com/archives/2012010206b.jpg

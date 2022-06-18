@@ -1,4 +1,6 @@
 /archives/20190121c
+
+******** description ********
 A good professor.k
 
 김영석展 / KIMYOUNGSEOK / ??? / video
@@ -43,3 +45,13 @@ www.wuminartcenter.org,
 ■ 김영석
 
 Vol.20190121c | 김영석展 / KIMYOUNGSEOK / ??? / video
+******** imgSrcs ********
+https://neolook.com/archives/2019012101c.jpg
+https://neolook.com/archives/2019012102c.jpg
+https://neolook.com/archives/2019012103c.jpg
+https://neolook.com/archives/2019012104c.jpg
+https://neolook.com/archives/2019012105c.jpg
+https://neolook.com/archives/2019012106c.jpg
+https://neolook.com/archives/2019012107c.jpg
+https://neolook.com/archives/2019012108c.jpg
+https://neolook.com/archives/2019012109c.jpg

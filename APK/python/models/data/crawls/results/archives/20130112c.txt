@@ -1,4 +1,6 @@
 /archives/20130112c
+
+******** description ********
 Post-Modern Shamanistic City Maps
 
 듀크 최展 / Duke's Choi / drawing
@@ -78,3 +80,11 @@ cafe.naver.com/gallerydoodle,
 ■ 이승신
 
 Vol.20130112c | 듀크 최展 / Duke's Choi / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2013011201c.jpg
+https://neolook.com/archives/2013011202c.jpg
+https://neolook.com/archives/2013011203c.jpg
+https://neolook.com/archives/2013011204c.jpg
+https://neolook.com/archives/2013011205c.jpg
+https://neolook.com/archives/2013011206c.jpg
+https://neolook.com/archives/2013011207c.jpg

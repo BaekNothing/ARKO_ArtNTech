@@ -1,4 +1,6 @@
 /archives/20130118c
+
+******** description ********
 총체적난 극
 
 Difficult Play展
@@ -127,3 +129,11 @@ www.gmoma.or.kr,
 ■ 
 
 Vol.20130118c | 총체적난 극 Difficult Play展
+******** imgSrcs ********
+https://neolook.com/archives/2013011801c.jpg
+https://neolook.com/archives/2013011802c.jpg
+https://neolook.com/archives/2013011803c.jpg
+https://neolook.com/archives/2013011804c.jpg
+https://neolook.com/archives/2013011805c.jpg
+https://neolook.com/archives/2013011806c.jpg
+https://neolook.com/archives/2013011807c.jpg

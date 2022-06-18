@@ -1,4 +1,6 @@
 /archives/20130125e
+
+******** description ********
 소리없이 내리는 비
 
 갤러리 두들 소품展
@@ -43,3 +45,13 @@ cafe.naver.com/gallerydoodle,
 ■ 갤러리 두들
 
 Vol.20130125e | 소리없이 내리는 비-갤러리 두들 소품展
+******** imgSrcs ********
+https://neolook.com/archives/2013012501e.jpg
+https://neolook.com/archives/2013012502e.jpg
+https://neolook.com/archives/2013012503e.jpg
+https://neolook.com/archives/2013012504e.jpg
+https://neolook.com/archives/2013012505e.jpg
+https://neolook.com/archives/2013012506e.jpg
+https://neolook.com/archives/2013012507e.jpg
+https://neolook.com/archives/2013012508e.jpg
+https://neolook.com/archives/2013012509e.jpg

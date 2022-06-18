@@ -1,4 +1,6 @@
 /archives/20160127f
+
+******** description ********
 Da CAPO 도돌이표 2016
 
 임춘희_신조_조지연_박진홍_김범중展
@@ -34,3 +36,11 @@ cafe.daum.net/gallerydam,
 ■ 갤러리 담
 
 Vol.20160127f | 도돌이표 Da CAPO 2016展
+******** imgSrcs ********
+https://neolook.com/archives/2016012701f.jpg
+https://neolook.com/archives/2016012702f.jpg
+https://neolook.com/archives/2016012703f.jpg
+https://neolook.com/archives/2016012704f.jpg
+https://neolook.com/archives/2016012705f.jpg
+https://neolook.com/archives/2016012706f.jpg
+https://neolook.com/archives/2016012707f.jpg

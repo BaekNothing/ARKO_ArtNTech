@@ -1,4 +1,6 @@
 /archives/20130116d
+
+******** description ********
 ENTRE-TEMPS
 
 지연리展 / JIYeunLee / 枝連理 / painting
@@ -31,3 +33,10 @@ www.gallery41.co.kr,
 ■ 지연리
 
 Vol.20130116d | 지연리展 / JIYeunLee / 枝連理 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011601d.jpg
+https://neolook.com/archives/2013011602d.jpg
+https://neolook.com/archives/2013011603d.jpg
+https://neolook.com/archives/2013011604d.jpg
+https://neolook.com/archives/2013011605d.jpg
+https://neolook.com/archives/2013011607d.jpg

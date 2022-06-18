@@ -1,4 +1,6 @@
 /archives/20150122e
+
+******** description ********
 플레이그라운드-워 게임 Play Ground-War game
 
 송현주展 / SONGHYUNJU / 宋泫周 / painting.sculpture
@@ -29,3 +31,11 @@ www.spacek.co.kr,
 ■ 스페이스K
 
 Vol.20150122e | 송현주展 / SONGHYUNJU / 宋泫周 / painting.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2015012201e.jpg
+https://neolook.com/archives/2015012202e.jpg
+https://neolook.com/archives/2015012203e.jpg
+https://neolook.com/archives/2015012204e.jpg
+https://neolook.com/archives/2015012205e.jpg
+https://neolook.com/archives/2015012206e.jpg
+https://neolook.com/archives/2015012207e.jpg

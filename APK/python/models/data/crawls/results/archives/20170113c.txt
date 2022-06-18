@@ -1,4 +1,6 @@
 /archives/20170113c
+
+******** description ********
 동굴의 밤이
 2017_0113 ▶ 2017_0122,    ,    초대일시 / 2017_0113_금요일_07:00pm
 
@@ -38,3 +40,14 @@
 ■ 동굴의 밤이
 
 Vol.20170113c | 동굴의 밤이展
+******** imgSrcs ********
+https://neolook.com/archives/2017011301c.jpg
+https://neolook.com/archives/2017011302c.jpg
+https://neolook.com/archives/2017011303c.jpg
+https://neolook.com/archives/2017011304c.jpg
+https://neolook.com/archives/2017011305c.jpg
+https://neolook.com/archives/2017011306c.jpg
+https://neolook.com/archives/2017011307c.jpg
+https://neolook.com/archives/2017011308c.jpg
+https://neolook.com/archives/2017011309c.jpg
+https://neolook.com/archives/2017011310c.jpg

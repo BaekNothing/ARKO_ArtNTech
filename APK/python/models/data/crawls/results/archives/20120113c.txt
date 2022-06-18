@@ -1,4 +1,6 @@
 /archives/20120113c
+
+******** description ********
 Light +Space
 
 유주현展 / YOUJUHYUN / 柳周賢 / painting.installation.photography
@@ -31,3 +33,11 @@ gallerydos.com/140144912350,
 ■ 김미향
 
 Vol.20120113c | 유주현展 / YOUJUHYUN / 柳周賢 / painting.installation.photography
+******** imgSrcs ********
+https://neolook.com/archives/2012011301c.jpg
+https://neolook.com/archives/2012011302c.jpg
+https://neolook.com/archives/2012011303c.jpg
+https://neolook.com/archives/2012011304c.jpg
+https://neolook.com/archives/2012011305c.jpg
+https://neolook.com/archives/2012011306c.jpg
+https://neolook.com/archives/2012011307c.jpg

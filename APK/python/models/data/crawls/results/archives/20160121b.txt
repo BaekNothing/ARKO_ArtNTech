@@ -1,4 +1,6 @@
 /archives/20160121b
+
+******** description ********
 벌레
 
 정정엽展 / JUNGJUNGYEOB / 鄭貞葉 / painting
@@ -43,3 +45,11 @@ www.skape.co.kr,
 ■ 박건
 
 Vol.20160121b | 정정엽展 / JUNGJUNGYEOB / 鄭貞葉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016012101b.jpg
+https://neolook.com/archives/2016012102b.jpg
+https://neolook.com/archives/2016012103b.jpg
+https://neolook.com/archives/2016012104b.jpg
+https://neolook.com/archives/2016012105b.jpg
+https://neolook.com/archives/2016012106b.jpg
+https://neolook.com/archives/2016012107b.jpg

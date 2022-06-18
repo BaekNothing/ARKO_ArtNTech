@@ -1,4 +1,6 @@
 /archives/20210108c
+
+******** description ********
 행복만찬
 
 망무_위스윗_핍밥_하영희_홍명화展
@@ -33,3 +35,10 @@ www.instagram.com/akgallery_,
 ■ AK 갤러리
 
 Vol.20210108c | 행복만찬展
+******** imgSrcs ********
+https://neolook.com/archives/2021010801c.jpg
+https://neolook.com/archives/2021010802c.jpg
+https://neolook.com/archives/2021010803c.jpg
+https://neolook.com/archives/2021010804c.jpg
+https://neolook.com/archives/2021010805c.jpg
+https://neolook.com/archives/2021010806c.jpg

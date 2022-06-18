@@ -1,4 +1,6 @@
 /archives/20130102f
+
+******** description ********
 드로잉 비엔날레 공모전
 
 접수기간 / 2013_0101 ▶ 2013_0208,    ,    
@@ -34,3 +36,5 @@ www.drawingbiennale.org,
 홈페이지   www.drawingbiennale.org
 
 Vol.20130102f | 드로잉 비엔날레 공모전
+******** imgSrcs ********
+https://neolook.com/archives/2013010201f.jpg

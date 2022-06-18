@@ -1,4 +1,6 @@
 /archives/20200110e
+
+******** description ********
 몸짓을 따라가며 주변을 배회하고 중심에 다가서려는
 Tracing Detouring Piercing,    서울문화재단 유망예술지원사업 99℃ 쇼케이스展
 Seoul Foundation for Arts and Culture Promising
@@ -52,3 +54,14 @@ www.hakgojae.com,
 * 서울문화재단(대표이사 김종휘)이 데뷔 10년 이하의 전도유망한 예술가를 지원하는 '유망예술지원사업'은 'NEWStage (연극 분야)' 'dot(무용 분야)' 'MAP (음악 · 전통 · 다원 분야)' 99℃ (시각 분야) 등 총 4개 사업을 통해 데뷔 10년 이하의 예술가 또는 설립 10년 이하인 예술 단체가 새로운 예술 흐름을 이끌고 역량 있는 예술가로 성장할 수 있도록 입체적 지원을 한다. 본 사업은 예술가가 긴 호흡으로 창작 과정에 집중할 수 있도록 계획되었으며 2년간 연속적인 지원을 하는 것이 특징이라 할 수 있다. 이러한 다년간의 지원은 더욱 실험적인 시도를 펼칠 기회를 보장하고 안정적인 창작환경에서 작업할 수 있도록 하는 창작지원금과 작품 성장지원(멘토링 비평 워크숍 등) 연습 및 발표 공간 지원 통합 홍보 등도 제공한다.
 
 Vol.20200110e | 몸짓을 따라가며 주변을 배회하고 중심에 다가서려는-서울문화재단 유망예술지원사업 99℃ 쇼케이스展
+******** imgSrcs ********
+https://neolook.com/archives/2020011001e.jpg
+https://neolook.com/archives/2020011002e.jpg
+https://neolook.com/archives/2020011003e.jpg
+https://neolook.com/archives/2020011004e.jpg
+https://neolook.com/archives/2020011005e.jpg
+https://neolook.com/archives/2020011006e.jpg
+https://neolook.com/archives/2020011007e.jpg
+https://neolook.com/archives/2020011008e.jpg
+https://neolook.com/archives/2020011009e.jpg
+https://neolook.com/archives/2020011010e.jpg

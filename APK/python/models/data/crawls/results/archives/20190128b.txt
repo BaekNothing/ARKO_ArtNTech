@@ -1,4 +1,6 @@
 /archives/20190128b
+
+******** description ********
 코쿤2019 COCOON2019
 
 김연수_김태연_최수미展
@@ -33,3 +35,12 @@ www.spacek.co.kr,
 ■ 스페이스K_과천
 
 Vol.20190128b | 코쿤2019 COCOON2019展
+******** imgSrcs ********
+https://neolook.com/archives/2018011101d.jpg
+https://neolook.com/archives/2019012802b.jpg
+https://neolook.com/archives/2019012803b.jpg
+https://neolook.com/archives/2019012804b.jpg
+https://neolook.com/archives/2019012805b.jpg
+https://neolook.com/archives/2019012806b.jpg
+https://neolook.com/archives/2019012807b.jpg
+https://neolook.com/archives/2019012808b.jpg

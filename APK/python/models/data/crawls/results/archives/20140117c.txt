@@ -1,4 +1,6 @@
 /archives/20140117c
+
+******** description ********
 모범생
 
 신종훈_홍동완_이미래_이승재_차슬아展
@@ -30,3 +32,12 @@ cafe.naver.com/woosukhall,
 ■ 이연숙
 
 Vol.20140117c | 모범생展
+******** imgSrcs ********
+https://neolook.com/archives/2014011701c.jpg
+https://neolook.com/archives/2014011702c.jpg
+https://neolook.com/archives/2014011703c.jpg
+https://neolook.com/archives/2014011704c.jpg
+https://neolook.com/archives/2014011705c.jpg
+https://neolook.com/archives/2014011706c.jpg
+https://neolook.com/archives/2014011707c.jpg
+https://neolook.com/archives/2014011708c.jpg

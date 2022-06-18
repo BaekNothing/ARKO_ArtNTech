@@ -1,4 +1,6 @@
 /archives/20120127b
+
+******** description ********
 ENCLosed EMAGE
 
 김혜진展 / KIMHYEJIN / 金慧進 / painting
@@ -30,3 +32,10 @@ www.tomntoms.com,
 ■ 김혜진
 
 Vol.20120127b | 김혜진展 / KIMHYEJIN / 金慧進 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012012701b.jpg
+https://neolook.com/archives/2012012702b.jpg
+https://neolook.com/archives/2012012703b.jpg
+https://neolook.com/archives/2012012704b.jpg
+https://neolook.com/archives/2012012705b.jpg
+https://neolook.com/archives/2012012706b.jpg

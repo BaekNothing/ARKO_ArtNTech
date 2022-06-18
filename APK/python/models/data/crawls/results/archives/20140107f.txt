@@ -1,4 +1,6 @@
 /archives/20140107f
+
+******** description ********
 Reality 시리즈 & 워크숍
 
 하광석展 / HAKWANGSUK / 河光石 / installation
@@ -66,3 +68,11 @@ www.bongsanart.org,
               트위터(@bongsanart) 페이스북(bongsanart)
 
 Vol.20140107f | 하광석展 / HAKWANGSUK / 河光石 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010701f.jpg
+https://neolook.com/archives/2014010702f.jpg
+https://neolook.com/archives/2014010703f.jpg
+https://neolook.com/archives/2014010704f.jpg
+https://neolook.com/archives/2014010705f.jpg
+https://neolook.com/archives/2014010706f.jpg
+https://neolook.com/archives/2014010707f.jpg

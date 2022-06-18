@@ -1,4 +1,6 @@
 /archives/20170110f
+
+******** description ********
 사이공간: 영역의 확장
 
 김소영_안신영 2인展
@@ -33,3 +35,12 @@ blog.naver.com/gallerysijac,
 ■ 안우정
 
 Vol.20170110f | 사이공간: 영역의 확장-김소영_안신영 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2017011001f.jpg
+https://neolook.com/archives/2017011002f.jpg
+https://neolook.com/archives/2017011003f.jpg
+https://neolook.com/archives/2017011004f.jpg
+https://neolook.com/archives/2017011005f.jpg
+https://neolook.com/archives/2017011006f.jpg
+https://neolook.com/archives/2017011007f.jpg
+https://neolook.com/archives/2017011008f.jpg

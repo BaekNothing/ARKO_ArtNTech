@@ -1,4 +1,6 @@
 /archives/20180124a
+
+******** description ********
 풍경의 균제 Balance and Symmetry of Landscape
 
 노광展 / NOHKWANG / 盧桄 / painting
@@ -49,3 +51,14 @@ www.insaartspace.com,
 ■ 김이순
 
 Vol.20180124a | 노광展 / NOHKWANG / 盧桄 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012401a.jpg
+https://neolook.com/archives/2018012402a.jpg
+https://neolook.com/archives/2018012403a.jpg
+https://neolook.com/archives/2018012404a.jpg
+https://neolook.com/archives/2018012405a.jpg
+https://neolook.com/archives/2018012406a.jpg
+https://neolook.com/archives/2018012407a.jpg
+https://neolook.com/archives/2018012408a.jpg
+https://neolook.com/archives/2018012409a.jpg
+https://neolook.com/archives/2018012410a.jpg

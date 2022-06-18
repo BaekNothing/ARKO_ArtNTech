@@ -1,4 +1,6 @@
 /archives/20160108g
+
+******** description ********
 수(數)를 읽다
 
 위영일展 / WEEYOUNGIL / 魏榮一 / painting
@@ -46,3 +48,14 @@ www.inartplatform.kr,
 ■ 위영일
 
 Vol.20160108g | 위영일展 / WEEYOUNGIL / 魏榮一 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016010801g.jpg
+https://neolook.com/archives/2016010802g.jpg
+https://neolook.com/archives/2016010803g.jpg
+https://neolook.com/archives/2016010804g.jpg
+https://neolook.com/archives/2016010805g.jpg
+https://neolook.com/archives/2016010806g.jpg
+https://neolook.com/archives/2016010807g.jpg
+https://neolook.com/archives/2016010808g.jpg
+https://neolook.com/archives/2016010809g.jpg
+https://neolook.com/archives/2016010810g.jpg

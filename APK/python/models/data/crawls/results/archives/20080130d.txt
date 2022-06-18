@@ -1,4 +1,6 @@
 /archives/20080130d
+
+******** description ********
 city. man. wind Ⅱ
 
 이배경展 / LEEBEIKYOUNG / 李培炅 / installation
@@ -14,3 +16,8 @@ www.kwanhoongallery.com,
 이배경_city. man. wind II_인터액티브 미디어 설치_가변크기_2008,    작가 이배경의 미디어작업은 시각적인 자극이나 사운드로 말하는 것이 아니라 관람자의 자의든 타의든 상관없이 관람자의 참여로 이야기를 만들어간다. 이 과정이 작가 이배경이 우리에게 던지는 메세지다. 정형화된 형식과 어떤 결과에 도달해야 하는 방법적 논리가 아니라 감성적으로 접근하면서도 치밀하게 계획된 프로그램 의한 이지적 작업과정은 아이러니하면서도 잘 어우러진다.,    
 이배경_city. man. wind II_인터액티브 미디어 설치_가변크기_2008,    사진이나 페인팅은 제작 과정이 아닌 결과물로 보여진다. 그 작업이 완성되기까지의 과정을 담아내지 않는다면 알 수 없다. 그 과정을 눈으로 볼 수 있다면 아마 지금 우리가 보고 있는 미술 작품의 의미가 달라지지 않을까. 작가 이배경의 작업은 결론으로부터의 접근이 아닌 전시공간에서 관람자와 함께 그가 만들어가는 과정의 접근이다. ■ 김은정
 Vol.20080130d | 이배경展 / LEEBEIKYOUNG / 李培炅 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2008013001d.jpg
+https://neolook.com/archives/2008013002d.jpg
+https://neolook.com/archives/2008013003d.jpg
+https://neolook.com/archives/2008013004d.jpg

@@ -1,4 +1,6 @@
 /archives/20140102a
+
+******** description ********
 미인도
 
 이동연展 / LEEDONGYEON / 李東娟 / painting
@@ -52,3 +54,11 @@ The model believes that holding a cell phone or listening to music allows her to
 ■ Christine Park
 
 Vol.20140102a | 이동연展 / LEEDONGYEON / 李東娟 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010201a.jpg
+https://neolook.com/archives/2014010202a.jpg
+https://neolook.com/archives/2014010203a.jpg
+https://neolook.com/archives/2014010204a.jpg
+https://neolook.com/archives/2014010205a.jpg
+https://neolook.com/archives/2014010206a.jpg
+https://neolook.com/archives/2014010207a.jpg

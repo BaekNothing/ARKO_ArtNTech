@@ -1,4 +1,6 @@
 /archives/20180118i
+
+******** description ********
 빛나는 거리 위의 사람들 Floating Lights on the Street
 
 이우성展 / LEEWOOSUNG / 李宇城 / painting
@@ -31,3 +33,7 @@ www.cmoa.or.kr/cjas/index.do,
 ■ 청주미술창작스튜디오
 
 Vol.20180118i | 이우성展 / LEEWOOSUNG / 李宇城 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011801i.jpg
+https://neolook.com/archives/2018011802i.jpg
+https://neolook.com/archives/2018011803i.jpg

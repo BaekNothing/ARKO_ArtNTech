@@ -1,4 +1,6 @@
 /archives/20210112d
+
+******** description ********
 Into the Clouds: New Media Art 2021
 
 지은이_김리진,    
@@ -158,3 +160,9 @@ William A. Brown
 Agatha Sunyoung Park
 
 Vol.20210112d | Into the Clouds: New Media Art 2021 / 지은이_김리진 @ CICA Press
+******** imgSrcs ********
+https://neolook.com/archives/2021011201d.jpg
+https://neolook.com/archives/2021011202d.jpg
+https://neolook.com/archives/2021011203d.jpg
+https://neolook.com/archives/2021011204d.jpg
+https://neolook.com/archives/2021011205d.jpg

@@ -1,4 +1,6 @@
 /archives/20060109b
+
+******** description ********
 Beautiful Oasis
 
 김희정展 / KIMHEEJEONG / installation
@@ -26,3 +28,10 @@ Tel. 02_720_0345,
 
 김희정_작업실,    "미지의 지역 오아시스에서는 거룩한 나무를 만들어 거기에 피를 바른 후 그 위로 올라가 하늘로 사라졌다. 오아시스인은 언제나 그것을 갖고 다니며 중요한 일이 있을 때면 그것이 기울어지는 방향으로 이동하곤 했다. 그들은 계속 움직여 다녔으나 언제나 그들의 세계 속에 있을 수가 있으며 이와 동시에 사람들이 사라져간 하늘과 교섭할 수 있었다." ■ 김희정
 Vol.20060109b | 김희정展 / KIMHEEJEONG / installation
+******** imgSrcs ********
+https://neolook.com/archives/2006010901b.jpg
+https://neolook.com/archives/2006010902b.jpg
+https://neolook.com/archives/2006010903b.jpg
+https://neolook.com/archives/2006010904b.jpg
+https://neolook.com/archives/2006010905b.jpg
+https://neolook.com/archives/2006010906b.jpg

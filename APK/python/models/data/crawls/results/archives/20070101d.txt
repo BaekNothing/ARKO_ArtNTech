@@ -1,4 +1,6 @@
 /archives/20070101d
+
+******** description ********
 RENE MAGRITTE IN WONDERLAND
 
 월간미술 1월호
@@ -52,3 +54,9 @@ Tel. 02_2088_7718,
 200 넥스트이슈
 
 Vol.20070101d | RENE MAGRITTE IN WONDERLAND
+******** imgSrcs ********
+https://neolook.com/archives/2007010101d.jpg
+https://neolook.com/archives/2007010102d.jpg
+https://neolook.com/archives/2007010103d.jpg
+https://neolook.com/archives/2007010104d.jpg
+https://neolook.com/archives/2007010105d.jpg

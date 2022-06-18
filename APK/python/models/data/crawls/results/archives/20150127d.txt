@@ -1,4 +1,6 @@
 /archives/20150127d
+
+******** description ********
 가나아트 컬렉션
 
 GANA ART COLLECTION展
@@ -75,3 +77,20 @@ www.insaartcenter.com,
 ■ 가나문화재단
 
 Vol.20150127d | 가나아트 컬렉션 GANA ART COLLECTION展
+******** imgSrcs ********
+https://neolook.com/archives/2015012701d.jpg
+https://neolook.com/archives/2015012702d.jpg
+https://neolook.com/archives/2015012703d.jpg
+https://neolook.com/archives/2015012704d.jpg
+https://neolook.com/archives/2015012705d.jpg
+https://neolook.com/archives/2015012706d.jpg
+https://neolook.com/archives/2015012707d.jpg
+https://neolook.com/archives/2015012708d.jpg
+https://neolook.com/archives/2015012709d.jpg
+https://neolook.com/archives/2015012710d.jpg
+https://neolook.com/archives/2015012711d.jpg
+https://neolook.com/archives/2015012712d.jpg
+https://neolook.com/archives/2015012713d.jpg
+https://neolook.com/archives/2015012714d.jpg
+https://neolook.com/archives/2015012715d.jpg
+https://neolook.com/archives/2015012716d.jpg

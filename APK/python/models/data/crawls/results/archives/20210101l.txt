@@ -1,4 +1,6 @@
 /archives/20210101l
+
+******** description ********
 국립도시건축박물관이 가야 할 길
 
 SPACE(공간) 2021년 1월호
@@ -68,3 +70,8 @@ SERIES
 124   Revisiting the First SPACE Group of Korea Building: 'Our Home ‐ The House of SPACE'_Hyon-Sob Kim
 
 Vol.20210101l | 국립도시건축박물관이 가야 할 길
+******** imgSrcs ********
+https://neolook.com/archives/2021010101l.jpg
+https://neolook.com/archives/2021010102l.jpg
+https://neolook.com/archives/2021010103l.jpg
+https://neolook.com/archives/2021010104l.jpg

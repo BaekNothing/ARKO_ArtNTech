@@ -1,4 +1,6 @@
 /archives/20100118a
+
+******** description ********
 LOS ANGELES ART SHOW 2010
 
 이동석展 / LEEDONGSEOK / 李東碩 / painting
@@ -43,3 +45,10 @@ In the context of art history Lee Dong Seok's oeuvres are not so easily explaine
 ■ Young Jay Lee
 
 Vol.20100118a | 이동석展 / LEEDONGSEOK / 李東碩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010011801a.jpg
+https://neolook.com/archives/2010011802a.jpg
+https://neolook.com/archives/2010011803a.jpg
+https://neolook.com/archives/2010011804a.jpg
+https://neolook.com/archives/2010011805a.jpg
+https://neolook.com/archives/2010011806a.jpg

@@ -1,4 +1,6 @@
 /archives/20170118c
+
+******** description ********
 MONSTER SYNDROM 몬스터 신드롬
 
 조민서展 / Cho Justin / 趙珉胥 / painting
@@ -30,3 +32,11 @@ ableart.or.kr,
 ■ 이지혜
 
 Vol.20170118c | 조민서展 / Cho Justin / 趙珉胥 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011801c.jpg
+https://neolook.com/archives/2017011802c.jpg
+https://neolook.com/archives/2017011803c.jpg
+https://neolook.com/archives/2017011804c.jpg
+https://neolook.com/archives/2017011805c.jpg
+https://neolook.com/archives/2017011806c.jpg
+https://neolook.com/archives/2017011807c.jpg

@@ -1,4 +1,6 @@
 /archives/20020105a
+
+******** description ********
 전시 프로젝트 crosstalk
 
 Live Art Broadcasting System
@@ -32,3 +34,5 @@ Live Art Broadcasting System
 
 ■ 향후계획_ 1. 이 전시에 이어 2002년 6월 동아일보 문화센터 내 "space imA" (KBS 방송국 옆) 에서 방송국 전의 2회 프로젝트를 계획. (현재 문예진흥기금 신청 중) 2. 전시의 성과를 보아가면서 이 프로젝트를 상설 기구화 한다. (네오룩닷컴 이미지 속닥속닥의 방송국 형태로 떠올릴 수 있을 것이다.)
 Vol.20020105a | 전시 프로젝트 crosstalk 작품공모
+******** imgSrcs ********
+https://neolook.com/archives/2002010501a.jpg

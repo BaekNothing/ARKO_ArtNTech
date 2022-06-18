@@ -1,4 +1,6 @@
 /archives/20180119f
+
+******** description ********
 사춘기 말고 표류기 
 
 유은석展 / YOOEUNSUK / 劉殷碩 / installation
@@ -40,3 +42,14 @@ www.spacebae.com,
 ■ 유은석
 
 Vol.20180119f | 유은석展 / YOOEUNSUK / 劉殷碩 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018011901f.jpg
+https://neolook.com/archives/2018011902f.jpg
+https://neolook.com/archives/2018011903f.jpg
+https://neolook.com/archives/2018011904f.jpg
+https://neolook.com/archives/2018011905f.jpg
+https://neolook.com/archives/2018011906f.jpg
+https://neolook.com/archives/2018011907f.jpg
+https://neolook.com/archives/2018011908f.jpg
+https://neolook.com/archives/2018011909f.jpg
+https://neolook.com/archives/2018011910f.jpg

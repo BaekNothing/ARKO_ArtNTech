@@ -1,4 +1,6 @@
 /archives/20150101k
+
+******** description ********
 서사가 불안과 마주하는 방식 이야기꾼 원성원의 사진들
 
 포토닷 2015년 1월호
@@ -93,3 +95,9 @@ PHOTIST
 사진전시 지원프로그램 포티스트의 13번째 전시로 임준영의 『Like Water』와 최영환의 『MEMENTO MORI』가 선정되었다. 임준영의 'Like Water' 시리즈에는 도시의 건축물들 사이로 생명력을 지닌 신비롭고 빛나는 물줄기가 등장한다. 최영환은 타인의 죽음을 지켜보던 자신의 경험을 표현한 'REQUIEM' 시리즈와 헛된 가치를 추구하는 우리의 삶을 삭막한 도시로 보여주는 'BABEL' 시리즈를 선보인다.
 
 Vol.20150101k | 서사가 불안과 마주하는 방식 이야기꾼 원성원의 사진들
+******** imgSrcs ********
+https://neolook.com/archives/2015010101k.jpg
+https://neolook.com/archives/2015010102k.jpg
+https://neolook.com/archives/2015010103k.jpg
+https://neolook.com/archives/2015010104k.jpg
+https://neolook.com/archives/2015010105k.jpg

@@ -1,4 +1,6 @@
 /archives/20110116a
+
+******** description ********
 기억을 정화하다
 
 윤자영展 / YOONJAYOUNG / 尹慈永 / video.performance
@@ -35,3 +37,9 @@ Performance with a hair sculpture in Maine USA,
 ■ 허나영
 
 Vol.20110116a | 윤자영展 / YOONJAYOUNG / 尹慈永 / video.performance
+******** imgSrcs ********
+https://neolook.com/archives/2011011601a.jpg
+https://neolook.com/archives/2011011602a.jpg
+https://neolook.com/archives/2011011603a.jpg
+https://neolook.com/archives/2011011604a.jpg
+https://neolook.com/archives/2011011605a.jpg

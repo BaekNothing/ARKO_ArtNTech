@@ -1,4 +1,6 @@
 /archives/20210124b
+
+******** description ********
 여기에서 나는 산다
 
 문인사기획展6 - 김훈
@@ -74,3 +76,11 @@ Q_EXHALE 31_피그먼트 프린트_150×100cm_2020,
 ■ 김태휘_안성은
 
 Vol.20210124b | 나는 산다-문인사기획展6 - 김훈
+******** imgSrcs ********
+https://neolook.com/archives/2021012401b.jpg
+https://neolook.com/archives/2021012402b.jpg
+https://neolook.com/archives/2021012403b.jpg
+https://neolook.com/archives/2021012404b.jpg
+https://neolook.com/archives/2021012405b.jpg
+https://neolook.com/archives/2021012406b.jpg
+https://neolook.com/archives/2021012407b.jpg

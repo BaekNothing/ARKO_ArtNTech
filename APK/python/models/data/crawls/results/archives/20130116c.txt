@@ -1,4 +1,6 @@
 /archives/20130116c
+
+******** description ********
 醉
 
 이화순展 / LEEHWASOON / 李和純 / mixed media
@@ -37,3 +39,11 @@ www.topohaus.com,
 ■ 이화순
 
 Vol.20130116c | 이화순展 / LEEHWASOON / 李和純 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2013011601c.jpg
+https://neolook.com/archives/2013011602c.jpg
+https://neolook.com/archives/2013011603c.jpg
+https://neolook.com/archives/2013011604c.jpg
+https://neolook.com/archives/2013011605c.jpg
+https://neolook.com/archives/2013011606c.jpg
+https://neolook.com/archives/2013011607c.jpg

@@ -1,4 +1,6 @@
 /archives/20220124c
+
+******** description ********
 일상에 관한 고찰
 
 김성수展 / KIMSEONGSU / 金聖洙 / painting
@@ -44,3 +46,12 @@ www.changwon.ac.kr/arts/main.do,
 부가 설명 ● 본인이 이야기 하는 거대한 크로노스의 시간을 움직이는 것은 순간의 카이로스의 시간이다 라는 내용에 빗대어 작품을 바라보면 본인의 작품은 거대한 반복되는 패턴의 단색화 적인 표현을 캔버스 전체에 하고있다. 하지만 어느 한 부분 어느 한 순간에 틀어짐을 얹어 단조로워 질 수도 있는 화면에서 긴장을 더하게 되고 그에 따라 그 부분이 그림 전체를 이끌어 나가고 있다고 볼 수 있다. 시간의 서로 다른 두가지의 개념을 캔버스에 그대로 옮겨 놓았다고 생각한다. 커피와 관련된 용품들은 본인의 카이로스의 시간을 대변하는 물체이며 반복되는 일상 이라는 주제에 맞추어 반복적으로 제시를 하고있는 것이다. ■ 김성수
 
 Vol.20220124c | 김성수展 / KIMSEONGSU / 金聖洙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012401c.jpg
+https://neolook.com/archives/2022012402c.jpg
+https://neolook.com/archives/2022012403c.jpg
+https://neolook.com/archives/2022012404c.jpg
+https://neolook.com/archives/2022012405c.jpg
+https://neolook.com/archives/2022012406c.jpg
+https://neolook.com/archives/2022012407c.jpg
+https://neolook.com/archives/2022012408c.jpg

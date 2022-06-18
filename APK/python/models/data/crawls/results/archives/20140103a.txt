@@ -1,4 +1,6 @@
 /archives/20140103a
+
+******** description ********
 지금 바로 여기
 
 Here and Now展
@@ -52,3 +54,15 @@ paranoid insomnia라는 제목으로 묶어지는 드로잉 작업들은 내가 
 ■ 정진
 
 Vol.20140103a | 지금 바로 여기 Here and Now展
+******** imgSrcs ********
+https://neolook.com/archives/2014010301a.jpg
+https://neolook.com/archives/2014010302a.jpg
+https://neolook.com/archives/2014010303a.jpg
+https://neolook.com/archives/2014010304a.jpg
+https://neolook.com/archives/2014010305a.jpg
+https://neolook.com/archives/2014010306a.jpg
+https://neolook.com/archives/2014010307a.jpg
+https://neolook.com/archives/2014010308a.jpg
+https://neolook.com/archives/2014010309a.jpg
+https://neolook.com/archives/2014010310a.jpg
+https://neolook.com/archives/2014010311a.jpg

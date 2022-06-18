@@ -1,4 +1,6 @@
 /archives/20110113d
+
+******** description ********
 시화일률 詩畵一律
 
 2011_0114 ▶ 2011_0313,    
@@ -56,3 +58,14 @@ www.ganaart.com,
 ■ 김재홍_윤범모
 
 Vol.20110113d | 시화일률 詩畵一律展
+******** imgSrcs ********
+https://neolook.com/archives/2011011301d.jpg
+https://neolook.com/archives/2011011302d.jpg
+https://neolook.com/archives/2011011303d.jpg
+https://neolook.com/archives/2011011304d.jpg
+https://neolook.com/archives/2011011305d.jpg
+https://neolook.com/archives/2011011306d.jpg
+https://neolook.com/archives/2011011307d.jpg
+https://neolook.com/archives/2011011308d.jpg
+https://neolook.com/archives/2011011309d.jpg
+https://neolook.com/archives/2011011310d.jpg

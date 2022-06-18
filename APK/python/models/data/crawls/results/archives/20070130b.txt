@@ -1,4 +1,6 @@
 /archives/20070130b
+
+******** description ********
 Le Desert vivant 살아있는 사막
 
 강태욱 사진展
@@ -21,3 +23,9 @@ www.bodaphoto.com,
 
 강태욱_ Le Desert vivant _캔버스에 디지털 프린트_60×40cm_2007,    강태욱의 사진들에서 보여지는 사막은 죽음의 이미지가 아니라 무언가를 끊임없어 생성해내고 소멸의 모습을 보여주는 그 자체로서는 살아 있는 존재이다. ■ 김수혁
 Vol.20070130b | 강태욱 사진展
+******** imgSrcs ********
+https://neolook.com/archives/2007013001b.jpg
+https://neolook.com/archives/2007013002b.jpg
+https://neolook.com/archives/2007013003b.jpg
+https://neolook.com/archives/2007013004b.jpg
+https://neolook.com/archives/2007013005b.jpg

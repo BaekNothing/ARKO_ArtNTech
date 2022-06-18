@@ -1,4 +1,6 @@
 /archives/20070115a
+
+******** description ********
 지리산 연작 "공기평의 지리산 3"
 
 공기평展 / KONGKIPYUNG / 孔基枰 / painting
@@ -25,3 +27,11 @@ www.moonshin.or.kr,
 
 공기평_MDF에 유채_61×122cm_2006,    아무튼 나는 내 그림에 대해 말하는 것이 곤혹스럽다. 이번 작품에서 의미의 다층구조를 갖도록 의도했으나 결과적으로 그림이 그리 난해하지는 않는 것 같다. 따라서 되도록 이번 전시부터는 작품설명을 하지 않으려고 한다. 화가는 이미지를 생산하고 제시하면 그 뿐 생산된 자신의 이미지를 가지고 왈가왈부 하는 것은 화가의 몫이 아닌 것 같다. ■ 공기평
 Vol.20070115a | 공기평展 / KONGKIPYUNG / 孔基枰 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2007011501a.jpg
+https://neolook.com/archives/2007011502a.jpg
+https://neolook.com/archives/2007011503a.jpg
+https://neolook.com/archives/2007011504a.jpg
+https://neolook.com/archives/2007011505a.jpg
+https://neolook.com/archives/2007011506a.jpg
+https://neolook.com/archives/2007011507a.jpg

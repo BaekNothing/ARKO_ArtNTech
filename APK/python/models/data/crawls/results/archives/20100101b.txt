@@ -1,4 +1,6 @@
 /archives/20100101b
+
+******** description ********
 New Decade Hot Artist 29
 
 아트인컬처 2010년 1월호
@@ -57,3 +59,11 @@ Soul of Asian Contemporary Art
 에디터스 블로그
 
 Vol.20100101b | 아트인컬처 2010년 1월호 / New Decade Hot Artist 29
+******** imgSrcs ********
+https://neolook.com/archives/2010010101b.jpg
+https://neolook.com/archives/2010010102b.jpg
+https://neolook.com/archives/2010010103b.jpg
+https://neolook.com/archives/2010010104b.jpg
+https://neolook.com/archives/2010010105b.jpg
+https://neolook.com/archives/2010010106b.jpg
+https://neolook.com/archives/2010010107b.jpg

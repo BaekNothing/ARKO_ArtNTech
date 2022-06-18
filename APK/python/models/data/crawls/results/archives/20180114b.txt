@@ -1,4 +1,6 @@
 /archives/20180114b
+
+******** description ********
 삶 일상 Living & Daily
 
 2016-2018 Young & Young Artist Project 3기
@@ -37,3 +39,8 @@ www.youngeunmuseum.org,
 ■ 영은미술관
 
 Vol.20180114b | 삶 일상 Living & Daily展
+******** imgSrcs ********
+https://neolook.com/archives/2018011401b.jpg
+https://neolook.com/archives/2018011402b.jpg
+https://neolook.com/archives/2018011403b.jpg
+https://neolook.com/archives/2018011404b.jpg

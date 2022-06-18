@@ -1,4 +1,6 @@
 /archives/20130118f
+
+******** description ********
 황금DNA : 한국 현대미술 연속 기획전
 
 두 번째 이야기-박미나_정수진展
@@ -29,3 +31,10 @@ www.seonhwafoundation.org,
 ■ 이승현
 
 Vol.20130118f | 황금DNA : 한국 현대미술 연속 기획전 두 번째 이야기-박미나_정수진展
+******** imgSrcs ********
+https://neolook.com/archives/2013011801f.jpg
+https://neolook.com/archives/2013011802f.jpg
+https://neolook.com/archives/2013011803f.jpg
+https://neolook.com/archives/2013011804f.jpg
+https://neolook.com/archives/2013011805f.jpg
+https://neolook.com/archives/2013011806f.jpg

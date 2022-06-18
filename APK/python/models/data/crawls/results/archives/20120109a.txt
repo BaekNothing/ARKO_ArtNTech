@@ -1,4 +1,6 @@
 /archives/20120109a
+
+******** description ********
 POWER
 
 최병권展 / CHOIBYOUNGKWON / 崔昺勸 / painting
@@ -28,3 +30,11 @@ www.gallerytin.com,
  ■ 최병권
 
 Vol.20120109a | 최병권展 / CHOIBYOUNGKWON / 崔昺勸 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010901a.jpg
+https://neolook.com/archives/2012010902a.jpg
+https://neolook.com/archives/2012010903a.jpg
+https://neolook.com/archives/2012010904a.jpg
+https://neolook.com/archives/2012010905a.jpg
+https://neolook.com/archives/2012010906a.jpg
+https://neolook.com/archives/2012010907a.jpg

@@ -1,4 +1,6 @@
 /archives/20180123b
+
+******** description ********
 뜻밖의 노동_무게를 팔다
 
 배성미展 / BAESUNGMI / 裵聖美 / installation.photography
@@ -36,3 +38,14 @@ www.daeguartfactory.kr,
 배성미_뜻밖의 노동_디지털 C 프린트_40×30cm_2017
 
 배성미_뜻밖의 노동_디지털 C 프린트_40×30cm_2017,    Vol.20180123b | 배성미展 / BAESUNGMI / 裵聖美 / installation.photography
+******** imgSrcs ********
+https://neolook.com/archives/2018012301b.jpg
+https://neolook.com/archives/2018012302b.jpg
+https://neolook.com/archives/2018012303b.jpg
+https://neolook.com/archives/2018012304b.jpg
+https://neolook.com/archives/2018012305b.jpg
+https://neolook.com/archives/2018012306b.jpg
+https://neolook.com/archives/2018012307b.jpg
+https://neolook.com/archives/2018012308b.jpg
+https://neolook.com/archives/2018012309b.jpg
+https://neolook.com/archives/2018012310b.jpg

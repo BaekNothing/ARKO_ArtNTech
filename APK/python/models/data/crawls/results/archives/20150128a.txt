@@ -1,4 +1,6 @@
 /archives/20150128a
+
+******** description ********
 空間-그리다
 
 김민선展 / KIMMINSUN / 金玟宣 / painting
@@ -34,3 +36,11 @@ www.galleryis.com,
 ■ 김민선
 
 Vol.20150128a | 김민선展 / KIMMINSUN / 金玟宣 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012801a.jpg
+https://neolook.com/archives/2015012802a.jpg
+https://neolook.com/archives/2015012803a.jpg
+https://neolook.com/archives/2015012804a.jpg
+https://neolook.com/archives/2015012805a.jpg
+https://neolook.com/archives/2015012806a.jpg
+https://neolook.com/archives/2015012807a.jpg

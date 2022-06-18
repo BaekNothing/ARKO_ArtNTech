@@ -1,4 +1,6 @@
 /archives/20070104c
+
+******** description ********
 2007 금호 영아티스트 공모
 접수마감 / 2007_0130_화요일,    
 
@@ -26,3 +28,5 @@ www.kumhomuseum.com,
 
 ■ 문의_담당 : 장문정 changmj@kumhoasiana.com
 Vol.20070104c | 2007 금호 영아티스트 공모
+******** imgSrcs ********
+/archives/2007010401c.gif

@@ -1,4 +1,6 @@
 /archives/20150112c
+
+******** description ********
 먹구름과 개구리 The Dark Cloud and the Frog
 
 나효주展 / NAHYOJOO / 羅孝珠 / drawing.illustration
@@ -31,3 +33,11 @@ www.scyc.or.kr,
 ■ 나효주
 
 Vol.20150112c | 나효주展 / NAHYOJOO / 羅孝珠 / drawing.illustration
+******** imgSrcs ********
+https://neolook.com/archives/2015011201c.jpg
+https://neolook.com/archives/2015011202c.jpg
+https://neolook.com/archives/2015011203c.jpg
+https://neolook.com/archives/2015011204c.jpg
+https://neolook.com/archives/2015011205c.jpg
+https://neolook.com/archives/2015011206c.jpg
+https://neolook.com/archives/2015011207c.jpg

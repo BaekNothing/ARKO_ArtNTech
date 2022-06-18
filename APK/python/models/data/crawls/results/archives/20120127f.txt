@@ -1,4 +1,6 @@
 /archives/20120127f
+
+******** description ********
 Jang's Museum 2012 신진 작가 공모
 
 장하나展 / JANGHANA / 張하나 / conceptual performance
@@ -38,3 +40,11 @@ Q) Jang's Museum에 대한 간단한 소개를 부탁드립니다. ● A) Jang's
  ■ 박세희
 
 Vol.20120127f | 장하나展 / JANGHANA / 張하나 / conceptual performance
+******** imgSrcs ********
+https://neolook.com/archives/2012012701f.jpg
+https://neolook.com/archives/2012012702f.jpg
+https://neolook.com/archives/2012012703f.jpg
+https://neolook.com/archives/2012012704f.jpg
+https://neolook.com/archives/2012012705f.jpg
+https://neolook.com/archives/2012012706f.jpg
+https://neolook.com/archives/2012012707f.jpg

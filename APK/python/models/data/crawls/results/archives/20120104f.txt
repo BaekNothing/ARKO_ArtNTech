@@ -1,4 +1,6 @@
 /archives/20120104f
+
+******** description ********
 ETIOLATED CREATION
 
 제프 그랜트展 / Jeff Grant / installation
@@ -40,3 +42,11 @@ Memory is simultaneous to the material nature of anything familiar. Through scul
 ■ Jeff Grant
 
 Vol.20120104f | 제프 그랜트展 / Jeff Grant / installation
+******** imgSrcs ********
+https://neolook.com/archives/2012010401f.jpg
+https://neolook.com/archives/2012010402f.jpg
+https://neolook.com/archives/2012010403f.jpg
+https://neolook.com/archives/2012010404f.jpg
+https://neolook.com/archives/2012010405f.jpg
+https://neolook.com/archives/2012010406f.jpg
+https://neolook.com/archives/2012010407f.jpg

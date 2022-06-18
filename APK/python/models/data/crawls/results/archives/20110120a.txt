@@ -1,4 +1,6 @@
 /archives/20110120a
+
+******** description ********
 Subtitle
 
 육종석展 / YUGJONGSEOK / 陸鍾碩 / painting
@@ -26,3 +28,9 @@ igongart.com,
 ■ 육종석
 
 Vol.20110120a | 육종석展 / YUGJONGSEOK / 陸鍾碩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012001a.jpg
+https://neolook.com/archives/2011012002a.jpg
+https://neolook.com/archives/2011012003a.jpg
+https://neolook.com/archives/2011012004a.jpg
+https://neolook.com/archives/2011012005a.jpg

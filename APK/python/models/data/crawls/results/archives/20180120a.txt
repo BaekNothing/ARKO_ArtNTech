@@ -1,4 +1,6 @@
 /archives/20180120a
+
+******** description ********
 膜막 : 가려진 풍경
 
 송수민展 / SONGSUMIN / 宋修旼 / painting
@@ -60,3 +62,14 @@ blog.naver.com/seoro-art,
 ■ 임랑
 
 Vol.20180120a | 송수민展 / SONGSUMIN / 宋修旼 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012001a.jpg
+https://neolook.com/archives/2018012002a.jpg
+https://neolook.com/archives/2018012003a.jpg
+https://neolook.com/archives/2018012004a.jpg
+https://neolook.com/archives/2018012005a.jpg
+https://neolook.com/archives/2018012006a.jpg
+https://neolook.com/archives/2018012007a.jpg
+https://neolook.com/archives/2018012008a.jpg
+https://neolook.com/archives/2018012009a.jpg
+https://neolook.com/archives/2018012010a.jpg

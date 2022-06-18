@@ -1,4 +1,6 @@
 /archives/20180118c
+
+******** description ********
 윤종주展 / YOONJONGJU / 尹鐘珠 / painting
  
 2018_0118 ▶ 2018_0131,    
@@ -39,3 +41,11 @@ www.gallerydam.com,
 ■ 윤종주
 
 Vol.20180118c | 윤종주展 / YOONJONGJU / 尹鐘珠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011801c.jpg
+https://neolook.com/archives/2018011802c.jpg
+https://neolook.com/archives/2018011803c.jpg
+https://neolook.com/archives/2018011804c.jpg
+https://neolook.com/archives/2018011805c.jpg
+https://neolook.com/archives/2018011806c.jpg
+https://neolook.com/archives/2018011807c.jpg

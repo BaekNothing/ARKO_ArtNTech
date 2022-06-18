@@ -1,4 +1,6 @@
 /archives/20030107a
+
+******** description ********
 현대 사진 금기와 엽기 사이에서
 
 일민미술관 imA 교육프로그램
@@ -39,3 +41,10 @@ Te. 02_2020_2055,
 빠른 속도로 산업화하고 있는 도시. 도시의 일상적 삶의 공허함을 통해 삶과 죽음의 문제를 그려낸 현대사진작가들의 작품을 감상하고 자신의 일상을 사진으로 담는 '디카 세대'에게 사진은 어떤 의미인지 분석해봅니다. ■
 
 Vol.20030107a | 현대 사진 금기와 엽기 사이에서
+******** imgSrcs ********
+https://neolook.com/archives/2003010701a.jpg
+https://neolook.com/archives/2003010702a.jpg
+https://neolook.com/archives/2003010703a.jpg
+https://neolook.com/archives/2003010704a.jpg
+https://neolook.com/archives/2003010705a.jpg
+https://neolook.com/archives/2003010706a.jpg

@@ -1,4 +1,6 @@
 /archives/20180101d
+
+******** description ********
 미술품유통법
 
 미술세계 2018년 1월호
@@ -66,3 +68,9 @@ WORLD ART_프랑스 · 고갱 연금술사,
 180   POSTSCRIPT
 
 Vol.20180101d  | 미술품유통법
+******** imgSrcs ********
+https://neolook.com/archives/2018010101d.jpg
+https://neolook.com/archives/2018010102d.jpg
+https://neolook.com/archives/2018010103d.jpg
+https://neolook.com/archives/2018010104d.jpg
+https://neolook.com/archives/2018010105d.jpg

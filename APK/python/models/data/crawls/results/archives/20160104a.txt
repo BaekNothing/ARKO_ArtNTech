@@ -1,4 +1,6 @@
 /archives/20160104a
+
+******** description ********
 주머니 속의 불안 Pocket Anxiety
 
 이헌지展 / LEEHEONJI / 李憲芝 / photography
@@ -36,3 +38,11 @@ blog.naver.com/175gallery,
 ■ 송정훈
 
 Vol.20160104a | 이헌지展 / LEEHEONJI / 李憲芝 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016010401a.jpg
+https://neolook.com/archives/2016010402a.jpg
+https://neolook.com/archives/2016010403a.jpg
+https://neolook.com/archives/2016010404a.jpg
+https://neolook.com/archives/2016010405a.jpg
+https://neolook.com/archives/2016010406a.jpg
+https://neolook.com/archives/2016010407a.jpg

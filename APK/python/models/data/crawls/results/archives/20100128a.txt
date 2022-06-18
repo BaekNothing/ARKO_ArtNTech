@@ -1,4 +1,6 @@
 /archives/20100128a
+
+******** description ********
 예술 도시의 부활을 외치다
 
 서울문화재단 서울시창작공간 문래예술공장
@@ -67,3 +69,7 @@ mullae.seoulartspace.or.kr,
 아카이브 전시: 문래창작촌 예술가들의 그간 활동을 모은 아카이브 자료 로비 전시
 
 Vol.20100128a | 예술 도시의 부활을 외치다-서울시창작공간 문래예술공장 / 개관안내
+******** imgSrcs ********
+https://neolook.com/archives/2010012801a.jpg
+https://neolook.com/archives/2010012802a.jpg
+https://neolook.com/archives/2010012803a.jpg

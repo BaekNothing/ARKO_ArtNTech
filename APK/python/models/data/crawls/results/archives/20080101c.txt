@@ -1,4 +1,6 @@
 /archives/20080101c
+
+******** description ********
 To the Young Generation Artists
 
 월간미술 2008년 1월호
@@ -43,3 +45,10 @@ www.wolganmisool.com,
 184  넥스트 이슈
 
 Vol.20080101c | 월간미술 2008년 1월호 / To the Young Generation Artists
+******** imgSrcs ********
+https://neolook.com/archives/2008010101c.jpg
+/archives/2008010102c.gif
+/archives/2008010103c.gif
+/archives/2008010104c.gif
+https://neolook.com/archives/2008010105c.jpg
+https://neolook.com/archives/2008010106c.jpg

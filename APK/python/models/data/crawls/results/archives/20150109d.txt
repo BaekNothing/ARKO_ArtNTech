@@ -1,4 +1,6 @@
 /archives/20150109d
+
+******** description ********
 한 가닥의 선들 : 생명에서 사물로
 
 오정일展 / OHJEONGIL / 吳正一 / painting
@@ -49,3 +51,11 @@ www.artertain.com,
 ■ 조관용
 
 Vol.20150109d | 오정일展 / OHJEONGIL / 吳正一 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010901d.jpg
+https://neolook.com/archives/2015010902d.jpg
+https://neolook.com/archives/2015010903d.jpg
+https://neolook.com/archives/2015010904d.jpg
+https://neolook.com/archives/2015010905d.jpg
+https://neolook.com/archives/2015010906d.jpg
+https://neolook.com/archives/2015010907d.jpg

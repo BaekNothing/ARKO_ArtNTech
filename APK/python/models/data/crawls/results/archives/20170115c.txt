@@ -1,4 +1,6 @@
 /archives/20170115c
+
+******** description ********
 예술적 생존법 연구
 
 Artistic Survival Tactics展
@@ -45,3 +47,14 @@ The art project titled "Study on artistic survival methodology" is designed to e
 ■ ALTERNATIVE SPACE LOOP
 
 Vol.20170115c | 예술적 생존법 연구 Artistic Survival Tactics展
+******** imgSrcs ********
+https://neolook.com/archives/2017011501c.jpg
+https://neolook.com/archives/2017011502c.jpg
+https://neolook.com/archives/2017011503c.jpg
+https://neolook.com/archives/2017011504c.jpg
+https://neolook.com/archives/2017011505c.jpg
+https://neolook.com/archives/2017011506c.jpg
+https://neolook.com/archives/2017011507c.jpg
+https://neolook.com/archives/2017011508c.jpg
+https://neolook.com/archives/2017011509c.jpg
+https://neolook.com/archives/2017011510c.jpg

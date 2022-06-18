@@ -1,4 +1,6 @@
 /archives/20090106g
+
+******** description ********
 2009 아트사이드 따산즈 798 북경전시장 대관
  
 접수기간_상시모집,    ,    
@@ -16,3 +18,6 @@ www.artside.org,
 문의    Email: info@artside.org / Tel. +82.2.725.1020
 
 Vol.20090106g | 2009 아트사이드 따산즈 798 북경전시장 대관
+******** imgSrcs ********
+https://neolook.com/archives/2009010601g.jpg
+https://neolook.com/archives/2009010602g.jpg

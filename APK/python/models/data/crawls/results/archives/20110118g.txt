@@ -1,4 +1,6 @@
 /archives/20110118g
+
+******** description ********
 기록과 기억 Record and Memory
 
 이호욱展 / LEEHOWOOK / 李鎬旭 / painting
@@ -33,3 +35,11 @@ www.gallerylamer.com,
 ■ 이호욱
 
 Vol.20110118g | 이호욱展 / LEEHOWOOK / 李鎬旭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011801g.jpg
+https://neolook.com/archives/2011011802g.jpg
+https://neolook.com/archives/2011011803g.jpg
+https://neolook.com/archives/2011011804g.jpg
+https://neolook.com/archives/2011011805g.jpg
+https://neolook.com/archives/2011011806g.jpg
+https://neolook.com/archives/2011011807g.jpg

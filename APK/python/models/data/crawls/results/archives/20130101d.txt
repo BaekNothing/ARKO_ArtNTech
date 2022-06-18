@@ -1,4 +1,6 @@
 /archives/20130101d
+
+******** description ********
 미학적 아카이브
 
 미술세계 2013년 1월호
@@ -49,3 +51,9 @@ Feature_문화현상에서 나타난 예술의 사회적 기능,
 168   Postscript
 
 Vol.20130101d | 미학적 아카이브
+******** imgSrcs ********
+https://neolook.com/archives/2013010101d.jpg
+https://neolook.com/archives/2013010102d.jpg
+https://neolook.com/archives/2013010103d.jpg
+https://neolook.com/archives/2013010104d.jpg
+https://neolook.com/archives/2013010105d.jpg

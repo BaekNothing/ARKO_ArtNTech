@@ -1,4 +1,6 @@
 /archives/20130116a
+
+******** description ********
 임의자막
 
 Random Subtitles展
@@ -34,3 +36,11 @@ SHARK I M의 영상작업 「어떤 반란」은 상상 속 행위들을 실현�
 ■ 갤러리 에스피
 
 Vol.20130116a | 임의자막 Random Subtitles展
+******** imgSrcs ********
+https://neolook.com/archives/2013011607a.jpg
+https://neolook.com/archives/2013011601a.jpg
+https://neolook.com/archives/2013011602a.jpg
+https://neolook.com/archives/2013011603a.jpg
+https://neolook.com/archives/2013011604a.jpg
+https://neolook.com/archives/2013011605a.jpg
+https://neolook.com/archives/2013011606a.jpg

@@ -1,4 +1,6 @@
 /archives/19960206a
+
+******** description ********
 시각 이미지 시대의 화가들-뷰파인더 캔버스'96
 
 김영진_손기환_이동기_임희중_최민화_최지안展
@@ -21,3 +23,10 @@ Tel. +82.(0)2.715.9306,
 즉시 수정하도록 하겠습니다. 감사합니다.
 
 Vol.19960206a | 시각 이미지 시대의 화가들-뷰파인더 캔버스'96展
+******** imgSrcs ********
+https://neolook.com/archives/1996020601a.jpg
+https://neolook.com/archives/1996020602a.jpg
+https://neolook.com/archives/1996020603a.jpg
+https://neolook.com/archives/1996020604a.jpg
+https://neolook.com/archives/1996020605a.jpg
+https://neolook.com/archives/1996020606a.jpg

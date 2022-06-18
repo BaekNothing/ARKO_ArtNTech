@@ -1,4 +1,6 @@
 /archives/20200109i
+
+******** description ********
 제인 마시의 컬러링 라이프 Jane Massey's Colouring Life
 
 제인 마시展 / Jane Massey / illustration
@@ -53,3 +55,11 @@ instagram.com/lottegallery_official,
 ○ 주말 전시 설명회 (청량리점)
 
 Vol.20200109i | 제인 마시展 / Jane Massey / illustration
+******** imgSrcs ********
+https://neolook.com/archives/2020010901i.jpg
+https://neolook.com/archives/2020010902i.jpg
+https://neolook.com/archives/2020010903i.jpg
+https://neolook.com/archives/2020010904i.jpg
+https://neolook.com/archives/2020010905i.jpg
+https://neolook.com/archives/2020010906i.jpg
+https://neolook.com/archives/2020010907i.jpg

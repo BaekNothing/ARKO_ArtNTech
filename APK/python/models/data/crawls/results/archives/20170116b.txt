@@ -1,4 +1,6 @@
 /archives/20170116b
+
+******** description ********
 불일미술관 신진작가 모집 공고
 접수마감 / 2017_0310_금요일,    ,    접수마감 / 2017_0310_금요일,    법련사 불일미술관
 BULIL GALLERY
@@ -24,3 +26,6 @@ Tel. +82.(0)2.733.5322,
 ○ 기타 문의는 이메일(gallerybulil@naver.com)을 통해서 연락바랍니다
 
 Vol.20170116b | 불일미술관 신진작가 모집 공고
+******** imgSrcs ********
+https://neolook.com/archives/2017011601b.jpg
+https://neolook.com/archives/2017011602b.jpg

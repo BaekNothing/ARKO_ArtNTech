@@ -1,4 +1,6 @@
 /archives/20200120c
+
+******** description ********
 문래 금속가공 공장들의 문장디자인
 
 지은이_강수경,    
@@ -130,3 +132,11 @@ ___________하게 시각화하여
 작가 소개--------404
 
 Vol.20200120c | 문래 금속가공 공장들의 문장디자인 / 지은이_강수경 / 미메시스
+******** imgSrcs ********
+https://neolook.com/archives/2020012001c.jpg
+https://neolook.com/archives/2020012002c.jpg
+https://neolook.com/archives/2020012003c.jpg
+https://neolook.com/archives/2020012004c.jpg
+https://neolook.com/archives/2020012005c.jpg
+https://neolook.com/archives/2020012006c.jpg
+https://neolook.com/archives/2020012007c.jpg

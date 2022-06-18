@@ -1,4 +1,6 @@
 /archives/20210101c
+
+******** description ********
 공간으로 확장된 겹 데이터로 확산되는 원본
 
 월간미술 2021년 1월호
@@ -96,3 +98,9 @@ monthlyart.com,
 Woo Jeongsu 『Brighter tomorrow』(detail) acrylic ink on canvas 162.2×130.3cm 2019
 
 Vol.20210101c | 공간으로 확장된 겹 데이터로 확산되는 원본
+******** imgSrcs ********
+https://neolook.com/archives/2021010101c.jpg
+https://neolook.com/archives/2021010102c.jpg
+https://neolook.com/archives/2021010103c.jpg
+https://neolook.com/archives/2021010104c.jpg
+https://neolook.com/archives/2021010105c.jpg

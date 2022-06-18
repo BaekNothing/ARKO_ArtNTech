@@ -1,4 +1,6 @@
 /archives/20110109d
+
+******** description ********
 대화의 연금술 결과보고전
 
 2011_0114 ▶ 2011_0122,    ,    
@@ -41,3 +43,10 @@ www.suwonartcenter.org,
 ※ 참여자 모집 마감
 
 Vol.20110109d | 대화의 연금술 결과보고展
+******** imgSrcs ********
+https://neolook.com/archives/2011010901d.jpg
+https://neolook.com/archives/2011010902d.jpg
+https://neolook.com/archives/2011010903d.jpg
+https://neolook.com/archives/2011010904d.jpg
+https://neolook.com/archives/2011010905d.jpg
+https://neolook.com/archives/2011010906d.jpg

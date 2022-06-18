@@ -1,4 +1,6 @@
 /archives/20200102k
+
+******** description ********
 The Way
 
 포토닷 2020년 1월호
@@ -68,3 +70,10 @@ Photodot + Radar 1_이갑철_적막강산-도시징후,
 ● 그가 본격적으로 사진을 시작한 것은 뉴욕에서 생활할 때다. '초긍정' 마인드를 가진 그도 언어와 문화가 다른 그곳에서 적응하기 쉽지 않았다. 그래서 카메라로 세 딸의 사진을 찍어주며 이국에서의 긴장감을 잠시나마 놓았으며 그것을 계기로 칼리지에서 사진을 배우고 도시 사진을 찍게 되었다. 그는 뉴욕-파리-서울-쿠바 등 도시에서 주로 사진 작업을 했다. 제이 안 작가에게 도시는 친숙하고 흥미로운 공간이기 때문이다. 
 
 Vol.20200102k | The Way
+******** imgSrcs ********
+https://neolook.com/archives/2020010201k.jpg
+https://neolook.com/archives/2020010202k.jpg
+https://neolook.com/archives/2020010203k.jpg
+https://neolook.com/archives/2020010204k.jpg
+https://neolook.com/archives/2020010205k.jpg
+https://neolook.com/archives/2020010206k.jpg

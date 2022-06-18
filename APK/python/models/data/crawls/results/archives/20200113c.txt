@@ -1,4 +1,6 @@
 /archives/20200113c
+
+******** description ********
 제10회 서울국제조각페스타2020 참여 작가 모집
 
 10th International Sculpture Festa 2020 in Seoul
@@ -60,3 +62,5 @@ Tel. 02-720-9101 / Fax. 02-720-4910 / Email. kosaspace@hanmail.net
 www.sculpturefesta.com
 
 Vol.20200113c | 제10회 서울국제조각페스타2020 참여 작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2020011301c.jpg

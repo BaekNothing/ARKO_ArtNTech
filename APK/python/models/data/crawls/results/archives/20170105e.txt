@@ -1,4 +1,6 @@
 /archives/20170105e
+
+******** description ********
 FIVE ELEMENTS
 
 배수영展 / BAESOOYOUNG / 裵秀英 / installation
@@ -49,3 +51,9 @@ www.galleryuhm.com,
 ■ 김노암
 
 Vol.20170105e | 배수영展 / BAESOOYOUNG / 裵秀英 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2017010501e.jpg
+https://neolook.com/archives/2017010502e.jpg
+https://neolook.com/archives/2017010503e.jpg
+https://neolook.com/archives/2017010504e.jpg
+https://neolook.com/archives/2017010505e.jpg

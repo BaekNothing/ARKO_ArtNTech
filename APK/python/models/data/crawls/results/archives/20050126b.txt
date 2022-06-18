@@ -1,4 +1,6 @@
 /archives/20050126b
+
+******** description ********
 숨쉬는 시간과 공간의 채집
 
 한상진展 / HANSANGJIN / 韓相振 / painting
@@ -39,3 +41,10 @@ www.noamgallery.com,
 ■ 한상진
 
 Vol.20050126b | 한상진展 / HANSANGJIN / 韓相振 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2005012601b.jpg
+https://neolook.com/archives/2005012602b.jpg
+https://neolook.com/archives/2005012603b.jpg
+https://neolook.com/archives/2005012604b.jpg
+https://neolook.com/archives/2005012605b.jpg
+https://neolook.com/archives/2005012606b.jpg

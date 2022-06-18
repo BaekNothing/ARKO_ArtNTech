@@ -1,4 +1,6 @@
 /archives/20100108d
+
+******** description ********
 채집된 풍경
 
 전장연_한수진展
@@ -53,3 +55,10 @@ space15th.org,
 한 효과들을 통해 대상과 나와 겪었던 긴장감들을 나타내려고 한다. ■ 한수진
 
 Vol.20100108d | 채집된 풍경-전장연_한수진展
+******** imgSrcs ********
+https://neolook.com/archives/2010010801d.jpg
+https://neolook.com/archives/2010010802d.jpg
+https://neolook.com/archives/2010010803d.jpg
+https://neolook.com/archives/2010010804d.jpg
+https://neolook.com/archives/2010010805d.jpg
+https://neolook.com/archives/2010010806d.jpg

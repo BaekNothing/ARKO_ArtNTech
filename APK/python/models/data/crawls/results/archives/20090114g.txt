@@ -1,4 +1,6 @@
 /archives/20090114g
+
+******** description ********
 미술사의 정원
 
 김원희展 / KIMWEONHEE / 金元熙 / painting
@@ -23,3 +25,11 @@ www.ngalleryart.com,
 
 김원희_From Roy Lichtenstein_캔버스에 아크릴채색_53×45.5cm_2008,    Hybrids ● 김원희의 작품은 서양예술에서 울려 퍼지는 이미지의 폭포 안에 두 세계의 결합을 허용하는 문이 열려있다. 고갱이 남쪽 해안에서 찾았던 실재의 새로운 재현이 이미 동양적 재현 안에 표현이 되었듯이 팝아트의 미학이 함께 넘쳐나며 베르미어Veermer 와 리히텐시타인 Lichtenstein 피카소Picasso와 마티스 Matisse로 항해해 나아간다. 그러나 그 배는 새로운 해룡 Magritte 중절모자의 아들과 구름 Chagall의 꿈과 리히터Richter의 흐리게 그리기 장미들과 엇갈린 패턴들 오렌지색 양귀비와 그림자들 그것은 마치 라파엘전파 오필리아의 Raphaelite Ophelias 해초와 같은 환상적인 세 요소에 의해 인도되고 있다. ■
 Vol.20090114g | 김원희展 / KIMWEONHEE / 金元熙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2009011401g.jpg
+https://neolook.com/archives/2009011402g.jpg
+https://neolook.com/archives/2009011403g.jpg
+https://neolook.com/archives/2009011404g.jpg
+https://neolook.com/archives/2009011405g.jpg
+https://neolook.com/archives/2009011406g.jpg
+https://neolook.com/archives/2009011407g.jpg

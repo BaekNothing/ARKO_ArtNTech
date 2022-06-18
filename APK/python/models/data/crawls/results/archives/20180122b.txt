@@ -1,4 +1,6 @@
 /archives/20180122b
+
+******** description ********
 춤추는 행복
 
 김영심展 / KIMYEONGSIM / 金永心 / painting
@@ -38,3 +40,14 @@ Tel. +82.(0)42.629.8511,
 ■ 김영심
 
 Vol.20180122b | 김영심展 / KIMYEONGSIM / 金永心 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012201b.jpg
+https://neolook.com/archives/2018012202b.jpg
+https://neolook.com/archives/2018012203b.jpg
+https://neolook.com/archives/2018012204b.jpg
+https://neolook.com/archives/2018012205b.jpg
+https://neolook.com/archives/2018012206b.jpg
+https://neolook.com/archives/2018012207b.jpg
+https://neolook.com/archives/2018012208b.jpg
+https://neolook.com/archives/2018012209b.jpg
+https://neolook.com/archives/2018012210b.jpg

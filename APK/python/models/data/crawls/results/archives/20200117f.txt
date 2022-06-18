@@ -1,4 +1,6 @@
 /archives/20200117f
+
+******** description ********
 OPEN OUT
 
 이설애展 / LEESEOLAE / 李雪愛 / installation.sculpture
@@ -32,3 +34,8 @@ www.facebook.com/spacexx,
 ■ 스페이스 XX
 
 Vol.20200117f | 이설애展 / LEESEOLAE / 李雪愛 / installation.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2020011701f.jpg
+https://neolook.com/archives/2020011702f.jpg
+https://neolook.com/archives/2020011703f.jpg
+https://neolook.com/archives/2020011704f.jpg

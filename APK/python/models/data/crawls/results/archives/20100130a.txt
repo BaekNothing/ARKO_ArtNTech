@@ -1,4 +1,6 @@
 /archives/20100130a
+
+******** description ********
 "화해(和諧) 그리고 은유의 숲" Harmony and the Forest of Metaphor
 
 2010 자라섬 국제 바깥미술展
@@ -65,3 +67,10 @@ www.jarasum.net,
 강의 및 진행 : 김숙경(전시기획/ 2010 바깥미술전 프로젝트 디렉터)
 
 Vol.20100130a | "화해(和諧) 그리고 은유의 숲" Harmony and the Forest of Metaphor展
+******** imgSrcs ********
+https://neolook.com/archives/2010013001a.jpg
+https://neolook.com/archives/2010013002a.jpg
+https://neolook.com/archives/2010013003a.jpg
+https://neolook.com/archives/2010013004a.jpg
+https://neolook.com/archives/2010013005a.jpg
+https://neolook.com/archives/2010013006a.jpg

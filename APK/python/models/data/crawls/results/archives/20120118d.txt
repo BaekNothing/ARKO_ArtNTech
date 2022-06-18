@@ -1,4 +1,6 @@
 /archives/20120118d
+
+******** description ********
 갤러리 싸이먼 개관기념 세계적인 재미 미술가 안형남 특별초대전
 
 안형남展 / AHNHYONGNAM / 安螢南 / sculpture
@@ -53,3 +55,10 @@ www.gallerysimon.kr,
  ■ 안재영
 
 Vol.20120118d | 안형남展 / AHNHYONGNAM / 安螢南 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2012011801d.jpg
+https://neolook.com/archives/2012011802d.jpg
+https://neolook.com/archives/2012011803d.jpg
+https://neolook.com/archives/2012011804d.jpg
+https://neolook.com/archives/2012011805d.jpg
+https://neolook.com/archives/2012011806d.jpg

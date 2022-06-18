@@ -1,4 +1,6 @@
 /archives/20150126c
+
+******** description ********
 시작 전 (Before) The Beginning
 
 제15회 뉴프론티어 공모전
@@ -46,3 +48,6 @@ www.mise1984.com,
   2차 전시(남송미술관) 반출비용을 제외하고 추가비용은 발생하지 않습니다.
 
 Vol.20150126c | 시작 전 (Before) The Beginning-제15회 뉴프론티어 공모전
+******** imgSrcs ********
+https://neolook.com/archives/2015012601c.jpg
+https://neolook.com/archives/2015012602c.jpg

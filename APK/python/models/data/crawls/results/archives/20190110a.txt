@@ -1,4 +1,6 @@
 /archives/20190110a
+
+******** description ********
 앉을 수 있는 의자
 
 Pseudo – Chairs展
@@ -46,3 +48,16 @@ www.snumoa.org,
    안남근(국립현대무용단)
 
 Vol.20190110a | 앉을 수 있는 의자 Pseudo – Chairs展
+******** imgSrcs ********
+https://neolook.com/archives/2019011001a.jpg
+https://neolook.com/archives/2019011002a.jpg
+https://neolook.com/archives/2019011003a.jpg
+https://neolook.com/archives/2019011004a.jpg
+https://neolook.com/archives/2019011005a.jpg
+https://neolook.com/archives/2019011006a.jpg
+https://neolook.com/archives/2019011007a.jpg
+https://neolook.com/archives/2019011008a.jpg
+https://neolook.com/archives/2019011009a.jpg
+https://neolook.com/archives/2019011010a.jpg
+https://neolook.com/archives/2019011011a.jpg
+https://neolook.com/archives/2019011012a.jpg

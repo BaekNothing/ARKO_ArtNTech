@@ -1,4 +1,6 @@
 /archives/20140118b
+
+******** description ********
 별일 아니다 Nothing happens
 
 림배지희展 / LIMBAIJIHEE / 林培智熙 / painting
@@ -30,3 +32,9 @@ www.cjartstudio.com,
 ■ 손성진
 
 Vol.20140118b | 림배지희展 / LIMBAIJIHEE / 林培智熙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011801b.jpg
+https://neolook.com/archives/2014011802b.jpg
+https://neolook.com/archives/2014011803b.jpg
+https://neolook.com/archives/2014011804b.jpg
+https://neolook.com/archives/2014011805b.jpg

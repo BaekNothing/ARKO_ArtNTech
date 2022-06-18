@@ -1,4 +1,6 @@
 /archives/20110117d
+
+******** description ********
 샘표 아트팩토리 프로젝트
 
 2010_0625 ▶ 2011_0430,    ,    
@@ -14,3 +16,5 @@ www.sempiospace.com,
 ■ 권주희
 
 Vol.20110117d | 샘표 아트팩토리 프로젝트展
+******** imgSrcs ********
+https://neolook.com/archives/2011011701d.jpg

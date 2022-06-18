@@ -1,4 +1,6 @@
 /archives/20030128a
+
+******** description ********
 2003 일주아트하우스 지원작가 모집
 2003_0212 ▶ 2003_0214,    
 
@@ -32,3 +34,7 @@ ilju@iljuarthouse.org / 우편 혹은 이메일에 반드시 지원부문을 명
 6. 작가 초청 (작가와의 대화-지원작가가 선정한 국내작가 중 1인 섭외
 
 Vol.20030128a | 2003 일주아트하우스 지원작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2003012801a.jpg
+https://neolook.com/archives/2003012802a.jpg
+https://neolook.com/archives/2003012803a.jpg

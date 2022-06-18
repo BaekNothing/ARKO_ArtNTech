@@ -1,4 +1,6 @@
 /archives/20080105b
+
+******** description ********
 조용한 침범_silent invasion
 
 김주리展 / KIMJUREE / 金住利 / sculpture.installation
@@ -21,3 +23,12 @@ www.gagallery.co.kr,
 김주리_무제 Untitled_흙_14×49×51cm_2007,    하나의 사물에 있어서 그것이 가지는 원래의 유형의 가치가 아니라 인간의 생각과 마음이 그것에 투영된다. 개개인이 가지는 사회적 개인적 속성들로 인해 갖가지 다른 가치들이 부여되지만 그 모두가 개인의 심상에서 오는 허상일 수 있다. 외적 형상의 시각적 화려함 뒤에 이미지의 해체에서 오는 내러티브의 변화를 경험한다.,    
 전시광경,    소멸된 이미지는 다시 자연 상태로 돌아간다. 이미 사물의 재현과 함께 본래가 가지는 존재에 대한 의문을 제기하며 형상에 투영되는 개인적 사회적 시선들을 고찰하고자 한다. 시각적으로 인지하는 외형의 형태를 해체 변모함으로써 일반화 된 개념 즉 구체적인 속성들이 가질 수밖에 없는 결여된 부분을 상상하게 한다. ■ 김주리
 Vol.20080105b | 김주리展 / KIMJUREE / 金住利 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2008010501b.jpg
+https://neolook.com/archives/2008010502b.jpg
+https://neolook.com/archives/2008010503b.jpg
+https://neolook.com/archives/2008010504b.jpg
+https://neolook.com/archives/2008010505b.jpg
+https://neolook.com/archives/2008010506b.jpg
+https://neolook.com/archives/2008010507b.jpg
+https://neolook.com/archives/2008010508b.jpg

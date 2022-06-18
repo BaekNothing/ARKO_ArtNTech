@@ -1,4 +1,6 @@
 /archives/20110112b
+
+******** description ********
 모래거울 SAND MIRROR
 
 동국대학교 불교회화과 동문展
@@ -42,3 +44,14 @@ www.gallerylamer.com,
 ■ 빛산
 
 Vol.20110112b | 모래거울-동국대학교 불교회화과 동문展
+******** imgSrcs ********
+https://neolook.com/archives/2011011201b.jpg
+https://neolook.com/archives/2011011202b.jpg
+https://neolook.com/archives/2011011203b.jpg
+https://neolook.com/archives/2011011204b.jpg
+https://neolook.com/archives/2011011205b.jpg
+https://neolook.com/archives/2011011206b.jpg
+https://neolook.com/archives/2011011207b.jpg
+https://neolook.com/archives/2011011208b.jpg
+https://neolook.com/archives/2011011209b.jpg
+https://neolook.com/archives/2011011210b.jpg

@@ -1,4 +1,6 @@
 /archives/20140122e
+
+******** description ********
 페인트 오브 뷰 Paint of View
 
 갤러리 스케이프 기획展
@@ -52,3 +54,11 @@ The observation of existence and zeitgeist is reflected in stubborn experiments 
 ■ SIMSOMI
 
 Vol.20140122e | 페인트 오브 뷰 Paint of View展
+******** imgSrcs ********
+https://neolook.com/archives/2014012201e.jpg
+https://neolook.com/archives/2014012202e.jpg
+https://neolook.com/archives/2014012203e.jpg
+https://neolook.com/archives/2014012204e.jpg
+https://neolook.com/archives/2014012205e.jpg
+https://neolook.com/archives/2014012206e.jpg
+https://neolook.com/archives/2014012207e.jpg

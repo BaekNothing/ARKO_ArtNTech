@@ -1,4 +1,6 @@
 /archives/20200103b
+
+******** description ********
 2020년 전시·공연 후원 작가 공모 안내
 접수마감 / 2020_0127_월요일,    ,    접수마감 / 2020_0127_월요일
 
@@ -36,3 +38,6 @@ www.nomadist.org/s104,
 이메일   curatorpark@gmail.com (공모문의 말머리 표기할 것)
 
 Vol.20200103b | 2020년 전시·공연 후원 작가 공모 안내
+******** imgSrcs ********
+https://neolook.com/archives/2020010301b.jpg
+https://neolook.com/archives/2020010302b.jpg

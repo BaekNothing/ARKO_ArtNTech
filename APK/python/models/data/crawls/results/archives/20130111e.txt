@@ -1,4 +1,6 @@
 /archives/20130111e
+
+******** description ********
 다방회동
 2013_0111 ▶ 2013_0125,    ,    오프닝 퍼포먼스 / 2013_0115_화요일_06:00pm_회동차 시음회
 
@@ -27,3 +29,6 @@ jungdabang.com,
 ■ 다방회동 일동
 
 Vol.20130111e | 다방회동展
+******** imgSrcs ********
+https://neolook.com/archives/2013011101e.jpg
+https://neolook.com/archives/2013011102e.jpg

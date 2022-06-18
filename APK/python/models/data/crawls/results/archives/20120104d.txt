@@ -1,4 +1,6 @@
 /archives/20120104d
+
+******** description ********
 Rafting 
 
 장성재展 / JANGSUNGJAE / 蔣成在 / sculpture
@@ -34,3 +36,11 @@ www.artspaceh.com,
 ■ 고충환
 
 Vol.20120104d | 장성재展 / JANGSUNGJAE / 蔣成在 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2012010401d.jpg
+https://neolook.com/archives/2012010402d.jpg
+https://neolook.com/archives/2012010403d.jpg
+https://neolook.com/archives/2012010404d.jpg
+https://neolook.com/archives/2012010405d.jpg
+https://neolook.com/archives/2012010406d.jpg
+https://neolook.com/archives/2012010407d.jpg

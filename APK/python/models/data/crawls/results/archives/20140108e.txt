@@ -1,4 +1,6 @@
 /archives/20140108e
+
+******** description ********
 청년정신
 
 spirit of young people展
@@ -45,3 +47,17 @@ www.galleryis.com,
 ■ 김영호
 
 Vol.20140108e | 청년정신 spirit of young people展
+******** imgSrcs ********
+https://neolook.com/archives/2014010801e.jpg
+https://neolook.com/archives/2014010802e.jpg
+https://neolook.com/archives/2014010803e.jpg
+https://neolook.com/archives/2014010804e.jpg
+https://neolook.com/archives/2014010805e.jpg
+https://neolook.com/archives/2014010806e.jpg
+https://neolook.com/archives/2014010807e.jpg
+https://neolook.com/archives/2014010808e.jpg
+https://neolook.com/archives/2014010809e.jpg
+https://neolook.com/archives/2014010810e.jpg
+https://neolook.com/archives/2014010811e.jpg
+https://neolook.com/archives/2014010812e.jpg
+https://neolook.com/archives/2014010813e.jpg

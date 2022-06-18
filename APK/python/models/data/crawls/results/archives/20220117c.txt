@@ -1,4 +1,6 @@
 /archives/20220117c
+
+******** description ********
 2022 아트플러그 연수 1기 입주작가 모집 공고
 
 ARTPLUG YEONSU ARTIST RESIDENCY OPEN CALL
@@ -95,3 +97,6 @@ Tel. +82.(0)32.858.7661
 - 운영시간 : 10:00~18:00(매주 월요일 및 정부 지정 법정공휴일 휴관) 
 
 Vol.20220117c | 2022 아트플러그 연수 1기 입주작가 모집 공고
+******** imgSrcs ********
+https://neolook.com/archives/2022011701c.jpg
+https://neolook.com/archives/2022011702c.jpg

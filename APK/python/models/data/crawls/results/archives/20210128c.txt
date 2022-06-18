@@ -1,4 +1,6 @@
 /archives/20210128c
+
+******** description ********
 지도 제작 / Mapping 
 
 문소현展 / MOONSOHYUN / 文昭賢 / video.installation
@@ -39,3 +41,13 @@ Floor 2_3채널 영상 설치 반복영상_00:02:00_2020~21_스틸컷,
 ■ 문소현
 
 Vol.20210128c | 문소현展 / MOONSOHYUN / 文昭賢 / video.installation
+******** imgSrcs ********
+https://neolook.com/archives/2021012801c.jpg
+https://neolook.com/archives/2021012802c.jpg
+https://neolook.com/archives/2021012803c.jpg
+https://neolook.com/archives/2021012804c.jpg
+https://neolook.com/archives/2021012805c.jpg
+https://neolook.com/archives/2021012806c.jpg
+https://neolook.com/archives/2021012807c.jpg
+https://neolook.com/archives/2021012808c.jpg
+https://neolook.com/archives/2021012809c.jpg

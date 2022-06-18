@@ -1,4 +1,6 @@
 /archives/20140109b
+
+******** description ********
 Space is the place
 
 김동윤_이정배 2인展
@@ -30,3 +32,9 @@ www.gallerychosun.com,
 ■ 정다경
 
 Vol.20140109b | Space is the place-김동윤_이정배 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2014010901b.jpg
+https://neolook.com/archives/2014010902b.jpg
+https://neolook.com/archives/2014010903b.jpg
+https://neolook.com/archives/2014010904b.jpg
+https://neolook.com/archives/2014010905b.jpg

@@ -1,4 +1,6 @@
 /archives/20160114c
+
+******** description ********
 오래된 미래 Past Future
 
 박민展 / PARKMIN / 朴玟 / installation
@@ -29,3 +31,10 @@
 ■ 이진명
 
 Vol.20160114c | 박민展 / PARKMIN / 朴玟 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2016011401c.jpg
+https://neolook.com/archives/2016011402c.jpg
+https://neolook.com/archives/2016011403c.jpg
+https://neolook.com/archives/2016011404c.jpg
+https://neolook.com/archives/2016011405c.jpg
+https://neolook.com/archives/2016011406c.jpg

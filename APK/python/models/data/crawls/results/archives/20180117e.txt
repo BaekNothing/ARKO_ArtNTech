@@ -1,4 +1,6 @@
 /archives/20180117e
+
+******** description ********
 MONAD-DOUBLE SLIT
 
 김영수展 / K-Soo / 金瑩洙 / photography
@@ -46,3 +48,14 @@ www.gallery-now.com,
 ■ 신혜영
 
 Vol.20180117e | 김영수展 / K-Soo / 金瑩洙 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018011701e.jpg
+https://neolook.com/archives/2018011702e.jpg
+https://neolook.com/archives/2018011703e.jpg
+https://neolook.com/archives/2018011704e.jpg
+https://neolook.com/archives/2018011705e.jpg
+https://neolook.com/archives/2018011706e.jpg
+https://neolook.com/archives/2018011707e.jpg
+https://neolook.com/archives/2018011708e.jpg
+https://neolook.com/archives/2018011709e.jpg
+https://neolook.com/archives/2018011710e.jpg

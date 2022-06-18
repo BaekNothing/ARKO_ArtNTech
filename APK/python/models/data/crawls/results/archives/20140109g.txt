@@ -1,4 +1,6 @@
 /archives/20140109g
+
+******** description ********
 Concurrence
 
 2014 West Gallery 특별展
@@ -48,3 +50,14 @@ The exhibit is a collaborative project by Paul Eric Roca Amer Mira Guinnevere De
 ■ Maria Portia Olenka Placino
 
 Vol.20140109g | Concurrence展
+******** imgSrcs ********
+https://neolook.com/archives/2014010901g.jpg
+https://neolook.com/archives/2014010902g.jpg
+https://neolook.com/archives/2014010903g.jpg
+https://neolook.com/archives/2014010904g.jpg
+https://neolook.com/archives/2014010905g.jpg
+https://neolook.com/archives/2014010906g.jpg
+https://neolook.com/archives/2014010907g.jpg
+https://neolook.com/archives/2014010908g.jpg
+https://neolook.com/archives/2014010909g.jpg
+https://neolook.com/archives/2014010910g.jpg

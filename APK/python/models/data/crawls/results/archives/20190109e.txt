@@ -1,4 +1,6 @@
 /archives/20190109e
+
+******** description ********
 2018 BRIDGE
 
 광주시립미술관 국제레지던시 작가展
@@ -43,3 +45,11 @@ www.artmuse.gwangju.go.kr,
 ■ KIMMINKYEONG
 
 Vol.20190109e | 2018 BRIDGE-광주시립미술관 국제레지던시 작가展
+******** imgSrcs ********
+https://neolook.com/archives/2019010901e.jpg
+https://neolook.com/archives/2019010902e.jpg
+https://neolook.com/archives/2019010903e.jpg
+https://neolook.com/archives/2019010904e.jpg
+https://neolook.com/archives/2019010905e.jpg
+https://neolook.com/archives/2019010906e.jpg
+https://neolook.com/archives/2019010907e.jpg

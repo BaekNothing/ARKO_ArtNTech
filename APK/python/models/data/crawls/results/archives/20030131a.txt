@@ -1,4 +1,6 @@
 /archives/20030131a
+
+******** description ********
 젊은 회화적 상상의 매력
 
 회화모음展
@@ -21,3 +23,10 @@ Tel. 02_3141_1377,
 
 이샛별_직진 목마를 타다_컴퓨터 출력에 아크릴채색_130×486cm_2002,    대안공간 루프에서 회화작업 작가 5명을 선정하여 회화작업에 대한 새로운 전망과 비전을 조망한다. 페인팅이라는 소재를 다룸으로서 지루하지 않으며 오히려 시각적으로 아름다움과 즐거움을 보여주며 순수한 미적 감성을 자극할 수 있는 미술의 모습을 보여주려 한다. ■ 회화모음
 Vol.20030131a | 회화모음展
+******** imgSrcs ********
+https://neolook.com/archives/2003013101a.jpg
+https://neolook.com/archives/2003013102a.jpg
+https://neolook.com/archives/2003013103a.jpg
+https://neolook.com/archives/2003013104a.jpg
+https://neolook.com/archives/2003013105a.jpg
+https://neolook.com/archives/2003013106a.jpg

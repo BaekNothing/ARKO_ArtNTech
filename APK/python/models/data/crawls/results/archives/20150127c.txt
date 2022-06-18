@@ -1,4 +1,6 @@
 /archives/20150127c
+
+******** description ********
 박현기 1942-2000 만다라
 
 박현기展 / PARKHYUNKI / ??? / mixed media
@@ -42,3 +44,12 @@ www.mmca.go.kr,
  * 세부 일정은 추후 국립현대미술관 홈페이지(www.mmca.go.kr)에서 확인하시기 바랍니다.
 
 Vol.20150127c | 박현기展 / PARKHYUNKI / ??? / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2015012701c.jpg
+https://neolook.com/archives/2015012702c.jpg
+https://neolook.com/archives/2015012703c.jpg
+https://neolook.com/archives/2015012704c.jpg
+https://neolook.com/archives/2015012705c.jpg
+https://neolook.com/archives/2015012706c.jpg
+https://neolook.com/archives/2015012707c.jpg
+https://neolook.com/archives/2015012708c.jpg

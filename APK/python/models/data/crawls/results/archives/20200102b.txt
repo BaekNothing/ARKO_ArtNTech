@@ -1,4 +1,6 @@
 /archives/20200102b
+
+******** description ********
 Space in Shining
 
 고진이展 / KOHJINYI / 高珍彛 / painting
@@ -40,3 +42,11 @@ instagram.com/cafe.millet,
 ■ 고진이
 
 Vol.20200102b | 고진이展 / KOHJINYI / 高珍彛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020010201b.jpg
+https://neolook.com/archives/2020010202b.jpg
+https://neolook.com/archives/2020010203b.jpg
+https://neolook.com/archives/2020010204b.jpg
+https://neolook.com/archives/2020010205b.jpg
+https://neolook.com/archives/2020010206b.jpg
+https://neolook.com/archives/2020010207b.jpg

@@ -1,4 +1,6 @@
 /archives/20110126g
+
+******** description ********
 호안 미로展 / Joan Miró / mixed media
  
 2011_0126 ▶ 2011_0302,    
@@ -29,3 +31,7 @@ department.shinsegae.com,
 ■ 신세계갤러리
 
 Vol.20110126g | 호안 미로展 / Joan Miró / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2011012601g.jpg
+https://neolook.com/archives/2011012602g.jpg
+https://neolook.com/archives/2011012603g.jpg

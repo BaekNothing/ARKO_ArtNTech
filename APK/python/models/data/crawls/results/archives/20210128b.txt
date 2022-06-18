@@ -1,4 +1,6 @@
 /archives/20210128b
+
+******** description ********
 별거 없는 가장 특별한 / nothing but the most special
 
 김경한展 / KIMKYUNGHAN / 金勁翰 / painting
@@ -44,3 +46,14 @@ cmoa.cheongju.go.kr/cjas,
 ■ 김경한
 
 Vol.20210128b | 김경한展 / KIMKYUNGHAN / 金勁翰 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021012801b.jpg
+https://neolook.com/archives/2021012802b.jpg
+https://neolook.com/archives/2021012803b.jpg
+https://neolook.com/archives/2021012804b.jpg
+https://neolook.com/archives/2021012805b.jpg
+https://neolook.com/archives/2021012806b.jpg
+https://neolook.com/archives/2021012807b.jpg
+https://neolook.com/archives/2021012808b.jpg
+https://neolook.com/archives/2021012809b.jpg
+https://neolook.com/archives/2021012810b.jpg

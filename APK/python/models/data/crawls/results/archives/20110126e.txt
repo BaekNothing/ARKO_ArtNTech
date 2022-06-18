@@ -1,4 +1,6 @@
 /archives/20110126e
+
+******** description ********
 Bittersweet Utopia
 
 이미연展 / LEEMIYEON / 李美娟 / painting
@@ -46,3 +48,11 @@ www.gallerylamer.com,
 ■ 김윤섭
 
 Vol.20110126e | 이미연展 / LEEMIYEON / 李美娟 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012601e.jpg
+https://neolook.com/archives/2011012602e.jpg
+https://neolook.com/archives/2011012603e.jpg
+https://neolook.com/archives/2011012604e.jpg
+https://neolook.com/archives/2011012605e.jpg
+https://neolook.com/archives/2011012606e.jpg
+https://neolook.com/archives/2011012607e.jpg

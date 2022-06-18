@@ -1,4 +1,6 @@
 /archives/20130129c
+
+******** description ********
 2013 성북예술창작터 신진 예술가 발굴 프로젝트 공모
 접수기간 / 2013_0129 ▶ 2013_0215,    ,    접수마감 / 2013_0215_금요일_06:00pm,    성북문화재단
 SEONGBUK FOUNDATION FOR ART & CULTURE
@@ -42,3 +44,5 @@ sbculture.or.kr,
     - 제출된 서류는 반환되지 않습니다.
 
 Vol.20130129c | 2013 성북예술창작터 신진 예술가 발굴 프로젝트 공모
+******** imgSrcs ********
+https://neolook.com/archives/2013012901c.jpg

@@ -1,4 +1,6 @@
 /archives/20140116b
+
+******** description ********
 Therapeutic Photography & PhotoTherapy
 
 간지展 / GHANZI / photography
@@ -37,3 +39,11 @@ www.gallery-now.com,
 ■ 김정은
 
 Vol.20140116b | 간지展 / GHANZI / photography
+******** imgSrcs ********
+https://neolook.com/archives/2014011601b.jpg
+https://neolook.com/archives/2014011602b.jpg
+https://neolook.com/archives/2014011603b.jpg
+https://neolook.com/archives/2014011604b.jpg
+https://neolook.com/archives/2014011605b.jpg
+https://neolook.com/archives/2014011606b.jpg
+https://neolook.com/archives/2014011607b.jpg

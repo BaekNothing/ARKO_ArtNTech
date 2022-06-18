@@ -1,4 +1,6 @@
 /archives/20160106h
+
+******** description ********
 박제된 풍경
 
 이다혜展 / LEEDAHYE / 李多慧 / painting
@@ -39,3 +41,14 @@ www.blog.naver.com/heesugallery,
 ■ 이다혜
 
 Vol.20160106h | 이다혜展 / LEEDAHYE / 李多慧 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016010601h.jpg
+https://neolook.com/archives/2016010602h.jpg
+https://neolook.com/archives/2016010603h.jpg
+https://neolook.com/archives/2016010604h.jpg
+https://neolook.com/archives/2016010605h.jpg
+https://neolook.com/archives/2016010606h.jpg
+https://neolook.com/archives/2016010607h.jpg
+https://neolook.com/archives/2016010608h.jpg
+https://neolook.com/archives/2016010609h.jpg
+https://neolook.com/archives/2016010610h.jpg

@@ -1,4 +1,6 @@
 /archives/20140128c
+
+******** description ********
 바람의 조형 Architecture of the Wind
 
 이타미 준(유동룡)展 / ITAMI JUN / mixed media
@@ -40,3 +42,11 @@ www.mmca.go.kr,
 ■ 정다영
 
 Vol.20140128c | 이타미 준(유동룡)展 / ITAMI JUN / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2014012801c.jpg
+https://neolook.com/archives/2014012802c.jpg
+https://neolook.com/archives/2014012803c.jpg
+https://neolook.com/archives/2014012804c.jpg
+https://neolook.com/archives/2014012805c.jpg
+https://neolook.com/archives/2014012806c.jpg
+https://neolook.com/archives/2014012807c.jpg

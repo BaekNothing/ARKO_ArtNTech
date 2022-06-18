@@ -1,4 +1,6 @@
 /archives/20170121c
+
+******** description ********
 더 시프트Ⅱ THE SHIFT Ⅱ
 
 제2회 2017 갤러리박영 작가공모 선정展
@@ -87,3 +89,16 @@ www.gallerypakyoung.co.kr,
 ■ 호진
 
 Vol.20170121c | 더 시프트Ⅱ THE SHIFT Ⅱ展
+******** imgSrcs ********
+https://neolook.com/archives/2017012101c.jpg
+https://neolook.com/archives/2017012102c.jpg
+https://neolook.com/archives/2017012103c.jpg
+https://neolook.com/archives/2017012104c.jpg
+https://neolook.com/archives/2017012105c.jpg
+https://neolook.com/archives/2017012106c.jpg
+https://neolook.com/archives/2017012107c.jpg
+https://neolook.com/archives/2017012108c.jpg
+https://neolook.com/archives/2017012109c.jpg
+https://neolook.com/archives/2017012110c.jpg
+https://neolook.com/archives/2017012111c.jpg
+https://neolook.com/archives/2017012112c.jpg

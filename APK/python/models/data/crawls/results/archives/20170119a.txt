@@ -1,4 +1,6 @@
 /archives/20170119a
+
+******** description ********
 이이은展 / LEEYIEUN / 李利恩 / painting
  
 2017_0119 ▶ 2017_0131,    
@@ -22,3 +24,9 @@ www.gcr.kr,
 ■ 이이은
 
 Vol.20170119a | 이이은展 / LEEYIEUN / 李利恩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011901a.jpg
+https://neolook.com/archives/2017011902a.jpg
+https://neolook.com/archives/2017011903a.jpg
+https://neolook.com/archives/2017011904a.jpg
+https://neolook.com/archives/2017011905a.jpg

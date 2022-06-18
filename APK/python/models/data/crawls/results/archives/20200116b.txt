@@ -1,4 +1,6 @@
 /archives/20200116b
+
+******** description ********
 두산아트랩 뉴욕 2020: 엎질러진 얼룩이 물질을 흡수하기 시작한다
 
 Doosan Art LAB New York 2020:
@@ -42,3 +44,11 @@ www.doosangallery.com,
 
 * Title and excerpt from Theresa Hak Kyung Cha's Dictée 1982
 Vol.20200116b | 두산아트랩 뉴욕 2020: 엎질러진 얼룩이 물질을 흡수하기 시작한다展
+******** imgSrcs ********
+https://neolook.com/archives/2020011601b.jpg
+https://neolook.com/archives/2020011602b.jpg
+https://neolook.com/archives/2020011603b.jpg
+https://neolook.com/archives/2020011604b.jpg
+https://neolook.com/archives/2020011605b.jpg
+https://neolook.com/archives/2020011606b.jpg
+https://neolook.com/archives/2020011607b.jpg

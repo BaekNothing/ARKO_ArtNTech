@@ -1,4 +1,6 @@
 /archives/20140103c
+
+******** description ********
 미술과 열정
 
 서울디지털대학교 회화과 졸업展
@@ -39,3 +41,13 @@ www.jaemigallery.co.kr,
 ■ 서울디지털대학교 회화과
 
 Vol.20140103c | 미술과 열정-서울디지털대학교 회화과 졸업展
+******** imgSrcs ********
+https://neolook.com/archives/2014010301c.jpg
+https://neolook.com/archives/2014010302c.jpg
+https://neolook.com/archives/2014010303c.jpg
+https://neolook.com/archives/2014010304c.jpg
+https://neolook.com/archives/2014010305c.jpg
+https://neolook.com/archives/2014010306c.jpg
+https://neolook.com/archives/2014010307c.jpg
+https://neolook.com/archives/2014010308c.jpg
+https://neolook.com/archives/2014010309c.jpg

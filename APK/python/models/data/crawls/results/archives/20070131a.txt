@@ -1,4 +1,6 @@
 /archives/20070131a
+
+******** description ********
 두 개의 달
 
 장상희 조각展
@@ -24,3 +26,11 @@ www.kwanhoongallery.com,
 
 장상희_두 개의 달2_철_160×85×30cm_2006,    위에서 말한바와 같이 작가는 진실과 허상의 이분법적 가치의 구분이 아닌 통합적 관점의 바라보기를 말하며 이것을 실현하기위한 방법으로서 철을 사용하였다. ● 철에 대한 '무겁다. 차갑다'라는 일반적 시각을 '가볍다. 부드럽다'와 같은 상반된 이미지와 결합하여 두 가지 모순된 성질의 공존이 가능함을 보여주고자 하였다. 뿐만 아니라 그러한 공존의 가능형태는 작가 스스로 직접 경험한 달 은하수 바다 식물 등의 조형적 이미지에서 차용하여 사용하였으며 사각의 달과 단지 절단하여 구부려놓은 철을 사용하여 조형적 이미지의 모순된 이해의 가능성도 표현하고자 하였다. ■ 장상희
 Vol.20070131a | 장상희 조각展
+******** imgSrcs ********
+https://neolook.com/archives/2007013101a.jpg
+https://neolook.com/archives/2007013102a.jpg
+https://neolook.com/archives/2007013103a.jpg
+https://neolook.com/archives/2007013104a.jpg
+https://neolook.com/archives/2007013105a.jpg
+https://neolook.com/archives/2007013106a.jpg
+https://neolook.com/archives/2007013107a.jpg

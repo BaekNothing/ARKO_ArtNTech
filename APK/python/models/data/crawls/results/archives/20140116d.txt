@@ -1,4 +1,6 @@
 /archives/20140116d
+
+******** description ********
 세 개의 풍경 1-서늘한 모서리
 2014_0116 ▶ 2014_0128 / 일요일 휴관,    김주원_과거가 과거를 부르는 밤–서늘한 모서리_사진_가변설치_2013,    
 초대일시 / 2014_0116_목요일_06:00pm,    참여작가
@@ -27,3 +29,11 @@ www.karts.ac.kr,
 ■ 김유라_현시원
 
 Vol.20140116d | 세 개의 풍경 1-서늘한 모서리展
+******** imgSrcs ********
+https://neolook.com/archives/2014011601d.jpg
+https://neolook.com/archives/2014011602d.jpg
+https://neolook.com/archives/2014011603d.jpg
+https://neolook.com/archives/2014011604d.jpg
+https://neolook.com/archives/2014011605d.jpg
+https://neolook.com/archives/2014011606d.jpg
+https://neolook.com/archives/2014011607d.jpg

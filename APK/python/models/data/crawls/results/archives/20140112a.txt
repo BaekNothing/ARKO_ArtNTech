@@ -1,4 +1,6 @@
 /archives/20140112a
+
+******** description ********
 상황 Situations
 
 Blurring Covering Conjuring展
@@ -40,3 +42,14 @@ amadoart.org,
 ■ 이진명
 
 Vol.20140112a | 상황 Situations展
+******** imgSrcs ********
+https://neolook.com/archives/2014011201a.jpg
+https://neolook.com/archives/2014011202a.jpg
+https://neolook.com/archives/2014011203a.jpg
+https://neolook.com/archives/2014011204a.jpg
+https://neolook.com/archives/2014011205a.jpg
+https://neolook.com/archives/2014011206a.jpg
+https://neolook.com/archives/2014011207a.jpg
+https://neolook.com/archives/2014011208a.jpg
+https://neolook.com/archives/2014011209a.jpg
+https://neolook.com/archives/2014011210a.jpg

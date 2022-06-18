@@ -1,4 +1,6 @@
 /archives/20130124b
+
+******** description ********
 Longueur d'ondes
 
 이우석展 / LEEWOOSEOK / 李愚石 / painting
@@ -53,3 +55,10 @@ La théorie de supercordes est une théorie qui prédit que même si l'unité mi
 ■ LEEWOOSEOK
 
 Vol.20130124b | 이우석展 / LEEWOOSEOK / 李愚石 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012401b.jpg
+https://neolook.com/archives/2013012402b.jpg
+https://neolook.com/archives/2013012403b.jpg
+https://neolook.com/archives/2013012404b.jpg
+https://neolook.com/archives/2013012405b.jpg
+https://neolook.com/archives/2013012406b.jpg

@@ -1,4 +1,6 @@
 /archives/20190131f
+
+******** description ********
 Shimon Minamikawa & Nathan Hylden
 
 미나미카와 시몬_네이슨 힐든 2인展
@@ -57,3 +59,10 @@ Time Windows Part I: The Paintings of Shimon Minamikawa
 ■ Stuart Munro
 
 Vol.20190131f | Shimon Minamikawa & Nathan Hylden 미나미카와 시몬_네이슨 힐든 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2019013101f.jpg
+https://neolook.com/archives/2019013102f.jpg
+https://neolook.com/archives/2019013103f.jpg
+https://neolook.com/archives/2019013104f.jpg
+https://neolook.com/archives/2019013105f.jpg
+https://neolook.com/archives/2019013106f.jpg

@@ -1,4 +1,6 @@
 /archives/20130123h
+
+******** description ********
 Sur-Fantasy
 2013_0123 ▶ 2013_0205 / 월공휴일 휴관,    ,    초대일시 / 2013_0123_수요일_05:00pm
 참여작가 / 양태근_류호열_이상민_Bernd Halbherr
@@ -26,3 +28,9 @@ Bernd Halbherr_Bamboo forest_lambdaprint photocollage coated with plastic_지름
 ■ 이문정
 
 Vol.20130123h | Sur-Fantasy展
+******** imgSrcs ********
+https://neolook.com/archives/2013012301h.jpg
+https://neolook.com/archives/2013012302h.jpg
+https://neolook.com/archives/2013012303h.jpg
+https://neolook.com/archives/2013012304h.jpg
+https://neolook.com/archives/2013012305h.jpg

@@ -1,4 +1,6 @@
 /archives/20130114a
+
+******** description ********
 이것은 졸업전시가 아니다.
 
 2012 홍익대학교 동양화과 졸업전시회
@@ -47,3 +49,15 @@ homa.hongik.ac.kr,
 전지영 / 정소영 / 정유재
 
 Vol.20130114a | 이것은 졸업전시가 아니다.-2012 홍익대학교 동양화과 졸업展
+******** imgSrcs ********
+https://neolook.com/archives/2013011401a.jpg
+https://neolook.com/archives/2013011402a.jpg
+https://neolook.com/archives/2013011403a.jpg
+https://neolook.com/archives/2013011404a.jpg
+https://neolook.com/archives/2013011405a.jpg
+https://neolook.com/archives/2013011406a.jpg
+https://neolook.com/archives/2013011407a.jpg
+https://neolook.com/archives/2013011408a.jpg
+https://neolook.com/archives/2013011409a.jpg
+https://neolook.com/archives/2013011410a.jpg
+https://neolook.com/archives/2013011411a.jpg

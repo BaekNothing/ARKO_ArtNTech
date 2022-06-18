@@ -1,4 +1,6 @@
 /archives/20220108b
+
+******** description ********
 김덕용_김지희 2인전
 
 Kim Ji Hee_DuckYong Kim展
@@ -29,3 +31,7 @@ blog.naver.com/gallerym9,
 ■ 갤러리 엠나인
 
 Vol.20220108b | 김덕용_김지희 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2022010802b.jpg
+https://neolook.com/archives/2022010803b.jpg
+https://neolook.com/archives/2022010804b.jpg

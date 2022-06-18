@@ -1,4 +1,6 @@
 /archives/20130131c
+
+******** description ********
 Interpenetrate
 
 2013 국립현대미술관 고양창작스튜디오
@@ -46,3 +48,12 @@ Nobuko Tsuchiya / Rebecca Ann Tess / Wolfgang Hambrecht,
 ■ 국립현대미술관 고양창작스튜디오
 
 Vol.20130131c | Interpenetrate展
+******** imgSrcs ********
+https://neolook.com/archives/2013013101c.jpg
+https://neolook.com/archives/2013013102c.jpg
+https://neolook.com/archives/2013013103c.jpg
+https://neolook.com/archives/2013013104c.jpg
+https://neolook.com/archives/2013013105c.jpg
+https://neolook.com/archives/2013013106c.jpg
+https://neolook.com/archives/2013013107c.jpg
+https://neolook.com/archives/2013013108c.jpg

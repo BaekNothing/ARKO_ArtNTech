@@ -1,4 +1,6 @@
 /archives/20150128b
+
+******** description ********
 시절인연 두번째 이야기...
 
 사금회展
@@ -61,3 +63,13 @@ http://www.tjmbc.co.kr,
            방향성 제시 및 Q&A (참여작가 2인 / 초청대상)
 
 Vol.20150128b | 시절인연 두번째 이야기...-사금회展
+******** imgSrcs ********
+https://neolook.com/archives/2015012801b.jpg
+https://neolook.com/archives/2015012802b.jpg
+https://neolook.com/archives/2015012803b.jpg
+https://neolook.com/archives/2015012804b.jpg
+https://neolook.com/archives/2015012805b.jpg
+https://neolook.com/archives/2015012806b.jpg
+https://neolook.com/archives/2015012807b.jpg
+https://neolook.com/archives/2015012808b.jpg
+https://neolook.com/archives/2015012809b.jpg

@@ -1,4 +1,6 @@
 /archives/20110107d
+
+******** description ********
 런던의 초상 A portrait of LONDON
 
 런던박물관 소장사진展
@@ -46,3 +48,14 @@ www.dgphotomuseum.com,
 ■ 동강사진박물관
 
 Vol.20110107d | 런던의 초상-런던박물관 소장사진展
+******** imgSrcs ********
+https://neolook.com/archives/2011010701d.jpg
+https://neolook.com/archives/2011010702d.jpg
+https://neolook.com/archives/2011010703d.jpg
+https://neolook.com/archives/2011010704d.jpg
+https://neolook.com/archives/2011010705d.jpg
+https://neolook.com/archives/2011010706d.jpg
+https://neolook.com/archives/2011010707d.jpg
+https://neolook.com/archives/2011010708d.jpg
+https://neolook.com/archives/2011010709d.jpg
+https://neolook.com/archives/2011010710d.jpg

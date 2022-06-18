@@ -1,4 +1,6 @@
 /archives/20140122a
+
+******** description ********
 한국영상미디어협회
 
 시각의 항해 Vision's Voyage展
@@ -42,3 +44,10 @@ blog.naver.com/palaisdes,
 ■ 한국영상미디어협회
 
 Vol.20140122a | 한국영상미디어협회-시각의 항해展
+******** imgSrcs ********
+https://neolook.com/archives/2014012201a.jpg
+https://neolook.com/archives/2014012202a.jpg
+https://neolook.com/archives/2014012203a.jpg
+https://neolook.com/archives/2014012204a.jpg
+https://neolook.com/archives/2014012205a.jpg
+https://neolook.com/archives/2014012206a.jpg

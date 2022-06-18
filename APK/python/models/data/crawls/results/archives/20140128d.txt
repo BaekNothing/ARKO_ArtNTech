@@ -1,4 +1,6 @@
 /archives/20140128d
+
+******** description ********
 실로 끌어올린 꿈
 
 김순철展 / KIMSOONCHEOL / 金順哲 / painting
@@ -37,3 +39,11 @@ www.delpino.co.kr/delpino,
 ■ 대명레저산업
 
 Vol.20140128d | 김순철展 / KIMSOONCHEOL / 金順哲 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012801d.jpg
+https://neolook.com/archives/2014012802d.jpg
+https://neolook.com/archives/2014012803d.jpg
+https://neolook.com/archives/2014012804d.jpg
+https://neolook.com/archives/2014012805d.jpg
+https://neolook.com/archives/2014012806d.jpg
+https://neolook.com/archives/2014012807d.jpg

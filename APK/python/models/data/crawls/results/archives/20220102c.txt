@@ -1,4 +1,6 @@
 /archives/20220102c
+
+******** description ********
 자수 오디세이
 
 EMBROIDERY ODYSSEY展
@@ -35,3 +37,11 @@ Tel. +82.(0)32.242.2987
 ■ 롯데갤러리 인천터미널점
 
 Vol.20220102c | 자수 오디세이展
+******** imgSrcs ********
+https://neolook.com/archives/2022010201c.jpg
+https://neolook.com/archives/2022010202c.jpg
+https://neolook.com/archives/2022010203c.jpg
+https://neolook.com/archives/2022010204c.jpg
+https://neolook.com/archives/2022010205c.jpg
+https://neolook.com/archives/2022010206c.jpg
+https://neolook.com/archives/2022010207c.jpg

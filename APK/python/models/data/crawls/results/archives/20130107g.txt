@@ -1,4 +1,6 @@
 /archives/20130107g
+
+******** description ********
 원더러스트 : 또 다른 언덕 너머로 가는 끊임없는 여정
 
 Wanderlust : A never ending journey to the other side of the hill展
@@ -54,3 +56,10 @@ Paper plexiglass plate 9 wooden tables 7 wooden planks stones paint_2012
 ■ 한스 디 울프_광주시립미술관
 
 Vol.20130107g | 원더러스트 : 또 다른 언덕 너머로 가는 끊임없는 여정展
+******** imgSrcs ********
+https://neolook.com/archives/2013010706g.jpg
+https://neolook.com/archives/2013010701g.jpg
+https://neolook.com/archives/2013010703g.jpg
+https://neolook.com/archives/2013010705g.jpg
+https://neolook.com/archives/2013010702g.jpg
+https://neolook.com/archives/2013010704g.jpg

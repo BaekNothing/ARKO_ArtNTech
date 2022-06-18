@@ -1,4 +1,6 @@
 /archives/20160113i
+
+******** description ********
 구사구용 九思九容
 
 난지 9기 리뷰展
@@ -37,3 +39,11 @@ sema.seoul.go.kr/bukseoul,
 ■ 서울시립 북서울미술관
 
 Vol.20160113i | 구사구용 九思九容-난지 9기 리뷰展
+******** imgSrcs ********
+https://neolook.com/archives/2016011301i.jpg
+https://neolook.com/archives/2016011302i.jpg
+https://neolook.com/archives/2016011303i.jpg
+https://neolook.com/archives/2016011304i.jpg
+https://neolook.com/archives/2016011305i.jpg
+https://neolook.com/archives/2016011306i.jpg
+https://neolook.com/archives/2016011307i.jpg

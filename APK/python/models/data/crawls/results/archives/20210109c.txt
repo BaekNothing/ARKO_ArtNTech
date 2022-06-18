@@ -1,4 +1,6 @@
 /archives/20210109c
+
+******** description ********
 알 수 없음
 
 김태환_류재형_조익준展
@@ -52,3 +54,14 @@ finearts.inu.ac.kr,
 ■ 정다운
 
 Vol.20210109c | 알 수 없음展
+******** imgSrcs ********
+https://neolook.com/archives/2021010901c.jpg
+https://neolook.com/archives/2021010902c.jpg
+https://neolook.com/archives/2021010903c.jpg
+https://neolook.com/archives/2021010904c.jpg
+https://neolook.com/archives/2021010905c.jpg
+https://neolook.com/archives/2021010906c.jpg
+https://neolook.com/archives/2021010907c.jpg
+https://neolook.com/archives/2021010908c.jpg
+https://neolook.com/archives/2021010909c.jpg
+https://neolook.com/archives/2021010910c.jpg

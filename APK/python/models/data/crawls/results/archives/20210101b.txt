@@ -1,4 +1,6 @@
 /archives/20210101b
+
+******** description ********
 POWER INTERVIEW 11
 
 아트인컬처 2021년 1월호
@@ -71,3 +73,12 @@ ETC.
 163   SUBSCRIPTION
 
 Vol.20210101b | POWER INTERVIEW 11
+******** imgSrcs ********
+https://neolook.com/archives/2021010101b.jpg
+https://neolook.com/archives/2021010102b.jpg
+https://neolook.com/archives/2021010103b.jpg
+https://neolook.com/archives/2021010104b.jpg
+https://neolook.com/archives/2021010105b.jpg
+https://neolook.com/archives/2021010106b.jpg
+https://neolook.com/archives/2021010107b.jpg
+https://neolook.com/archives/2021010108b.jpg

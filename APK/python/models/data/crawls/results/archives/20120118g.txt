@@ -1,4 +1,6 @@
 /archives/20120118g
+
+******** description ********
 시화엔스: 바다와 육지의 경계
 
 Shiwhaense: The Border between Land and Ocean展
@@ -35,3 +37,11 @@ _한국일보 2011_0505
  ■ 박용석
 
 Vol.20120118g | 시화엔스: 바다와 육지의 경계展
+******** imgSrcs ********
+https://neolook.com/archives/2012011801g.jpg
+https://neolook.com/archives/2012011802g.jpg
+https://neolook.com/archives/2012011803g.jpg
+https://neolook.com/archives/2012011804g.jpg
+https://neolook.com/archives/2012011805g.jpg
+https://neolook.com/archives/2012011806g.jpg
+https://neolook.com/archives/2012011807g.jpg

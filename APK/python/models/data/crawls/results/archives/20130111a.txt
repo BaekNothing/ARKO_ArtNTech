@@ -1,4 +1,6 @@
 /archives/20130111a
+
+******** description ********
 내가 기억하는 박동
 
 정석우展 / CHUNGSEOKWOO / 鄭錫偶 / painting
@@ -34,3 +36,11 @@ gallerydos.com,
 ■ 정석우
 
 Vol.20130111a | 정석우展 / CHUNGSEOKWOO / 鄭錫偶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011101a.jpg
+https://neolook.com/archives/2013011102a.jpg
+https://neolook.com/archives/2013011103a.jpg
+https://neolook.com/archives/2013011104a.jpg
+https://neolook.com/archives/2013011105a.jpg
+https://neolook.com/archives/2013011106a.jpg
+https://neolook.com/archives/2013011107a.jpg

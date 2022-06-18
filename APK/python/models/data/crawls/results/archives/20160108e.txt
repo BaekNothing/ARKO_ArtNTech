@@ -1,4 +1,6 @@
 /archives/20160108e
+
+******** description ********
 Don't Know
 
 조재영展 / CHOJAIYOUNG / 曺宰榮 / installation.sculpture
@@ -39,3 +41,10 @@ www.kumhomuseum.com,
 참여방법 : 당일 입장관객 대상 
 
 Vol.20160108e | 조재영展 / CHOJAIYOUNG / 曺宰榮 / installation.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2016010801e.jpg
+https://neolook.com/archives/2016010802e.jpg
+https://neolook.com/archives/2016010803e.jpg
+https://neolook.com/archives/2016010804e.jpg
+https://neolook.com/archives/2016010805e.jpg
+https://neolook.com/archives/2016010806e.jpg

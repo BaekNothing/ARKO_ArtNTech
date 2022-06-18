@@ -1,4 +1,6 @@
 /archives/20080101d
+
+******** description ********
 오늘의 구상미술 그 향방과 추이
 
 미술세계 2008년 1월호
@@ -61,3 +63,10 @@ Art Tidings
 212  Postscrips 편집후기
 
 Vol.20080101d | 미술세계 2008년 1월호 / 오늘의 구상미술 그 향방과 추이
+******** imgSrcs ********
+https://neolook.com/archives/2008010101d.jpg
+https://neolook.com/archives/2008010102d.jpg
+https://neolook.com/archives/2008010103d.jpg
+https://neolook.com/archives/2008010104d.jpg
+https://neolook.com/archives/2008010105d.jpg
+https://neolook.com/archives/2008010106d.jpg

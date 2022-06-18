@@ -1,4 +1,6 @@
 /archives/20110126f
+
+******** description ********
 어떤 꿈 SOME DREAM
 
 문수영展 / MOONSOOYOUNG / painting
@@ -41,3 +43,11 @@ www.galleryis.com,
 ■ 문수영
 
 Vol.20110126f | 문수영展 / MOONSOOYOUNG / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012601f.jpg
+https://neolook.com/archives/2011012602f.jpg
+https://neolook.com/archives/2011012603f.jpg
+https://neolook.com/archives/2011012604f.jpg
+https://neolook.com/archives/2011012605f.jpg
+https://neolook.com/archives/2011012606f.jpg
+https://neolook.com/archives/2011012607f.jpg

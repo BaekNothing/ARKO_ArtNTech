@@ -1,4 +1,6 @@
 /archives/20150101b
+
+******** description ********
 Annual Report
 
 아트인컬처 2015년 1월호
@@ -88,3 +90,9 @@ SUBSCRIPTION
 CREDIT
 
 Vol.20150101b | Annual Report
+******** imgSrcs ********
+https://neolook.com/archives/2015010101b.jpg
+https://neolook.com/archives/2015010102b.jpg
+https://neolook.com/archives/2015010103b.jpg
+https://neolook.com/archives/2015010104b.jpg
+https://neolook.com/archives/2015010105b.jpg

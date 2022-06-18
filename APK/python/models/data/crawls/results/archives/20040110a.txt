@@ -1,4 +1,6 @@
 /archives/20040110a
+
+******** description ********
 Welcome to My World(W.M.W)
 
 제5회 Emerging展
@@ -28,3 +30,11 @@ Tel. +82.(0)2.3142.1695,
 
 주성혜_The PIPE_애니메이션을 위한 드로잉_가변설치_2004,    주성혜는 장소 특정적 설치작업 「THE PIPE」를 선보입니다. 작가의 이전 작품 부드러운 벨벳이나 가죽으로 만든 초현실적 가구는 인간의 무의식과 욕망을 환기시키는 동시에 앉거나 기대어 스킨쉽을 느낄 수 있는 관객 참여적 작품이었습니다. 파이프와 연결관의 그물망을 공간 전체로 확장시키는 이번 설치작품에서도 작가는 관객으로 하여금 자신의 내면세계를 탐험토록 권유합니다. 우리 내부의 뼈대와 같이 외벽에 가려져 겉으로 드러나지 않지만 꿈틀거리면서 번식해 가는 듯한 파이프는 인간의 잠재된 욕망 또는 내면적 풍경을 은유합니다. 한편 파이프 작업의 드로잉 과정을 애니메이션으로 제작한 비디오는 동 작품에 생기를 부여하는 촉매로 작용합니다. ■ 김홍희
 Vol.20040110a | Welcome to My World(W.M.W)-제5회 Emerging展
+******** imgSrcs ********
+https://neolook.com/archives/2004011001a.jpg
+https://neolook.com/archives/2004011002a.jpg
+https://neolook.com/archives/2004011003a.jpg
+https://neolook.com/archives/2004011004a.jpg
+https://neolook.com/archives/2004011005a.jpg
+https://neolook.com/archives/2004011006a.jpg
+https://neolook.com/archives/2004011007a.jpg

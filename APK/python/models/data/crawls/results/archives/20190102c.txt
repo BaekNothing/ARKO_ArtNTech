@@ -1,4 +1,6 @@
 /archives/20190102c
+
+******** description ********
 다른 생각·시간의 겹 Layers of time
 
 이원태展 / LEEWONTAE / 李元太 / painting
@@ -50,3 +52,9 @@ www.galleryinsaart.com,
 ■ 이원태
 
 Vol.20190102c | 이원태展 / LEEWONTAE / 李元太 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019010201c.jpg
+https://neolook.com/archives/2019010202c.jpg
+https://neolook.com/archives/2019010203c.jpg
+https://neolook.com/archives/2019010204c.jpg
+https://neolook.com/archives/2019010205c.jpg

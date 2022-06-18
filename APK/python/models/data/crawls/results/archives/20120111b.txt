@@ -1,4 +1,6 @@
 /archives/20120111b
+
+******** description ********
 '짓다'-보자기
 
 조하나展 / JOHANA / 趙하나 / fiber craft
@@ -34,3 +36,11 @@ www.kyunginart.co.kr,
 ■ 박경자
 
 Vol.20120111b | 조하나展 / JOHANA / 趙하나 / fiber craft
+******** imgSrcs ********
+https://neolook.com/archives/2012011101b.jpg
+https://neolook.com/archives/2012011102b.jpg
+https://neolook.com/archives/2012011103b.jpg
+https://neolook.com/archives/2012011104b.jpg
+https://neolook.com/archives/2012011105b.jpg
+https://neolook.com/archives/2012011106b.jpg
+https://neolook.com/archives/2012011107b.jpg

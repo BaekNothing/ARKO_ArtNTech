@@ -1,4 +1,6 @@
 /archives/20150119d
+
+******** description ********
 **uk Your Neighbor
 
 네 이웃을 탐하라展
@@ -68,3 +70,23 @@ amadoart.org,
 ■ 유진상
 
 Vol.20150119d | **uk Your Neighbor-네 이웃을 탐하라展
+******** imgSrcs ********
+https://neolook.com/archives/2015011901d.jpg
+https://neolook.com/archives/2015011902d.jpg
+https://neolook.com/archives/2015011903d.jpg
+https://neolook.com/archives/2015011904d.jpg
+https://neolook.com/archives/2015011905d.jpg
+https://neolook.com/archives/2015011906d.jpg
+https://neolook.com/archives/2015011907d.jpg
+https://neolook.com/archives/2015011908d.jpg
+https://neolook.com/archives/2015011909d.jpg
+https://neolook.com/archives/2015011910d.jpg
+https://neolook.com/archives/2015011911d.jpg
+https://neolook.com/archives/2015011912d.jpg
+https://neolook.com/archives/2015011913d.jpg
+https://neolook.com/archives/2015011914d.jpg
+https://neolook.com/archives/2015011915d.jpg
+https://neolook.com/archives/2015011916d.jpg
+https://neolook.com/archives/2015011917d.jpg
+https://neolook.com/archives/2015011918d.jpg
+https://neolook.com/archives/2015011919d.jpg

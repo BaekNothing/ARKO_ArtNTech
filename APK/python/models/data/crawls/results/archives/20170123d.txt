@@ -1,4 +1,6 @@
 /archives/20170123d
+
+******** description ********
 사소한 발견
 
 이채영展 / LEECHAEYOUNG / 李彩瑛 / painting
@@ -35,3 +37,11 @@ www.wuminartcenter.org,
 ■ 이채영
 
 Vol.20170123d | 이채영展 / LEECHAEYOUNG / 李彩瑛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017012301d.jpg
+https://neolook.com/archives/2017012302d.jpg
+https://neolook.com/archives/2017012303d.jpg
+https://neolook.com/archives/2017012304d.jpg
+https://neolook.com/archives/2017012305d.jpg
+https://neolook.com/archives/2017012306d.jpg
+https://neolook.com/archives/2017012307d.jpg

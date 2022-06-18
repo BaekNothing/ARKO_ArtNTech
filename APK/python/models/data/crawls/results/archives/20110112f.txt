@@ -1,4 +1,6 @@
 /archives/20110112f
+
+******** description ********
 巖白
 
 장태영展 / CHANGTAEYOUNG / 張泰英 / painting
@@ -57,3 +59,10 @@ www.grimson.co.kr,
 ■ 장태영
 
 Vol.20110112f | 장태영展 / CHANGTAEYOUNG / 張泰英 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011201f.jpg
+https://neolook.com/archives/2011011202f.jpg
+https://neolook.com/archives/2011011203f.jpg
+https://neolook.com/archives/2011011204f.jpg
+https://neolook.com/archives/2011011205f.jpg
+https://neolook.com/archives/2011011206f.jpg

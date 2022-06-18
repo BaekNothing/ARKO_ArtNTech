@@ -1,4 +1,6 @@
 /archives/20070106b
+
+******** description ********
 색의마술
 
 색은 섹스를 위한 것
@@ -17,3 +19,7 @@ Tel. 02_2272_6382,
 지은이 김윤희 ● 세종대학교 대학원 미술교육전공 재학 / 윤희 유치원 원장 / 애벌레생태학교 교장 / 생태곤충연구 및 강의 / 생태미술 프로그램연구 / 초록교육연대 공동대표
 
 Vol.20070106b | 색의마술 / 지은이_채희석_김윤희 / 예서원
+******** imgSrcs ********
+https://neolook.com/archives/2007010601b.jpg
+https://neolook.com/archives/2007010602b.jpg
+https://neolook.com/archives/2007010603b.jpg

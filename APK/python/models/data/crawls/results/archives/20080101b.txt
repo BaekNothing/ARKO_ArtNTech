@@ -1,4 +1,6 @@
 /archives/20080101b
+
+******** description ********
 新한국미술 POWER 100
 
 아트인컬처 2008년 1월호
@@ -43,3 +45,9 @@ www.artinculture.kr,
 에디터스 블로그
 
 Vol.20080101b | 아트인컬처 2008년 1월호 / 新한국미술 POWER 100
+******** imgSrcs ********
+/archives/2008010101b.gif
+/archives/2008010102b.gif
+https://neolook.com/archives/2008010103b.jpg
+https://neolook.com/archives/2008010104b.jpg
+https://neolook.com/archives/2008010105b.jpg

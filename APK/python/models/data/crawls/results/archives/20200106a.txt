@@ -1,4 +1,6 @@
 /archives/20200106a
+
+******** description ********
 겹의 언어_Palimpsest
 
 정윤영展 / JEONGYUNYOUNG / 鄭允瑛 / painting
@@ -34,3 +36,11 @@ www.inu.ac.kr,
 ■ 정윤영
 
 Vol.20200106a | 정윤영展 / JEONGYUNYOUNG / 鄭允瑛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020010601a.jpg
+https://neolook.com/archives/2020010602a.jpg
+https://neolook.com/archives/2020010603a.jpg
+https://neolook.com/archives/2020010604a.jpg
+https://neolook.com/archives/2020010605a.jpg
+https://neolook.com/archives/2020010606a.jpg
+https://neolook.com/archives/2020010607a.jpg

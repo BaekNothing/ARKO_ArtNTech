@@ -1,4 +1,6 @@
 /archives/20120111c
+
+******** description ********
 그들이 사는 세상
 
 남현주展 / NAMHYUNJOO / 南賢珠 / painting
@@ -37,3 +39,10 @@ www.bomgallery.com,
 ■ 남현주
 
 Vol.20120111c | 남현주展 / NAMHYUNJOO / 南賢珠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011101c.jpg
+https://neolook.com/archives/2012011102c.jpg
+https://neolook.com/archives/2012011103c.jpg
+https://neolook.com/archives/2012011104c.jpg
+https://neolook.com/archives/2012011105c.jpg
+https://neolook.com/archives/2012011106c.jpg

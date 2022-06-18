@@ -1,4 +1,6 @@
 /archives/20180111f
+
+******** description ********
 2018 마리몬드 하우스 with 캔 파운데이션 청년작가 레지던시 공모
 접수기간 / 2018_0111 ▶ 2018_0205,    ,    접수마감 / 2018_0205_월요일
 마감일 24:00(자정)까지 확인된 메일에 한함
@@ -54,3 +56,5 @@ www.can-foundation.org,
    02)2135-7624 shin117@can-foundation.org
 
 Vol.20180111f | 2018 『마리몬드 하우스 with 캔 파운데이션』 청년작가 레지던시 공모
+******** imgSrcs ********
+https://neolook.com/archives/2018011101f.jpg

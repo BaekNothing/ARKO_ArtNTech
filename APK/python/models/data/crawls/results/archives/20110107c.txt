@@ -1,4 +1,6 @@
 /archives/20110107c
+
+******** description ********
 실체 없는 네트워크 꽃을 창조하다
 
 양승수展 / YANGSEUNGSOO / 梁承秀 / interactive installation
@@ -34,3 +36,8 @@ www.kunstdoc.com,
 ■ 양승수
 
 Vol.20110107c | 양승수展 / YANGSEUNGSOO / 梁承秀 / interactive installation
+******** imgSrcs ********
+https://neolook.com/archives/2011010701c.jpg
+https://neolook.com/archives/2011010702c.jpg
+https://neolook.com/archives/2011010703c.jpg
+https://neolook.com/archives/2011010704c.jpg

@@ -1,4 +1,6 @@
 /archives/20130104b
+
+******** description ********
 문래일기(새나라 자동차 프로젝트)
 
 홍원석展 / HONGWONSEOK / 洪原錫 / installation.video
@@ -32,3 +34,7 @@ www.sfac.or.kr,
 04:40pm 홍원석『현장검증』퍼포먼스
 
 Vol.20130104b | 홍원석展 / HONGWONSEOK / 洪原錫 / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2013010401b.jpg
+https://neolook.com/archives/2013010402b.jpg
+https://neolook.com/archives/2013010403b.jpg

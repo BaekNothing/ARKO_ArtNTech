@@ -1,4 +1,6 @@
 /archives/20090111e
+
+******** description ********
 T.h.e T.h.i.r.d
 
 임은영展 / LIMEUNYOUNG / 林恩榮 / installation
@@ -24,3 +26,11 @@ www.kepco.co.kr/gallery,
 임은영_T.h.e T.h.i.r.d_나무에 실과 핀_33.3×27cm,    
 Everything that lives / Lives not alone / Nor for itself ■ William Blake
 Vol.20090111e | 임은영展 / LIMEUNYOUNG / 林恩榮 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2009011101e.jpg
+https://neolook.com/archives/2009011102e.jpg
+https://neolook.com/archives/2009011103e.jpg
+https://neolook.com/archives/2009011104e.jpg
+https://neolook.com/archives/2009011105e.jpg
+https://neolook.com/archives/2009011106e.jpg
+https://neolook.com/archives/2009011107e.jpg

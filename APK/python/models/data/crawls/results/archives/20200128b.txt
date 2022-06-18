@@ -1,4 +1,6 @@
 /archives/20200128b
+
+******** description ********
 비욘드 Beyond
 
 윤영경展 / YOUNYOUNGKYOUNG / 尹英京 / painting
@@ -34,3 +36,11 @@ www.spacek.co.kr,
 ■ 스페이스K_과천
 
 Vol.20200128b | 윤영경展 / YOUNYOUNGKYOUNG / 尹英京 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020012801b.jpg
+https://neolook.com/archives/2020012802b.jpg
+https://neolook.com/archives/2020012803b.jpg
+https://neolook.com/archives/2020012804b.jpg
+https://neolook.com/archives/2020012805b.jpg
+https://neolook.com/archives/2020012806b.jpg
+https://neolook.com/archives/2020012807b.jpg

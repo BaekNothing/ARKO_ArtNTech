@@ -1,4 +1,6 @@
 /archives/20090101c
+
+******** description ********
 세계 미술계의 최신 동향과 전망
 
 월간미술 2009년 1월호
@@ -78,3 +80,9 @@ Exhibition Topic
 168   Postscript
 
 Vol.20090101c | 월간미술 2009년 1월호 / 세계 미술계의 최신 동향과 전망
+******** imgSrcs ********
+https://neolook.com/archives/2009010101c.jpg
+https://neolook.com/archives/2009010102c.jpg
+https://neolook.com/archives/2009010103c.jpg
+https://neolook.com/archives/2009010104c.jpg
+https://neolook.com/archives/2009010105c.jpg

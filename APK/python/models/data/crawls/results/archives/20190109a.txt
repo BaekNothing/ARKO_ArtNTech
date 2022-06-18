@@ -1,4 +1,6 @@
 /archives/20190109a
+
+******** description ********
 다
 
 2019 SDU BFA 제8회 서울디지털대학교 회화과 졸업展
@@ -68,3 +70,19 @@ www.gallerydongduk.com,
 ■ 유정현
 
 Vol.20190109a | 다-2019 SDU BFA 제8회 서울디지털대학교 회화과 졸업展
+******** imgSrcs ********
+https://neolook.com/archives/2019010901a.jpg
+https://neolook.com/archives/2019010902a.jpg
+https://neolook.com/archives/2019010903a.jpg
+https://neolook.com/archives/2019010904a.jpg
+https://neolook.com/archives/2019010905a.jpg
+https://neolook.com/archives/2019010906a.jpg
+https://neolook.com/archives/2019010907a.jpg
+https://neolook.com/archives/2019010908a.jpg
+https://neolook.com/archives/2019010909a.jpg
+https://neolook.com/archives/2019010910a.jpg
+https://neolook.com/archives/2019010911a.jpg
+https://neolook.com/archives/2019010912a.jpg
+https://neolook.com/archives/2019010913a.jpg
+https://neolook.com/archives/2019010914a.jpg
+https://neolook.com/archives/2019010915a.jpg

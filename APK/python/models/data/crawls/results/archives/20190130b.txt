@@ -1,4 +1,6 @@
 /archives/20190130b
+
+******** description ********
 가까이서 보는 미술관
 
 명화를 이해하는 60가지 주제
@@ -88,3 +90,10 @@ www.misulmun.co.kr,
 앤디 워홀 「2백 개의 캠벨 수프 깡통」 | 팝아트,    websites 인명색인
 
 Vol.20190130b | 가까이서 보는 미술관 : 명화를 이해하는 60가지 주제 / 지은이_이에인 잭젝(Iain Zaczek) @ 미술문화
+******** imgSrcs ********
+https://neolook.com/archives/2019013001b.jpg
+https://neolook.com/archives/2019013002b.jpg
+https://neolook.com/archives/2019013003b.jpg
+https://neolook.com/archives/2019013004b.jpg
+https://neolook.com/archives/2019013005b.jpg
+https://neolook.com/archives/2019013006b.jpg

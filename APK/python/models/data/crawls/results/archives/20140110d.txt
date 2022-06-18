@@ -1,4 +1,6 @@
 /archives/20140110d
+
+******** description ********
 ROOMING ART
 2014_0110 ▶ 2014_0202 / 1월3031일 휴관,    ,    별도의 초대일시가 없습니다.
 
@@ -37,3 +39,13 @@ www.akplaza.com/gallery/main.do,
 ■ AK 갤러리
 
 Vol.20140110d | ROOMING ART展
+******** imgSrcs ********
+https://neolook.com/archives/2014011001d.jpg
+https://neolook.com/archives/2014011002d.jpg
+https://neolook.com/archives/2014011003d.jpg
+https://neolook.com/archives/2014011004d.jpg
+https://neolook.com/archives/2014011005d.jpg
+https://neolook.com/archives/2014011006d.jpg
+https://neolook.com/archives/2014011007d.jpg
+https://neolook.com/archives/2014011008d.jpg
+https://neolook.com/archives/2014011009d.jpg

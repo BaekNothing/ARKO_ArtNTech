@@ -1,4 +1,6 @@
 /archives/20110105d
+
+******** description ********
 길로 나온 소나무
 
 안미선展 / ANMISUN / 安美善 / photography
@@ -46,3 +48,11 @@ www.sori21.co.kr,
 ■ 안미선
 
 Vol.20110105d | 안미선展 / ANMISUN / 安美善 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011010501d.jpg
+https://neolook.com/archives/2011010502d.jpg
+https://neolook.com/archives/2011010503d.jpg
+https://neolook.com/archives/2011010504d.jpg
+https://neolook.com/archives/2011010505d.jpg
+https://neolook.com/archives/2011010506d.jpg
+https://neolook.com/archives/2011010507d.jpg

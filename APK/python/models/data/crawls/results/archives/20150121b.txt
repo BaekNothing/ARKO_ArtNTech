@@ -1,4 +1,6 @@
 /archives/20150121b
+
+******** description ********
 W3
 
 백남준展 / PAIKNAMJUNE / 白南準 / installation.video
@@ -33,3 +35,9 @@ hakgojae.com,
 ■ 윤재갑
 
 Vol.20150121b | 백남준展 / PAIKNAMJUNE / 白南準 / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2015012101b.jpg
+https://neolook.com/archives/2015012102b.jpg
+https://neolook.com/archives/2015012103b.jpg
+https://neolook.com/archives/2015012104b.jpg
+https://neolook.com/archives/2015012105b.jpg

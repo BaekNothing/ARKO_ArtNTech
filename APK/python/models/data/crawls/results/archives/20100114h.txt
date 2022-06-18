@@ -1,4 +1,6 @@
 /archives/20100114h
+
+******** description ********
 Natura Morta
 
 김창겸展 / KIMCHANGKYUM / 金昌謙 / photography
@@ -30,3 +32,10 @@ www.brainfactory.org,
 ■ 브레인 팩토리
 
 Vol.20100114h | 김창겸展 / KIMCHANGKYUM / 金昌謙 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2010011401h.jpg
+https://neolook.com/archives/2010011402h.jpg
+https://neolook.com/archives/2010011403h.jpg
+https://neolook.com/archives/2010011404h.jpg
+https://neolook.com/archives/2010011405h.jpg
+https://neolook.com/archives/2010011406h.jpg

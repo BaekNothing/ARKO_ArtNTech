@@ -1,4 +1,6 @@
 /archives/20130107a
+
+******** description ********
 작가들을 위한 이론 아카데미
 
 理美知연구소
@@ -69,3 +71,5 @@ www.imagian.net,
 ■ 문의 / 理美知연구소(www.imagian.net) Tel. 070-8764-3455 
 
 Vol.20130107a | 작가들을 위한 이론 아카데미
+******** imgSrcs ********
+https://neolook.com/archives/2013010701a.jpg

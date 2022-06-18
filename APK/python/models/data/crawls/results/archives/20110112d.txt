@@ -1,4 +1,6 @@
 /archives/20110112d
+
+******** description ********
 VERSUS
 
 박아련展 / PARKARYUN / design
@@ -36,3 +38,11 @@ www.misoolsidae.co.kr,
 ■ 박아련
 
 Vol.20110112d | 박아련展 / PARKARYUN / design
+******** imgSrcs ********
+https://neolook.com/archives/2011011201d.jpg
+https://neolook.com/archives/2011011202d.jpg
+https://neolook.com/archives/2011011203d.jpg
+https://neolook.com/archives/2011011204d.jpg
+https://neolook.com/archives/2011011205d.jpg
+https://neolook.com/archives/2011011206d.jpg
+https://neolook.com/archives/2011011207d.jpg

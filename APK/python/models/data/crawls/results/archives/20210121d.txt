@@ -1,4 +1,6 @@
 /archives/20210121d
+
+******** description ********
 S가 시작될 때
 
 아터테인S 재개관展
@@ -57,3 +59,22 @@ www.artertain.com,
 ■ 아터테인
 
 Vol.20210121d | S가 시작될 때-아터테인S 재개관展
+******** imgSrcs ********
+https://neolook.com/archives/2021012101d.jpg
+https://neolook.com/archives/2021012102d.jpg
+https://neolook.com/archives/2021012103d.jpg
+https://neolook.com/archives/2021012104d.jpg
+https://neolook.com/archives/2021012105d.jpg
+https://neolook.com/archives/2021012106d.jpg
+https://neolook.com/archives/2021012107d.jpg
+https://neolook.com/archives/2021012108d.jpg
+https://neolook.com/archives/2021012109d.jpg
+https://neolook.com/archives/2021012110d.jpg
+https://neolook.com/archives/2021012111d.jpg
+https://neolook.com/archives/2021012112d.jpg
+https://neolook.com/archives/2021012113d.jpg
+https://neolook.com/archives/2021012114d.jpg
+https://neolook.com/archives/2021012115d.jpg
+https://neolook.com/archives/2021012116d.jpg
+https://neolook.com/archives/2021012117d.jpg
+https://neolook.com/archives/2021012118d.jpg

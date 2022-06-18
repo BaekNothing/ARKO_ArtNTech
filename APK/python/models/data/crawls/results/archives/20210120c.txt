@@ -1,4 +1,6 @@
 /archives/20210120c
+
+******** description ********
 양주시립미술창작스튜디오 777레지던스
 
 6기 입주작가 공모
@@ -57,3 +59,5 @@ www.facebook.com/777yangju,
   ▶ 네오룩에서 다운로드
 
 Vol.20210120c | 양주시립미술창작스튜디오 777레지던스 6기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2021012001c.jpg

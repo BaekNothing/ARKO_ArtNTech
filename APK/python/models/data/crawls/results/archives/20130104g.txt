@@ -1,4 +1,6 @@
 /archives/20130104g
+
+******** description ********
 달 없는 밤
 
 김현정展 / KIMHYUNJUNG / 金玹靖 / painting
@@ -36,3 +38,8 @@ www.makeartspace.com,
 ■ 김복기
 
 Vol.20130104g | 김현정展 / KIMHYUNJUNG / 金玹靖 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010401g.jpg
+https://neolook.com/archives/2013010402g.jpg
+https://neolook.com/archives/2013010403g.jpg
+https://neolook.com/archives/2013010404g.jpg

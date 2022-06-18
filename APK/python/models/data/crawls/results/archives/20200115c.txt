@@ -1,4 +1,6 @@
 /archives/20200115c
+
+******** description ********
 Trahere 화가의 자화상
 
 서용선_유근택_최진욱展
@@ -44,3 +46,14 @@ Trahere: 1. to draw 2. to drag 3. to derive
 ■ 고양어울림누리 어울림미술관
 
 Vol.20200115c | Trahere 화가의 자화상展
+******** imgSrcs ********
+https://neolook.com/archives/2020011501c.jpg
+https://neolook.com/archives/2020011502c.jpg
+https://neolook.com/archives/2020011503c.jpg
+https://neolook.com/archives/2020011504c.jpg
+https://neolook.com/archives/2020011505c.jpg
+https://neolook.com/archives/2020011506c.jpg
+https://neolook.com/archives/2020011507c.jpg
+https://neolook.com/archives/2020011508c.jpg
+https://neolook.com/archives/2020011509c.jpg
+https://neolook.com/archives/2020011510c.jpg

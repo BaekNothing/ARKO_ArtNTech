@@ -1,4 +1,6 @@
 /archives/20020106a
+
+******** description ********
 수묵의 향기 수묵의 조형
 
 韓·中·日 현대수묵화展
@@ -32,3 +34,8 @@ Tel. 02_2188_6000,
 
 ■ 작품설명회_ 전시기간 중 매일 03:00pm
 Vol.20020106a | 수묵의 향기 수묵의 조형展
+******** imgSrcs ********
+https://neolook.com/archives/2002010601a.jpg
+https://neolook.com/archives/2002010602a.jpg
+https://neolook.com/archives/2002010603a.jpg
+https://neolook.com/archives/2002010604a.jpg

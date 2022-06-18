@@ -1,4 +1,6 @@
 /archives/20190114a
+
+******** description ********
 트렐라진 아트웨어 TRELA JIN ART WEAR
 
 트렐라 진(김진)展 / Trela Jin / craft
@@ -27,3 +29,12 @@ www.yonaluky.com,
 트렐라 진(김진)展_요나루키_2019
 
 트렐라 진(김진)展_요나루키_2019,    Vol.20190114a | 트렐라 진(김진)展 / Trela Jin / craft
+******** imgSrcs ********
+https://neolook.com/archives/2019011401a.jpg
+https://neolook.com/archives/2019011402a.jpg
+https://neolook.com/archives/2019011403a.jpg
+https://neolook.com/archives/2019011404a.jpg
+https://neolook.com/archives/2019011405a.jpg
+https://neolook.com/archives/2019011406a.jpg
+https://neolook.com/archives/2019011407a.jpg
+https://neolook.com/archives/2019011408a.jpg

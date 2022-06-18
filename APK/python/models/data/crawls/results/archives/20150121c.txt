@@ -1,4 +1,6 @@
 /archives/20150121c
+
+******** description ********
 사과방
 
 방은겸展 / BANGEUNKYUM / 方恩謙 / painting
@@ -43,3 +45,14 @@ www.galleryis.com,
 ■ 정주은
 
 Vol.20150121c | 방은겸展 / BANGEUNKYUM / 方恩謙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012101c.jpg
+https://neolook.com/archives/2015012102c.jpg
+https://neolook.com/archives/2015012103c.jpg
+https://neolook.com/archives/2015012104c.jpg
+https://neolook.com/archives/2015012105c.jpg
+https://neolook.com/archives/2015012106c.jpg
+https://neolook.com/archives/2015012107c.jpg
+https://neolook.com/archives/2015012108c.jpg
+https://neolook.com/archives/2015012109c.jpg
+https://neolook.com/archives/2015012110c.jpg

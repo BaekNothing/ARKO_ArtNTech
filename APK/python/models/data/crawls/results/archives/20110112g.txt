@@ -1,4 +1,6 @@
 /archives/20110112g
+
+******** description ********
 SANSU & NAKSAN
 
 권부문展 / BOOMOON / 權富問 / photography
@@ -39,3 +41,10 @@ hakgojae.com,
 ■ 김애령
 
 Vol.20110112g | 권부문展 / BOOMOON / 權富問 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011011201g.jpg
+https://neolook.com/archives/2011011202g.jpg
+https://neolook.com/archives/2011011203g.jpg
+https://neolook.com/archives/2011011204g.jpg
+https://neolook.com/archives/2011011205g.jpg
+https://neolook.com/archives/2011011206g.jpg

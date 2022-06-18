@@ -1,4 +1,6 @@
 /archives/20130116h
+
+******** description ********
 DUPLICATE OF METAPHOR
 
 정연민展 / CHONGYEONMIN / 鄭然敏 / painting
@@ -29,3 +31,10 @@ www.egalleryi.co.kr,
 정연민_Duplicate of metaphor_혼합재료_19.5×25cm_2013
 
 Vol.20130116h | 정연민展 / CHONGYEONMIN / 鄭然敏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011601h.jpg
+https://neolook.com/archives/2013011602h.jpg
+https://neolook.com/archives/2013011603h.jpg
+https://neolook.com/archives/2013011604h.jpg
+https://neolook.com/archives/2013011605h.jpg
+https://neolook.com/archives/2013011606h.jpg

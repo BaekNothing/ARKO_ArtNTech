@@ -1,4 +1,6 @@
 /archives/20140110e
+
+******** description ********
 한국 아날로그의 현재
 
 한국근대사진과 현대사진의 만남 Ⅱ展
@@ -58,3 +60,10 @@ www.trunkgallery.com,
 ■ 
 
 Vol.20140110e | 한국 아날로그의 현재-한국근대사진과 현대사진의 만남 Ⅱ展
+******** imgSrcs ********
+https://neolook.com/archives/2014011001e.jpg
+https://neolook.com/archives/2014011002e.jpg
+https://neolook.com/archives/2014011003e.jpg
+https://neolook.com/archives/2014011004e.jpg
+https://neolook.com/archives/2014011005e.jpg
+https://neolook.com/archives/2014011006e.jpg

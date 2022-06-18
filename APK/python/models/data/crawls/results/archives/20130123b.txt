@@ -1,4 +1,6 @@
 /archives/20130123b
+
+******** description ********
 Chulmin Style
 
 양철민展 / YANGCHULMIN / 楊哲敏 / painting
@@ -32,3 +34,11 @@ www.galleryis.com,
 ■ 최정미
 
 Vol.20130123b | 양철민展 / YANGCHULMIN / 楊哲敏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012301b.jpg
+https://neolook.com/archives/2013012302b.jpg
+https://neolook.com/archives/2013012303b.jpg
+https://neolook.com/archives/2013012304b.jpg
+https://neolook.com/archives/2013012305b.jpg
+https://neolook.com/archives/2013012306b.jpg
+https://neolook.com/archives/2013012307b.jpg

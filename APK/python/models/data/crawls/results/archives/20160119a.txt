@@ -1,4 +1,6 @@
 /archives/20160119a
+
+******** description ********
 서울 모던 타임스 SEOUL Modern Times
 
 한영수展 / HANYOUNGSOO / 韓榮洙 / photography
@@ -32,3 +34,9 @@ www.trunkgallery.com,
 ■ 한선정
 
 Vol.20160119a | 한영수展 / HANYOUNGSOO / 韓榮洙 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016011901a.jpg
+https://neolook.com/archives/2016011902a.jpg
+https://neolook.com/archives/2016011903a.jpg
+https://neolook.com/archives/2016011904a.jpg
+https://neolook.com/archives/2016011905a.jpg

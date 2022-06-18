@@ -1,4 +1,6 @@
 /archives/20140117b
+
+******** description ********
 유연한 경계
 
 국립서울과학기술대학교 조형예술학과 우수졸업작품展
@@ -40,3 +42,11 @@ www.gallerysp.com,
 ■ 서준호
 
 Vol.20140117b | 유연한 경계-국립서울과학기술대학교 조형예술학과 우수졸업작품展
+******** imgSrcs ********
+https://neolook.com/archives/2014011701b.jpg
+https://neolook.com/archives/2014011702b.jpg
+https://neolook.com/archives/2014011703b.jpg
+https://neolook.com/archives/2014011704b.jpg
+https://neolook.com/archives/2014011705b.jpg
+https://neolook.com/archives/2014011706b.jpg
+https://neolook.com/archives/2014011707b.jpg

@@ -1,4 +1,6 @@
 /archives/20140129b
+
+******** description ********
 허은수 Showcase
 
 허은수展 / HUREUNSOO / installation
@@ -33,3 +35,11 @@ www.hanpac.or.kr/hanpac/html/03_dat/dat07.jsp,
 ■ 권혁규
 
 Vol.20140129b | 허은수展 / HUREUNSOO / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014012901b.jpg
+https://neolook.com/archives/2014012902b.jpg
+https://neolook.com/archives/2014012903b.jpg
+https://neolook.com/archives/2014012904b.jpg
+https://neolook.com/archives/2014012905b.jpg
+https://neolook.com/archives/2014012906b.jpg
+https://neolook.com/archives/2014012907b.jpg

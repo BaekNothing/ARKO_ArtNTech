@@ -1,4 +1,6 @@
 /archives/20130109a
+
+******** description ********
 야만의 시대
 
 진귀원展  / JINGUIONE / 陳貴元 / installation.sculpture
@@ -44,3 +46,11 @@ www.galleryis.com,
 ■ 진귀원
 
 Vol.20130109a | 진귀원展  / JINGUIONE / 陳貴元 / installation.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013010901a.jpg
+https://neolook.com/archives/2013010902a.jpg
+https://neolook.com/archives/2013010903a.jpg
+https://neolook.com/archives/2013010904a.jpg
+https://neolook.com/archives/2013010905a.jpg
+https://neolook.com/archives/2013010906a.jpg
+https://neolook.com/archives/2013010907a.jpg

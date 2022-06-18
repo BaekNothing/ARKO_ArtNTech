@@ -1,4 +1,6 @@
 /archives/20210115f
+
+******** description ********
 붓춤-돌발 되지 못한 곳들
 
 한경원展 / HANKYUNGWON / 韓囧元 / painting
@@ -41,3 +43,11 @@ www.dam-dam.org,
 ■ 이주희
 
 Vol.20210115f | 한경원展 / HANKYUNGWON / 韓囧元 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021011501f.jpg
+https://neolook.com/archives/2021011502f.jpg
+https://neolook.com/archives/2021011503f.jpg
+https://neolook.com/archives/2021011504f.jpg
+https://neolook.com/archives/2021011505f.jpg
+https://neolook.com/archives/2021011506f.jpg
+https://neolook.com/archives/2021011507f.jpg

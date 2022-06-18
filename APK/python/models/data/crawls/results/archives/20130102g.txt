@@ -1,4 +1,6 @@
 /archives/20130102g
+
+******** description ********
 유영운展 / YOOYOUNGWUN / 劉永雲 / sculpture.painting
  
 2013_0102 ▶ 2013_0110,    
@@ -31,3 +33,11 @@ www.kepco.co.kr/gallery,
 ■ 주성열
 
 Vol.20130102g | 유영운展 / YOOYOUNGWUN / 劉永雲 / sculpture.painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010201g.jpg
+https://neolook.com/archives/2013010202g.jpg
+https://neolook.com/archives/2013010203g.jpg
+https://neolook.com/archives/2013010204g.jpg
+https://neolook.com/archives/2013010205g.jpg
+https://neolook.com/archives/2013010206g.jpg
+https://neolook.com/archives/2013010207g.jpg

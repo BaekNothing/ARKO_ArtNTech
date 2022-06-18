@@ -1,4 +1,6 @@
 /archives/20140119b
+
+******** description ********
 김동현展 / KIMDONGHYUN / 金東炫 / mixed media
  
 2013_1226 ▶ 2014_0226 / 일공휴일 휴관,    
@@ -34,3 +36,11 @@ culture.songpa.go.kr,
 ■ 김동현
 
 Vol.20140119b | 김동현展 / KIMDONGHYUN / 金東炫 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2014011901b.jpg
+https://neolook.com/archives/2014011902b.jpg
+https://neolook.com/archives/2014011903b.jpg
+https://neolook.com/archives/2014011904b.jpg
+https://neolook.com/archives/2014011905b.jpg
+https://neolook.com/archives/2014011906b.jpg
+https://neolook.com/archives/2014011907b.jpg

@@ -1,4 +1,6 @@
 /archives/20130114b
+
+******** description ********
 Moonlight Anthology
 
 이재삼展 / LEEJAESAM / 李在三 / painting
@@ -59,3 +61,11 @@ www.spacek.co.kr,
 ■ 스페이스K
 
 Vol.20130114b | 이재삼展 / LEEJAESAM / 李在三 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011401b.jpg
+https://neolook.com/archives/2013011402b.jpg
+https://neolook.com/archives/2013011403b.jpg
+https://neolook.com/archives/2013011404b.jpg
+https://neolook.com/archives/2013011405b.jpg
+https://neolook.com/archives/2013011406b.jpg
+https://neolook.com/archives/2013011407b.jpg

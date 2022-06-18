@@ -1,4 +1,6 @@
 /archives/20210129c
+
+******** description ********
 타아상실
 
 강건展 / KANGKUN / 姜建 / painting.sculpture.installation
@@ -42,3 +44,11 @@ suma.suwon.go.kr,
 ■ 고윤정
 
 Vol.20210129c | 강건展 / KANGKUN / 姜建 / painting.sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2021012901c.jpg
+https://neolook.com/archives/2021012902c.jpg
+https://neolook.com/archives/2021012903c.jpg
+https://neolook.com/archives/2021012904c.jpg
+https://neolook.com/archives/2021012905c.jpg
+https://neolook.com/archives/2021012906c.jpg
+https://neolook.com/archives/2021012907c.jpg

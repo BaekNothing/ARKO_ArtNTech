@@ -1,4 +1,6 @@
 /archives/20160113c
+
+******** description ********
 SETI-Search for Extra-Terrestrial Intelligence
 
 마리킴展 / MARI KIM / mixed media
@@ -30,3 +32,8 @@ hakgojae.com,
 ■ 이명현
 
 Vol.20160113c | 마리킴展 / MARI KIM / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2016011301c.jpg
+https://neolook.com/archives/2016011302c.jpg
+https://neolook.com/archives/2016011303c.jpg
+https://neolook.com/archives/2016011304c.jpg

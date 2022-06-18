@@ -1,4 +1,6 @@
 /archives/20040102c
+
+******** description ********
 하늘 땅 그리고 해
 
 대구지하철참사 1주기 추모프로젝트 그림공모
@@ -60,3 +62,5 @@ www.oksusu.co.kr,
 
 ■ 문의_유원준 Tel. 02_320_1238 / 홈페이지_www.oksusu.co.kr
 Vol.20040102c | 대구지하철참사 1주기 추모展 그림공모
+******** imgSrcs ********
+https://neolook.com/archives/2004010201c.jpg

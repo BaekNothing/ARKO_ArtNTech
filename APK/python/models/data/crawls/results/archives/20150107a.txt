@@ -1,4 +1,6 @@
 /archives/20150107a
+
+******** description ********
 열린 풍경 II
 
 박부곤展 / PARKBOOKON / 朴富坤 / photography
@@ -38,3 +40,11 @@ blog.naver.com/bcutgallery,
 ■ 박부곤
 
 Vol.20150107a | 박부곤展 / PARKBOOKON / 朴富坤 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2015010701a.jpg
+https://neolook.com/archives/2015010702a.jpg
+https://neolook.com/archives/2015010703a.jpg
+https://neolook.com/archives/2015010704a.jpg
+https://neolook.com/archives/2015010705a.jpg
+https://neolook.com/archives/2015010706a.jpg
+https://neolook.com/archives/2015010707a.jpg

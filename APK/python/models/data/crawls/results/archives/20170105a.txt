@@ -1,4 +1,6 @@
 /archives/20170105a
+
+******** description ********
 그놈의 돈
 
 노재림_정지필_채정완_최세진展
@@ -38,3 +40,13 @@ www.artspacej.com,
 ■ 아트스페이스 J
 
 Vol.20170105a | 그놈의 돈展
+******** imgSrcs ********
+https://neolook.com/archives/2017010501a.jpg
+https://neolook.com/archives/2017010502a.jpg
+https://neolook.com/archives/2017010503a.jpg
+https://neolook.com/archives/2017010504a.jpg
+https://neolook.com/archives/2017010505a.jpg
+https://neolook.com/archives/2017010506a.jpg
+https://neolook.com/archives/2017010507a.jpg
+https://neolook.com/archives/2017010508a.jpg
+https://neolook.com/archives/2017010509a.jpg

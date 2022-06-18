@@ -1,4 +1,6 @@
 /archives/20100121d
+
+******** description ********
 꿈의 용도 Purpose of Dreams
 
 박혜성展 / PARKHYESUNG / 朴譓盛 / painting
@@ -31,3 +33,8 @@ www.trunkgallery.com,
 ■ 김최은영
 
 Vol.20100121d | 박혜성展 / PARKHYESUNG / 朴譓盛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012101d.jpg
+https://neolook.com/archives/2010012102d.jpg
+https://neolook.com/archives/2010012103d.jpg
+https://neolook.com/archives/2010012104d.jpg

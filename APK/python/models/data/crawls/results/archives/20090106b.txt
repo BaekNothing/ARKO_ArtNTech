@@ -1,4 +1,6 @@
 /archives/20090106b
+
+******** description ********
 창동스튜디오 7기 입주작가 Artist Talk
 2009_0115 ▶ 2009_0117,    창동스튜디오 7기 입주작가 Artist Talk_2009,    초대일시_2009_0115_목요일_01:30pm
 
@@ -53,3 +55,12 @@ Maqsood Farheen - 이성희(아트인컬처 기자)
 
 * 상기 참여일정은 변경될 수 있습니다.
 Vol.20090106b | 창동스튜디오 7기 입주작가 Artist Talk
+******** imgSrcs ********
+https://neolook.com/archives/2009010601b.jpg
+https://neolook.com/archives/2009010602b.jpg
+https://neolook.com/archives/2009010603b.jpg
+https://neolook.com/archives/2009010604b.jpg
+https://neolook.com/archives/2009010605b.jpg
+https://neolook.com/archives/2009010606b.jpg
+https://neolook.com/archives/2009010607b.jpg
+https://neolook.com/archives/2009010608b.jpg

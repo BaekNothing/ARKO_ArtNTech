@@ -1,4 +1,6 @@
 /archives/20140122b
+
+******** description ********
 근하신년 謹賀新年 – 12 동물 이야기
 
 롯데갤러리 신년 기획展
@@ -51,3 +53,14 @@ blog.naver.com/glotteart,
 ■ 손소정
 
 Vol.20140122b | 근하신년 謹賀新年 – 12 동물 이야기展
+******** imgSrcs ********
+https://neolook.com/archives/2014012201b.jpg
+https://neolook.com/archives/2014012202b.jpg
+https://neolook.com/archives/2014012203b.jpg
+https://neolook.com/archives/2014012204b.jpg
+https://neolook.com/archives/2014012205b.jpg
+https://neolook.com/archives/2014012206b.jpg
+https://neolook.com/archives/2014012207b.jpg
+https://neolook.com/archives/2014012208b.jpg
+https://neolook.com/archives/2014012209b.jpg
+https://neolook.com/archives/2014012210b.jpg

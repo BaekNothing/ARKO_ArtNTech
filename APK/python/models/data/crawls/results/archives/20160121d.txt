@@ -1,4 +1,6 @@
 /archives/20160121d
+
+******** description ********
 선을 넘어서 Beyond the Line
 
 한순구展 / HANSOONGU / 韓順求 / mixed media
@@ -28,3 +30,10 @@ www.cjartstudio.com,
 ■ 청주미술창작스튜디오
 
 Vol.20160121d | 한순구展 / HANSOONGU / 韓順求 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2016012101d.jpg
+https://neolook.com/archives/2016012102d.jpg
+https://neolook.com/archives/2016012103d.jpg
+https://neolook.com/archives/2016012104d.jpg
+https://neolook.com/archives/2016012105d.jpg
+https://neolook.com/archives/2016012106d.jpg

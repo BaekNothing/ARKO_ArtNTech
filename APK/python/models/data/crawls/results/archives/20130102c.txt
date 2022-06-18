@@ -1,4 +1,6 @@
 /archives/20130102c
+
+******** description ********
 Distance
 2013_0102 ▶ 2013_0117,    ,    
 초대일시 / 2013_0105_토요일_02:00pm,    참여작가
@@ -44,3 +46,14 @@ Distance展_갤러리 이레_2013,
 ■ 조소학과 대학원생
 
 Vol.20130102c | Distance展
+******** imgSrcs ********
+https://neolook.com/archives/2013010201c.jpg
+https://neolook.com/archives/2013010202c.jpg
+https://neolook.com/archives/2013010203c.jpg
+https://neolook.com/archives/2013010204c.jpg
+https://neolook.com/archives/2013010205c.jpg
+https://neolook.com/archives/2013010206c.jpg
+https://neolook.com/archives/2013010207c.jpg
+https://neolook.com/archives/2013010208c.jpg
+https://neolook.com/archives/2013010209c.jpg
+https://neolook.com/archives/2013010210c.jpg

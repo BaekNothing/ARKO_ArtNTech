@@ -1,4 +1,6 @@
 /archives/20160115g
+
+******** description ********
 Telepathy
 
 신소영_오정택_민성홍_Studio 1750(김영현·손진희)展
@@ -58,3 +60,13 @@ Studio 1750 (김영현 손진희)
 ■ 롯데갤러리
 
 Vol.20160115g | Telepathy展
+******** imgSrcs ********
+https://neolook.com/archives/2016011501g.jpg
+https://neolook.com/archives/2016011502g.jpg
+https://neolook.com/archives/2016011503g.jpg
+https://neolook.com/archives/2016011504g.jpg
+https://neolook.com/archives/2016011505g.jpg
+https://neolook.com/archives/2016011506g.jpg
+https://neolook.com/archives/2016011507g.jpg
+https://neolook.com/archives/2016011508g.jpg
+https://neolook.com/archives/2016011509g.jpg

@@ -1,4 +1,6 @@
 /archives/20140114e
+
+******** description ********
 이동한 풍경
 
 장은우展 / CHANGEUNWOO / 張銀又 / painting
@@ -32,3 +34,10 @@ www.the-k-gallery.com,
 ■ 
 
 Vol.20140114e | 장은우展 / CHANGEUNWOO / 張銀又 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011401e.jpg
+https://neolook.com/archives/2014011402e.jpg
+https://neolook.com/archives/2014011403e.jpg
+https://neolook.com/archives/2014011404e.jpg
+https://neolook.com/archives/2014011405e.jpg
+https://neolook.com/archives/2014011406e.jpg

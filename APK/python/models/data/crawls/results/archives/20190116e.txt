@@ -1,4 +1,6 @@
 /archives/20190116e
+
+******** description ********
 유어서치 내 손 안의 리서치 서비스
 
 두산 큐레이터 워크샵 기획展
@@ -46,3 +48,13 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20190116e | 유어서치 내 손 안의 리서치 서비스展
+******** imgSrcs ********
+https://neolook.com/archives/2019011601e.jpg
+https://neolook.com/archives/2019011602e.jpg
+https://neolook.com/archives/2019011603e.jpg
+https://neolook.com/archives/2019011604e.jpg
+https://neolook.com/archives/2019011605e.jpg
+https://neolook.com/archives/2019011606e.jpg
+https://neolook.com/archives/2019011607e.jpg
+https://neolook.com/archives/2019011608e.jpg
+https://neolook.com/archives/2019011609e.jpg

@@ -1,4 +1,6 @@
 /archives/20110105h
+
+******** description ********
 HAPPY NEW YEAR
 
 2011_0105 ▶ 2011_0111,    ,    
@@ -52,3 +54,12 @@ Mental map은 작가가 새로운 공간에 갈 때마다 모은 지도를 철�
 ■ 신혜연
 
 Vol.20110105h | HAPPY NEW YEAR展
+******** imgSrcs ********
+https://neolook.com/archives/2011010501h.jpg
+https://neolook.com/archives/2011010502h.jpg
+https://neolook.com/archives/2011010503h.jpg
+https://neolook.com/archives/2011010506h.jpg
+https://neolook.com/archives/2011010507h.jpg
+https://neolook.com/archives/2011010508h.jpg
+https://neolook.com/archives/2011010504h.jpg
+https://neolook.com/archives/2011010505h.jpg

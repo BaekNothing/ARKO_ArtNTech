@@ -1,4 +1,6 @@
 /archives/20140104c
+
+******** description ********
 시대정물 時代情物
 
 김용훈展 / KIMYONGHOON / 金勇勳 / photography
@@ -34,3 +36,11 @@ www.gallery-now.com,
 ■ 김용훈
 
 Vol.20140104c | 김용훈展 / KIMYONGHOON / 金勇勳 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2014010401c.jpg
+https://neolook.com/archives/2014010402c.jpg
+https://neolook.com/archives/2014010403c.jpg
+https://neolook.com/archives/2014010404c.jpg
+https://neolook.com/archives/2014010405c.jpg
+https://neolook.com/archives/2014010406c.jpg
+https://neolook.com/archives/2014010407c.jpg

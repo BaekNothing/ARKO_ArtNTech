@@ -1,4 +1,6 @@
 /archives/20190131g
+
+******** description ********
 2019 THE SHIFT 1부-花信風화신풍
 
 제4회 박영작가공모展
@@ -44,3 +46,10 @@ www.gallerypakyoung.co.kr,
 ■ 갤러리박영
 
 Vol.20190131g | 2019 THE SHIFT 1부-花信風화신풍展
+******** imgSrcs ********
+https://neolook.com/archives/2019013101g.jpg
+https://neolook.com/archives/2019013102g.jpg
+https://neolook.com/archives/2019013103g.jpg
+https://neolook.com/archives/2019013104g.jpg
+https://neolook.com/archives/2019013105g.jpg
+https://neolook.com/archives/2019013106g.jpg

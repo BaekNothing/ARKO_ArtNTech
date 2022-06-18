@@ -1,4 +1,6 @@
 /archives/20110122b
+
+******** description ********
 엮이고 스민
 
 서화숙_장의령_정혜숙展
@@ -31,3 +33,10 @@ www.egalleryi.co.kr,
 ■ 정혜숙
 
 Vol.20110122b | 엮이고 스민-서화숙_장의령_정혜숙展
+******** imgSrcs ********
+https://neolook.com/archives/2011012201b.jpg
+https://neolook.com/archives/2011012202b.jpg
+https://neolook.com/archives/2011012203b.jpg
+https://neolook.com/archives/2011012204b.jpg
+https://neolook.com/archives/2011012205b.jpg
+https://neolook.com/archives/2011012206b.jpg

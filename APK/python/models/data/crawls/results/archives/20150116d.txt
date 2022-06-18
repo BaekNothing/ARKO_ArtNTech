@@ -1,4 +1,6 @@
 /archives/20150116d
+
+******** description ********
 더서울 the SEOUL
 
 박영길_박능생_조풍류_권인경展
@@ -17,3 +19,5 @@ www.gahoedong60.com,
 ■ 박능생
 
 Vol.20150116d | 더서울 the SEOUL展
+******** imgSrcs ********
+https://neolook.com/archives/2015011601d.jpg

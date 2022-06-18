@@ -1,4 +1,6 @@
 /archives/20100117a
+
+******** description ********
 요술모자
 
 조덕환展 / JODUKFAN / 曺德煥 / painting
@@ -31,3 +33,10 @@ Tel. +82.2.2638.2002,
 ■ 박옥생
 
 Vol.20100117a | 조덕환展 / JODUKFAN / 曺德煥 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010011701a.jpg
+https://neolook.com/archives/2010011702a.jpg
+https://neolook.com/archives/2010011703a.jpg
+https://neolook.com/archives/2010011704a.jpg
+https://neolook.com/archives/2010011705a.jpg
+https://neolook.com/archives/2010011706a.jpg

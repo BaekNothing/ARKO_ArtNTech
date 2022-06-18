@@ -1,4 +1,6 @@
 /archives/20170110c
+
+******** description ********
 Conversation : sight
 
 김병진展 / KIMBYOUNGJIN / 金昞珍 / mixed media
@@ -35,3 +37,10 @@ blog.naver.com/palaisdes,
 ■ 김병진
 
 Vol.20170110c | 김병진展 / KIMBYOUNGJIN / 金昞珍 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2017011001c.jpg
+https://neolook.com/archives/2017011002c.jpg
+https://neolook.com/archives/2017011003c.jpg
+https://neolook.com/archives/2017011004c.jpg
+https://neolook.com/archives/2017011005c.jpg
+https://neolook.com/archives/2017011006c.jpg

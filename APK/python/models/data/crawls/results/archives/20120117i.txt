@@ -1,4 +1,6 @@
 /archives/20120117i
+
+******** description ********
 감각의 놀이터
 
 2012 수원시 어린이미술체험관 특별기획展
@@ -89,3 +91,15 @@ Pluck'd in a far-off land."
 ■ 조민우
 
 Vol.20120117i | 감각의 놀이터-2012 수원시 어린이미술체험관 특별기획展
+******** imgSrcs ********
+https://neolook.com/archives/2012011701i.jpg
+https://neolook.com/archives/2012011702i.jpg
+https://neolook.com/archives/2012011703i.jpg
+https://neolook.com/archives/2012011704i.jpg
+https://neolook.com/archives/2012011705i.jpg
+https://neolook.com/archives/2012011706i.jpg
+https://neolook.com/archives/2012011707i.jpg
+https://neolook.com/archives/2012011708i.jpg
+https://neolook.com/archives/2012011709i.jpg
+https://neolook.com/archives/2012011710i.jpg
+https://neolook.com/archives/2012011711i.jpg

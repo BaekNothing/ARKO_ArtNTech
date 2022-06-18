@@ -1,4 +1,6 @@
 /archives/20140127a
+
+******** description ********
 Philosophy in the Wine Glass
 -The artist's gaze to modern society expressed with wine,    유용상展 / YOOYONGSANG / 劉龍相 / painting
  
@@ -71,3 +73,11 @@ You Yong-sang is a unique artist who has consistently and successfully been comb
 ■ Christine Dressler
 
 Vol.20140127a | 유용상展 / YOOYONGSANG / 劉龍相 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012701a.jpg
+https://neolook.com/archives/2014012702a.jpg
+https://neolook.com/archives/2014012703a.jpg
+https://neolook.com/archives/2014012704a.jpg
+https://neolook.com/archives/2014012705a.jpg
+https://neolook.com/archives/2014012706a.jpg
+https://neolook.com/archives/2014012707a.jpg

@@ -1,4 +1,6 @@
 /archives/20220120a
+
+******** description ********
 2022년 창작공간 달
 
 5기 입주작가 모집
@@ -43,3 +45,5 @@ www.spacedal.com,
 - 이메일: artspacedal@naver.com
 
 Vol.20220120a | 2022년 창작공간 달 5기 입주작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2022012001a.jpg

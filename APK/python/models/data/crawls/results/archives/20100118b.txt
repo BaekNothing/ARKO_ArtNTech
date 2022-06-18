@@ -1,4 +1,6 @@
 /archives/20100118b
+
+******** description ********
 Gesture
 
 윤기언展 / YOONKIUN / 尹基彦 / painting
@@ -55,3 +57,11 @@ Semiology of Analogy
 ■ Lee Sun-young
 
 Vol.20100118b | 윤기언展 / YOONKIUN / 尹基彦 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010011801b.jpg
+https://neolook.com/archives/2010011802b.jpg
+https://neolook.com/archives/2010011803b.jpg
+https://neolook.com/archives/2010011804b.jpg
+https://neolook.com/archives/2010011805b.jpg
+https://neolook.com/archives/2010011806b.jpg
+https://neolook.com/archives/2010011807b.jpg

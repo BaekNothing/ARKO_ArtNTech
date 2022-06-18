@@ -1,4 +1,6 @@
 /archives/20110122a
+
+******** description ********
 독후감 Book Report
 
 서울디지털대학 SDU 미술경영전공기획展
@@ -38,3 +40,12 @@ blog.naver.com/biz_analyst,
 ■ 서울디지털대학교 미술경영 전시기획팀 ARTRAY Project
 
 Vol.20110122a | 독후감展
+******** imgSrcs ********
+https://neolook.com/archives/2011012201a.jpg
+https://neolook.com/archives/2011012202a.jpg
+https://neolook.com/archives/2011012203a.jpg
+https://neolook.com/archives/2011012204a.jpg
+https://neolook.com/archives/2011012205a.jpg
+https://neolook.com/archives/2011012206a.jpg
+https://neolook.com/archives/2011012207a.jpg
+https://neolook.com/archives/2011012208a.jpg

@@ -1,4 +1,6 @@
 /archives/20140109e
+
+******** description ********
 Nature and Breath
 
 최미애展 / CHOIMIAE / 崔美愛 / painting
@@ -31,3 +33,10 @@ www.gallery192.com,
 ■ 신항섭
 
 Vol.20140109e | 최미애展 / CHOIMIAE / 崔美愛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010901e.jpg
+https://neolook.com/archives/2014010902e.jpg
+https://neolook.com/archives/2014010903e.jpg
+https://neolook.com/archives/2014010904e.jpg
+https://neolook.com/archives/2014010905e.jpg
+https://neolook.com/archives/2014010906e.jpg

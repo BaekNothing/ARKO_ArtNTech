@@ -1,4 +1,6 @@
 /archives/20180124f
+
+******** description ********
 2018 제8회 서울디지털대학교 미술상 수상전
 
 2018 8th SDU ART PRIZE展
@@ -73,3 +75,15 @@ SDU회화과 학과홈페이지 : finearts.sdu.ac.kr
 SDU회화과 학과문의: 02-2128-3198
 
 Vol.20180124f | 2018 제8회 서울디지털대학교 미술상 수상展
+******** imgSrcs ********
+https://neolook.com/archives/2018012401f.jpg
+https://neolook.com/archives/2018012402f.jpg
+https://neolook.com/archives/2018012403f.jpg
+https://neolook.com/archives/2018012404f.jpg
+https://neolook.com/archives/2018012405f.jpg
+https://neolook.com/archives/2018012406f.jpg
+https://neolook.com/archives/2018012407f.jpg
+https://neolook.com/archives/2018012408f.jpg
+https://neolook.com/archives/2018012409f.jpg
+https://neolook.com/archives/2018012410f.jpg
+https://neolook.com/archives/2018012411f.jpg

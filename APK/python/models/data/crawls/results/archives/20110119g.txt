@@ -1,4 +1,6 @@
 /archives/20110119g
+
+******** description ********
 서울 한강을 걷다
 
 이현권展 / LEEHYUNKWON / 李賢權 / photography
@@ -79,3 +81,11 @@ www.grimson.co.kr,
 ■ 박영택
 
 Vol.20110119g | 이현권展 / LEEHYUNKWON / 李賢權 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011011901g.jpg
+https://neolook.com/archives/2011011902g.jpg
+https://neolook.com/archives/2011011903g.jpg
+https://neolook.com/archives/2011011904g.jpg
+https://neolook.com/archives/2011011905g.jpg
+https://neolook.com/archives/2011011906g.jpg
+https://neolook.com/archives/2011011907g.jpg

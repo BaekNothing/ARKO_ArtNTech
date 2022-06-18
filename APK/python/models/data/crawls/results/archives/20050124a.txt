@@ -1,4 +1,6 @@
 /archives/20050124a
+
+******** description ********
 FOLDAWAY
 
 이규연 설치展
@@ -16,3 +18,9 @@ Tel. 02_734_1333,
 
 이규연_Foldaway_혼합재료_62×90cm_2004,    그럴 땐 두 손으로 얼굴을 가리고 어두어진 시야가 서서히 밝아지면 모든 것은 어제처럼 다시 반복된다. ● 즐기는 손의 움직임은 밤을 보내고 짧은 어지럼증에 꿈꾸듯 겹치고 복잡한 미로 속 사물의 잔상을 본다. ■ 이규연
 Vol.20050124a | 이규연 설치展
+******** imgSrcs ********
+https://neolook.com/archives/2005012401a.jpg
+https://neolook.com/archives/2005012402a.jpg
+https://neolook.com/archives/2005012403a.jpg
+https://neolook.com/archives/2005012404a.jpg
+https://neolook.com/archives/2005012405a.jpg

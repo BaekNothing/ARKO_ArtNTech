@@ -1,4 +1,6 @@
 /archives/20220128c
+
+******** description ********
 현대인의 일상생활 The daily life of contemporary man
 
 김미아展 / KIMMIA / 金美雅 / painting
@@ -46,3 +48,13 @@ www.elandgallery.com,
 ■ 이랜드문화재단
 
 Vol.20220128c | 김미아展 / KIMMIA / 金美雅 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012801c.jpg
+https://neolook.com/archives/2022012802c.jpg
+https://neolook.com/archives/2022012803c.jpg
+https://neolook.com/archives/2022012804c.jpg
+https://neolook.com/archives/2022012805c.jpg
+https://neolook.com/archives/2022012806c.jpg
+https://neolook.com/archives/2022012807c.jpg
+https://neolook.com/archives/2022012808c.jpg
+https://neolook.com/archives/2022012809c.jpg

@@ -1,4 +1,6 @@
 /archives/20180117a
+
+******** description ********
 소원섭展 / SOWONSUB / 蘇元燮 / painting
  
 2018_0117 ▶ 2018_0130,    
@@ -45,3 +47,12 @@ blog.naver.com/marron-1436,
 ■ 이해전
 
 Vol.20180117a | 소원섭展 / SOWONSUB / 蘇元燮 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011701a.jpg
+https://neolook.com/archives/2018011702a.jpg
+https://neolook.com/archives/2018011703a.jpg
+https://neolook.com/archives/2018011704a.jpg
+https://neolook.com/archives/2018011705a.jpg
+https://neolook.com/archives/2018011706a.jpg
+https://neolook.com/archives/2018011707a.jpg
+https://neolook.com/archives/2018011708a.jpg

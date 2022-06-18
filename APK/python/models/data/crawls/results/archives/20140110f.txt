@@ -1,4 +1,6 @@
 /archives/20140110f
+
+******** description ********
 Greenhouse
 
 김수연展 / KIMSUYEON / ??? / installation
@@ -20,3 +22,5 @@ www.galleryhyundai.com,
 ■ 갤러리 현대_윈도우 갤러리
 
 Vol.20140110f | 김수연展 / KIMSUYEON / ??? / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014011001f.jpg

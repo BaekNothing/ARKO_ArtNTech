@@ -1,4 +1,6 @@
 /archives/20160118d
+
+******** description ********
 보통의 일
 
 김수민展 / KIMSUMIN / 金秀敏 / painting
@@ -41,3 +43,12 @@ www.wuminartcenter.org,
 ■ 김수민
 
 Vol.20160118d | 김수민展 / KIMSUMIN / 金秀敏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011801d.jpg
+https://neolook.com/archives/2016011802d.jpg
+https://neolook.com/archives/2016011803d.jpg
+https://neolook.com/archives/2016011804d.jpg
+https://neolook.com/archives/2016011805d.jpg
+https://neolook.com/archives/2016011806d.jpg
+https://neolook.com/archives/2016011807d.jpg
+https://neolook.com/archives/2016011808d.jpg

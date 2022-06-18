@@ -1,4 +1,6 @@
 /archives/20160109b
+
+******** description ********
 Millions Sound 수백 만 가지의 소리
 
 허수인展 / HEOSUIN / 許修仁 / painting
@@ -26,3 +28,10 @@ www.kooalldam.com,
 ■ 허수인
 
 Vol.20160109b | 허수인展 / HEOSUIN / 許修仁 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016010901b.jpg
+https://neolook.com/archives/2016010902b.jpg
+https://neolook.com/archives/2016010903b.jpg
+https://neolook.com/archives/2016010904b.jpg
+https://neolook.com/archives/2016010905b.jpg
+https://neolook.com/archives/2016010906b.jpg

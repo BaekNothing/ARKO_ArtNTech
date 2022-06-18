@@ -1,4 +1,6 @@
 /archives/20140107b
+
+******** description ********
 회귀 불능으로의 회귀
 
 Project 정오[nu:n]+윤범展 / video.installation
@@ -23,3 +25,8 @@ project 정오[nu:n]_회귀 불능으로의 회귀_HD 영상_00:07:06_2013,
 ■ 이강우
 
 Vol.20140107b | Project 정오[nu:n]+윤범展 / video.installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010701b.jpg
+https://neolook.com/archives/2014010702b.jpg
+https://neolook.com/archives/2014010703b.jpg
+https://neolook.com/archives/2014010704b.jpg

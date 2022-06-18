@@ -1,4 +1,6 @@
 /archives/20170124b
+
+******** description ********
 DREAM
 
 임진성展 / YIMJINSEONG / 任眞聖 / painting
@@ -42,3 +44,12 @@ The Pleasure of Strolling in the Ideal World through Dream
 ■ YIMJINSEONG
 
 Vol.20170124b | 임진성展 / YIMJINSEONG / 任眞聖 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017012401b.jpg
+https://neolook.com/archives/2017012402b.jpg
+https://neolook.com/archives/2017012403b.jpg
+https://neolook.com/archives/2017012404b.jpg
+https://neolook.com/archives/2017012405b.jpg
+https://neolook.com/archives/2017012406b.jpg
+https://neolook.com/archives/2017012407b.jpg
+https://neolook.com/archives/2017012408b.jpg

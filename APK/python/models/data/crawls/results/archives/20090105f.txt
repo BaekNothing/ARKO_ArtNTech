@@ -1,4 +1,6 @@
 /archives/20090105f
+
+******** description ********
 The Pink & Blue Project
 
 윤정미展 / YOONJEONGMEE / 尹丁美 / photography
@@ -23,3 +25,10 @@ www.emartgallery.co.kr,
 
 윤정미_핑크 프로젝트_지유와 지유의 핑크색 물건들_라이트젯 프린트_2008,    작가는 그 동안 분류되고 집적된 것들과 사회적인 관계 등에 관심을 갖고 작업해 왔었다. 지난 사진 시리즈들의 테마는 「동물원」(1988-1999) 「자연사 박물관」(2001) 「공간-사람-공간」(2000-2004) 그리고 「장난감 수집가의 콜렉션들」(2004)이다. '동물원'과 '자연사 박물관' 시리즈는 이미 계통화되어 분류되어 배열된 이미지들이며 「공간-사람-공간」에서는 한국 서울의 인사동과 청계천에 위치한 가게들과 가게 주인들을 촬영하였다. 가게들은 매우 좁고 가게 주인들은 그들의 물건들을 효과적으로 팔고 고객들에게 물건들이 잘 보이게 하기 위해서 잘 분류해서 정리해 놓아야 한다. 이 「공간-사람-공간」시리즈에서는 이미 존재하는 정리된 오브제들에서 이미지를 창조하였다면 이번 '핑크 & 블루 프로젝트'에서는 그 물건들을 작가가 순서를 정하여 배열했다는 측면에서 하나의 작가 컬렉션이기도 하다. ■ 이엠아트갤러리
 Vol.20090105f | 윤정미展 / YOONJEONGMEE / 尹丁美 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2009010501f.jpg
+https://neolook.com/archives/2009010502f.jpg
+https://neolook.com/archives/2009010503f.jpg
+https://neolook.com/archives/2009010504f.jpg
+https://neolook.com/archives/2009010505f.jpg
+https://neolook.com/archives/2009010506f.jpg

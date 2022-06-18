@@ -1,4 +1,6 @@
 /archives/20190110g
+
+******** description ********
 박수근미술관 창작스튜디오 14기 입주작가 공모
 접수기간 / 2019_0110 ▶ 2019_0131,    ,    접수마감 / 2019_0131_목요일_06:00pm
 
@@ -42,3 +44,7 @@ www.parksookeun.or.kr,
 학예연구실 tel.033.480.2284 / 행정실 tel. 033.480.2655 / www.parksookeun.or.kr
 
 Vol.20190110g | 박수근미술관 창작스튜디오 14기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2019011001g.jpg
+https://neolook.com/archives/2019011002g.jpg
+https://neolook.com/archives/2019011003g.jpg

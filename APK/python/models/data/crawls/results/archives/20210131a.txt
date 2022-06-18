@@ -1,4 +1,6 @@
 /archives/20210131a
+
+******** description ********
 SwitchON 스위치온
 2021_0131 ▶ 2021_0611,    ,    별도의 초대일시가 없습니다.
 
@@ -30,3 +32,9 @@ SwitchON-APP 특강_제작과정 화면,
 ■ 김최은영
 
 Vol.20210131a | SwitchON 스위치온展
+******** imgSrcs ********
+https://neolook.com/archives/2021013101a.jpg
+https://neolook.com/archives/2021013102a.jpg
+https://neolook.com/archives/2021013103a.jpg
+https://neolook.com/archives/2021013104a.jpg
+https://neolook.com/archives/2021013105a.jpg

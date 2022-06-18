@@ -1,4 +1,6 @@
 /archives/20110109f
+
+******** description ********
 전통과 새 감성
 
 롯데갤러리 대전점 신년 기획展
@@ -36,3 +38,11 @@ www.lotteshopping.com,
 ■ 손소정
 
 Vol.20110109f | 전통과 새 감성展
+******** imgSrcs ********
+https://neolook.com/archives/2011010901f.jpg
+https://neolook.com/archives/2011010902f.jpg
+https://neolook.com/archives/2011010903f.jpg
+https://neolook.com/archives/2011010904f.jpg
+https://neolook.com/archives/2011010905f.jpg
+https://neolook.com/archives/2011010906f.jpg
+https://neolook.com/archives/2011010907f.jpg

@@ -1,4 +1,6 @@
 /archives/20110106b
+
+******** description ********
 바다 나는 누구 인가
 
 원덕희展 / WONDEOKHEE / 元德禧 / photography
@@ -84,3 +86,10 @@ www.galleryduck.com,
 ■ 이경률
 
 Vol.20110106b | 원덕희展 / WONDEOKHEE / 元德禧 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011010601b.jpg
+https://neolook.com/archives/2011010602b.jpg
+https://neolook.com/archives/2011010603b.jpg
+https://neolook.com/archives/2011010604b.jpg
+https://neolook.com/archives/2011010605b.jpg
+https://neolook.com/archives/2011010606b.jpg

@@ -1,4 +1,6 @@
 /archives/20170103c
+
+******** description ********
 Numinous - 신성함의 연극성 · 중심의 그곳 만다라
 
 강지수_최진하 2인展
@@ -35,3 +37,10 @@ www.facebook.com/woosukgallery.74.snu,
 ■ 최진하
 
 Vol.20170103c | Numinous - 신성함의 연극성 · 중심의 그곳 만다라-강지수_최진하 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2017010301c.jpg
+https://neolook.com/archives/2017010302c.jpg
+https://neolook.com/archives/2017010303c.jpg
+https://neolook.com/archives/2017010304c.jpg
+https://neolook.com/archives/2017010305c.jpg
+https://neolook.com/archives/2017010306c.jpg

@@ -1,4 +1,6 @@
 /archives/20180124d
+
+******** description ********
 우리는 별들로 이루어져 있다 We are Star Stuff
 
 두산 큐레이터 워크샵 기획展
@@ -39,3 +41,10 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20180124d | 우리는 별들로 이루어져 있다 We are Star Stuff-두산 큐레이터 워크샵 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2018012401d.jpg
+https://neolook.com/archives/2018012402d.jpg
+https://neolook.com/archives/2018012403d.jpg
+https://neolook.com/archives/2018012404d.jpg
+https://neolook.com/archives/2018012405d.jpg
+https://neolook.com/archives/2018012406d.jpg

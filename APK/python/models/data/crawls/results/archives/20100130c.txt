@@ -1,4 +1,6 @@
 /archives/20100130c
+
+******** description ********
 The Room: 房
 
 심정은展 / SHIMJEONGEUN / 沈廷恩 / sculpture.installation
@@ -34,3 +36,11 @@ www.kepco.co.kr/gallery,
 『The Room: 房』展에서 작가는 이렇게 다양한 작품들을 한데 어울러 방을 통한 '소통'과 '경계' 사이의 문제를 탐닉하고 여성과 어머니의 이미지를 근원적이면서도 현대적으로 탐미하고 있다. 나아가 이번 전시의 작품들을 어울러 자아의 내면과 외부세계 작품과 관람객 사이의 소통불가능을 투영과 체험이라는 방법으로 소통가능하게 만들고자 한다. ■ 심정은
 
 Vol.20100130c | 심정은展 / SHIMJEONGEUN / 沈廷恩 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2010013001c.jpg
+https://neolook.com/archives/2010013002c.jpg
+https://neolook.com/archives/2010013003c.jpg
+https://neolook.com/archives/2010013004c.jpg
+https://neolook.com/archives/2010013005c.jpg
+https://neolook.com/archives/2010013006c.jpg
+https://neolook.com/archives/2010013007c.jpg

@@ -1,4 +1,6 @@
 /archives/20130121b
+
+******** description ********
 Plauderer
 
 김소영展 / KIMSOYOUNG / 金素瑛 / mixed media
@@ -36,3 +38,8 @@ blog.daum.net/gallerybom,
 ■ 김소영
 
 Vol.20130121b | 김소영展 / KIMSOYOUNG / 金素瑛 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2013012101b.jpg
+https://neolook.com/archives/2013012102b.jpg
+https://neolook.com/archives/2013012103b.jpg
+https://neolook.com/archives/2013012104b.jpg

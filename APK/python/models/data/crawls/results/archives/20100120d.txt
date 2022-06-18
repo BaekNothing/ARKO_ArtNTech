@@ -1,4 +1,6 @@
 /archives/20100120d
+
+******** description ********
 Light Night
 
 배세나展 / BAESENA / 裵세나/ painting
@@ -28,3 +30,10 @@ D.P.I. - Draw Plastic Interfaces ● Les peintures de Sena Bae répresentent une
 ■ 배세나
 
 Vol.20100120d | 배세나展 / BAESENA / 裵세나 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012001d.jpg
+https://neolook.com/archives/2010012002d.jpg
+https://neolook.com/archives/2010012003d.jpg
+https://neolook.com/archives/2010012004d.jpg
+https://neolook.com/archives/2010012005d.jpg
+https://neolook.com/archives/2010012006d.jpg

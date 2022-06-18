@@ -1,4 +1,6 @@
 /archives/20170105f
+
+******** description ********
 크리티컬 포인트 Critical Point
 
 문지영_신준민_안효찬展
@@ -50,3 +52,20 @@ www.spacek.co.kr,
 ■ 스페이스K_대구
 
 Vol.20170105f | 크리티컬 포인트 Critical Point展
+******** imgSrcs ********
+https://neolook.com/archives/2017010501f.jpg
+https://neolook.com/archives/2017010502f.jpg
+https://neolook.com/archives/2017010503f.jpg
+https://neolook.com/archives/2017010504f.jpg
+https://neolook.com/archives/2017010505f.jpg
+https://neolook.com/archives/2017010506f.jpg
+https://neolook.com/archives/2017010507f.jpg
+https://neolook.com/archives/2017010508f.jpg
+https://neolook.com/archives/2017010509f.jpg
+https://neolook.com/archives/2017010510f.jpg
+https://neolook.com/archives/2017010511f.jpg
+https://neolook.com/archives/2017010512f.jpg
+https://neolook.com/archives/2017010513f.jpg
+https://neolook.com/archives/2017010514f.jpg
+https://neolook.com/archives/2017010515f.jpg
+https://neolook.com/archives/2017010516f.jpg

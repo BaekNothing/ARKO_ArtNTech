@@ -1,4 +1,6 @@
 /archives/20010113a
+
+******** description ********
 흩어지다
 
 2001_0117 ▶ 2001_0128,    
@@ -18,3 +20,7 @@ www.kcaf.or.kr,
 ■ 김학량
 
 Vol.20010113a | 흩어지다展
+******** imgSrcs ********
+https://neolook.com/archives/2001011301a.jpg
+https://neolook.com/archives/2001011302a.jpg
+https://neolook.com/archives/2001011303a.jpg

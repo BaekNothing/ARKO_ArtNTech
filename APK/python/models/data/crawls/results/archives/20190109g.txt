@@ -1,4 +1,6 @@
 /archives/20190109g
+
+******** description ********
 우리가 사랑한 그림 The Works We Love
 
 고려대학교 소장_한국근현대미술걸작展
@@ -69,3 +71,10 @@ www.instagram.com/lottegallery_official,
 - 아트로키즈 프로그램(유초등대상 미술교육 프로그램): 전시기간 중 4회
 
 Vol.20190109g | 우리가 사랑한 그림-고려대학교 소장_한국근현대미술걸작展
+******** imgSrcs ********
+https://neolook.com/archives/2019010901g.jpg
+https://neolook.com/archives/2019010902g.jpg
+https://neolook.com/archives/2019010903g.jpg
+https://neolook.com/archives/2019010904g.jpg
+https://neolook.com/archives/2019010905g.jpg
+https://neolook.com/archives/2019010906g.jpg

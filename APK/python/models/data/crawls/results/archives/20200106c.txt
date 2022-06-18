@@ -1,4 +1,6 @@
 /archives/20200106c
+
+******** description ********
 프로젝트  사진 개업 미미당
 
 윤미미展 / YOUNMIMI / 尹美美 / photography
@@ -35,3 +37,9 @@ www.instagram.com/space_mm,
 ■ 윤미미
 
 Vol.20200106c | 윤미미展 / YOUNMIMI / 尹美美 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2020010601c.jpg
+https://neolook.com/archives/2020010602c.jpg
+https://neolook.com/archives/2020010603c.jpg
+https://neolook.com/archives/2020010604c.jpg
+https://neolook.com/archives/2020010605c.jpg

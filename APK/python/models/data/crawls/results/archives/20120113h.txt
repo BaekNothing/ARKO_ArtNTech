@@ -1,4 +1,6 @@
 /archives/20120113h
+
+******** description ********
 POLIPOP-Political pop art
 
 천민정展 / CHEONMINA / 千珉正 / mixed media
@@ -47,3 +49,10 @@ www.sungkokmuseum.com,
 트 위 터 : @sungkokart
 
 Vol.20120113h | 천민정展 / CHEONMINA / 千珉正 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2012011301h.jpg
+https://neolook.com/archives/2012011302h.jpg
+https://neolook.com/archives/2012011303h.jpg
+https://neolook.com/archives/2012011304h.jpg
+https://neolook.com/archives/2012011305h.jpg
+https://neolook.com/archives/2012011306h.jpg

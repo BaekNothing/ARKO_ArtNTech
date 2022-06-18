@@ -1,4 +1,6 @@
 /archives/20130126b
+
+******** description ********
 Forests dreams of utopia 理想鄕
 
 노혜영展 / NOHHYEYOUNG / 盧蕙瑛 / painting
@@ -29,3 +31,10 @@ www.kooalldam.com,
 ■ 노혜영
 
 Vol.20130126b | 노혜영展 / NOHHYEYOUNG / 盧蕙瑛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012601b.jpg
+https://neolook.com/archives/2013012602b.jpg
+https://neolook.com/archives/2013012603b.jpg
+https://neolook.com/archives/2013012604b.jpg
+https://neolook.com/archives/2013012605b.jpg
+https://neolook.com/archives/2013012606b.jpg

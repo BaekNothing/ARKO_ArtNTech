@@ -1,4 +1,6 @@
 /archives/20110105b
+
+******** description ********
 뭐꼬?!
 
 울산대학교대학원 회화과 기획展
@@ -38,3 +40,14 @@ blog.naver.com/biz_analyst,
 ■ 
 
 Vol.20110105b | 뭐꼬?!-울산대학교대학원 회화과 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2011010501b.jpg
+https://neolook.com/archives/2011010502b.jpg
+https://neolook.com/archives/2011010503b.jpg
+https://neolook.com/archives/2011010504b.jpg
+https://neolook.com/archives/2011010505b.jpg
+https://neolook.com/archives/2011010506b.jpg
+https://neolook.com/archives/2011010507b.jpg
+https://neolook.com/archives/2011010508b.jpg
+https://neolook.com/archives/2011010509b.jpg
+https://neolook.com/archives/2011010510b.jpg

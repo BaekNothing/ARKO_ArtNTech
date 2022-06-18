@@ -1,4 +1,6 @@
 /archives/20220121a
+
+******** description ********
 Super Repetition 
 
 김영우展 / KIMYOUNGWOO / 金永雨 / painting
@@ -26,3 +28,11 @@ klampgallery.com,
 ■ 클램프 갤러리
 
 Vol.20220121a | 김영우展 / KIMYOUNGWOO / 金永雨 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012101a.jpg
+https://neolook.com/archives/2022012102a.jpg
+https://neolook.com/archives/2022012103a.jpg
+https://neolook.com/archives/2022012104a.jpg
+https://neolook.com/archives/2022012105a.jpg
+https://neolook.com/archives/2022012106a.jpg
+https://neolook.com/archives/2022012107a.jpg

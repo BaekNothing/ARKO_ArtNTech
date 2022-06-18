@@ -1,4 +1,6 @@
 /archives/20110121d
+
+******** description ********
 HAPPY ART I-행복한 리빙룸
 
 현대백화점 미아점 갤러리 H의 HAPPY PROJECT展
@@ -39,3 +41,13 @@ Tel. +82.10.9327.9515,
 ■ 정영숙
 
 Vol.20110121d | HAPPY ART I- 행복한 리빙룸展
+******** imgSrcs ********
+https://neolook.com/archives/2011012101d.jpg
+https://neolook.com/archives/2011012102d.jpg
+https://neolook.com/archives/2011012103d.jpg
+https://neolook.com/archives/2011012104d.jpg
+https://neolook.com/archives/2011012105d.jpg
+https://neolook.com/archives/2011012107d.jpg
+https://neolook.com/archives/2011012106d.jpg
+https://neolook.com/archives/2011012108d.jpg
+https://neolook.com/archives/2011012109d.jpg

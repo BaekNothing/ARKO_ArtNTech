@@ -1,4 +1,6 @@
 /archives/20160107b
+
+******** description ********
 Plastic tears
 
 신혜선展 / SHINHYESUN / 申惠善 / photography
@@ -45,3 +47,11 @@ Flowers do lie
 ■ Jinyoung Kim
 
 Vol.20160107b | 신혜선展 / SHINHYESUN / 申惠善 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016010701b.jpg
+https://neolook.com/archives/2016010702b.jpg
+https://neolook.com/archives/2016010703b.jpg
+https://neolook.com/archives/2016010704b.jpg
+https://neolook.com/archives/2016010705b.jpg
+https://neolook.com/archives/2016010706b.jpg
+https://neolook.com/archives/2016010707b.jpg

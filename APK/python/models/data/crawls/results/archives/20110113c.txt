@@ -1,4 +1,6 @@
 /archives/20110113c
+
+******** description ********
 triangle
 
 3회 가나나우아트 수상展
@@ -32,3 +34,10 @@ www.ganaart.com,
 ■ 박미연
 
 Vol.20110113c | triangle-3회 가나나우아트 수상展
+******** imgSrcs ********
+https://neolook.com/archives/2011011301c.jpg
+https://neolook.com/archives/2011011302c.jpg
+https://neolook.com/archives/2011011303c.jpg
+https://neolook.com/archives/2011011304c.jpg
+https://neolook.com/archives/2011011305c.jpg
+https://neolook.com/archives/2011011306c.jpg

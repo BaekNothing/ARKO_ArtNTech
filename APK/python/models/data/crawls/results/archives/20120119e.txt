@@ -1,4 +1,6 @@
 /archives/20120119e
+
+******** description ********
 splendor of...
 
 서기展 / SEOGI / painting
@@ -27,3 +29,9 @@ blog.naver.com/codisenss,
 ■ 서기
 
 Vol.20120119e | 서기展 / SEOGI / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011901e.jpg
+https://neolook.com/archives/2012011902e.jpg
+https://neolook.com/archives/2012011903e.jpg
+https://neolook.com/archives/2012011904e.jpg
+https://neolook.com/archives/2012011905e.jpg

@@ -1,4 +1,6 @@
 /archives/20220125c
+
+******** description ********
 MEN IN THE CITY
 
 심윤展 / SHIMYUN / 沈潤 / painting
@@ -45,3 +47,14 @@ www.dscf.or.kr,
 ■ 김은지
 
 Vol.20220125c | 심윤展 / SHIMYUN / 沈潤 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012501c.jpg
+https://neolook.com/archives/2022012502c.jpg
+https://neolook.com/archives/2022012503c.jpg
+https://neolook.com/archives/2022012504c.jpg
+https://neolook.com/archives/2022012505c.jpg
+https://neolook.com/archives/2022012506c.jpg
+https://neolook.com/archives/2022012507c.jpg
+https://neolook.com/archives/2022012508c.jpg
+https://neolook.com/archives/2022012509c.jpg
+https://neolook.com/archives/2022012510c.jpg

@@ -1,4 +1,6 @@
 /archives/20150115h
+
+******** description ********
 수면의 원근법 Perspective of Rim
 
 정용국展 / JEONGYONGKOOK / 鄭容國 / drawing.installation
@@ -40,3 +42,9 @@ www.inartplatform.kr,
   4명(이대범 하정현 정용국 안동일)의 파편적인 단상이다.
 
 Vol.20150115h | 정용국展 / JEONGYONGKOOK / 鄭容國 / drawing.installation
+******** imgSrcs ********
+https://neolook.com/archives/2015011501h.jpg
+https://neolook.com/archives/2015011502h.jpg
+https://neolook.com/archives/2015011503h.jpg
+https://neolook.com/archives/2015011504h.jpg
+https://neolook.com/archives/2015011505h.jpg

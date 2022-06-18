@@ -1,4 +1,6 @@
 /archives/20050110a
+
+******** description ********
 옥탑
 
 이정희 회화展
@@ -27,3 +29,13 @@ www.gallerydoll.com,
 이정희_정물-계단_캔버스에 천을 재단하여 바느질_162×112cm_2004,    옥상으로 나가본다. / 그림자가 길어지기 시작하면 / 동네사람들은 모두 나와 자전거 도로 위를 달린다. / 사람들은 정신없이 그리고 바쁘게 달려가고 있는데 / 나는 느린 걸음으로 집안을 맴돈다. //,    
 이정희_정물-침대_캔버스에 천을 재단하여 바느질_162×54cm_2004,    작업실 겸 가정집인 옥탑이 작업의 소재다. / 옥탑의 실내 그곳은 움직임 없는 정물의 세계이다. ● 작업 방법은 천을 잘라 조각내고 그 조각 천들을 바느질하여 연결하는 방법이다. 잘라낸 천 조각들은 각각 전체 형태를 구성하는 부분의 형태를 가지고 있으며 수평적으로 나란히 연결되어 전체형태가 만들어진다. ■ 이정희
 Vol.20050110a | 이정희 회화展
+******** imgSrcs ********
+https://neolook.com/archives/2005011001a.jpg
+/archives/2005011002a.gif
+/archives/2005011003a.gif
+/archives/2005011004a.gif
+https://neolook.com/archives/2005011005a.jpg
+https://neolook.com/archives/2005011006a.jpg
+https://neolook.com/archives/2005011007a.jpg
+https://neolook.com/archives/2005011008a.jpg
+https://neolook.com/archives/2005011009a.jpg

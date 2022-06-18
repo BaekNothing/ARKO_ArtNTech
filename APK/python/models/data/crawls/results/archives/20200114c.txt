@@ -1,4 +1,6 @@
 /archives/20200114c
+
+******** description ********
 예술가의 방
 
 2020 이응노미술관 소장품展
@@ -46,3 +48,9 @@ www.leeungnomuseum.or.kr,
 ■ 이응노미술관
 
 Vol.20200114c | 예술가의 방-2020 이응노미술관 소장품展
+******** imgSrcs ********
+https://neolook.com/archives/2020011401c.jpg
+https://neolook.com/archives/2020011402c.jpg
+https://neolook.com/archives/2020011403c.jpg
+https://neolook.com/archives/2020011404c.jpg
+https://neolook.com/archives/2020011405c.jpg

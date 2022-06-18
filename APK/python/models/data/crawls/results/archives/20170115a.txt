@@ -1,4 +1,6 @@
 /archives/20170115a
+
+******** description ********
 Mixed memories
 
 김주희展 / KIMJUHEE / 金珠熙 / painting
@@ -32,3 +34,8 @@ mixed memories  ● 나의 작품들은 찬란한 기억 잊지 못할 장소와
 ■ 김주희
 
 Vol.20170115a | 김주희展 / KIMJUHEE / 金珠熙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011501a.jpg
+https://neolook.com/archives/2017011502a.jpg
+https://neolook.com/archives/2017011503a.jpg
+https://neolook.com/archives/2017011504a.jpg

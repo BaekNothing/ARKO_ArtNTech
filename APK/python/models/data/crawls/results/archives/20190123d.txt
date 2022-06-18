@@ -1,4 +1,6 @@
 /archives/20190123d
+
+******** description ********
 LA Art Show 2019
 2019_0123 ▶ 2019_0127,    
 
@@ -90,3 +92,15 @@ I have never been to a desert island. However I do not have the experience that 
 ■ ARTERETAIN
 
 Vol.20190123d | LA Art Show 2019展
+******** imgSrcs ********
+https://neolook.com/archives/2019012301d.jpg
+https://neolook.com/archives/2019012302d.jpg
+https://neolook.com/archives/2019012303d.jpg
+https://neolook.com/archives/2019012304d.jpg
+https://neolook.com/archives/2019012305d.jpg
+https://neolook.com/archives/2019012306d.jpg
+https://neolook.com/archives/2019012307d.jpg
+https://neolook.com/archives/2019012308d.jpg
+https://neolook.com/archives/2019012309d.jpg
+https://neolook.com/archives/2019012310d.jpg
+https://neolook.com/archives/2019012311d.jpg

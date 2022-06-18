@@ -1,4 +1,6 @@
 /archives/20200114a
+
+******** description ********
 어둠이 빚은 풍경
 
 박미경展 / PARKMIKYOUNG / 朴美京 / painting
@@ -45,3 +47,11 @@ deep dart fantasy_캔버스에 아크릴채색_130×194×4cm_2019
 ■ 정현
 
 Vol.20200114a | 박미경展 / PARKMIKYOUNG / 朴美京 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020011401a.jpg
+https://neolook.com/archives/2020011402a.jpg
+https://neolook.com/archives/2020011403a.jpg
+https://neolook.com/archives/2020011404a.jpg
+https://neolook.com/archives/2020011405a.jpg
+https://neolook.com/archives/2020011406a.jpg
+https://neolook.com/archives/2020011407a.jpg

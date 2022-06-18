@@ -1,4 +1,6 @@
 /archives/20130102i
+
+******** description ********
 미술 이론 강좌/로얄 독서 클럽
 
 ROYAL ACADEMY
@@ -68,3 +70,6 @@ art.royaltoto.co.kr,
  * 부득이한 사정으로 일부 강의순서 및 도서가 바뀔 수 있습니다.
 
 Vol.20130102i | ROYAL ACADEMY-미술 이론 강좌/로얄 독서 클럽
+******** imgSrcs ********
+https://neolook.com/archives/2013010201i.jpg
+https://neolook.com/archives/2013010202i.jpg

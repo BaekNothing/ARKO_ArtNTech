@@ -1,4 +1,6 @@
 /archives/20160108b
+
+******** description ********
 2016 Cre8tive Report
 
 OCI미술관 창작스튜디오 입주작가展
@@ -53,3 +55,14 @@ www.ocimuseum.org,
 ■ 김영기
 
 Vol.20160108b | 2016 Cre8tive Report-OCI미술관 창작스튜디오 입주작가展
+******** imgSrcs ********
+https://neolook.com/archives/2016010801b.jpg
+https://neolook.com/archives/2016010802b.jpg
+https://neolook.com/archives/2016010803b.jpg
+https://neolook.com/archives/2016010804b.jpg
+https://neolook.com/archives/2016010805b.jpg
+https://neolook.com/archives/2016010806b.jpg
+https://neolook.com/archives/2016010807b.jpg
+https://neolook.com/archives/2016010808b.jpg
+https://neolook.com/archives/2016010809b.jpg
+https://neolook.com/archives/2016010810b.jpg

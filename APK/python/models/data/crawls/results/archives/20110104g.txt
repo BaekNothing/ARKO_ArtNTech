@@ -1,4 +1,6 @@
 /archives/20110104g
+
+******** description ********
 Meisters
 
 책임기획_황준하
@@ -30,3 +32,8 @@ Equipment of Wood Ceramics Modelling Visual media Glass,
 ■ 황준하
 
 Vol.20110104g | Meisters展
+******** imgSrcs ********
+https://neolook.com/archives/2011010401g.jpg
+https://neolook.com/archives/2011010402g.jpg
+https://neolook.com/archives/2011010403g.jpg
+https://neolook.com/archives/2011010404g.jpg

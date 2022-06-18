@@ -1,4 +1,6 @@
 /archives/20130108a
+
+******** description ********
 Reportage
 
 르포르타주展
@@ -49,3 +51,16 @@ Evolution of Records
 ■ Lee Yoon-jung
 
 Vol.20130108a | Reportage 르포르타주展
+******** imgSrcs ********
+https://neolook.com/archives/2013010801a.jpg
+https://neolook.com/archives/2013010802a.jpg
+https://neolook.com/archives/2013010803a.jpg
+https://neolook.com/archives/2013010804a.jpg
+https://neolook.com/archives/2013010805a.jpg
+https://neolook.com/archives/2013010806a.jpg
+https://neolook.com/archives/2013010807a.jpg
+https://neolook.com/archives/2013010808a.jpg
+https://neolook.com/archives/2013010809a.jpg
+https://neolook.com/archives/2013010810a.jpg
+https://neolook.com/archives/2013010811a.jpg
+https://neolook.com/archives/2013010812a.jpg

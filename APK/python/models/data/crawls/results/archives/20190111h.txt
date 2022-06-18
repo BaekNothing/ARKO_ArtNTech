@@ -1,4 +1,6 @@
 /archives/20190111h
+
+******** description ********
 2019 무소속연구소 공간지원 작가공모 : CHECK-IN 연희동
 접수기간 / 2019_0111 ▶ 2019_0210,    
 
@@ -26,3 +28,5 @@ www.facebook.com/musosoklab,
  2019년 2월 20일 SNS공지 및 개별연락
 
 Vol.20190111h | 2019 무소속연구소 공간지원 작가공모 : CHECK-IN 연희동
+******** imgSrcs ********
+https://neolook.com/archives/2019011101h.jpg

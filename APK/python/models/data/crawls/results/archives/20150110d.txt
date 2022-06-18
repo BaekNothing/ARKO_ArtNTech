@@ -1,4 +1,6 @@
 /archives/20150110d
+
+******** description ********
 첫 장의 뒷면 back of the first page
 
 이신애展 / LEESINAE / 李信愛 / mixed media
@@ -35,3 +37,11 @@ www.willingndealing.com,
 ■ 김인선
 
 Vol.20150110d | 이신애展 / LEESINAE / 李信愛 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2015011001d.jpg
+https://neolook.com/archives/2015011002d.jpg
+https://neolook.com/archives/2015011003d.jpg
+https://neolook.com/archives/2015011004d.jpg
+https://neolook.com/archives/2015011005d.jpg
+https://neolook.com/archives/2015011006d.jpg
+https://neolook.com/archives/2015011007d.jpg

@@ -1,4 +1,6 @@
 /archives/20200103a
+
+******** description ********
 캔버스와 물감의 관계
 
 신용진展 / SHINYONGJIN / 申龍振 / mixed media
@@ -39,3 +41,12 @@ www.placemak.com,
 나의 역할은 내가 고민해왔던 것들을 읊는 것이고 작업의 관점에서 바라본다면 읊는 것조차 물질이 나를 조종하는 것일 수도 있겠다. 내가 쓰는 글은 키보드를 내가 누른것일까? 키보드가 나의 손가락을 끌어당긴것일까? ■ 신용진
 
 Vol.20200103a | 신용진展 / SHINYONGJIN / 申龍振 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2020010301a.jpg
+https://neolook.com/archives/2020010302a.jpg
+https://neolook.com/archives/2020010303a.jpg
+https://neolook.com/archives/2020010304a.jpg
+https://neolook.com/archives/2020010305a.jpg
+https://neolook.com/archives/2020010306a.jpg
+https://neolook.com/archives/2020010307a.jpg
+https://neolook.com/archives/2020010308a.jpg

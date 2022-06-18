@@ -1,4 +1,6 @@
 /archives/20120119d
+
+******** description ********
 플랫폼 아티스트
 
 인천아트플랫폼 2기 입주작가 결과보고展
@@ -90,3 +92,10 @@ www.inartplatform.kr,
 내용 : 퍼포먼스
 
 Vol.20120119d | 플랫폼 아티스트 - 인천아트플랫폼 2기 입주작가 결과보고展
+******** imgSrcs ********
+https://neolook.com/archives/2012011901d.jpg
+https://neolook.com/archives/2012011902d.jpg
+https://neolook.com/archives/2012011903d.jpg
+https://neolook.com/archives/2012011904d.jpg
+https://neolook.com/archives/2012011905d.jpg
+https://neolook.com/archives/2012011906d.jpg

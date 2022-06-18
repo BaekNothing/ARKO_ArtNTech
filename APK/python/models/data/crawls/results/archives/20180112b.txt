@@ -1,4 +1,6 @@
 /archives/20180112b
+
+******** description ********
 PLAYER PROJECT PyeongChang 2018
 
 이명호展 / LEEMYOUNGHO / 李明豪 / photography
@@ -71,3 +73,10 @@ blog.naver.com/dgallery1,
 -루지
 썰매에 누운 채 평균 시속 120~130킬로미터로 얼음 트랙을 활주하는 경기로 1인승은 이틀 동안 네번 경기를 치러 기록을 합산하며 2인승은 하루에 두 번 경기를 펼쳐 기록을 더한다. 1000분의 1초로도 승부가 갈릴 수 있으므로 순발력이 중요하다. 
 Vol.20180112b | 이명호展 / LEEMYOUNGHO / 李明豪 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018011201b.jpg
+https://neolook.com/archives/2018011202b.jpg
+https://neolook.com/archives/2018011203b.jpg
+https://neolook.com/archives/2018011204b.jpg
+https://neolook.com/archives/2018011205b.jpg
+https://neolook.com/archives/2018011206b.jpg

@@ -1,4 +1,6 @@
 /archives/20220113g
+
+******** description ********
 Remember
 
 김명숙_신학철_유근택_최진욱_하미화展
@@ -37,3 +39,16 @@ www.facebook.com/INDIPRESS,
 ■ 김정대
 
 Vol.20220113g | Remember展
+******** imgSrcs ********
+https://neolook.com/archives/2022011301g.jpg
+https://neolook.com/archives/2022011302g.jpg
+https://neolook.com/archives/2022011303g.jpg
+https://neolook.com/archives/2022011304g.jpg
+https://neolook.com/archives/2022011305g.jpg
+https://neolook.com/archives/2022011306g.jpg
+https://neolook.com/archives/2022011307g.jpg
+https://neolook.com/archives/2022011308g.jpg
+https://neolook.com/archives/2022011309g.jpg
+https://neolook.com/archives/2022011310g.jpg
+https://neolook.com/archives/2022011311g.jpg
+https://neolook.com/archives/2022011312g.jpg

@@ -1,4 +1,6 @@
 /archives/20100121h
+
+******** description ********
 거리의 명암화 
 
 장석준展 / JANGSUKJOON / 張碩準 / photography.installation 
@@ -28,3 +30,11 @@ www.television12.co.kr,
 주홍 포차 ●  밤의 껍질 주황 빛 파편들. 밝은 텐트의 간이구조가 전해주는 강렬한 밤거리의 잔상은 내 추억인듯한  보편적 감성의 착각을 불러 일으킬 정도로 뚜렷히 자리잡힌 한 유형이다. 이번에는 머리속에 쉽게 자리 잡힌 기호_밤 도시 포장마차 풍경을 통해 다시 소비될 주홍 껍질 잔상을 모았다.  이들의 나열로 이어진 붉은 그림자 파편은 다시 기억될 도시의 빛으로 재생산 되어진다. (잔상_빛의 자극이 제거된 후에도 시각기관에 어떤 흥분상태가 계속되어 시 각작용이 잠시 남는 현상) ■ 장석준
 
 Vol.20100121h | 장석준展 / JANGSUKJOON / 張碩準 / photography.installation
+******** imgSrcs ********
+https://neolook.com/archives/2010012101h.jpg
+https://neolook.com/archives/2010012102h.jpg
+https://neolook.com/archives/2010012103h.jpg
+https://neolook.com/archives/2010012104h.jpg
+https://neolook.com/archives/2010012105h.jpg
+https://neolook.com/archives/2010012106h.jpg
+https://neolook.com/archives/2010012107h.jpg

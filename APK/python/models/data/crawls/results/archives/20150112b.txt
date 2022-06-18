@@ -1,4 +1,6 @@
 /archives/20150112b
+
+******** description ********
 색(色)계(階)
 
 이다희展 / LEEDAHEE / 李多僖 / painting
@@ -40,3 +42,14 @@ www.ohzemidong.co.kr,
 ■ 이다희
 
 Vol.20150112b | 이다희展 / LEEDAHEE / 李多僖 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011201b.jpg
+https://neolook.com/archives/2015011202b.jpg
+https://neolook.com/archives/2015011203b.jpg
+https://neolook.com/archives/2015011204b.jpg
+https://neolook.com/archives/2015011205b.jpg
+https://neolook.com/archives/2015011206b.jpg
+https://neolook.com/archives/2015011207b.jpg
+https://neolook.com/archives/2015011208b.jpg
+https://neolook.com/archives/2015011209b.jpg
+https://neolook.com/archives/2015011210b.jpg

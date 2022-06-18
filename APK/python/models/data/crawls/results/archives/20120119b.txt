@@ -1,4 +1,6 @@
 /archives/20120119b
+
+******** description ********
 Love Me Tender
 
 이동욱展 / LEEDONGWOOK / 李東昱 / sculpture.installation
@@ -29,3 +31,7 @@ DOOSAN Gallery New York is pleased to announce the first New York solo exhibitio
  ■ DOOSAN Gallery New York
 
 Vol.20120119b | 이동욱展 / LEEDONGWOOK / 李東昱 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2012011901b.jpg
+https://neolook.com/archives/2012011902b.jpg
+https://neolook.com/archives/2012011903b.jpg

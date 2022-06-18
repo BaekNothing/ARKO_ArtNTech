@@ -1,4 +1,6 @@
 /archives/20100127g
+
+******** description ********
 모퉁이에서의 조우(遭遇)
 
 박선희展 / PARKSEONHEE / 朴善喜 / painting
@@ -31,3 +33,11 @@ www.galleryis.com,
 ■ 박선희
 
 Vol.20100127g | 박선희展 / PARKSEONHEE / 朴善喜 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012701g.jpg
+https://neolook.com/archives/2010012702g.jpg
+https://neolook.com/archives/2010012703g.jpg
+https://neolook.com/archives/2010012704g.jpg
+https://neolook.com/archives/2010012705g.jpg
+https://neolook.com/archives/2010012706g.jpg
+https://neolook.com/archives/2010012707g.jpg

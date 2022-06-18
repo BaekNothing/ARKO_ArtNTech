@@ -1,4 +1,6 @@
 /archives/20120111f
+
+******** description ********
 2012 우수 졸업 작품展
 
 2012_0111 ▶ 2012_0131,    ,    
@@ -35,3 +37,5 @@ www.gallerydongduk.com,
            이광호(작가)
 
 Vol.20120111f | 2012 우수 졸업 작품展
+******** imgSrcs ********
+https://neolook.com/archives/2012011101f.jpg

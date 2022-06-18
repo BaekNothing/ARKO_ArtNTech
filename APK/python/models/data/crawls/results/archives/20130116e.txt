@@ -1,4 +1,6 @@
 /archives/20130116e
+
+******** description ********
 익숙하고도 낮선감각
 
 김재형展 / KIMJAEHYEONG / 金宰亨 / sculpture
@@ -33,3 +35,11 @@ www.galleryis.com,
 ■ 강정호
 
 Vol.20130116e | 김재형展 / KIMJAEHYEONG / 金宰亨 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013011601e.jpg
+https://neolook.com/archives/2013011602e.jpg
+https://neolook.com/archives/2013011603e.jpg
+https://neolook.com/archives/2013011604e.jpg
+https://neolook.com/archives/2013011605e.jpg
+https://neolook.com/archives/2013011606e.jpg
+https://neolook.com/archives/2013011607e.jpg

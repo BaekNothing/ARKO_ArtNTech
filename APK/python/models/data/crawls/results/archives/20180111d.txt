@@ -1,4 +1,6 @@
 /archives/20180111d
+
+******** description ********
 2018 작은사치
 
 10인 10색의 이야기展
@@ -54,3 +56,14 @@ www.jbct.or.kr,
 ■ 김춘식
 
 Vol.20180111d | 2018 작은사치-10인 10색의 이야기展
+******** imgSrcs ********
+https://neolook.com/archives/2018011101d.jpg
+https://neolook.com/archives/2018011102d.jpg
+https://neolook.com/archives/2018011103d.jpg
+https://neolook.com/archives/2018011104d.jpg
+https://neolook.com/archives/2018011105d.jpg
+https://neolook.com/archives/2018011106d.jpg
+https://neolook.com/archives/2018011107d.jpg
+https://neolook.com/archives/2018011108d.jpg
+https://neolook.com/archives/2018011109d.jpg
+https://neolook.com/archives/2018011110d.jpg

@@ -1,4 +1,6 @@
 /archives/20100113g
+
+******** description ********
 Well Still Life
 
 차영석展 / CHAYOUNGSEOK / 車泳錫 / painting
@@ -30,3 +32,8 @@ This is meant to show sceneries of our daily lifes which are reflected as person
 details of objects which change along time symptoms. ■ CHAYOUNGSEOK
 
 Vol.20100113g | 차영석展 / CHAYOUNGSEOK / 車泳錫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010011301g.jpg
+https://neolook.com/archives/2010011302g.jpg
+https://neolook.com/archives/2010011303g.jpg
+https://neolook.com/archives/2010011304g.jpg

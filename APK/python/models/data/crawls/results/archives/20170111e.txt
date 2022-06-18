@@ -1,4 +1,6 @@
 /archives/20170111e
+
+******** description ********
 공(空) 의 매혹: Emptiness
 
 이호진展 / LEEHOJIN / 李虎鎭 / painting
@@ -32,3 +34,9 @@ The adjective " Great " commonly means " good " or "great achievement" but in th
 ■ Lee Hojin
 
 Vol.20170111e | 이호진展 / LEEHOJIN / 李虎鎭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011101e.jpg
+https://neolook.com/archives/2017011102e.jpg
+https://neolook.com/archives/2017011103e.jpg
+https://neolook.com/archives/2017011104e.jpg
+https://neolook.com/archives/2017011105e.jpg

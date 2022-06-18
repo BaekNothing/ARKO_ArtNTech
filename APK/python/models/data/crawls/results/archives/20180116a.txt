@@ -1,4 +1,6 @@
 /archives/20180116a
+
+******** description ********
 2018년 1월
 
 인사동 「미술세계 아카데미」'사진예술'반 회원展
@@ -36,3 +38,14 @@
 ■ 조정화
 
 Vol.20180116a | 2018년 1월-인사동 「미술세계 아카데미」'사진예술'반 회원展
+******** imgSrcs ********
+https://neolook.com/archives/2018011601a.jpg
+https://neolook.com/archives/2018011602a.jpg
+https://neolook.com/archives/2018011603a.jpg
+https://neolook.com/archives/2018011604a.jpg
+https://neolook.com/archives/2018011605a.jpg
+https://neolook.com/archives/2018011606a.jpg
+https://neolook.com/archives/2018011607a.jpg
+https://neolook.com/archives/2018011608a.jpg
+https://neolook.com/archives/2018011609a.jpg
+https://neolook.com/archives/2018011610a.jpg

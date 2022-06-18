@@ -1,4 +1,6 @@
 /archives/20180118a
+
+******** description ********
 2018년 입주작가 모집공고
 
 이응노의 집 창작스튜디오
@@ -68,3 +70,5 @@ leeungno.hongseong.go.kr,
 -스튜디오 선정 및 입주는 여건에 따라 임의 조정될 수 있습니다. 
 
 Vol.20180118a | 이응노의 집 창작스튜디오 2018년 입주작가 모집공고
+******** imgSrcs ********
+https://neolook.com/archives/2018011801a.jpg

@@ -1,4 +1,6 @@
 /archives/20180110b
+
+******** description ********
 혼자 가는 먼 집
 
 박지수展 / PARKJISUE / 朴智秀 / painting
@@ -43,3 +45,14 @@ www.gallerydos.com,
 ■ 윤상훈
 
 Vol.20180110b | 박지수展 / PARKJISUE / 朴智秀 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011001b.jpg
+https://neolook.com/archives/2018011002b.jpg
+https://neolook.com/archives/2018011003b.jpg
+https://neolook.com/archives/2018011004b.jpg
+https://neolook.com/archives/2018011005b.jpg
+https://neolook.com/archives/2018011006b.jpg
+https://neolook.com/archives/2018011007b.jpg
+https://neolook.com/archives/2018011008b.jpg
+https://neolook.com/archives/2018011009b.jpg
+https://neolook.com/archives/2018011010b.jpg

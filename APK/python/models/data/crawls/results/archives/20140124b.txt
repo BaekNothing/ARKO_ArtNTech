@@ -1,4 +1,6 @@
 /archives/20140124b
+
+******** description ********
 Men's Portraits
 
 신영훈展 / SHINYOUNGHUN / 申煐熏 / painting
@@ -34,3 +36,11 @@ galleryhanok.blog.me,
 ■ 안현정
 
 Vol.20140124b | 신영훈展 / SHINYOUNGHUN / 申煐熏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012401b.jpg
+https://neolook.com/archives/2014012402b.jpg
+https://neolook.com/archives/2014012403b.jpg
+https://neolook.com/archives/2014012404b.jpg
+https://neolook.com/archives/2014012405b.jpg
+https://neolook.com/archives/2014012406b.jpg
+https://neolook.com/archives/2014012407b.jpg

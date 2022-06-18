@@ -1,4 +1,6 @@
 /archives/20210108b
+
+******** description ********
 GS칼텍스 예울마루 창작스튜디오
 
 1기 입주작가 결과발표展
@@ -38,3 +40,9 @@ GS칼텍스 예울마루는 2019년 5월에 '가꾸어가는 예술의 섬 장�
 ■ 이민하
 
 Vol.20210108b | GS칼텍스 예울마루 창작스튜디오-1기 입주작가 결과발표展
+******** imgSrcs ********
+https://neolook.com/archives/2021010801b.jpg
+https://neolook.com/archives/2021010802b.jpg
+https://neolook.com/archives/2021010803b.jpg
+https://neolook.com/archives/2021010804b.jpg
+https://neolook.com/archives/2021010805b.jpg

@@ -1,4 +1,6 @@
 /archives/20170110a
+
+******** description ********
 모뎀 (MODEM : modulation / demodulation)
 
 이제우展 / LEEJEWOO / 李濟雨 / painting
@@ -31,3 +33,12 @@ Tel. +82.(0)10.4752.0688,    ,
 ■ 이제우
 
 Vol.20170110a | 이제우展 / LEEJEWOO / 李濟雨 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011001a.jpg
+https://neolook.com/archives/2017011002a.jpg
+https://neolook.com/archives/2017011003a.jpg
+https://neolook.com/archives/2017011004a.jpg
+https://neolook.com/archives/2017011005a.jpg
+https://neolook.com/archives/2017011006a.jpg
+https://neolook.com/archives/2017011007a.jpg
+https://neolook.com/archives/2017011008a.jpg

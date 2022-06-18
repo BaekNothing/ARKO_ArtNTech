@@ -1,4 +1,6 @@
 /archives/20160111c
+
+******** description ********
 박수근미술관 창작스튜디오 11기 입주작가 공모
 접수기간 / 2016_0111 ▶ 2016_0130,    ,    접수마감 / 2016_0130_토요일_06:00pm
 * 우편접수시 마감당일 도착분에 한함,    양구군립박수근미술관
@@ -41,3 +43,6 @@ www.parksookeun.or.kr,
 www.parksookeun.or.kr
 
 Vol.20160111c | 박수근미술관 창작스튜디오 11기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2016011101c.jpg
+https://neolook.com/archives/2016011102c.jpg

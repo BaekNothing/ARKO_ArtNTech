@@ -1,4 +1,6 @@
 /archives/20100121f
+
+******** description ********
 폐허에서 외치는 자의 소리
 
 대한민국 헌법 제1조
@@ -19,3 +21,7 @@ The King of Art_폐허에서 외치는 자의 소리_사운드 DJ&단채널 비�
 이우기_신용산_사진_31×49cm_2008
 
 이우기_신용산_사진_31×49cm_2010,    Vol.20100121f | 폐허에서 외치는 자의 소리 - 대한민국 헌법 제1조
+******** imgSrcs ********
+https://neolook.com/archives/2010012101f.jpg
+https://neolook.com/archives/2010012102f.jpg
+https://neolook.com/archives/2010012103f.jpg

@@ -1,4 +1,6 @@
 /archives/20120125a
+
+******** description ********
 Traces of Penumbra 반영半影의 자취蹟 
 
 김창수展 / KIMCHANGSOO / 金昶洙 / printing
@@ -30,3 +32,9 @@ www.galerie-gaia.net,
 ■ 김창수
 
 Vol.20120125a | 김창수展 / KIMCHANGSOO / 金昶洙 / printing
+******** imgSrcs ********
+https://neolook.com/archives/2012012501a.jpg
+https://neolook.com/archives/2012012502a.jpg
+https://neolook.com/archives/2012012503a.jpg
+https://neolook.com/archives/2012012504a.jpg
+https://neolook.com/archives/2012012505a.jpg

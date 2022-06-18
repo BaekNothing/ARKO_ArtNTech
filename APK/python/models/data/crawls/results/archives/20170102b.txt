@@ -1,4 +1,6 @@
 /archives/20170102b
+
+******** description ********
 떳떳한 헛소리
 
 권성원_서화숙_장의령展
@@ -30,3 +32,9 @@ www.gongcraft.net,
 ■ 서화숙
 
 Vol.20170102b | 떳떳한 헛소리展
+******** imgSrcs ********
+https://neolook.com/archives/2017010201b.jpg
+https://neolook.com/archives/2017010202b.jpg
+https://neolook.com/archives/2017010203b.jpg
+https://neolook.com/archives/2017010204b.jpg
+https://neolook.com/archives/2017010205b.jpg

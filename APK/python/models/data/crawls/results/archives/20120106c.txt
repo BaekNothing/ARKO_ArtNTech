@@ -1,4 +1,6 @@
 /archives/20120106c
+
+******** description ********
 PORTRAIT
 2012_0106 ▶ 2012_0128 / 일공휴일 휴관,    홍보람_trembling portrait-face_종이에 파스텔_60.7×45.5cm_2008,    초대일시 / 2012_0112_목요일_05:00pm
 참여작가 / 김제민_김형관_이주형_이준형_홍보람
@@ -36,3 +38,10 @@ www.ohzemidong.co.kr,
 ■ 홍보람
 
 Vol.20120106c | PORTRAIT展
+******** imgSrcs ********
+https://neolook.com/archives/2012010601c.jpg
+https://neolook.com/archives/2012010602c.jpg
+https://neolook.com/archives/2012010603c.jpg
+https://neolook.com/archives/2012010604c.jpg
+https://neolook.com/archives/2012010605c.jpg
+https://neolook.com/archives/2012010606c.jpg

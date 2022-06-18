@@ -1,4 +1,6 @@
 /archives/20110106c
+
+******** description ********
 Assimilate
 
 임세종展 / LIMSEJONG / 林世宗 / painting
@@ -30,3 +32,10 @@ www.gallerylamer.com,
 ■ 임세종
 
 Vol.20110106c | 임세종展 / LIMSEJONG / 林世宗 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010601c.jpg
+https://neolook.com/archives/2011010602c.jpg
+https://neolook.com/archives/2011010603c.jpg
+https://neolook.com/archives/2011010604c.jpg
+https://neolook.com/archives/2011010605c.jpg
+https://neolook.com/archives/2011010606c.jpg

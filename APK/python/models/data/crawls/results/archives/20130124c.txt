@@ -1,4 +1,6 @@
 /archives/20130124c
+
+******** description ********
 Les Flâneurs : 산책자들
 
 임소담_유창창_이해민선展
@@ -61,3 +63,11 @@ www.skape.co.kr,
 ■ 김은진
 
 Vol.20130124c | Les Flâneurs : 산책자들展
+******** imgSrcs ********
+https://neolook.com/archives/2013012401c.jpg
+https://neolook.com/archives/2013012402c.jpg
+https://neolook.com/archives/2013012403c.jpg
+https://neolook.com/archives/2013012404c.jpg
+https://neolook.com/archives/2013012405c.jpg
+https://neolook.com/archives/2013012406c.jpg
+https://neolook.com/archives/2013012407c.jpg

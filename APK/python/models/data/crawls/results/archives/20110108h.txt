@@ -1,4 +1,6 @@
 /archives/20110108h
+
+******** description ********
 그림 혹은 그리움
 
 2011_0114 ▶ 2011_0120,    ,    
@@ -48,3 +50,14 @@ www.gallerynavee.com ,
 ■ 조선흠
 
 Vol.20110108h | 그림 혹은 그리움展
+******** imgSrcs ********
+https://neolook.com/archives/2011010801h.jpg
+https://neolook.com/archives/2011010802h.jpg
+https://neolook.com/archives/2011010803h.jpg
+https://neolook.com/archives/2011010804h.jpg
+https://neolook.com/archives/2011010805h.jpg
+https://neolook.com/archives/2011010806h.jpg
+https://neolook.com/archives/2011010807h.jpg
+https://neolook.com/archives/2011010808h.jpg
+https://neolook.com/archives/2011010809h.jpg
+https://neolook.com/archives/2011010810h.jpg

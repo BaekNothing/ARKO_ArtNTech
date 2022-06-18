@@ -1,4 +1,6 @@
 /archives/20100120c
+
+******** description ********
 이준호展 / LEEJUNHO / 李俊昊 / painting
  
 2010_0120 ▶ 2010_0131,    
@@ -36,3 +38,11 @@ www.youngartgallery.co.kr,
  이제 나는 잠든 생명의 숲이 깨어날 시간을 기다리며 칼끝 풍경에 서 있다. ■ 이준호
 
 Vol.20100120c | 이준호展 / LEEJUNHO / 李俊昊 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012001c.jpg
+https://neolook.com/archives/2010012002c.jpg
+https://neolook.com/archives/2010012003c.jpg
+https://neolook.com/archives/2010012004c.jpg
+https://neolook.com/archives/2010012005c.jpg
+https://neolook.com/archives/2010012006c.jpg
+https://neolook.com/archives/2010012007c.jpg

@@ -1,4 +1,6 @@
 /archives/20120109c
+
+******** description ********
 On the Earth: Cambodia_Tibet
 
 임영선展 / LIMYOUNGSUN / 林英宣 / painting
@@ -32,3 +34,11 @@ www.ganaart.com,
 ■ 김준기
 
 Vol.20120109c | 임영선展 / LIMYOUNGSUN / 林英宣 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010901c.jpg
+https://neolook.com/archives/2012010902c.jpg
+https://neolook.com/archives/2012010903c.jpg
+https://neolook.com/archives/2012010904c.jpg
+https://neolook.com/archives/2012010905c.jpg
+https://neolook.com/archives/2012010906c.jpg
+https://neolook.com/archives/2012010907c.jpg

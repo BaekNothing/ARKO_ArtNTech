@@ -1,4 +1,6 @@
 /archives/20150106b
+
+******** description ********
 비옥한 초승달 지대 Fertile Crescent
 
 장선아展 / JANGSUNA / 張善雅 / installation
@@ -73,3 +75,11 @@
 ■ 장선아
 
 Vol.20150106b | 장선아展 / JANGSUNA / 張善雅 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2015010601b.jpg
+https://neolook.com/archives/2015010602b.jpg
+https://neolook.com/archives/2015010603b.jpg
+https://neolook.com/archives/2015010604b.jpg
+https://neolook.com/archives/2015010605b.jpg
+https://neolook.com/archives/2015010606b.jpg
+https://neolook.com/archives/2015010607b.jpg

@@ -1,4 +1,6 @@
 /archives/20150128f
+
+******** description ********
 세 개의 불 Three fires
 
 정해나展 / JUNGHAENA / 鄭해나 / painting
@@ -35,3 +37,11 @@ www.gallerydos.com,
 ■ 김미향
 
 Vol.20150128f | 정해나展 / JUNGHAENA / 鄭해나 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012801f.jpg
+https://neolook.com/archives/2015012802f.jpg
+https://neolook.com/archives/2015012803f.jpg
+https://neolook.com/archives/2015012804f.jpg
+https://neolook.com/archives/2015012805f.jpg
+https://neolook.com/archives/2015012806f.jpg
+https://neolook.com/archives/2015012807f.jpg

@@ -1,4 +1,6 @@
 /archives/20100108b
+
+******** description ********
 아직도 아시아프 최고 작가들을 모르세요?
 
 2010_0108 ▶ 2010_0121,    ,    초대일시_2010_0108_금요일_06:00pm
@@ -49,3 +51,10 @@ www.gallerymac.kr,
 ■ 임장환
 
 Vol.20100108b | 아직도 아시아프 최고 작가들을 모르세요?展
+******** imgSrcs ********
+https://neolook.com/archives/2010010801b.jpg
+https://neolook.com/archives/2010010802b.jpg
+https://neolook.com/archives/2010010803b.jpg
+https://neolook.com/archives/2010010804b.jpg
+https://neolook.com/archives/2010010805b.jpg
+https://neolook.com/archives/2010010806b.jpg

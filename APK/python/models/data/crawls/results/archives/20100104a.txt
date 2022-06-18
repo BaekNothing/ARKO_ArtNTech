@@ -1,4 +1,6 @@
 /archives/20100104a
+
+******** description ********
 Collection and Collection 3
 
 2010_0104 ▶ 2010_0126 / 일요일 휴관,    
@@ -35,3 +37,11 @@ www.shinhanmuseum.co.kr,
 최승_surface_캔버스에 유채_41×53cm_2009
 
 최윤영_노을_장지에 채색_71×91cm_2009,    Vol.20100104a | Collection and Collection 3展
+******** imgSrcs ********
+https://neolook.com/archives/2010010401a.jpg
+https://neolook.com/archives/2010010402a.jpg
+https://neolook.com/archives/2010010403a.jpg
+https://neolook.com/archives/2010010404a.jpg
+https://neolook.com/archives/2010010405a.jpg
+https://neolook.com/archives/2010010406a.jpg
+https://neolook.com/archives/2010010407a.jpg

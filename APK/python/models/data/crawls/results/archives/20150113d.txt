@@ -1,4 +1,6 @@
 /archives/20150113d
+
+******** description ********
 윤형민展 / YOONHYUNGMIN / 尹炯旻 / painting
  
 2015_0113 ▶ 2015_0202,    
@@ -20,3 +22,8 @@ www.galleryhyundai.com,
 ■ 윤형민
 
 Vol.20150113d | 윤형민展 / YOONHYUNGMIN / 尹炯旻 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011301d.jpg
+https://neolook.com/archives/2015011302d.jpg
+https://neolook.com/archives/2015011303d.jpg
+https://neolook.com/archives/2015011304d.jpg

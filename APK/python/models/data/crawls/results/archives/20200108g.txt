@@ -1,4 +1,6 @@
 /archives/20200108g
+
+******** description ********
 SPACE
 
 서재정_이설영 2인展
@@ -42,3 +44,15 @@ SPACE展_에이앤에이갤러리 이설영 섹션_2020,
 ● 이번 전시에서는 에이앤에이 갤러리의 공간을 소재로 한 신작을 선보인다. 실제 갤러리 공간과 작품에 구현된 환영적 공간이 어우러져 관람자로 하여금 실재와 가상의 사이 공간 보다 확장된 공간의 시지각적 경험을 제공하고자 한다. ■ 이설영
 
 Vol.20200108g | SPACE-서재정_이설영 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2020010801g.jpg
+https://neolook.com/archives/2020010802g.jpg
+https://neolook.com/archives/2020010803g.jpg
+https://neolook.com/archives/2020010804g.jpg
+https://neolook.com/archives/2020010805g.jpg
+https://neolook.com/archives/2020010806g.jpg
+https://neolook.com/archives/2020010807g.jpg
+https://neolook.com/archives/2020010808g.jpg
+https://neolook.com/archives/2020010809g.jpg
+https://neolook.com/archives/2020010810g.jpg
+https://neolook.com/archives/2020010811g.jpg

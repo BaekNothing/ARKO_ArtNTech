@@ -1,4 +1,6 @@
 /archives/20120113b
+
+******** description ********
 Unlimited City
 
 임우재展 / LIMWOOJAE / 林祐在 / installation.photography
@@ -31,3 +33,9 @@ Tel. 070.7723.0584,
  ■ 임우재
 
 Vol.20120113b | 임우재展 / LIMWOOJAE / 林祐在 / installation.photography
+******** imgSrcs ********
+https://neolook.com/archives/2012011301b.jpg
+https://neolook.com/archives/2012011302b.jpg
+https://neolook.com/archives/2012011303b.jpg
+https://neolook.com/archives/2012011304b.jpg
+https://neolook.com/archives/2012011305b.jpg

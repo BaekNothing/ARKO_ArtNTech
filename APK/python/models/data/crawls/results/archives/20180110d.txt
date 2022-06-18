@@ -1,4 +1,6 @@
 /archives/20180110d
+
+******** description ********
 275 SERIES
 
 275c(이재호)展 / graphic
@@ -58,3 +60,14 @@ WE STOP! HATE ●
 ■ 275c
 
 Vol.20180110d | 275c(이재호)展 / graphic
+******** imgSrcs ********
+https://neolook.com/archives/2018011001d.jpg
+https://neolook.com/archives/2018011002d.jpg
+https://neolook.com/archives/2018011003d.jpg
+https://neolook.com/archives/2018011004d.jpg
+https://neolook.com/archives/2018011005d.jpg
+https://neolook.com/archives/2018011006d.jpg
+https://neolook.com/archives/2018011007d.jpg
+https://neolook.com/archives/2018011008d.jpg
+https://neolook.com/archives/2018011009d.jpg
+https://neolook.com/archives/2018011010d.jpg

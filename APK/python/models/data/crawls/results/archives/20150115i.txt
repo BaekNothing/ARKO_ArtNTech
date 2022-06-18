@@ -1,4 +1,6 @@
 /archives/20150115i
+
+******** description ********
 만(灣)의 풍경
 
 이경희展 / LEEKYONGHEE / 李景熙 / painting
@@ -34,3 +36,11 @@ www.poma.kr,
 ■ 포항시립미술관
 
 Vol.20150115i | 이경희展 / LEEKYONGHEE / 李景熙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011501i.jpg
+https://neolook.com/archives/2015011502i.jpg
+https://neolook.com/archives/2015011503i.jpg
+https://neolook.com/archives/2015011504i.jpg
+https://neolook.com/archives/2015011505i.jpg
+https://neolook.com/archives/2015011506i.jpg
+https://neolook.com/archives/2015011507i.jpg

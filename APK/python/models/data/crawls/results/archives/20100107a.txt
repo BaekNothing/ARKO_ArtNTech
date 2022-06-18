@@ -1,4 +1,6 @@
 /archives/20100107a
+
+******** description ********
 TEXT@MEDIA
 
 2010_0107 ▶ 2010_0120 / 월요일 휴관,    ,    초대일시_2010_0107_목요일_06:00pm
@@ -40,3 +42,12 @@ TEXT@MEDIA ● 『TEXT@MEDIA FEST』는 텍스트(text)와 미디어(media)의 �
 2010년 1월 20일(수) 서교예술실험센터 (공연 시간은 웹사이트에 추후 공지됩니다)
 
 Vol.20100107a | TEXT@MEDIA展
+******** imgSrcs ********
+https://neolook.com/archives/2010010701a.jpg
+https://neolook.com/archives/2010010702a.jpg
+https://neolook.com/archives/2010010703a.jpg
+https://neolook.com/archives/2010010704a.jpg
+https://neolook.com/archives/2010010705a.jpg
+https://neolook.com/archives/2010010706a.jpg
+https://neolook.com/archives/2010010707a.jpg
+https://neolook.com/archives/2010010708a.jpg

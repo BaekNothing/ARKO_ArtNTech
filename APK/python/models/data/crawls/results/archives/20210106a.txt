@@ -1,4 +1,6 @@
 /archives/20210106a
+
+******** description ********
 괜찮소?! OK-So?!
 
 2021 세화展
@@ -55,3 +57,15 @@ www.galleryis.com,
 ■ 반아(反我)
 
 Vol.20210106a | 괜찮소?! OK-So?!-2021 세화展
+******** imgSrcs ********
+https://neolook.com/archives/2021010601a.jpg
+https://neolook.com/archives/2021010602a.jpg
+https://neolook.com/archives/2021010603a.jpg
+https://neolook.com/archives/2021010604a.jpg
+https://neolook.com/archives/2021010605a.jpg
+https://neolook.com/archives/2021010606a.jpg
+https://neolook.com/archives/2021010607a.jpg
+https://neolook.com/archives/2021010608a.jpg
+https://neolook.com/archives/2021010609a.jpg
+https://neolook.com/archives/2021010610a.jpg
+https://neolook.com/archives/2021010611a.jpg

@@ -1,4 +1,6 @@
 /archives/20150103b
+
+******** description ********
 의기양양 意氣羊羊
 
 곽수연_김재규_미츠노리 기무라_박형진_여동헌展
@@ -39,3 +41,14 @@ blog.naver.com/gallerylotte,
 ■ 롯데갤러리
 
 Vol.20150103b | 의기양양 意氣羊羊展
+******** imgSrcs ********
+https://neolook.com/archives/2015010301b.jpg
+https://neolook.com/archives/2015010302b.jpg
+https://neolook.com/archives/2015010303b.jpg
+https://neolook.com/archives/2015010304b.jpg
+https://neolook.com/archives/2015010305b.jpg
+https://neolook.com/archives/2015010306b.jpg
+https://neolook.com/archives/2015010307b.jpg
+https://neolook.com/archives/2015010308b.jpg
+https://neolook.com/archives/2015010309b.jpg
+https://neolook.com/archives/2015010310b.jpg

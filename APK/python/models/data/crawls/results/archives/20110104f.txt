@@ -1,4 +1,6 @@
 /archives/20110104f
+
+******** description ********
 연상하는 이미지
 
 이정아_장보윤展
@@ -29,3 +31,10 @@ cafe.naver.com/storyart21,
 ■ 장보윤
 
 Vol.20110104f | 연상하는 이미지-이정아_장보윤展
+******** imgSrcs ********
+https://neolook.com/archives/2011010401f.jpg
+https://neolook.com/archives/2011010402f.jpg
+https://neolook.com/archives/2011010403f.jpg
+https://neolook.com/archives/2011010404f.jpg
+https://neolook.com/archives/2011010405f.jpg
+https://neolook.com/archives/2011010406f.jpg

@@ -1,4 +1,6 @@
 /archives/20130131a
+
+******** description ********
 목단행성(牧丹行星)
 
 황세준展 / HWANGSEJUN / 黃世畯 / painting
@@ -48,3 +50,11 @@ art.royaltoto.co.kr,
 ■ 황세준
 
 Vol.20130131a | 황세준展 / HWANGSEJUN / 黃世畯 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013013101a.jpg
+https://neolook.com/archives/2013013102a.jpg
+https://neolook.com/archives/2013013103a.jpg
+https://neolook.com/archives/2013013104a.jpg
+https://neolook.com/archives/2013013105a.jpg
+https://neolook.com/archives/2013013106a.jpg
+https://neolook.com/archives/2013013107a.jpg

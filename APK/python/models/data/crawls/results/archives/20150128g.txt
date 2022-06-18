@@ -1,4 +1,6 @@
 /archives/20150128g
+
+******** description ********
 FAST FACE
 
 강지호_김종권_신원준_양아람_홍준경展
@@ -28,3 +30,15 @@ blog.naver.com/artmiboo,
 ■ 박은지
 
 Vol.20150128g | FAST FACE展
+******** imgSrcs ********
+https://neolook.com/archives/2015012801g.jpg
+https://neolook.com/archives/2015012802g.jpg
+https://neolook.com/archives/2015012803g.jpg
+https://neolook.com/archives/2015012804g.jpg
+https://neolook.com/archives/2015012805g.jpg
+https://neolook.com/archives/2015012806g.jpg
+https://neolook.com/archives/2015012807g.jpg
+https://neolook.com/archives/2015012808g.jpg
+https://neolook.com/archives/2015012809g.jpg
+https://neolook.com/archives/2015012810g.jpg
+https://neolook.com/archives/2015012811g.jpg

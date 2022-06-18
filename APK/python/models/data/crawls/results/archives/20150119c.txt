@@ -1,4 +1,6 @@
 /archives/20150119c
+
+******** description ********
 부조리한 덩어리
 
 천성명展 / CHUNSUNGMYUNG / 千成明 / sculpture
@@ -32,3 +34,10 @@ www.spacek.co.kr,
 ■ 스페이스K
 
 Vol.20150119c | 천성명展 / CHUNSUNGMYUNG / 千成明 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2015011901c.jpg
+https://neolook.com/archives/2015011902c.jpg
+https://neolook.com/archives/2015011903c.jpg
+https://neolook.com/archives/2015011904c.jpg
+https://neolook.com/archives/2015011905c.jpg
+https://neolook.com/archives/2015011906c.jpg

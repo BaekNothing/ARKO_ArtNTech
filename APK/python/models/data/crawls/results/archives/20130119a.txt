@@ -1,4 +1,6 @@
 /archives/20130119a
+
+******** description ********
 We Are Just Bits
 
 김태윤_이은선_한경우展
@@ -45,3 +47,10 @@ www.oneandj.com,
 ■ 이경민
 
 Vol.20130119a | We Are Just Bits展
+******** imgSrcs ********
+https://neolook.com/archives/2013011901a.jpg
+https://neolook.com/archives/2013011902a.jpg
+https://neolook.com/archives/2013011903a.jpg
+https://neolook.com/archives/2013011904a.jpg
+https://neolook.com/archives/2013011905a.jpg
+https://neolook.com/archives/2013011906a.jpg

@@ -1,4 +1,6 @@
 /archives/20130130a
+
+******** description ********
 유-토포스 U-Topos 樂園
 
 박제경展 / PARKJEKYOUNG / 朴濟京 / painting
@@ -104,3 +106,11 @@ Artist Jekyoung Park expresses lace like a painting. She uses paint instead of t
 ■ Cho Kwang-dje
 
 Vol.20130130a | 박제경展 / PARKJEKYOUNG / 朴濟京 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013013001a.jpg
+https://neolook.com/archives/2013013002a.jpg
+https://neolook.com/archives/2013013003a.jpg
+https://neolook.com/archives/2013013004a.jpg
+https://neolook.com/archives/2013013005a.jpg
+https://neolook.com/archives/2013013006a.jpg
+https://neolook.com/archives/2013013007a.jpg

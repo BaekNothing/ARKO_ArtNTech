@@ -1,4 +1,6 @@
 /archives/20110117g
+
+******** description ********
 조각 門을 열다
 
 B.A.M(Baum Art Membership) 회원모집
@@ -41,3 +43,5 @@ www.baumartgallery.co.kr,
 자세한 사항은 홈페이지 참조 www.baumartgallery.co.kr 
 
 Vol.20110117g | 조각 門을 열다-B.A.M(Baum Art Membership) 회원모집
+******** imgSrcs ********
+https://neolook.com/archives/2011011701g.jpg

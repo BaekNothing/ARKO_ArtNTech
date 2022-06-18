@@ -1,4 +1,6 @@
 /archives/20150124b
+
+******** description ********
 시대의 얼굴들
 
 권순철展 / KWUNSUNCHEOL / 權純哲 / painting
@@ -34,3 +36,11 @@ www.gallerysesom.com,
 ■ 다프네 낭 르 세르정
 
 Vol.20150124b | 권순철展 / KWUNSUNCHEOL / 權純哲 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012401b.jpg
+https://neolook.com/archives/2015012402b.jpg
+https://neolook.com/archives/2015012403b.jpg
+https://neolook.com/archives/2015012404b.jpg
+https://neolook.com/archives/2015012405b.jpg
+https://neolook.com/archives/2015012406b.jpg
+https://neolook.com/archives/2015012407b.jpg

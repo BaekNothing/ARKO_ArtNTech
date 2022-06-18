@@ -1,4 +1,6 @@
 /archives/20210129b
+
+******** description ********
 군중 속의 나
 
 김정미展 / KIMJEONGMI / ??? / painting
@@ -46,3 +48,14 @@ www.elandgallery.co.kr,
 ■ 김정미
 
 Vol.20210129b | 김정미展 / KIMJEONGMI / ??? / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021012901b.jpg
+https://neolook.com/archives/2021012902b.jpg
+https://neolook.com/archives/2021012903b.jpg
+https://neolook.com/archives/2021012904b.jpg
+https://neolook.com/archives/2021012905b.jpg
+https://neolook.com/archives/2021012906b.jpg
+https://neolook.com/archives/2021012907b.jpg
+https://neolook.com/archives/2021012908b.jpg
+https://neolook.com/archives/2021012909b.jpg
+https://neolook.com/archives/2021012910b.jpg

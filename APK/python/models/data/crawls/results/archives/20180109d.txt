@@ -1,4 +1,6 @@
 /archives/20180109d
+
+******** description ********
 假山·놀이 An Artifical hill·Pastime
 
 유혜경展 / YUHAEKYUNG / 劉惠鏡 / painting
@@ -51,3 +53,14 @@ www.kumoh.ac.kr,
 ■ 유혜경
 
 Vol.20180109d | 유혜경展 / YUHAEKYUNG / 劉惠鏡 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010901d.jpg
+https://neolook.com/archives/2018010902d.jpg
+https://neolook.com/archives/2018010903d.jpg
+https://neolook.com/archives/2018010904d.jpg
+https://neolook.com/archives/2018010905d.jpg
+https://neolook.com/archives/2018010906d.jpg
+https://neolook.com/archives/2018010907d.jpg
+https://neolook.com/archives/2018010908d.jpg
+https://neolook.com/archives/2018010909d.jpg
+https://neolook.com/archives/2018010910d.jpg

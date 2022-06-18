@@ -1,4 +1,6 @@
 /archives/20200109b
+
+******** description ********
 COPIER
 
 정희승展 / CHUNGHEESEUNG / 鄭喜丞 / photography
@@ -48,3 +50,14 @@ www.sindoh.com,
 ● 이 질문을 던져야 한다는 것이다. ■ 정희승
 
 Vol.20200109b | 정희승展 / CHUNGHEESEUNG / 鄭喜丞 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2020010901b.jpg
+https://neolook.com/archives/2020010902b.jpg
+https://neolook.com/archives/2020010903b.jpg
+https://neolook.com/archives/2020010904b.jpg
+https://neolook.com/archives/2020010905b.jpg
+https://neolook.com/archives/2020010906b.jpg
+https://neolook.com/archives/2020010907b.jpg
+https://neolook.com/archives/2020010908b.jpg
+https://neolook.com/archives/2020010909b.jpg
+https://neolook.com/archives/2020010910b.jpg

@@ -1,4 +1,6 @@
 /archives/20220118g
+
+******** description ********
 점유되는 풍경(Scenery occupied)
 
 김윤아展 / KIMYUNAH / 金倫我 / installation
@@ -42,3 +44,15 @@ www.a-bunker.com,
 ■ 김주옥
 
 Vol.20220118g | 김윤아展 / KIMYUNAH / 金倫我 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2022011801g.jpg
+https://neolook.com/archives/2022011802g.jpg
+https://neolook.com/archives/2022011803g.jpg
+https://neolook.com/archives/2022011804g.jpg
+https://neolook.com/archives/2022011805g.jpg
+https://neolook.com/archives/2022011806g.jpg
+https://neolook.com/archives/2022011807g.jpg
+https://neolook.com/archives/2022011808g.jpg
+https://neolook.com/archives/2022011809g.jpg
+https://neolook.com/archives/2022011810g.jpg
+https://neolook.com/archives/2022011811g.jpg

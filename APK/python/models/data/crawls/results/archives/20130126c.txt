@@ -1,4 +1,6 @@
 /archives/20130126c
+
+******** description ********
 진짜의 얼굴들 Faces of the Real
 
 김휘경展 / HWI KIM / 金輝暻 / photography
@@ -65,3 +67,11 @@ When I designed this analog-oriented workflow I worked diligently to reflect 100
 ■ HWI KIM
 
 Vol.20130126c | 김휘경展 / HWI KIM / 金輝暻 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2013012601c.jpg
+https://neolook.com/archives/2013012602c.jpg
+https://neolook.com/archives/2013012603c.jpg
+https://neolook.com/archives/2013012604c.jpg
+https://neolook.com/archives/2013012605c.jpg
+https://neolook.com/archives/2013012606c.jpg
+https://neolook.com/archives/2013012607c.jpg

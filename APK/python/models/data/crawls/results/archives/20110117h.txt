@@ -1,4 +1,6 @@
 /archives/20110117h
+
+******** description ********
 느린 풍경 작은 우화 Sluggish Scenery Small Fable
 
 김선두_임만혁展
@@ -42,3 +44,14 @@ www.gallery-ik.co.kr,
 ■ 김창조
 
 Vol.20110117h | 느린 풍경 작은 우화-김선두_임만혁展
+******** imgSrcs ********
+https://neolook.com/archives/2011011701h.jpg
+https://neolook.com/archives/2011011702h.jpg
+https://neolook.com/archives/2011011703h.jpg
+https://neolook.com/archives/2011011704h.jpg
+https://neolook.com/archives/2011011705h.jpg
+https://neolook.com/archives/2011011706h.jpg
+https://neolook.com/archives/2011011707h.jpg
+https://neolook.com/archives/2011011708h.jpg
+https://neolook.com/archives/2011011709h.jpg
+https://neolook.com/archives/2011011710h.jpg

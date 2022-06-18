@@ -1,4 +1,6 @@
 /archives/20140123a
+
+******** description ********
 동행 설레임
 
 서정순展 / SEOJEONGSOON / 徐丁順 / painting
@@ -26,3 +28,9 @@ Tel. +82.62.960.3987~9,
 ■ 김상철
 
 Vol.20140123a | 서정순展 / SEOJEONGSOON / 徐丁順 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012301a.jpg
+https://neolook.com/archives/2014012302a.jpg
+https://neolook.com/archives/2014012303a.jpg
+https://neolook.com/archives/2014012304a.jpg
+https://neolook.com/archives/2014012305a.jpg

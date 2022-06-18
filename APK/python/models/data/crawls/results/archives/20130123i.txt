@@ -1,4 +1,6 @@
 /archives/20130123i
+
+******** description ********
 산조散調-투명함
 
 이만수展 / LEEMANSOO / 李晩洙 / painting
@@ -129,3 +131,11 @@ www.grimson.co.kr,
 ■ 고충환
 
 Vol.20130123i | 이만수展 / LEEMANSOO / 李晩洙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012301i.jpg
+https://neolook.com/archives/2013012302i.jpg
+https://neolook.com/archives/2013012303i.jpg
+https://neolook.com/archives/2013012304i.jpg
+https://neolook.com/archives/2013012305i.jpg
+https://neolook.com/archives/2013012306i.jpg
+https://neolook.com/archives/2013012307i.jpg

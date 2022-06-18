@@ -1,4 +1,6 @@
 /archives/20200104d
+
+******** description ********
 다양성 언어로서의 현대미술
 
 2020 소장작품 특별展
@@ -45,3 +47,22 @@ schemaart.net,
 모두 쉐마미술관의 소중한 작품들이면서 우리 고장의 중요한 자산이라고 생각합니다. 꼭 오셔서 감상하시길 바랍니다. ■ 김재관
 
 Vol.20200104d | 다양성 언어로서의 현대미술-2020 소장작품 특별展
+******** imgSrcs ********
+https://neolook.com/archives/2020010401d.jpg
+https://neolook.com/archives/2020010402d.jpg
+https://neolook.com/archives/2020010403d.jpg
+https://neolook.com/archives/2020010404d.jpg
+https://neolook.com/archives/2020010405d.jpg
+https://neolook.com/archives/2020010406d.jpg
+https://neolook.com/archives/2020010407d.jpg
+https://neolook.com/archives/2020010408d.jpg
+https://neolook.com/archives/2020010409d.jpg
+https://neolook.com/archives/2020010410d.jpg
+https://neolook.com/archives/2020010411d.jpg
+https://neolook.com/archives/2020010412d.jpg
+https://neolook.com/archives/2020010413d.jpg
+https://neolook.com/archives/2020010414d.jpg
+https://neolook.com/archives/2020010415d.jpg
+https://neolook.com/archives/2020010416d.jpg
+https://neolook.com/archives/2020010417d.jpg
+https://neolook.com/archives/2020010418d.jpg

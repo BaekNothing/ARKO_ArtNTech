@@ -1,4 +1,6 @@
 /archives/20110104e
+
+******** description ********
 잃어버린 풍경
 
 주명덕展 / JOOMYUNGDUCK / 朱明德 / photography
@@ -48,3 +50,10 @@ Thus regarding my photographs I feel it would be foolish to even try to say anyt
 ■ JOOMYUNGDUCK
 
 Vol.20110104e | 주명덕展 / JOOMYUNGDUCK / 朱明德 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011010401e.jpg
+https://neolook.com/archives/2011010402e.jpg
+https://neolook.com/archives/2011010403e.jpg
+https://neolook.com/archives/2011010404e.jpg
+https://neolook.com/archives/2011010405e.jpg
+https://neolook.com/archives/2011010406e.jpg

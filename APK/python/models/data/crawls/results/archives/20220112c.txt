@@ -1,4 +1,6 @@
 /archives/20220112c
+
+******** description ********
 만수무강(萬壽無疆) 비지니스: 약주방(藥酒房)
 
 김홍빈展 / KIMHONGBIN / 金弘斌 / installation
@@ -36,3 +38,11 @@ www.placemak.com,
 ■ 우리
 
 Vol.20220112c | 김홍빈展 / KIMHONGBIN / 金弘斌 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2022011201c.jpg
+https://neolook.com/archives/2022011202c.jpg
+https://neolook.com/archives/2022011203c.jpg
+https://neolook.com/archives/2022011204c.jpg
+https://neolook.com/archives/2022011205c.jpg
+https://neolook.com/archives/2022011206c.jpg
+https://neolook.com/archives/2022011207c.jpg

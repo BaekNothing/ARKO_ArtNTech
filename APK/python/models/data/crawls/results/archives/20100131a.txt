@@ -1,4 +1,6 @@
 /archives/20100131a
+
+******** description ********
 오! 명화
 
 경기도미술관 신소장품展
@@ -41,3 +43,11 @@ www.gmoma.org,
 ■ 경기도미술관
 
 Vol.20100131a | 오! 명화-경기도미술관 신소장품展
+******** imgSrcs ********
+https://neolook.com/archives/2010013101a.jpg
+https://neolook.com/archives/2010013102a.jpg
+https://neolook.com/archives/2010013103a.jpg
+https://neolook.com/archives/2010013104a.jpg
+https://neolook.com/archives/2010013107a.jpg
+https://neolook.com/archives/2010013105a.jpg
+https://neolook.com/archives/2010013106a.jpg

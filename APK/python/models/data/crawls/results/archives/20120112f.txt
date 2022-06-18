@@ -1,4 +1,6 @@
 /archives/20120112f
+
+******** description ********
 BEYOND THE METAPHOR
 
 강희정展 / KANGHEEJUNG / 康希楨 / painting
@@ -37,3 +39,10 @@ art.cnbnews.com,
 ■ 강희정
 
 Vol.20120112f | 강희정展 / KANGHEEJUNG / 康希楨 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011201f.jpg
+https://neolook.com/archives/2012011202f.jpg
+https://neolook.com/archives/2012011203f.jpg
+https://neolook.com/archives/2012011204f.jpg
+https://neolook.com/archives/2012011205f.jpg
+https://neolook.com/archives/2012011206f.jpg

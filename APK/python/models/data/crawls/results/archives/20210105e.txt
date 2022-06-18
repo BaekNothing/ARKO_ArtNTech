@@ -1,4 +1,6 @@
 /archives/20210105e
+
+******** description ********
 눈 밖의 이미지 Image transition
 
 임지현展 / LIMJIHYUN / 林芝炫 / mixed media
@@ -42,3 +44,10 @@ www.onsu-gonggan.com,
 ■ 김정현
 
 Vol.20210105e | 임지현展 / LIMJIHYUN / 林芝炫 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2021010501e.jpg
+https://neolook.com/archives/2021010502e.jpg
+https://neolook.com/archives/2021010503e.jpg
+https://neolook.com/archives/2021010504e.jpg
+https://neolook.com/archives/2021010505e.jpg
+https://neolook.com/archives/2021010506e.jpg

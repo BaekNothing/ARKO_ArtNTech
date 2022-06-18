@@ -1,4 +1,6 @@
 /archives/20130109d
+
+******** description ********
 박물관 Image
 2013_0109 ▶ 2013_0204,    ,    
 참여작가
@@ -54,3 +56,19 @@ www.gallerydongduk.com,
 ■ 강태성
 
 Vol.20130109d | 박물관 Image展
+******** imgSrcs ********
+https://neolook.com/archives/2013010901d.jpg
+https://neolook.com/archives/2013010902d.jpg
+https://neolook.com/archives/2013010903d.jpg
+https://neolook.com/archives/2013010904d.jpg
+https://neolook.com/archives/2013010905d.jpg
+https://neolook.com/archives/2013010906d.jpg
+https://neolook.com/archives/2013010907d.jpg
+https://neolook.com/archives/2013010908d.jpg
+https://neolook.com/archives/2013010909d.jpg
+https://neolook.com/archives/2013010910d.jpg
+https://neolook.com/archives/2013010911d.jpg
+https://neolook.com/archives/2013010912d.jpg
+https://neolook.com/archives/2013010913d.jpg
+https://neolook.com/archives/2013010914d.jpg
+https://neolook.com/archives/2013010915d.jpg

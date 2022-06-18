@@ -1,4 +1,6 @@
 /archives/20120105b
+
+******** description ********
 비밀 오차의 범위(the Secret)
 
 2011 아르코 지역 네트워크展
@@ -62,3 +64,19 @@ www.arkoartcenter.or.kr,
 ■ 이상수
 
 Vol.20120105b | 비밀 오차의 범위(the Secret)-2011 아르코 지역 네트워크展
+******** imgSrcs ********
+https://neolook.com/archives/2012010501b.jpg
+https://neolook.com/archives/2012010502b.jpg
+https://neolook.com/archives/2012010503b.jpg
+https://neolook.com/archives/2012010504b.jpg
+https://neolook.com/archives/2012010505b.jpg
+https://neolook.com/archives/2012010506b.jpg
+https://neolook.com/archives/2012010507b.jpg
+https://neolook.com/archives/2012010508b.jpg
+https://neolook.com/archives/2012010509b.jpg
+https://neolook.com/archives/2012010510b.jpg
+https://neolook.com/archives/2012010511b.jpg
+https://neolook.com/archives/2012010512b.jpg
+https://neolook.com/archives/2012010513b.jpg
+https://neolook.com/archives/2012010514b.jpg
+https://neolook.com/archives/2012010515b.jpg

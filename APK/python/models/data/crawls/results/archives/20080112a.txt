@@ -1,4 +1,6 @@
 /archives/20080112a
+
+******** description ********
 Pop_Hero
 
 유둘_임혜진_조문기_찰스장展
@@ -21,3 +23,14 @@ Tel. +82.16.245.3410,
 
 찰스장_하그리브스 v 리세_캔버스에 아크릴채색_116.8×91cm_2007,    난 우리가 흔하게 접하게 되는 이미지들을 재해석하는데 관심이 있다. 만화를 보거나 신문을 보더라도 만화의 스토리나 신문기사내용은 나의 관심거리가 아니다. 그 이미지가 가지고 있는 색채와 형태에 관심을 가진다. 즉 만화를 보더라도 그 만화의 내용보다 그려진 삽화에만 관심이 많다. 이러한 나의 관심은 만화나 신문이미지뿐만 아니라 기업의 로고 군부대 마크 등 다양하다. 우리가 쉽게 접하고 때론 스쳐지나가는 이미지들을 재생산하는데 최근 작업에서 중점이 되고 있다. ■ 찰스장
 Vol.20080112a | Pop_Hero展
+******** imgSrcs ********
+/archives/2008011201a.gif
+https://neolook.com/archives/2008011202a.jpg
+https://neolook.com/archives/2008011203a.jpg
+https://neolook.com/archives/2008011204a.jpg
+https://neolook.com/archives/2008011205a.jpg
+https://neolook.com/archives/2008011206a.jpg
+https://neolook.com/archives/2008011207a.jpg
+https://neolook.com/archives/2008011208a.jpg
+https://neolook.com/archives/2008011209a.jpg
+https://neolook.com/archives/2008011210a.jpg

@@ -1,4 +1,6 @@
 /archives/20200117e
+
+******** description ********
 공진화 Coevolution
 
 노진아展 / ROHJINAH / 盧眞娥 / sculpture.installation
@@ -59,3 +61,12 @@ www.bongsanart.org,
 - 내용 : 노진아 작가의 작업세계에 대한 관객과의 대화
 
 Vol.20200117e | 노진아展 / ROHJINAH / 盧眞娥 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2020011701e.jpg
+https://neolook.com/archives/2020011702e.jpg
+https://neolook.com/archives/2020011703e.jpg
+https://neolook.com/archives/2020011704e.jpg
+https://neolook.com/archives/2020011705e.jpg
+https://neolook.com/archives/2020011706e.jpg
+https://neolook.com/archives/2020011707e.jpg
+https://neolook.com/archives/2020011708e.jpg

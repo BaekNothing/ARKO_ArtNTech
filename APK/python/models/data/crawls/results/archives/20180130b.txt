@@ -1,4 +1,6 @@
 /archives/20180130b
+
+******** description ********
 루메(자동) Lume (Auto)
 
 크리스 쉔展 / Chris Shen / installation
@@ -39,3 +41,8 @@ Chris Shen_Lume (Auto) ø109_12 automatic security lights steel electrical cable
 2001년 백남준과 경기도는 아트센터 건립을 논의하기 시작했으며 백남준은 생전에 그의 이름을 딴 이 아트센터를 '백남준이 오래 사는 집'이라고 명명했다. 2008년 10월에 개관한 백남준아트센터는 작가가 바라던 '백남준이 오래 사는 집'을 구현하기 위해 백남준의 사상과 예술활동에 대한 창조적이면서도 비판적인 연구를 발전시키는 한편 이를 실천하는데 주력하고 있다.
 
 Vol.20180130b | 크리스 쉔展 / Chris Shen / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018013001b.jpg
+https://neolook.com/archives/2018013002b.jpg
+https://neolook.com/archives/2018013003b.jpg
+https://neolook.com/archives/2018013004b.jpg

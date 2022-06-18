@@ -1,4 +1,6 @@
 /archives/20150116b
+
+******** description ********
 Melting Pot
 
 이대희展 / LEEDHEHEE / 李大熙 / painting
@@ -27,3 +29,10 @@ www.soomdo.org,
 ■ 이대희
 
 Vol.20150116b | 이대희展 / LEEDHEHEE / 李大熙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011601b.jpg
+https://neolook.com/archives/2015011602b.jpg
+https://neolook.com/archives/2015011603b.jpg
+https://neolook.com/archives/2015011604b.jpg
+https://neolook.com/archives/2015011605b.jpg
+https://neolook.com/archives/2015011606b.jpg

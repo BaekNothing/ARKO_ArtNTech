@@ -1,4 +1,6 @@
 /archives/20110110c
+
+******** description ********
 나현 보고서-민족에 관하여 NAHYUN Report-About Ethnic
 
 나현展 / NAHYUN / 羅賢 / mixed media
@@ -53,3 +55,11 @@ www.sungkokmuseum.org,
 ■ 성곡미술관
 
 Vol.20110110c | 나현展 / NAHYUN / 羅賢 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2011011001c.jpg
+https://neolook.com/archives/2011011002c.jpg
+https://neolook.com/archives/2011011003c.jpg
+https://neolook.com/archives/2011011004c.jpg
+https://neolook.com/archives/2011011005c.jpg
+https://neolook.com/archives/2011011006c.jpg
+https://neolook.com/archives/2011011007c.jpg

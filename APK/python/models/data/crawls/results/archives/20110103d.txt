@@ -1,4 +1,6 @@
 /archives/20110103d
+
+******** description ********
 우리들의 풍경
 
 김현정_윤세열_이시현展
@@ -41,3 +43,11 @@ www.yeemockgallery.co.kr,
 ■ 이시현
 
 Vol.20110103d | 우리들의 풍경-김현정_윤세열_이시현展
+******** imgSrcs ********
+https://neolook.com/archives/2011010301d.jpg
+https://neolook.com/archives/2011010302d.jpg
+https://neolook.com/archives/2011010307d.jpg
+https://neolook.com/archives/2011010303d.jpg
+https://neolook.com/archives/2011010304d.jpg
+https://neolook.com/archives/2011010305d.jpg
+https://neolook.com/archives/2011010306d.jpg

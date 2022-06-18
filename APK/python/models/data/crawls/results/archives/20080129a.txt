@@ -1,4 +1,6 @@
 /archives/20080129a
+
+******** description ********
 오늘의 공공미술 : 아트인시티를 말하다
 
 아트인시티 2006-2007 다큐멘트 사진+아카이브展
@@ -48,3 +50,11 @@ www.artincity.org,
 홈페이지 http://www.artincity.org
 
 Vol.20080129a | 아트인시티 2006-2007 다큐멘트 사진+아카이브展
+******** imgSrcs ********
+https://neolook.com/archives/2008012901a.jpg
+https://neolook.com/archives/2008012902a.jpg
+/archives/2008012903a.gif
+https://neolook.com/archives/2008012904a.jpg
+https://neolook.com/archives/2008012905a.jpg
+https://neolook.com/archives/2008012906a.jpg
+https://neolook.com/archives/2008012907a.jpg

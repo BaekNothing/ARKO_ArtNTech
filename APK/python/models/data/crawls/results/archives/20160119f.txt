@@ -1,4 +1,6 @@
 /archives/20160119f
+
+******** description ********
 2016 시민갤러리 리액션프로젝트 Vol.1 AROUND
 
 김명범展 / KIMMYEONGBEOM / 金明範 / installation
@@ -40,3 +42,10 @@ Kim Myeongbeom expresses his personal memories and experiences by combining disp
 ■ JEJU MUSEUM OF ART
 
 Vol.20160119f | 김명범展 / KIMMYEONGBEOM / 金明範 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2016011901f.jpg
+https://neolook.com/archives/2016011902f.jpg
+https://neolook.com/archives/2016011903f.jpg
+https://neolook.com/archives/2016011904f.jpg
+https://neolook.com/archives/2016011905f.jpg
+https://neolook.com/archives/2016011906f.jpg

@@ -1,4 +1,6 @@
 /archives/20140116c
+
+******** description ********
 나온 것과 들어간 것
 
 성재현展 / SUNGJAEHYUN / 成在鉉 / painting
@@ -34,3 +36,11 @@ blog.naver.com/westendcafe,
 ■ 성재현
 
 Vol.20140116c | 성재현展 / SUNGJAEHYUN / 成在鉉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011601c.jpg
+https://neolook.com/archives/2014011602c.jpg
+https://neolook.com/archives/2014011603c.jpg
+https://neolook.com/archives/2014011604c.jpg
+https://neolook.com/archives/2014011605c.jpg
+https://neolook.com/archives/2014011606c.jpg
+https://neolook.com/archives/2014011607c.jpg

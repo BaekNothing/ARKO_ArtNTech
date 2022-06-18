@@ -1,4 +1,6 @@
 /archives/20160101c
+
+******** description ********
 국립아시아문화전당 새로운 아시아문화의 중심을 선언하다
 
 월간미술 2016년 1월호
@@ -100,3 +102,9 @@ Nature | Kang Sungweon
 180   Credit
 
 Vol.20160101c | 국립아시아문화전당 새로운 아시아문화의 중심을 선언하다
+******** imgSrcs ********
+https://neolook.com/archives/2016010101c.jpg
+https://neolook.com/archives/2016010102c.jpg
+https://neolook.com/archives/2016010103c.jpg
+https://neolook.com/archives/2016010104c.jpg
+https://neolook.com/archives/2016010105c.jpg

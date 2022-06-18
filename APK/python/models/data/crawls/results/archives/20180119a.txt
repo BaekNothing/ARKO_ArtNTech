@@ -1,4 +1,6 @@
 /archives/20180119a
+
+******** description ********
 숨과 밤
 
 이희명展 / LEEHEEMYOUNG / 李希明 / painting
@@ -41,3 +43,14 @@ www.artbit.kr,
 ■ 이희명
 
 Vol.20180119a | 이희명展 / LEEHEEMYOUNG / 李希明 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011901a.jpg
+https://neolook.com/archives/2018011902a.jpg
+https://neolook.com/archives/2018011903a.jpg
+https://neolook.com/archives/2018011904a.jpg
+https://neolook.com/archives/2018011905a.jpg
+https://neolook.com/archives/2018011906a.jpg
+https://neolook.com/archives/2018011907a.jpg
+https://neolook.com/archives/2018011908a.jpg
+https://neolook.com/archives/2018011909a.jpg
+https://neolook.com/archives/2018011910a.jpg

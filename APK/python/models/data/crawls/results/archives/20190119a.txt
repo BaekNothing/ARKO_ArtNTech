@@ -1,4 +1,6 @@
 /archives/20190119a
+
+******** description ********
 켜.켜.이.
 
 김소라展 / KIMSORA / 金소라 / painting
@@ -36,3 +38,12 @@ www.kooalldam.com,
 ■ 김소라
 
 Vol.20190119a | 김소라展 / KIMSORA / 金소라 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011901a.jpg
+https://neolook.com/archives/2019011902a.jpg
+https://neolook.com/archives/2019011903a.jpg
+https://neolook.com/archives/2019011904a.jpg
+https://neolook.com/archives/2019011905a.jpg
+https://neolook.com/archives/2019011906a.jpg
+https://neolook.com/archives/2019011907a.jpg
+https://neolook.com/archives/2019011908a.jpg

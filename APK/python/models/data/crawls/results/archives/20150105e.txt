@@ -1,4 +1,6 @@
 /archives/20150105e
+
+******** description ********
 Tales of the World
 
 니콜라 앙리展 / Nicolas Henry / photography
@@ -55,3 +57,11 @@ The scenes of large size are made with objects found at the site. The plastic un
 ■ ART SPACE 354
 
 Vol.20150105e | 니콜라 앙리展 / Nicolas Henry / photography
+******** imgSrcs ********
+https://neolook.com/archives/2015010501e.jpg
+https://neolook.com/archives/2015010502e.jpg
+https://neolook.com/archives/2015010503e.jpg
+https://neolook.com/archives/2015010504e.jpg
+https://neolook.com/archives/2015010505e.jpg
+https://neolook.com/archives/2015010506e.jpg
+https://neolook.com/archives/2015010507e.jpg

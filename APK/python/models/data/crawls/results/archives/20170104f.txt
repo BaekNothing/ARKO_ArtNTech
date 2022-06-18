@@ -1,4 +1,6 @@
 /archives/20170104f
+
+******** description ********
 One's Reason for Being
 
 문인환展 / MOONINHWAN / 文仁煥 / painting
@@ -33,3 +35,11 @@ www.daedam.kr,
 ■ 최정미
 
 Vol.20170104f | 문인환展 / MOONINHWAN / 文仁煥 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017010401f.jpg
+https://neolook.com/archives/2017010402f.jpg
+https://neolook.com/archives/2017010403f.jpg
+https://neolook.com/archives/2017010404f.jpg
+https://neolook.com/archives/2017010405f.jpg
+https://neolook.com/archives/2017010406f.jpg
+https://neolook.com/archives/2017010407f.jpg

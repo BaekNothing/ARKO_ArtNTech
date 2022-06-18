@@ -1,4 +1,6 @@
 /archives/20190102f
+
+******** description ********
 2019 두산 큐레이터 워크샵 참가자 공모
 
 2019 DOOSAN Curator Workshop
@@ -37,3 +39,5 @@ doosangallery.seoul@doosan.com / * email 접수만 가능
 02) 708-5050
 
 Vol.20190102f | 2019 두산 큐레이터 워크샵 참가자 공모
+******** imgSrcs ********
+https://neolook.com/archives/2019010201f.jpg

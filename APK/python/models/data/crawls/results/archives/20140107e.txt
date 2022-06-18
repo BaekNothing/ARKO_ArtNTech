@@ -1,4 +1,6 @@
 /archives/20140107e
+
+******** description ********
 NEW KIDS ON THE BLOCK
 2014_0107 ▶ 2014_0126 / 월요일 휴관,    
 
@@ -31,3 +33,9 @@ www.opsisart.co.kr,
 ■ 정다예
 
 Vol.20140107e | NEW KIDS ON THE BLOCK展
+******** imgSrcs ********
+https://neolook.com/archives/2014010701e.jpg
+https://neolook.com/archives/2014010702e.jpg
+https://neolook.com/archives/2014010703e.jpg
+https://neolook.com/archives/2014010704e.jpg
+https://neolook.com/archives/2014010705e.jpg

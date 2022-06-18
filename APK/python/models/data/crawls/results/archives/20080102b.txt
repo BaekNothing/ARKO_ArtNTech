@@ -1,4 +1,6 @@
 /archives/20080102b
+
+******** description ********
 INTO YOUR FOLDER
 
 상명대학교 예술디자인대학원 사진학과 순수사진전공 그룹展
@@ -27,3 +29,10 @@ www.gallery-now.com,
 전윤나_Untitled_디지털 컬러 프린트_66×100cm_2007,    누군가를 알고 싶으면 그 사람의 시선을 보면 됩니다. 따스한 또는 예리한 눈길이 어디로 향하는지를 보십시오. 그 눈길이 머무는 대상에 그의 실존이 있습니다.,    
 한동석_Untitled_젤라틴 실버 프린트_44×45cm_2007,    이제는 당신이 이곳에서 충분히 머물며 당신의 시선을 마음에 담아 가시길 희망합니다.
 Vol.20080102b | 상명대학교 예술디자인대학원 사진학과 순수사진전공 그룹展
+******** imgSrcs ********
+https://neolook.com/archives/2008010201b.jpg
+https://neolook.com/archives/2008010202b.jpg
+https://neolook.com/archives/2008010203b.jpg
+https://neolook.com/archives/2008010204b.jpg
+https://neolook.com/archives/2008010205b.jpg
+https://neolook.com/archives/2008010206b.jpg

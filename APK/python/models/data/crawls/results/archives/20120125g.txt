@@ -1,4 +1,6 @@
 /archives/20120125g
+
+******** description ********
 런던 디자인 산책
 
 A WALK through LONDON DESIGN
@@ -74,3 +76,8 @@ blog.naver.com/100doci,
 INDEX 본문에 소개되었거나 참고할 만한 런던 디자인 정보
 
 Vol.20120125g | 런던 디자인 산책 A WALK through LONDON DESIGN / 지은이_김지원 / 나무 [수:]
+******** imgSrcs ********
+https://neolook.com/archives/2012012501g.jpg
+https://neolook.com/archives/2012012502g.jpg
+https://neolook.com/archives/2012012503g.jpg
+https://neolook.com/archives/2012012504g.jpg

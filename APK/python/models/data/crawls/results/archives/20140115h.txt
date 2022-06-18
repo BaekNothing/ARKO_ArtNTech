@@ -1,4 +1,6 @@
 /archives/20140115h
+
+******** description ********
 시선 視線
 
 김유선展 / KIMYOUSUN / 金由琁 / painting
@@ -27,3 +29,8 @@ dudl.kr,
 ■ 김유선
 
 Vol.20140115h | 김유선展 / KIMYOUSUN / 金由琁 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011501h.jpg
+https://neolook.com/archives/2014011502h.jpg
+https://neolook.com/archives/2014011503h.jpg
+https://neolook.com/archives/2014011504h.jpg

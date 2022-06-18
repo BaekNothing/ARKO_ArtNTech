@@ -1,4 +1,6 @@
 /archives/20140118a
+
+******** description ********
 Bartleby Street 바틀비 스트릿
 
 한동석展 / HANDONGSEOCK / 韓東奭 / photography.video
@@ -34,3 +36,11 @@ club.cyworld.com/gallery175,
 ■ 한동석
 
 Vol.20140118a | 한동석展 / HANDONGSEOCK / 韓東奭 / photography.video
+******** imgSrcs ********
+https://neolook.com/archives/2014011801a.jpg
+https://neolook.com/archives/2014011802a.jpg
+https://neolook.com/archives/2014011803a.jpg
+https://neolook.com/archives/2014011804a.jpg
+https://neolook.com/archives/2014011805a.jpg
+https://neolook.com/archives/2014011806a.jpg
+https://neolook.com/archives/2014011807a.jpg

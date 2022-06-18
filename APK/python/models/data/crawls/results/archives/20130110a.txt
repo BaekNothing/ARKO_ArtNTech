@@ -1,4 +1,6 @@
 /archives/20130110a
+
+******** description ********
 여덟 개의 창(窓)
 
 2012 OCI 미술관 창작스튜디오 입주작가展
@@ -101,3 +103,13 @@ OCI미술관 창작스튜디오 2기 선정 작가인 윤기언 임현경(이상
 ■ 김지예
 
 Vol.20130110a | 여덟 개의 창(窓)-2012 OCI 미술관 창작스튜디오 입주작가展
+******** imgSrcs ********
+https://neolook.com/archives/2013011001a.jpg
+https://neolook.com/archives/2013011002a.jpg
+https://neolook.com/archives/2013011003a.jpg
+https://neolook.com/archives/2013011004a.jpg
+https://neolook.com/archives/2013011005a.jpg
+https://neolook.com/archives/2013011006a.jpg
+https://neolook.com/archives/2013011007a.jpg
+https://neolook.com/archives/2013011008a.jpg
+https://neolook.com/archives/2013011009a.jpg

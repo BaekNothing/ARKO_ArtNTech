@@ -1,4 +1,6 @@
 /archives/20200104a
+
+******** description ********
 기적을 노래하다 sing a miracle
 
 황민규展 / HWANGMINKYU / 黃敏圭 / video.installation
@@ -40,3 +42,12 @@ www.the-ref.kr,
 ■ 황민규
 
 Vol.20200104a | 황민규展 / HWANGMINKYU / 黃敏圭 / video.installation
+******** imgSrcs ********
+https://neolook.com/archives/2020010401a.jpg
+https://neolook.com/archives/2020010402a.jpg
+https://neolook.com/archives/2020010403a.jpg
+https://neolook.com/archives/2020010404a.jpg
+https://neolook.com/archives/2020010405a.jpg
+https://neolook.com/archives/2020010406a.jpg
+https://neolook.com/archives/2020010407a.jpg
+https://neolook.com/archives/2020010408a.jpg

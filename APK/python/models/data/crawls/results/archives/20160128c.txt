@@ -1,4 +1,6 @@
 /archives/20160128c
+
+******** description ********
 2016 제6회 서울디지털대학교 미술상 선정작가전
 
 SDU ART PRIZE 2016
@@ -49,3 +51,17 @@ finearts.sdu.ac.kr,
  ■ 서울디지털대학교
 
 Vol.20160128c | 2016 제6회 서울디지털대학교 미술상 선정작가展
+******** imgSrcs ********
+https://neolook.com/archives/2016012801c.jpg
+https://neolook.com/archives/2016012802c.jpg
+https://neolook.com/archives/2016012803c.jpg
+https://neolook.com/archives/2016012804c.jpg
+https://neolook.com/archives/2016012805c.jpg
+https://neolook.com/archives/2016012806c.jpg
+https://neolook.com/archives/2016012807c.jpg
+https://neolook.com/archives/2016012808c.jpg
+https://neolook.com/archives/2016012809c.jpg
+https://neolook.com/archives/2016012810c.jpg
+https://neolook.com/archives/2016012811c.jpg
+https://neolook.com/archives/2016012812c.jpg
+https://neolook.com/archives/2016012813c.jpg

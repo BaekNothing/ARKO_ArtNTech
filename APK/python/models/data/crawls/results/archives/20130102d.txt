@@ -1,4 +1,6 @@
 /archives/20130102d
+
+******** description ********
 New Generation
 
 2013 공모당선展
@@ -62,3 +64,15 @@ www.ablefineartny.com,
 ■ 현경
 
 Vol.20130102d | New Generation-2013 공모당선展
+******** imgSrcs ********
+https://neolook.com/archives/2013010201d.jpg
+https://neolook.com/archives/2013010202d.jpg
+https://neolook.com/archives/2013010203d.jpg
+https://neolook.com/archives/2013010204d.jpg
+https://neolook.com/archives/2013010205d.jpg
+https://neolook.com/archives/2013010206d.jpg
+https://neolook.com/archives/2013010207d.jpg
+https://neolook.com/archives/2013010208d.jpg
+https://neolook.com/archives/2013010209d.jpg
+https://neolook.com/archives/2013010210d.jpg
+https://neolook.com/archives/2013010211d.jpg

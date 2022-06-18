@@ -1,4 +1,6 @@
 /archives/20100115c
+
+******** description ********
 황색신문 Yellow Paper
 
 서평주展 / SEOPYEUNGJOO / 徐平周 / painting
@@ -28,3 +30,10 @@ www.spacebandee.com,
 서평주는 신문이라는 매체가 조작이나 왜곡을 통해 그것을 복제하고 유포하고 있다는 것을 반발이라도 하듯 일인 미디어로서 작품을 생산하고 있다. 물론 모든 예술가들의 작업이 일인 미디어가 아닌가. 그렇지만 그의 신문작업들은 블로그나 미니홈피에서 현실을 마구 짜깁기 하면서 만들어낸 해학적인 이미지들 또는 톡 쏘는 댓글처럼 현실 사회의 기득권들이 유포하는 이미지와 텍스트에 딴지를 걸 듯 작품을 생산해 왔다. 그가 생산한 '작품들'은 단순히 예술가의 창작이나 고통을 반영하는 행위가 아니라 오히려 현실과 밀접하게 연결되어 있는 사건들을 구체화하고 있다는 사실이다. 그런 의미에서 그의 작업은 잘 익지 않았음에도 날이 서 있으며 뻔할수도 있지만 예술―정치를 보여주고 있다. 그렇다면 그는 한 명의 위대한 예술가가 아니라 문화정치학을 행하는 개인으로 혹은 몽타주의 정치를 실천하고 있는 한 명의 운동가는 아닐까. ■ 신양희
 
 Vol.20100115c | 서평주展 / SEOPYEUNGJOO / 徐平周 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010011501c.jpg
+https://neolook.com/archives/2010011502c.jpg
+https://neolook.com/archives/2010011503c.jpg
+https://neolook.com/archives/2010011504c.jpg
+https://neolook.com/archives/2010011505c.jpg
+https://neolook.com/archives/2010011506c.jpg

@@ -1,4 +1,6 @@
 /archives/20190110h
+
+******** description ********
 추억이 스민 풍경
 
 김민정展 / KIMMINJUNG / 金旻柾 / painting
@@ -30,3 +32,7 @@ www.sonoart.co.kr,
 ■ 이진성
 
 Vol.20190110h | 김민정展 / KIMMINJUNG / 金旻柾 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011001h.jpg
+https://neolook.com/archives/2019011002h.jpg
+https://neolook.com/archives/2019011003h.jpg

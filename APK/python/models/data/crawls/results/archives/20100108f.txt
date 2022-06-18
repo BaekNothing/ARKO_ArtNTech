@@ -1,4 +1,6 @@
 /archives/20100108f
+
+******** description ********
 제3회 서울 국제 사운드 아트 페스티벌
 
 Sound Effects Seoul 2010: Sound Specific
@@ -78,3 +80,11 @@ Chulki Hong_Turntables without cartrage_sound installation_2007~
 사운드 아트 코리아는 2007년 부터 사운드 이펙트 서울이라는 연례 국제 사운드 아트 페스티벌을 기확한다. SFX Seoul 2007은 한국에서 최초로 이루어진 사운드와 사운드 아트에 관한 국제 페스티벌이다. 2008년 사운드 아트 코리아는 그 두번째 행사로 라디오 아트에 초첨을 맞춘다. ■
 
 Vol.20100108f | 제3회 서울 국제 사운드 아트 페스티벌
+******** imgSrcs ********
+https://neolook.com/archives/2010010801f.jpg
+https://neolook.com/archives/2010010802f.jpg
+https://neolook.com/archives/2010010803f.jpg
+https://neolook.com/archives/2010010804f.jpg
+https://neolook.com/archives/2010010805f.jpg
+https://neolook.com/archives/2010010806f.jpg
+https://neolook.com/archives/2010010807f.jpg

@@ -1,4 +1,6 @@
 /archives/20190102a
+
+******** description ********
 리틀 포레스트
 
 엄효용展 / UMHYOYONG / 嚴孝鎔 / photography
@@ -68,3 +70,13 @@ www.heesugallery.co.kr,
 ■ 엄효용
 
 Vol.20190102a | 엄효용展 / UMHYOYONG / 嚴孝鎔 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2019010201a.jpg
+https://neolook.com/archives/2019010202a.jpg
+https://neolook.com/archives/2019010203a.jpg
+https://neolook.com/archives/2019010204a.jpg
+https://neolook.com/archives/2019010205a.jpg
+https://neolook.com/archives/2019010206a.jpg
+https://neolook.com/archives/2019010207a.jpg
+https://neolook.com/archives/2019010208a.jpg
+https://neolook.com/archives/2019010209a.jpg

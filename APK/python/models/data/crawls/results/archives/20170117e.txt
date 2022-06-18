@@ -1,4 +1,6 @@
 /archives/20170117e
+
+******** description ********
 보다 보는 것을 보다
 
 이수경展 / RHEESOOKYUNG / 李綏慶 / painting
@@ -33,3 +35,12 @@ www.cyartspace.org,
 ■ 이승훈
 
 Vol.20170117e | 이수경展 / RHEESOOKYUNG / 李綏慶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011701e.jpg
+https://neolook.com/archives/2017011702e.jpg
+https://neolook.com/archives/2017011703e.jpg
+https://neolook.com/archives/2017011704e.jpg
+https://neolook.com/archives/2017011705e.jpg
+https://neolook.com/archives/2017011706e.jpg
+https://neolook.com/archives/2017011707e.jpg
+https://neolook.com/archives/2017011708e.jpg

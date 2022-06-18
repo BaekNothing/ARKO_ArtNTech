@@ -1,4 +1,6 @@
 /archives/20150108a
+
+******** description ********
 크게 하거나 집에 가거나 Go Big or Go Home
 
 그레고리 배展 / GREGORY BAE / installation.video
@@ -30,3 +32,11 @@ www.cjartstudio.com,
 ■ 청주미술창작스튜디오
 
 Vol.20150108a | 그레고리 배展 / GREGORY BAE / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2015010801a.jpg
+https://neolook.com/archives/2015010802a.jpg
+https://neolook.com/archives/2015010803a.jpg
+https://neolook.com/archives/2015010804a.jpg
+https://neolook.com/archives/2015010805a.jpg
+https://neolook.com/archives/2015010806a.jpg
+https://neolook.com/archives/2015010807a.jpg

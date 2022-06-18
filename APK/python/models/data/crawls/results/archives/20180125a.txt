@@ -1,4 +1,6 @@
 /archives/20180125a
+
+******** description ********
 2018년 창작스튜디오 장생포 고래로 131
 
 입주작가 모집 공고
@@ -83,3 +85,5 @@ blog.naver.com/jspm1102,
  - 문의 : E-mail : jspm1102@hanmail.net
 
 Vol.20180125a | 2018년 창작스튜디오 장생포 고래로 131 입주작가 모집 공고
+******** imgSrcs ********
+https://neolook.com/archives/2018012501a.jpg

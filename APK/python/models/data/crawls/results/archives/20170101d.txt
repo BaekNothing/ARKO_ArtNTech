@@ -1,4 +1,6 @@
 /archives/20170101d
+
+******** description ********
 한국미술협회 기로에 서다
 
 미술세계 2017년 1월호
@@ -61,3 +63,11 @@ WORLD ART_프랑스 ‧ 티노 세갈에게 위임된 전권,
 184   POSTSCRIPT
 
 Vol.20170101d | 한국미술협회 기로에 서다
+******** imgSrcs ********
+https://neolook.com/archives/2017010101d.jpg
+https://neolook.com/archives/2017010102d.jpg
+https://neolook.com/archives/2017010103d.jpg
+https://neolook.com/archives/2017010104d.jpg
+https://neolook.com/archives/2017010105d.jpg
+https://neolook.com/archives/2017010106d.jpg
+https://neolook.com/archives/2017010107d.jpg

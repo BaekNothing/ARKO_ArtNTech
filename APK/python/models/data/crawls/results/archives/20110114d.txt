@@ -1,4 +1,6 @@
 /archives/20110114d
+
+******** description ********
 견성-나를 만나다
 
 조인호展 / CHOINHO / 趙寅浩 / painting
@@ -39,3 +41,10 @@ www.kepco.co.kr/gallery,
 ■ 박영택
 
 Vol.20110114d | 조인호展 / CHOINHO / 趙寅浩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011401d.jpg
+https://neolook.com/archives/2011011402d.jpg
+https://neolook.com/archives/2011011403d.jpg
+https://neolook.com/archives/2011011404d.jpg
+https://neolook.com/archives/2011011405d.jpg
+https://neolook.com/archives/2011011406d.jpg

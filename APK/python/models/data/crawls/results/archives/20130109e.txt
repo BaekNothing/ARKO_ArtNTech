@@ -1,4 +1,6 @@
 /archives/20130109e
+
+******** description ********
 그림은 말하지 않는다
 2013_0109 ▶ 2013_0122,    ,    초대일시 / 2013_0109_수요일_05:00pm
 
@@ -40,3 +42,13 @@ www.ganaartspace.com,
 ■ 남학현
 
 Vol.20130109e | 그림은 말하지 않는다展
+******** imgSrcs ********
+https://neolook.com/archives/2013010901e.jpg
+https://neolook.com/archives/2013010902e.jpg
+https://neolook.com/archives/2013010903e.jpg
+https://neolook.com/archives/2013010904e.jpg
+https://neolook.com/archives/2013010905e.jpg
+https://neolook.com/archives/2013010906e.jpg
+https://neolook.com/archives/2013010907e.jpg
+https://neolook.com/archives/2013010908e.jpg
+https://neolook.com/archives/2013010909e.jpg

@@ -1,4 +1,6 @@
 /archives/20120112a
+
+******** description ********
 돌아가자장미여관으로
 
 Let's go back to the Rose Inn展
@@ -41,3 +43,12 @@ Klega_Everywhere_애니메이션_2011,
 ■ 이정은,    ■ 전시문의_010.5772.6084
 
 Vol.20120112a | 돌아가자장미여관으로 Let's go back to the Rose Inn展
+******** imgSrcs ********
+https://neolook.com/archives/2012011203a.jpg
+https://neolook.com/archives/2012011201a.jpg
+https://neolook.com/archives/2012011202a.jpg
+https://neolook.com/archives/2012011204a.jpg
+https://neolook.com/archives/2012011205a.jpg
+https://neolook.com/archives/2012011206a.jpg
+https://neolook.com/archives/2012011207a.jpg
+https://neolook.com/archives/2012011208a.jpg

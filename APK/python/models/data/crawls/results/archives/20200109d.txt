@@ -1,4 +1,6 @@
 /archives/20200109d
+
+******** description ********
 빛장 Light Spot
 
 선택적 기억 Selective attention-
@@ -38,3 +40,12 @@ YEOKSAM 1-DONG CULTURAL CENTER GALLERY
 VSLAB은 뉴미디어아트의 개발과 전시 및 교육을 담당하고 있으며 매년 빛을 활용한 미디어아트전시를 개최하며 미디어아티스트들의 가교역활을 하고 있다. ■ VSLAB
 
 Vol.20200109d | 빛장-선택적 기억-제7회 프로젝션 맵핑 미디어아트 그룹展
+******** imgSrcs ********
+https://neolook.com/archives/2020010901d.jpg
+https://neolook.com/archives/2020010902d.jpg
+https://neolook.com/archives/2020010903d.jpg
+https://neolook.com/archives/2020010904d.jpg
+https://neolook.com/archives/2020010905d.jpg
+https://neolook.com/archives/2020010906d.jpg
+https://neolook.com/archives/2020010907d.jpg
+https://neolook.com/archives/2020010908d.jpg

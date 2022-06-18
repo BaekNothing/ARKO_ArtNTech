@@ -1,4 +1,6 @@
 /archives/20090107g
+
+******** description ********
 Wind Shopping
 
 이하나展 / LEEHANA / 李하나 / printing
@@ -26,3 +28,11 @@ www.gallerylamer.com,
 
 이하나_A shell_우드컷 모노타이프_16×10.3cm_2008,    작업을 한다는 것은 끊임없이 나를 찾아가는 과정이며 공감대를 사이에 둔 소통의 욕구이다. 작가는 같은 내용으로 작품을 표현하더라도 좀 더 다양하고 새로운 요소들을 찾아 나섦으로써 끝없는 욕망의 일부를 가지는 듯하다. ● 이번 전시를 통해 우리가 가지지 못했던 감성들 잊고 지내왔던 작은 동심의 조각들을 각자의 가슴속에 한아름 shopping 할 수 있기를 바란다. 또한 우리의 마음속에 이는 바람을 느끼고 잠시나마 그곳에서의 이들과 평온을 함께하기를 바래여 본다. ■ 이하나
 Vol.20090107g | 이하나展 / LEEHANA / 李하나 / printing
+******** imgSrcs ********
+https://neolook.com/archives/2009010701g.jpg
+https://neolook.com/archives/2009010702g.jpg
+https://neolook.com/archives/2009010703g.jpg
+https://neolook.com/archives/2009010704g.jpg
+https://neolook.com/archives/2009010705g.jpg
+https://neolook.com/archives/2009010706g.jpg
+https://neolook.com/archives/2009010707g.jpg

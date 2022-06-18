@@ -1,4 +1,6 @@
 /archives/20150114b
+
+******** description ********
 뜻하지 않은 이야기 UNEXPECTED STORY
 
 김한기展 / KIMHANKI / 金漢起 / sculpture.mixed media
@@ -32,3 +34,11 @@ www.gallerydos.com,
 ■ 김미향
 
 Vol.20150114b | 김한기展 / KIMHANKI / 金漢起 / sculpture.mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2015011401b.jpg
+https://neolook.com/archives/2015011402b.jpg
+https://neolook.com/archives/2015011403b.jpg
+https://neolook.com/archives/2015011404b.jpg
+https://neolook.com/archives/2015011405b.jpg
+https://neolook.com/archives/2015011406b.jpg
+https://neolook.com/archives/2015011407b.jpg

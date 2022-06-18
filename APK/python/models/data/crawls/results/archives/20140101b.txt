@@ -1,4 +1,6 @@
 /archives/20140101b
+
+******** description ********
 ANNUAL REPORT
 
 아트인컬처 2014년 1월호
@@ -38,3 +40,9 @@ P.S.
 CREDIT
 
 Vol.20140101b | ANNUAL REPORT
+******** imgSrcs ********
+https://neolook.com/archives/2014010101b.jpg
+https://neolook.com/archives/2014010102b.jpg
+https://neolook.com/archives/2014010103b.jpg
+https://neolook.com/archives/2014010104b.jpg
+https://neolook.com/archives/2014010105b.jpg

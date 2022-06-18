@@ -1,4 +1,6 @@
 /archives/20140123c
+
+******** description ********
 2013 OCI Cre8tive Report
 
 창작스튜디오 2013 입주작가展
@@ -47,3 +49,13 @@ OCI 미술관은 시각예술작가들의 자유로운 창작활동을 지원하
 ■ 김지예
 
 Vol.20140123c | 2013 OCI Cre8tive Report-창작스튜디오 2013 입주작가展
+******** imgSrcs ********
+https://neolook.com/archives/2014012301c.jpg
+https://neolook.com/archives/2014012302c.jpg
+https://neolook.com/archives/2014012303c.jpg
+https://neolook.com/archives/2014012304c.jpg
+https://neolook.com/archives/2014012305c.jpg
+https://neolook.com/archives/2014012306c.jpg
+https://neolook.com/archives/2014012307c.jpg
+https://neolook.com/archives/2014012308c.jpg
+https://neolook.com/archives/2014012309c.jpg

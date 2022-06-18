@@ -1,4 +1,6 @@
 /archives/20100102a
+
+******** description ********
 예술가와 시민의 별★같은 만남
 
 2010 유리상자-아트스타 전시 공모
@@ -35,3 +37,7 @@ www.bongsanart.org,
 - 포트폴리오는 최종결과 발표 후 4주내에 직접 방문하시는 분에 한해 반환,    ● 문의_봉산문화회관 / Tel. +82.53.661.3081~2
 
 Vol.20100102a | 예술가와 시민의 별★같은 만남 / 2010 유리상자-아트스타 전시 공모
+******** imgSrcs ********
+https://neolook.com/archives/2010010201a.jpg
+https://neolook.com/archives/2010010202a.jpg
+https://neolook.com/archives/2010010203a.jpg

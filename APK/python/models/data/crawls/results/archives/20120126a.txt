@@ -1,4 +1,6 @@
 /archives/20120126a
+
+******** description ********
 핍쇼 Peep Show
 
 서현석展 / SEOHYUNSUK / 徐賢錫 / performance
@@ -47,3 +49,7 @@ www.seoulstation.org,
 ■ 서현석
 
 Vol.20120126a | 서현석展 / SEOHYUNSUK / 徐賢錫 / performance
+******** imgSrcs ********
+https://neolook.com/archives/2012012601a.jpg
+https://neolook.com/archives/2012012602a.jpg
+https://neolook.com/archives/2012012603a.jpg

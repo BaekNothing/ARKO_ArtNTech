@@ -1,4 +1,6 @@
 /archives/20090107d
+
+******** description ********
 시간의 부드러운 틈
 
 상명대학교 예술대학원 순수사진전공 그룹展
@@ -22,3 +24,11 @@ www.gallerylux.net,
 
 박지석_traces_디지털 프린트_50×50cm_2008,    우리는 어떤 대상을 이해하기 위해서 궁극적으로 차이보다는 관계에 주목하는 것이 바람직하다고 생각했다. 어떤 이론에서 대상의 의미를 구하는 것이 아니라 대상과 주체의 관계 구성 요소의 상호 관계 보는 것과 아는 것 사이의 관계 속에서 스스로 의미를 구하려는 것이다. 세상의 모든 것에는 관계가 있다. 존재하는 것에는 어떤 방식으로든 사이와 틈이 있다. 물질을 구성하는 소립자들도 그들의 틈에서 관계를 이루고 있다. 그 사이는 분명하다기 보다 미묘하다. 이것이 우리가 이번 전시의 화두로 걸어놓은 것이다. ■ 권도연
 Vol.20090107d | 시간의 부드러운 틈-상명대학교 예술대학원 순수사진전공 그룹展
+******** imgSrcs ********
+https://neolook.com/archives/2009010701d.jpg
+https://neolook.com/archives/2009010702d.jpg
+https://neolook.com/archives/2009010703d.jpg
+https://neolook.com/archives/2009010704d.jpg
+https://neolook.com/archives/2009010705d.jpg
+https://neolook.com/archives/2009010706d.jpg
+https://neolook.com/archives/2009010707d.jpg

@@ -1,4 +1,6 @@
 /archives/20150120b
+
+******** description ********
 안녕! 생명! Hola! Vida!
 
 배지민展 / BAEJIMIN / 裵芝敏 / painting
@@ -47,3 +49,11 @@ www.haeunartbusan.com,
 ■ 배지민
 
 Vol.20150120b | 배지민展 / BAEJIMIN / 裵芝敏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012001b.jpg
+https://neolook.com/archives/2015012002b.jpg
+https://neolook.com/archives/2015012003b.jpg
+https://neolook.com/archives/2015012004b.jpg
+https://neolook.com/archives/2015012005b.jpg
+https://neolook.com/archives/2015012006b.jpg
+https://neolook.com/archives/2015012007b.jpg

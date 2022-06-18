@@ -1,4 +1,6 @@
 /archives/20140119a
+
+******** description ********
 경계 없는 시간
 
 박보영展 / PARKBOYOUNG / 朴寶英 / painting
@@ -25,3 +27,9 @@ www.adamas253.com,
 ■ 김최은영
 
 Vol.20140119a | 박보영展 / PARKBOYOUNG / 朴寶英 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011901a.jpg
+https://neolook.com/archives/2014011902a.jpg
+https://neolook.com/archives/2014011903a.jpg
+https://neolook.com/archives/2014011904a.jpg
+https://neolook.com/archives/2014011905a.jpg

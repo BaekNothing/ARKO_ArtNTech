@@ -1,4 +1,6 @@
 /archives/20180127c
+
+******** description ********
 from vector
 
 김충재_이덕형 2인展
@@ -28,3 +30,7 @@ www.facebook.com/ydpgallery,    ,    스피커 소속 인플루언서로 활동�
 ■ 롯데갤러리 영등포점
 
 Vol.20180127c | from vector-김충재_이덕형 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2018012701c.jpg
+https://neolook.com/archives/2018012702c.jpg
+https://neolook.com/archives/2018012703c.jpg

@@ -1,4 +1,6 @@
 /archives/20150107b
+
+******** description ********
 2014 OCI Cre8tive Report
 
 2014 OCI 미술관 창작스튜디오 입주작가展
@@ -59,3 +61,14 @@ OCI미술관은 시각예술작가들이 작품을 일굴 터전으로 인천 �
 ■ 김영기
 
 Vol.20150107b | 2014 OCI Cre8tive Report-2014 OCI 미술관 창작스튜디오 입주작가展
+******** imgSrcs ********
+https://neolook.com/archives/2015010701b.jpg
+https://neolook.com/archives/2015010702b.jpg
+https://neolook.com/archives/2015010703b.jpg
+https://neolook.com/archives/2015010704b.jpg
+https://neolook.com/archives/2015010705b.jpg
+https://neolook.com/archives/2015010706b.jpg
+https://neolook.com/archives/2015010707b.jpg
+https://neolook.com/archives/2015010708b.jpg
+https://neolook.com/archives/2015010709b.jpg
+https://neolook.com/archives/2015010710b.jpg

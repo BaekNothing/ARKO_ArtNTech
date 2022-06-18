@@ -1,4 +1,6 @@
 /archives/20120125b
+
+******** description ********
 Monologue S#
 
 이주은展 / LEEJUEUN / 李周殷 / mixed media.installation
@@ -42,3 +44,11 @@ All things go through someone's hand. Some may be touched by a delicate hand and
  ■ LEEJUEUN
 
 Vol.20120125b | 이주은展 / LEEJUEUN / 李周殷 / mixed media.installation
+******** imgSrcs ********
+https://neolook.com/archives/2012012501b.jpg
+https://neolook.com/archives/2012012502b.jpg
+https://neolook.com/archives/2012012503b.jpg
+https://neolook.com/archives/2012012504b.jpg
+https://neolook.com/archives/2012012505b.jpg
+https://neolook.com/archives/2012012506b.jpg
+https://neolook.com/archives/2012012507b.jpg

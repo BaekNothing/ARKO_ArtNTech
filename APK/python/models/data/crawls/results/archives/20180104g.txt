@@ -1,4 +1,6 @@
 /archives/20180104g
+
+******** description ********
 꿈으로 끝나버린 꿈 Dream ended as dream
 
 전가빈展 / JEONKABIN / 全佳賓 / sculpture
@@ -37,3 +39,9 @@ Insight
 ■ 전가빈
 
 Vol.20180104g | 전가빈展 / JEONKABIN / 全佳賓 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2018010401g.jpg
+https://neolook.com/archives/2018010402g.jpg
+https://neolook.com/archives/2018010403g.jpg
+https://neolook.com/archives/2018010404g.jpg
+https://neolook.com/archives/2018010405g.jpg

@@ -1,4 +1,6 @@
 /archives/20180122e
+
+******** description ********
 풍경과 회화의 틈새
 
 신경철展 / SHINKYUNGCHUL / 申炅澈 / painting
@@ -54,3 +56,13 @@ www.wuminartcenter.org,
 ■ 신경철
 
 Vol.20180122e | 신경철展 / SHINKYUNGCHUL / 申炅澈 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012201e.jpg
+https://neolook.com/archives/2018012202e.jpg
+https://neolook.com/archives/2018012203e.jpg
+https://neolook.com/archives/2018012204e.jpg
+https://neolook.com/archives/2018012205e.jpg
+https://neolook.com/archives/2018012206e.jpg
+https://neolook.com/archives/2018012207e.jpg
+https://neolook.com/archives/2018012208e.jpg
+https://neolook.com/archives/2018012209e.jpg

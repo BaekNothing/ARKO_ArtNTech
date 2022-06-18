@@ -1,4 +1,6 @@
 /archives/20090107e
+
+******** description ********
 UNSTABLE
 
 남학현展 / NAMHACKHYUN / 南學鉉 / painting
@@ -26,3 +28,9 @@ UNSTABLE ● 현재 내 작업을 간단히 요약하자면 중첩된 획(劃)�
 ■ 심사결과발표 www.velvet.or.kr/inc/Incubator/Program.html
 
 Vol.20090107e | 남학현展 / NAMHACKHYUN / 南學鉉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2009010701e.jpg
+https://neolook.com/archives/2009010702e.jpg
+https://neolook.com/archives/2009010703e.jpg
+https://neolook.com/archives/2009010704e.jpg
+https://neolook.com/archives/2009010705e.jpg

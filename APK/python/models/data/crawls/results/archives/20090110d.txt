@@ -1,4 +1,6 @@
 /archives/20090110d
+
+******** description ********
 나의 푸른 가방_my blue baggage
 
 서동욱展 / SUHDONGWOOK / 徐東郁 / mixed media
@@ -23,3 +25,11 @@ www.oneandj.com,
 
 서동욱_I X blue_HD 단채널 비디오_00:42:12_2008,    서동욱은 여기서 내러티브를 종결하지 않는다. 내러티브에서 주요 지점을 다른 매체인 회화로 구현한다. 이는 영상에서 삭제된 내러티브를 회화를 통해 보완하는 것이다. (이러한 내러티브의 복원은 개별 장소 인물에 관한 것이라기보다는 내러티브에 종속되어 있는 특정한 장소와 인물의 복원이다.) 회화 속 인물 혹은 공간은 강한 플래시에 노출되어 있다. 강한 플래시에 노출된 인물과 공간은 실재적 모습을 재현하는 것이 아니라 자신의 기억(마주침의 순간)에 달라붙게 하려는 듯 납작하게 2차원적 평면에 밀착되어 있다. 그곳에는 인물과 공간에 있을 법한 개별적인 전후의 서사는 차단되고 오직 마주보는 주체(내러티브)가 포착한 시선만이 존재한다. 그러기에 세부적인 표현을 화면 전체로 확장하여 특정 주제를 강화하기 보다는 빛이 투여될 당시에 포착된 순간의 색면을 표현하여 강조한다. 그곳에는 모델(특정한 인물과 공간)이 있는 것이 아니라 그것을 바라보고 있는 자의 (내러티브의 감정을 표현한) 시선이 자리한다. ■ 이대범
 Vol.20090110d | 서동욱展 / SUHDONGWOOK / 徐東郁 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2009011001d.jpg
+https://neolook.com/archives/2009011002d.jpg
+https://neolook.com/archives/2009011003d.jpg
+https://neolook.com/archives/2009011004d.jpg
+https://neolook.com/archives/2009011005d.jpg
+https://neolook.com/archives/2009011006d.jpg
+https://neolook.com/archives/2009011007d.jpg

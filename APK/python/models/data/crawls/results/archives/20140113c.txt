@@ -1,4 +1,6 @@
 /archives/20140113c
+
+******** description ********
 차갑고 시린 바닥 cold-hearted bottom
 
 금민정展 / GUEMMINJEONG / 金珉廷 / installation.video.sculpture
@@ -49,3 +51,11 @@ RTO 에서의 전시가 작품 하나하나를 보았을 때 정제되어 있으
 ■ 김시하
 
 Vol.20140113c | 금민정展 / GUEMMINJEONG / 金珉廷 / installation.video.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2014011301c.jpg
+https://neolook.com/archives/2014011302c.jpg
+https://neolook.com/archives/2014011303c.jpg
+https://neolook.com/archives/2014011304c.jpg
+https://neolook.com/archives/2014011305c.jpg
+https://neolook.com/archives/2014011306c.jpg
+https://neolook.com/archives/2014011307c.jpg

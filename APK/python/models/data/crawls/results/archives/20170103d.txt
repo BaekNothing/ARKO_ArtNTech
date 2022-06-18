@@ -1,4 +1,6 @@
 /archives/20170103d
+
+******** description ********
 이미지 異美知
 
 2016년 홍익대학교 일반대학원 회화과(∥) 박사과정展
@@ -54,3 +56,13 @@ Dance ●
 ■ 오세휘
 
 Vol.20170103d | 이미지 異美知-2016년 홍익대학교 일반대학원 회화과(∥) 박사과정展
+******** imgSrcs ********
+https://neolook.com/archives/2017010301d.jpg
+https://neolook.com/archives/2017010302d.jpg
+https://neolook.com/archives/2017010303d.jpg
+https://neolook.com/archives/2017010304d.jpg
+https://neolook.com/archives/2017010305d.jpg
+https://neolook.com/archives/2017010306d.jpg
+https://neolook.com/archives/2017010307d.jpg
+https://neolook.com/archives/2017010308d.jpg
+https://neolook.com/archives/2017010309d.jpg

@@ -1,4 +1,6 @@
 /archives/20130102b
+
+******** description ********
 2013 갤러리룩스 신진작가 지원전 공모 안내
 접수기간 / 2013_0102 ▶ 2013_0206,    ,    
 접수마감 / 방문접수_2013_0206_수요일_07:00pm
@@ -47,3 +49,5 @@ www.gallerylux.net,
              gallerylux@gmail.com
 
 Vol.20130102b | 2013 갤러리룩스 신진작가 지원전 공모 안내
+******** imgSrcs ********
+https://neolook.com/archives/2013010201b.jpg

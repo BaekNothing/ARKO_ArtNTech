@@ -1,4 +1,6 @@
 /archives/20160114f
+
+******** description ********
 기념비적 인상
 
 김길후展 / KIMGILHU / 金佶煦 / painting
@@ -37,3 +39,14 @@ www.poma.kr,
 ■ 포항시립미술관
 
 Vol.20160114f | 김길후展 / KIMGILHU / 金佶煦 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011401f.jpg
+https://neolook.com/archives/2016011402f.jpg
+https://neolook.com/archives/2016011403f.jpg
+https://neolook.com/archives/2016011404f.jpg
+https://neolook.com/archives/2016011405f.jpg
+https://neolook.com/archives/2016011406f.jpg
+https://neolook.com/archives/2016011407f.jpg
+https://neolook.com/archives/2016011408f.jpg
+https://neolook.com/archives/2016011409f.jpg
+https://neolook.com/archives/2016011410f.jpg

@@ -1,4 +1,6 @@
 /archives/20150129d
+
+******** description ********
 META; 이름 없는 영역에서
 
 봉산문화회관 기획 2015 특화 전시 지원 프로그램展
@@ -49,3 +51,10 @@ www.bongsanart.org,
 ■ 이충엽
 
 Vol.20150129d | META; 이름 없는 영역에서展
+******** imgSrcs ********
+https://neolook.com/archives/2015012901d.jpg
+https://neolook.com/archives/2015012902d.jpg
+https://neolook.com/archives/2015012903d.jpg
+https://neolook.com/archives/2015012904d.jpg
+https://neolook.com/archives/2015012905d.jpg
+https://neolook.com/archives/2015012906d.jpg

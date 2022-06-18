@@ -1,4 +1,6 @@
 /archives/20120105a
+
+******** description ********
 나 화가
 
 2012_0105 ▶ 2012_0121 / 일요일 휴관,    
@@ -56,3 +58,18 @@ www.forumnewgate.co.kr,
 ■ 염혜정
 
 Vol.20120105a | 나 화가展
+******** imgSrcs ********
+https://neolook.com/archives/2012010501a.jpg
+https://neolook.com/archives/2012010502a.jpg
+https://neolook.com/archives/2012010503a.jpg
+https://neolook.com/archives/2012010504a.jpg
+https://neolook.com/archives/2012010505a.jpg
+https://neolook.com/archives/2012010506a.jpg
+https://neolook.com/archives/2012010507a.jpg
+https://neolook.com/archives/2012010508a.jpg
+https://neolook.com/archives/2012010509a.jpg
+https://neolook.com/archives/2012010510a.jpg
+https://neolook.com/archives/2012010511a.jpg
+https://neolook.com/archives/2012010512a.jpg
+https://neolook.com/archives/2012010513a.jpg
+https://neolook.com/archives/2012010514a.jpg

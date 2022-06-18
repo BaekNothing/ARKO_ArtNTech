@@ -1,4 +1,6 @@
 /archives/20060102b
+
+******** description ********
 과학+예술_10년후 V.3
 
 로봇 from 백남준 to 휴보展
@@ -34,3 +36,11 @@ www.ganaart.com,
 부모님들을 위해 마련된 휴식공간. 과학도서를 판매한다.
 
 Vol.20060102b | 과학+예술_10년후 V.3 : 로봇 from 백남준 to 휴보展
+******** imgSrcs ********
+https://neolook.com/archives/2006010201b.jpg
+https://neolook.com/archives/2006010202b.jpg
+https://neolook.com/archives/2006010203b.jpg
+https://neolook.com/archives/2006010204b.jpg
+https://neolook.com/archives/2006010205b.jpg
+https://neolook.com/archives/2006010206b.jpg
+https://neolook.com/archives/2006010207b.jpg

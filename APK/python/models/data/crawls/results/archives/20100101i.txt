@@ -1,4 +1,6 @@
 /archives/20100101i
+
+******** description ********
 현대미술 길을 묻다
 
 CONTEMPORARY ART JOURNAL 2010년 겨울 / 창간호
@@ -48,3 +50,10 @@ Editorial
 
 창간호 독자 사은품-작가 강홍석의 판화 소품
 Vol.20100101i | CONTEMPORARY ART JOURNAL 2010년 겨울 / 창간호 / 현대미술 길을 묻다
+******** imgSrcs ********
+https://neolook.com/archives/2010010101i.jpg
+https://neolook.com/archives/2010010102i.jpg
+https://neolook.com/archives/2010010103i.jpg
+https://neolook.com/archives/2010010104i.jpg
+https://neolook.com/archives/2010010105i.jpg
+https://neolook.com/archives/2010010106i.jpg

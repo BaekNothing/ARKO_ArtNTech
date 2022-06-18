@@ -1,4 +1,6 @@
 /archives/20060103a
+
+******** description ********
 Log
 
 제7회 BLINDSOUND 뉴미디어 디지털 필름 워크샵 및 전시
@@ -36,3 +38,5 @@ www.blindsound.com Board에 기록바랍니다.,    ● Workshop Orientation
 2000~2005년 워크샵 관련 사항_www.blindsound.com Workshop History
 
 Vol.20060103a | 제7회 BLINDSOUND 뉴미디어 디지털 필름 워크샵 및 전시 참여자 모집
+******** imgSrcs ********
+/archives/2006010301a.gif

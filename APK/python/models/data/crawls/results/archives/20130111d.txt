@@ -1,4 +1,6 @@
 /archives/20130111d
+
+******** description ********
 보다 보이다
 
 김은영展 / KIMEUNYOUNG / 金恩英 / installation
@@ -85,3 +87,11 @@ www.placemak.com,
 ■ 박세희
 
 Vol.20130111d | 김은영展 / KIMEUNYOUNG / 金恩英 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2013011101d.jpg
+https://neolook.com/archives/2013011102d.jpg
+https://neolook.com/archives/2013011103d.jpg
+https://neolook.com/archives/2013011104d.jpg
+https://neolook.com/archives/2013011105d.jpg
+https://neolook.com/archives/2013011106d.jpg
+https://neolook.com/archives/2013011107d.jpg

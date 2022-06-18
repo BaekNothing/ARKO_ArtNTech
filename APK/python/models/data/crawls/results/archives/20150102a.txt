@@ -1,4 +1,6 @@
 /archives/20150102a
+
+******** description ********
 2015 두산 큐레이터 워크샵 참가자 공모
 접수기간 / 2015_0101 ▶ 2015_0228,    ,    접수마감 / 2015_0228_토요일
 이메일 접수 / seoul@doosangallery.com,    두산갤러리 서울
@@ -25,3 +27,5 @@ seoul@doosangallery.com / * 이메일 접수만 가능
 02-708-5050
 
 Vol.20150102a | 2015 두산 큐레이터 워크샵 참가자 공모
+******** imgSrcs ********
+https://neolook.com/archives/2015010201a.jpg

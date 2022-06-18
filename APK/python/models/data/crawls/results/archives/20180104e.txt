@@ -1,4 +1,6 @@
 /archives/20180104e
+
+******** description ********
 보이지 않는 것을 공기 중에 배열하는 기술
 
 The Art of Arranging the Invisible in the Air
@@ -53,3 +55,13 @@ Wall drawing 2_테이프_가변설치_2016,
 ■ 정소라
 
 Vol.20180104e | 보이지 않는 것을 공기 중에 배열하는 기술展
+******** imgSrcs ********
+https://neolook.com/archives/2018010401e.jpg
+https://neolook.com/archives/2018010402e.jpg
+https://neolook.com/archives/2018010403e.jpg
+https://neolook.com/archives/2018010404e.jpg
+https://neolook.com/archives/2018010405e.jpg
+https://neolook.com/archives/2018010406e.jpg
+https://neolook.com/archives/2018010407e.jpg
+https://neolook.com/archives/2018010408e.jpg
+https://neolook.com/archives/2018010409e.jpg

@@ -1,4 +1,6 @@
 /archives/20150110c
+
+******** description ********
 동행
 2015_0110 ▶ 2015_0130 / 일공휴일 휴관,    ,    별도의 초대일시가 없습니다.
 
@@ -35,3 +37,14 @@ www.kooalldam.com,
 허수인_LOVE_장지에 채색_90.9×65.1cm
 
 Vol.20150110c | 동행展
+******** imgSrcs ********
+https://neolook.com/archives/2015011001c.jpg
+https://neolook.com/archives/2015011002c.jpg
+https://neolook.com/archives/2015011003c.jpg
+https://neolook.com/archives/2015011004c.jpg
+https://neolook.com/archives/2015011005c.jpg
+https://neolook.com/archives/2015011006c.jpg
+https://neolook.com/archives/2015011007c.jpg
+https://neolook.com/archives/2015011008c.jpg
+https://neolook.com/archives/2015011009c.jpg
+https://neolook.com/archives/2015011010c.jpg

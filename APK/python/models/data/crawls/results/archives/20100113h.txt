@@ -1,4 +1,6 @@
 /archives/20100113h
+
+******** description ********
 sense & sensation
 
 인사아트센터 기획展
@@ -41,3 +43,12 @@ www.insaartcenter.com,
 ■ 가나아트
 
 Vol.20100113h | sense & sensation展
+******** imgSrcs ********
+https://neolook.com/archives/2010011301h.jpg
+https://neolook.com/archives/2010011302h.jpg
+https://neolook.com/archives/2010011303h.jpg
+https://neolook.com/archives/2010011304h.jpg
+https://neolook.com/archives/2010011305h.jpg
+https://neolook.com/archives/2010011306h.jpg
+https://neolook.com/archives/2010011307h.jpg
+https://neolook.com/archives/2010011308h.jpg

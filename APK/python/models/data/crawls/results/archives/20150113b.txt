@@ -1,4 +1,6 @@
 /archives/20150113b
+
+******** description ********
 시간 풍경을 드로잉하다 Time the landscape is drawing
 
 김진원展 / KIMJINWON / 金進瑗 / photography
@@ -57,3 +59,11 @@ www.gpgallery.co.kr,
 ■ 김진원
 
 Vol.20150113b | 김진원展 / KIMJINWON / 金進瑗 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2015011301b.jpg
+https://neolook.com/archives/2015011302b.jpg
+https://neolook.com/archives/2015011303b.jpg
+https://neolook.com/archives/2015011304b.jpg
+https://neolook.com/archives/2015011305b.jpg
+https://neolook.com/archives/2015011306b.jpg
+https://neolook.com/archives/2015011307b.jpg

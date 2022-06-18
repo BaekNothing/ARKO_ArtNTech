@@ -1,4 +1,6 @@
 /archives/20150120d
+
+******** description ********
 진리로서의 파편
 
 박명숙展 / PARKMYUNGSOOK / 朴明淑 / painting
@@ -39,3 +41,12 @@ www.gallerylamer.com,
 ■ 양효실
 
 Vol.20150120d | 박명숙展 / PARKMYUNGSOOK / 朴明淑 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012001d.jpg
+https://neolook.com/archives/2015012002d.jpg
+https://neolook.com/archives/2015012003d.jpg
+https://neolook.com/archives/2015012004d.jpg
+https://neolook.com/archives/2015012005d.jpg
+https://neolook.com/archives/2015012006d.jpg
+https://neolook.com/archives/2015012007d.jpg
+https://neolook.com/archives/2015012008d.jpg

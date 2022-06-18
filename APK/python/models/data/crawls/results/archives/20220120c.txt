@@ -1,4 +1,6 @@
 /archives/20220120c
+
+******** description ********
 높고 낮은 세계(High and Low Space)
 
 김양희展 / KIMYANGHEE / 金亮希 / painting
@@ -45,3 +47,14 @@ blog.naver.com/oksangfactory
 ■ 김양희
 
 Vol.20220120c | 김양희展 / KIMYANGHEE / 金亮希 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012001c.jpg
+https://neolook.com/archives/2022012002c.jpg
+https://neolook.com/archives/2022012003c.jpg
+https://neolook.com/archives/2022012004c.jpg
+https://neolook.com/archives/2022012005c.jpg
+https://neolook.com/archives/2022012006c.jpg
+https://neolook.com/archives/2022012007c.jpg
+https://neolook.com/archives/2022012008c.jpg
+https://neolook.com/archives/2022012009c.jpg
+https://neolook.com/archives/2022012010c.jpg

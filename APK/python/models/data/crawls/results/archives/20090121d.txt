@@ -1,4 +1,6 @@
 /archives/20090121d
+
+******** description ********
 인체 또 다른 시각에서 본 영원한 자연
 
 안종임展 / AHNJONGIM / 安鐘任 / painting
@@ -26,3 +28,11 @@ www.seohoart.com,
 
 안종임_영원한자연_Human Body-Eternal Nature_장지에 수간채색_21.3×33.5cm_2008,    나의 그림은 가까이에서 볼 경우와 멀리서 볼 경우 대상이 달라 보일 것이다. 멀리서 보면 어떤 때에는 인체의 한 부분처럼 보이기도 하지만 때로는 자연 풍경 같기도 하여 이미지가 보는 사람들로 하여금 숨은 그림 찾기와 같은 놀이를 연상시키기도 한다. ■ 안종임
 Vol.20090121d | 안종임展 / AHNJONGIM / 安鐘任 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2009012101d.jpg
+https://neolook.com/archives/2009012102d.jpg
+https://neolook.com/archives/2009012103d.jpg
+https://neolook.com/archives/2009012104d.jpg
+https://neolook.com/archives/2009012105d.jpg
+https://neolook.com/archives/2009012106d.jpg
+https://neolook.com/archives/2009012107d.jpg

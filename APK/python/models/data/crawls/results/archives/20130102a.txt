@@ -1,4 +1,6 @@
 /archives/20130102a
+
+******** description ********
 From Hysteria - To the Stage of Drive
 
 염지희展 / YEOMJIHEE / 廉智嬉 / painting
@@ -29,3 +31,10 @@ www.artsagan.com,
 ■ 염지희
 
 Vol.20130102a | 염지희展 / YEOMJIHEE / 廉智嬉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010201a.jpg
+https://neolook.com/archives/2013010202a.jpg
+https://neolook.com/archives/2013010203a.jpg
+https://neolook.com/archives/2013010204a.jpg
+https://neolook.com/archives/2013010205a.jpg
+https://neolook.com/archives/2013010206a.jpg

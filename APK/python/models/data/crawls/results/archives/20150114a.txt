@@ -1,4 +1,6 @@
 /archives/20150114a
+
+******** description ********
 flower(s)
 
 임정민展 / YIMJUNGMIN / 任廷敏 / painting
@@ -29,3 +31,11 @@ www.kyunginart.co.kr,
 ■ 노순석
 
 Vol.20150114a | 임정민展 / YIMJUNGMIN / 任廷敏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011401a.jpg
+https://neolook.com/archives/2015011402a.jpg
+https://neolook.com/archives/2015011403a.jpg
+https://neolook.com/archives/2015011404a.jpg
+https://neolook.com/archives/2015011405a.jpg
+https://neolook.com/archives/2015011406a.jpg
+https://neolook.com/archives/2015011407a.jpg

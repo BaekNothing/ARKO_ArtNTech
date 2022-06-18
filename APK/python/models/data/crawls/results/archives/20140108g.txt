@@ -1,4 +1,6 @@
 /archives/20140108g
+
+******** description ********
 붉은 방 The Red Room
 
 박지혜展 / PARKJIHYE / 朴智慧 / installation
@@ -31,3 +33,10 @@ www.ujungartcenter.com,
 ■ 박지혜
 
 Vol.20140108g | 박지혜展 / PARKJIHYE / 朴智慧 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010801g.jpg
+https://neolook.com/archives/2014010802g.jpg
+https://neolook.com/archives/2014010803g.jpg
+https://neolook.com/archives/2014010804g.jpg
+https://neolook.com/archives/2014010805g.jpg
+https://neolook.com/archives/2014010806g.jpg

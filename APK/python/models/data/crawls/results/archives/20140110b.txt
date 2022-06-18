@@ -1,4 +1,6 @@
 /archives/20140110b
+
+******** description ********
 PLAY
 
 양은혜展 / YANGEUNHYE / 梁恩惠 / painting
@@ -39,3 +41,11 @@ www.1gallery.org,
 ■ 양은혜
 
 Vol.20140110b | 양은혜展 / YANGEUNHYE / 梁恩惠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011001b.jpg
+https://neolook.com/archives/2014011002b.jpg
+https://neolook.com/archives/2014011003b.jpg
+https://neolook.com/archives/2014011004b.jpg
+https://neolook.com/archives/2014011005b.jpg
+https://neolook.com/archives/2014011006b.jpg
+https://neolook.com/archives/2014011007b.jpg

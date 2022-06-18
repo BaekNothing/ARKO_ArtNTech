@@ -1,4 +1,6 @@
 /archives/20060118c
+
+******** description ********
 12개의 문
 
 일러스트 기획展
@@ -39,3 +41,16 @@ www.galerie-gaia.net,
 한용욱_2006
 
 한호진_2006,    Vol.20060118c | 12개의 문 일러스트展
+******** imgSrcs ********
+https://neolook.com/archives/2006011801c.jpg
+https://neolook.com/archives/2006011802c.jpg
+https://neolook.com/archives/2006011803c.jpg
+https://neolook.com/archives/2006011804c.jpg
+https://neolook.com/archives/2006011805c.jpg
+https://neolook.com/archives/2006011806c.jpg
+https://neolook.com/archives/2006011807c.jpg
+https://neolook.com/archives/2006011808c.jpg
+https://neolook.com/archives/2006011809c.jpg
+https://neolook.com/archives/2006011810c.jpg
+https://neolook.com/archives/2006011811c.jpg
+https://neolook.com/archives/2006011812c.jpg

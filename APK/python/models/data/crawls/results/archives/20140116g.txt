@@ -1,4 +1,6 @@
 /archives/20140116g
+
+******** description ********
 영남의 구상미술
 
 2014_0116 ▶ 2014_0323 / 월요일 휴관,    
@@ -51,3 +53,19 @@ www.poma.kr,
 ■ 포항시립미술관
 
 Vol.20140116g | 영남의 구상미술展
+******** imgSrcs ********
+https://neolook.com/archives/2014011601g.jpg
+https://neolook.com/archives/2014011602g.jpg
+https://neolook.com/archives/2014011603g.jpg
+https://neolook.com/archives/2014011604g.jpg
+https://neolook.com/archives/2014011605g.jpg
+https://neolook.com/archives/2014011606g.jpg
+https://neolook.com/archives/2014011607g.jpg
+https://neolook.com/archives/2014011608g.jpg
+https://neolook.com/archives/2014011609g.jpg
+https://neolook.com/archives/2014011610g.jpg
+https://neolook.com/archives/2014011611g.jpg
+https://neolook.com/archives/2014011612g.jpg
+https://neolook.com/archives/2014011613g.jpg
+https://neolook.com/archives/2014011614g.jpg
+https://neolook.com/archives/2014011615g.jpg

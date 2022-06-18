@@ -1,4 +1,6 @@
 /archives/20130117d
+
+******** description ********
 vue
 
 강민수_장현주_조태광展
@@ -50,3 +52,15 @@ Contemplating Perspectives
 ■ Lee Yoonjung
 
 Vol.20130117d | vue-강민수_장현주_조태광展
+******** imgSrcs ********
+https://neolook.com/archives/2013011701d.jpg
+https://neolook.com/archives/2013011702d.jpg
+https://neolook.com/archives/2013011703d.jpg
+https://neolook.com/archives/2013011704d.jpg
+https://neolook.com/archives/2013011705d.jpg
+https://neolook.com/archives/2013011706d.jpg
+https://neolook.com/archives/2013011707d.jpg
+https://neolook.com/archives/2013011708d.jpg
+https://neolook.com/archives/2013011709d.jpg
+https://neolook.com/archives/2013011710d.jpg
+https://neolook.com/archives/2013011711d.jpg

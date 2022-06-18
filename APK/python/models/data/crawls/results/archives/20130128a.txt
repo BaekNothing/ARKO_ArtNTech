@@ -1,4 +1,6 @@
 /archives/20130128a
+
+******** description ********
 추억이 머무는 곳
 
 박정민展 / PARKJUNGMIN / 朴程暋 / painting.installation
@@ -31,3 +33,9 @@ blog.naver.com/175gallery,
 ■ 김용민
 
 Vol.20130128a | 박정민展 / PARKJUNGMIN / 朴程暋 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2013012801a.jpg
+https://neolook.com/archives/2013012802a.jpg
+https://neolook.com/archives/2013012803a.jpg
+https://neolook.com/archives/2013012804a.jpg
+https://neolook.com/archives/2013012805a.jpg

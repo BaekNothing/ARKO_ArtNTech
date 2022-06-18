@@ -1,4 +1,6 @@
 /archives/20110113a
+
+******** description ********
 사라져버린 사라져가는 것들에 대한 이야기
 
 천영미展 / CHUNYOUNGMI / 千英美 / installation
@@ -31,3 +33,8 @@ Hopeless Stairs ●
 ■ 갤러리 보다 컨템포러리
 
 Vol.20110113a | 천영미展 / CHUNYOUNGMI / 千英美 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2011011301a.jpg
+https://neolook.com/archives/2011011302a.jpg
+https://neolook.com/archives/2011011303a.jpg
+https://neolook.com/archives/2011011304a.jpg

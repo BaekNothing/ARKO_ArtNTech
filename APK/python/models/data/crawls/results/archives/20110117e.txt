@@ -1,4 +1,6 @@
 /archives/20110117e
+
+******** description ********
 Decode Yi Sang (이상을 풀다)
 
 권연정展 / KWONYEONJUNG / 权娟祯 / photography
@@ -47,3 +49,11 @@ www.jinsunart.com,
 ■ 하라 히사코
 
 Vol.20110117e | 권연정展 / KWONYEONJUNG / 权娟祯 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011011701e.jpg
+https://neolook.com/archives/2011011702e.jpg
+https://neolook.com/archives/2011011703e.jpg
+https://neolook.com/archives/2011011704e.jpg
+https://neolook.com/archives/2011011705e.jpg
+https://neolook.com/archives/2011011706e.jpg
+https://neolook.com/archives/2011011707e.jpg

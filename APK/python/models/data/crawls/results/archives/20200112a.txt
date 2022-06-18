@@ -1,4 +1,6 @@
 /archives/20200112a
+
+******** description ********
 2020년 K'ARTS 미술원 창작스튜디오
 
 5기 입주작가 공모
@@ -46,3 +48,5 @@ www.facebook.com/studio.karts,
 * 제출된 서류는 반환되지 않습니다.
 
 Vol.20200112a | 2020년 K'ARTS 미술원 창작스튜디오 5기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2020011201a.jpg

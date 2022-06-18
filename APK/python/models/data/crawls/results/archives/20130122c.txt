@@ -1,4 +1,6 @@
 /archives/20130122c
+
+******** description ********
 TOMORROW
 
 young artist展
@@ -63,3 +65,16 @@ blog.naver.com/codisenss,
 ■ 양민지
 
 Vol.20130122c | TOMORROW-young artist展
+******** imgSrcs ********
+https://neolook.com/archives/2013012201c.jpg
+https://neolook.com/archives/2013012202c.jpg
+https://neolook.com/archives/2013012203c.jpg
+https://neolook.com/archives/2013012204c.jpg
+https://neolook.com/archives/2013012205c.jpg
+https://neolook.com/archives/2013012206c.jpg
+https://neolook.com/archives/2013012207c.jpg
+https://neolook.com/archives/2013012208c.jpg
+https://neolook.com/archives/2013012209c.jpg
+https://neolook.com/archives/2013012210c.jpg
+https://neolook.com/archives/2013012211c.jpg
+https://neolook.com/archives/2013012212c.jpg

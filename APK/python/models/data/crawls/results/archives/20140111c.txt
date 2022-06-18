@@ -1,4 +1,6 @@
 /archives/20140111c
+
+******** description ********
 Sentimental Scenery
 
 헬렌 정 리展 / HELEN CHUNG LEE / photography
@@ -34,3 +36,9 @@ www.parksookeun.or.kr,
 ■ 조성지
 
 Vol.20140111c | 헬렌 정 리展 / HELEN CHUNG LEE / photography
+******** imgSrcs ********
+https://neolook.com/archives/2014011101c.jpg
+https://neolook.com/archives/2014011102c.jpg
+https://neolook.com/archives/2014011103c.jpg
+https://neolook.com/archives/2014011104c.jpg
+https://neolook.com/archives/2014011105c.jpg

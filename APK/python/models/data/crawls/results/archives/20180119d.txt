@@ -1,4 +1,6 @@
 /archives/20180119d
+
+******** description ********
 씨 SEED
 
 장선아展 / JANGSUNA / 張善雅 / painting
@@ -51,3 +53,11 @@
 ■ 장선아
 
 Vol.20180119d | 장선아展 / JANGSUNA / 張善雅 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011901d.jpg
+https://neolook.com/archives/2018011902d.jpg
+https://neolook.com/archives/2018011903d.jpg
+https://neolook.com/archives/2018011904d.jpg
+https://neolook.com/archives/2018011905d.jpg
+https://neolook.com/archives/2018011906d.jpg
+https://neolook.com/archives/2018011907d.jpg

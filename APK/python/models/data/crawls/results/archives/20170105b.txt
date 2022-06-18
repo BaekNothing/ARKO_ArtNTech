@@ -1,4 +1,6 @@
 /archives/20170105b
+
+******** description ********
 빛과 선으로 시절을 그리다
 
 김기수_권홍 2인展
@@ -36,3 +38,12 @@ cafe.daum.net/gallerybresson,
 ■ 송효섭
 
 Vol.20170105b | 빛과 선으로 시절을 그리다-김기수_권홍 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2017010501b.jpg
+https://neolook.com/archives/2017010502b.jpg
+https://neolook.com/archives/2017010503b.jpg
+https://neolook.com/archives/2017010504b.jpg
+https://neolook.com/archives/2017010505b.jpg
+https://neolook.com/archives/2017010506b.jpg
+https://neolook.com/archives/2017010507b.jpg
+https://neolook.com/archives/2017010508b.jpg

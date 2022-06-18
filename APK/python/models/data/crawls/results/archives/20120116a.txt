@@ -1,4 +1,6 @@
 /archives/20120116a
+
+******** description ********
 홍익대학교 미술대학원 현대미술최고위과정 제31기 모집
 
 2012년 1학기 원서접수 / 2012_0116 ▶ 2012_0217,    ,    
@@ -83,3 +85,5 @@ www.hongik.edu/grad/univ12,
 홈페이지_www.hongik.ac.kr/grad/univ12
 
 Vol.20120116a | 홍익대학교 미술대학원 현대미술최고위과정 제31기 모집
+******** imgSrcs ********
+https://neolook.com/archives/2012011601a.jpg

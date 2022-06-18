@@ -1,4 +1,6 @@
 /archives/20110109h
+
+******** description ********
 김민구展 / KIMMINGU / 金珉玖 / painting
  
 2011_0123 ▶ 2011_0317,    
@@ -31,3 +33,10 @@ www.myungsun.or.kr,
 ■ 김민구
 
 Vol.20110109h | 김민구展 / KIMMINGU / 金珉玖 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010901h.jpg
+https://neolook.com/archives/2011010902h.jpg
+https://neolook.com/archives/2011010903h.jpg
+https://neolook.com/archives/2011010904h.jpg
+https://neolook.com/archives/2011010905h.jpg
+https://neolook.com/archives/2011010906h.jpg

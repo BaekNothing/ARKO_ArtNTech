@@ -1,4 +1,6 @@
 /archives/20130128b
+
+******** description ********
 cell cloning 2
 
 최서윤展 / CHOISEOYOON / 崔瑞允 / mixed media
@@ -31,3 +33,11 @@ www.songpa.go.kr,
 ■ 정경연
 
 Vol.20130128b | 최서윤展 / CHOISEOYOON / 崔瑞允 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2013012801b.jpg
+https://neolook.com/archives/2013012802b.jpg
+https://neolook.com/archives/2013012803b.jpg
+https://neolook.com/archives/2013012804b.jpg
+https://neolook.com/archives/2013012805b.jpg
+https://neolook.com/archives/2013012806b.jpg
+https://neolook.com/archives/2013012807b.jpg

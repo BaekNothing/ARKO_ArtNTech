@@ -1,4 +1,6 @@
 /archives/20130105a
+
+******** description ********
 space-scape
 
 김민정_김병주_김용관展
@@ -34,3 +36,14 @@ space-scape展_롯데갤러리 일산점_2013,    세 가지 공간 그리고 �
 ■ 이지원
 
 Vol.20130105a | space-scape-김민정_김병주_김용관展
+******** imgSrcs ********
+https://neolook.com/archives/2013010501a.jpg
+https://neolook.com/archives/2013010502a.jpg
+https://neolook.com/archives/2013010503a.jpg
+https://neolook.com/archives/2013010504a.jpg
+https://neolook.com/archives/2013010505a.jpg
+https://neolook.com/archives/2013010506a.jpg
+https://neolook.com/archives/2013010507a.jpg
+https://neolook.com/archives/2013010508a.jpg
+https://neolook.com/archives/2013010509a.jpg
+https://neolook.com/archives/2013010510a.jpg

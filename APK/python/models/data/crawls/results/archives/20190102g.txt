@@ -1,4 +1,6 @@
 /archives/20190102g
+
+******** description ********
 2019 두산갤러리 전시기획 공모
 
 DOOSAN Gallery Curatorial Proposals
@@ -37,3 +39,5 @@ www.doosangallery.com,
 - 포트폴리오 (약력포함 별도 양식 없음 pdf 10MB 이하 영상은 포트폴리오 내 링크로 첨부)
 
 Vol.20190102g | 2019 두산갤러리 전시기획 공모
+******** imgSrcs ********
+https://neolook.com/archives/2019010201g.jpg

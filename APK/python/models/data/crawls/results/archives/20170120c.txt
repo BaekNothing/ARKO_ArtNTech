@@ -1,4 +1,6 @@
 /archives/20170120c
+
+******** description ********
 The room ; 사색의 공유
 
 권인경_임남진 2인展
@@ -35,3 +37,14 @@ blog.naver.com/glotteart,
 ■ 고영재
 
 Vol.20170120c | The room ; 사색의 공유-권인경_임남진 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2017012001c.jpg
+https://neolook.com/archives/2017012002c.jpg
+https://neolook.com/archives/2017012003c.jpg
+https://neolook.com/archives/2017012004c.jpg
+https://neolook.com/archives/2017012005c.jpg
+https://neolook.com/archives/2017012006c.jpg
+https://neolook.com/archives/2017012007c.jpg
+https://neolook.com/archives/2017012008c.jpg
+https://neolook.com/archives/2017012009c.jpg
+https://neolook.com/archives/2017012010c.jpg

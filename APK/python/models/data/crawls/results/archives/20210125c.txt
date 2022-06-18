@@ -1,4 +1,6 @@
 /archives/20210125c
+
+******** description ********
 요란한 소리
 
 임지현展 / LIMJIHYUN / 林知炫 / painting
@@ -42,3 +44,13 @@ www.wuminartcenter.org,
 ■ 임지현
 
 Vol.20210125c | 임지현展 / LIMJIHYUN / 林知炫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021012501c.jpg
+https://neolook.com/archives/2021012502c.jpg
+https://neolook.com/archives/2021012503c.jpg
+https://neolook.com/archives/2021012504c.jpg
+https://neolook.com/archives/2021012505c.jpg
+https://neolook.com/archives/2021012506c.jpg
+https://neolook.com/archives/2021012507c.jpg
+https://neolook.com/archives/2021012508c.jpg
+https://neolook.com/archives/2021012509c.jpg

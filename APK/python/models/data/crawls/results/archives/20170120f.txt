@@ -1,4 +1,6 @@
 /archives/20170120f
+
+******** description ********
 그리기 - 또 다른 가능성의 영역으로
 
 봉산문화회관기획 | 2017 특화전시 지원 프로그램展
@@ -73,3 +75,14 @@ www.bongsanart.org,
 ■ 
 
 Vol.20170120f | 그리기 - 또 다른 가능성의 영역으로展
+******** imgSrcs ********
+https://neolook.com/archives/2017012001f.jpg
+https://neolook.com/archives/2017012002f.jpg
+https://neolook.com/archives/2017012003f.jpg
+https://neolook.com/archives/2017012004f.jpg
+https://neolook.com/archives/2017012005f.jpg
+https://neolook.com/archives/2017012006f.jpg
+https://neolook.com/archives/2017012007f.jpg
+https://neolook.com/archives/2017012008f.jpg
+https://neolook.com/archives/2017012009f.jpg
+https://neolook.com/archives/2017012010f.jpg

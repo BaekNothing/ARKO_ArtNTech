@@ -1,4 +1,6 @@
 /archives/20150112d
+
+******** description ********
 Muto
 
 엄해조展 / EOMHAEJO / 嚴海祚 / painting
@@ -40,3 +42,11 @@ www.wuminartcenter.org,
 ■ 우민아트센터
 
 Vol.20150112d | 엄해조展 / EOMHAEJO / 嚴海祚 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011201d.jpg
+https://neolook.com/archives/2015011202d.jpg
+https://neolook.com/archives/2015011203d.jpg
+https://neolook.com/archives/2015011204d.jpg
+https://neolook.com/archives/2015011205d.jpg
+https://neolook.com/archives/2015011206d.jpg
+https://neolook.com/archives/2015011207d.jpg

@@ -1,4 +1,6 @@
 /archives/20190124c
+
+******** description ********
 100년의 기다림
 
 한국근현대명화展
@@ -64,3 +66,12 @@ www.jeongeup.go.kr,
 ∙ 참가비 : 무료
 
 Vol.20190124c | 100년의 기다림-한국근현대명화展
+******** imgSrcs ********
+https://neolook.com/archives/2019012401c.jpg
+https://neolook.com/archives/2019012402c.jpg
+https://neolook.com/archives/2019012403c.jpg
+https://neolook.com/archives/2019012404c.jpg
+https://neolook.com/archives/2019012405c.jpg
+https://neolook.com/archives/2019012406c.jpg
+https://neolook.com/archives/2019012407c.jpg
+https://neolook.com/archives/2019012408c.jpg

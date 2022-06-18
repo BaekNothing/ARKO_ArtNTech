@@ -1,4 +1,6 @@
 /archives/20100122g
+
+******** description ********
 순환의 여행 / 방주와 강목사이2010
 
 차기율展 / CHAKIYOUL / 車基律 / mixed media
@@ -27,3 +29,11 @@ www.kunstdoc.com,
 차기율_순환의 여행 / 방주와 강목사이_자연석 강철와이어_가변설치_2010
 
 차기율展_갤러리 쿤스트독_2010,    Vol.20100122g | 차기율展 / CHAKIYOUL / 車基律 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2010012201g.jpg
+https://neolook.com/archives/2010012202g.jpg
+https://neolook.com/archives/2010012203g.jpg
+https://neolook.com/archives/2010012204g.jpg
+https://neolook.com/archives/2010012205g.jpg
+https://neolook.com/archives/2010012206g.jpg
+https://neolook.com/archives/2010012207g.jpg

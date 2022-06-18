@@ -1,4 +1,6 @@
 /archives/20170113d
+
+******** description ********
 2017 기억공작소 Ⅰ-생각이 그려지는
 
 서용선展 / SUHYONGSUN / 徐庸宣 / painting.sculpture
@@ -68,3 +70,11 @@ www.bongsanart.org,
 ■ 서용선
 
 Vol.20170113d | 서용선展 / SUHYONGSUN / 徐庸宣 / painting.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2017011301d.jpg
+https://neolook.com/archives/2017011302d.jpg
+https://neolook.com/archives/2017011303d.jpg
+https://neolook.com/archives/2017011304d.jpg
+https://neolook.com/archives/2017011305d.jpg
+https://neolook.com/archives/2017011306d.jpg
+https://neolook.com/archives/2017011307d.jpg

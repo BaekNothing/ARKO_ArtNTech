@@ -1,4 +1,6 @@
 /archives/20140102b
+
+******** description ********
 ㈜김지영출판사
 
 김지영展 / KIMJIYOUNG / 金芝英 / mixed media
@@ -31,3 +33,7 @@ blog.naver.com/175gallery,
 ■ 김지영
 
 Vol.20140102b | 김지영展 / KIMJIYOUNG / 金芝英 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2014010201b.jpg
+https://neolook.com/archives/2014010202b.jpg
+https://neolook.com/archives/2014010203b.jpg

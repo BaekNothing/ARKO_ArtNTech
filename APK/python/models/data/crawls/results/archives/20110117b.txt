@@ -1,4 +1,6 @@
 /archives/20110117b
+
+******** description ********
 새 움트다 
 
 2011 자라섬 국제바깥미술展
@@ -76,3 +78,12 @@ Tel. +82.10.3424.0110,
 주제토론_김종길 고충환 김경서 등의 비평가
 
 Vol.20110117b | 새 움트다-2011 자라섬 국제바깥미술展
+******** imgSrcs ********
+https://neolook.com/archives/2011011701b.jpg
+https://neolook.com/archives/2011011702b.jpg
+https://neolook.com/archives/2011011703b.jpg
+https://neolook.com/archives/2011011704b.jpg
+https://neolook.com/archives/2011011705b.jpg
+https://neolook.com/archives/2011011706b.jpg
+https://neolook.com/archives/2011011707b.jpg
+https://neolook.com/archives/2011011708b.jpg

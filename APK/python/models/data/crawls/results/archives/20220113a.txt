@@ -1,4 +1,6 @@
 /archives/20220113a
+
+******** description ********
 당신이나 나 같은 사물
 A Thing Like You And Me,    손유화_이현주_정수展
  
@@ -45,3 +47,17 @@ www.beautifulshinhan.co.kr,
 ■ 신한갤러리 역삼
 
 Vol.20220113a | 당신이나 나 같은 사물 A Thing Like You And Me展
+******** imgSrcs ********
+https://neolook.com/archives/2022011301a.jpg
+https://neolook.com/archives/2022011302a.jpg
+https://neolook.com/archives/2022011303a.jpg
+https://neolook.com/archives/2022011304a.jpg
+https://neolook.com/archives/2022011305a.jpg
+https://neolook.com/archives/2022011306a.jpg
+https://neolook.com/archives/2022011307a.jpg
+https://neolook.com/archives/2022011308a.jpg
+https://neolook.com/archives/2022011309a.jpg
+https://neolook.com/archives/2022011310a.jpg
+https://neolook.com/archives/2022011311a.jpg
+https://neolook.com/archives/2022011312a.jpg
+https://neolook.com/archives/2022011313a.jpg

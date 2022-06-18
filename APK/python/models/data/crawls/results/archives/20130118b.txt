@@ -1,4 +1,6 @@
 /archives/20130118b
+
+******** description ********
 Daily Art-천 번의 감사 천 장의 스마트폰 사진
 
 김민수展 / KIMMINSOO / 金旻洙 / photography
@@ -54,3 +56,11 @@ II. What ●
 ■ 김민수
 
 Vol.20130118b | 김민수展 / KIMMINSOO / 金旻洙 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2013011801b.jpg
+https://neolook.com/archives/2013011802b.jpg
+https://neolook.com/archives/2013011803b.jpg
+https://neolook.com/archives/2013011804b.jpg
+https://neolook.com/archives/2013011805b.jpg
+https://neolook.com/archives/2013011806b.jpg
+https://neolook.com/archives/2013011807b.jpg

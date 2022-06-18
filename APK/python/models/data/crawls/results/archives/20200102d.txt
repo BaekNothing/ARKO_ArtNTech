@@ -1,4 +1,6 @@
 /archives/20200102d
+
+******** description ********
 Homo Phiis Lucis 호모 파이이스 루시스
 
 김윤지展 / GEEMYOONJEE / 金允志 / painting.installation
@@ -62,3 +64,14 @@ www.galleryinsaart.com,
 ■ 
 
 Vol.20200102d | 김윤지展 / GEEMYOONJEE / 金允志 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2020010201d.jpg
+https://neolook.com/archives/2020010202d.jpg
+https://neolook.com/archives/2020010203d.jpg
+https://neolook.com/archives/2020010204d.jpg
+https://neolook.com/archives/2020010205d.jpg
+https://neolook.com/archives/2020010206d.jpg
+https://neolook.com/archives/2020010207d.jpg
+https://neolook.com/archives/2020010208d.jpg
+https://neolook.com/archives/2020010209d.jpg
+https://neolook.com/archives/2020010210d.jpg

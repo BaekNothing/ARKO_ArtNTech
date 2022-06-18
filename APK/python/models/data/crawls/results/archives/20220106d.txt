@@ -1,4 +1,6 @@
 /archives/20220106d
+
+******** description ********
 回流 회류
 
 박종갑展 / PARKJONGGAB / 朴鐘甲 / painting
@@ -56,3 +58,14 @@ www.gjjs.or.kr,
 ■ 박종갑
 
 Vol.20220106d | 박종갑展 / PARKJONGGAB / 朴鐘甲 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010601d.jpg
+https://neolook.com/archives/2022010602d.jpg
+https://neolook.com/archives/2022010603d.jpg
+https://neolook.com/archives/2022010604d.jpg
+https://neolook.com/archives/2022010605d.jpg
+https://neolook.com/archives/2022010606d.jpg
+https://neolook.com/archives/2022010607d.jpg
+https://neolook.com/archives/2022010608d.jpg
+https://neolook.com/archives/2022010609d.jpg
+https://neolook.com/archives/2022010610d.jpg

@@ -1,4 +1,6 @@
 /archives/20080121b
+
+******** description ********
 베트남 그림 여행
 지은이_최수진,    글 .그림. 사진_최수진|| 분류_예술 || 판형_125×188 || 면수_512쪽
 발행일_2007년 12월 15일 || ISBN: 978-89-546-0416-1 || 가격_15000원 || 북노마드
@@ -30,3 +32,11 @@ Tel. +82.31.955.2646,
 부록_'여행하는 사람' 최수진이 전하는 베트남 여행 정보
 
 Vol.20080121b | 베트남 그림 여행 / 지은이_최수진 / 북노마드
+******** imgSrcs ********
+/archives/2008012101b.gif
+https://neolook.com/archives/2008012102b.jpg
+/archives/2008012103b.gif
+https://neolook.com/archives/2008012104b.jpg
+https://neolook.com/archives/2008012105b.jpg
+https://neolook.com/archives/2008012106b.jpg
+https://neolook.com/archives/2008012107b.jpg

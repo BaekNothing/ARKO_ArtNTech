@@ -1,4 +1,6 @@
 /archives/20110101b
+
+******** description ********
 GLOBAL KOREAN ARTISTS 12 & CURATORS 6
 
 아트인컬처 2011년 1월호
@@ -55,3 +57,9 @@ www.artinculture.kr,
 에디터스 블로그
 
 Vol.20110101b | GLOBAL KOREAN ARTISTS 12 & CURATORS 6
+******** imgSrcs ********
+https://neolook.com/archives/2011010101b.jpg
+https://neolook.com/archives/2011010102b.jpg
+https://neolook.com/archives/2011010103b.jpg
+https://neolook.com/archives/2011010104b.jpg
+https://neolook.com/archives/2011010105b.jpg

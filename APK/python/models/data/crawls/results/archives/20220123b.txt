@@ -1,4 +1,6 @@
 /archives/20220123b
+
+******** description ********
 Soft Prologue
 
 박소라展 / PARKSORA / 朴素羅 / mixed media.installation
@@ -32,3 +34,11 @@ www.523kunstdoc.co.kr,
 ■ 박소라
 
 Vol.20220123b | 박소라展 / PARKSORA / 朴素羅 / mixed media.installation
+******** imgSrcs ********
+https://neolook.com/archives/2022012301b.jpg
+https://neolook.com/archives/2022012302b.jpg
+https://neolook.com/archives/2022012303b.jpg
+https://neolook.com/archives/2022012304b.jpg
+https://neolook.com/archives/2022012305b.jpg
+https://neolook.com/archives/2022012306b.jpg
+https://neolook.com/archives/2022012307b.jpg

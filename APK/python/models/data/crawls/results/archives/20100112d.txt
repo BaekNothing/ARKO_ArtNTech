@@ -1,4 +1,6 @@
 /archives/20100112d
+
+******** description ********
 제10회 금호영아티스트 공모
 접수기간 / 2010_0112 ▶ 2010_0210,    ,    접수마감 / 2010_0210_수요일_05:00pm,    금호미술관
 KUMHO MUSEUM OF ART
@@ -38,3 +40,5 @@ www.kumhomuseum.com,
 
 10. 문의_changmj@kumhoasiana.com  |  t. 82.2.720.5114 금호미술관 학예실 
 Vol.20100112d | 제10회 금호영아티스트 공모
+******** imgSrcs ********
+https://neolook.com/archives/2010011201d.jpg

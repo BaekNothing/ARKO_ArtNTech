@@ -1,4 +1,6 @@
 /archives/20100127c
+
+******** description ********
 material & sensation
 
 인사아트센터 기획展
@@ -40,3 +42,10 @@ www.insaartcenter.com,
 ■ 최아미
 
 Vol.20100127c | material & sensation展
+******** imgSrcs ********
+https://neolook.com/archives/2010012701c.jpg
+https://neolook.com/archives/2010012702c.jpg
+https://neolook.com/archives/2010012703c.jpg
+https://neolook.com/archives/2010012704c.jpg
+https://neolook.com/archives/2010012705c.jpg
+https://neolook.com/archives/2010012706c.jpg

@@ -1,4 +1,6 @@
 /archives/20150109g
+
+******** description ********
 유약의 미학
 
 한·중·북·일 회령도자展
@@ -67,3 +69,18 @@ blog.naver.com/gallerylotte,
 ■ 롯데갤러리 본점
 
 Vol.20150109g | 유약의 미학-한·중·북·일 회령도자展
+******** imgSrcs ********
+https://neolook.com/archives/2015010901g.jpg
+https://neolook.com/archives/2015010902g.jpg
+https://neolook.com/archives/2015010903g.jpg
+https://neolook.com/archives/2015010904g.jpg
+https://neolook.com/archives/2015010905g.jpg
+https://neolook.com/archives/2015010906g.jpg
+https://neolook.com/archives/2015010907g.jpg
+https://neolook.com/archives/2015010908g.jpg
+https://neolook.com/archives/2015010909g.jpg
+https://neolook.com/archives/2015010910g.jpg
+https://neolook.com/archives/2015010911g.jpg
+https://neolook.com/archives/2015010912g.jpg
+https://neolook.com/archives/2015010913g.jpg
+https://neolook.com/archives/2015010914g.jpg

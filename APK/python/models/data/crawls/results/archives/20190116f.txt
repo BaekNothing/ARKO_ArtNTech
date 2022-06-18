@@ -1,4 +1,6 @@
 /archives/20190116f
+
+******** description ********
 백두대간 白頭大幹: 백두산에서 지리산까지
 우리나라 땅의 근골을 이루는 거대한 산줄기,    백범영展 / BAEKBEOMYOUNG / 白凡瑛 / painting
  
@@ -37,3 +39,10 @@ www.gallerydongduk.com,
 ■ 황정수
 
 Vol.20190116f | 백범영展 / BAEKBEOMYOUNG / 白凡瑛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011601f.jpg
+https://neolook.com/archives/2019011602f.jpg
+https://neolook.com/archives/2019011603f.jpg
+https://neolook.com/archives/2019011604f.jpg
+https://neolook.com/archives/2019011605f.jpg
+https://neolook.com/archives/2019011606f.jpg

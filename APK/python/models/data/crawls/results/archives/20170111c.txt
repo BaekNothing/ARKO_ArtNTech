@@ -1,4 +1,6 @@
 /archives/20170111c
+
+******** description ********
 500
 2017_0111 ▶ 2017_0122,    ,    초대일시 / 2017_0111_수요일_06:00pm
 
@@ -37,3 +39,13 @@ www.artspaceh.com,
 ■ 장욱희
 
 Vol.20170111c | 500展
+******** imgSrcs ********
+https://neolook.com/archives/2017011101c.jpg
+https://neolook.com/archives/2017011102c.jpg
+https://neolook.com/archives/2017011103c.jpg
+https://neolook.com/archives/2017011104c.jpg
+https://neolook.com/archives/2017011105c.jpg
+https://neolook.com/archives/2017011106c.jpg
+https://neolook.com/archives/2017011107c.jpg
+https://neolook.com/archives/2017011108c.jpg
+https://neolook.com/archives/2017011109c.jpg

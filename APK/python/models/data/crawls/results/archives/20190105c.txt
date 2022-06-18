@@ -1,4 +1,6 @@
 /archives/20190105c
+
+******** description ********
 Your Layover
 
 임나리展 / YIMNARI / 任나리 / photography
@@ -42,3 +44,11 @@ blog.naver.com/175gallery,
 ■ 박이현
 
 Vol.20190105c | 임나리展 / YIMNARI / 任나리 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2019010501c.jpg
+https://neolook.com/archives/2019010502c.jpg
+https://neolook.com/archives/2019010503c.jpg
+https://neolook.com/archives/2019010504c.jpg
+https://neolook.com/archives/2019010505c.jpg
+https://neolook.com/archives/2019010506c.jpg
+https://neolook.com/archives/2019010507c.jpg

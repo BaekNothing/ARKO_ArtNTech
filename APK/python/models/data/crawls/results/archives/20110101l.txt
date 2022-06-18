@@ -1,4 +1,6 @@
 /archives/20110101l
+
+******** description ********
 IDENTITY IN ASIAN ART
 
 POINT : ASIAN CONTEMPORARY ART MAGAZINE 2011년 1월호
@@ -58,3 +60,9 @@ Collection of City Images 도시채집,    05 Finding the New Alternative 아시
 - Art Beijing
 
 Vol.20110101l | IDENTITY IN ASIAN ART
+******** imgSrcs ********
+https://neolook.com/archives/2011010101l.jpg
+https://neolook.com/archives/2011010102l.jpg
+https://neolook.com/archives/2011010103l.jpg
+https://neolook.com/archives/2011010104l.jpg
+https://neolook.com/archives/2011010105l.jpg

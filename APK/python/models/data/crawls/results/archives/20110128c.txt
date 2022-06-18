@@ -1,4 +1,6 @@
 /archives/20110128c
+
+******** description ********
 재회
 
 김희재_소현우展
@@ -52,3 +54,12 @@ www.insaartcenter.com,
 ■ 소현우
 
 Vol.20110128c | 재회-김희재_소현우展
+******** imgSrcs ********
+https://neolook.com/archives/2011012801c.jpg
+https://neolook.com/archives/2011012802c.jpg
+https://neolook.com/archives/2011012803c.jpg
+https://neolook.com/archives/2011012804c.jpg
+https://neolook.com/archives/2011012805c.jpg
+https://neolook.com/archives/2011012806c.jpg
+https://neolook.com/archives/2011012807c.jpg
+https://neolook.com/archives/2011012808c.jpg

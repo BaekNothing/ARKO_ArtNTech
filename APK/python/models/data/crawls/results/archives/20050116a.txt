@@ -1,4 +1,6 @@
 /archives/20050116a
+
+******** description ********
 생활의 저편
 
 성균관대학교 대학원 미술학전공 기획展
@@ -21,3 +23,14 @@ Tel. 02_725_6751,
 장승현_빗방울_캔버스에 유채_53×53cm_2004,    어두운 풍경에서 어떤 빛에 의해 번뜩이는 빗방울들은 보석처럼 빛나고 때로는 세계를 또 다른 시선으로 바라보게 비춰주는 것이었다. ● 무엇이든 어떤 시각으로 보느냐에 따라 많은 차이가 나며 특별하지 않은 것들도 새롭게 다시 태어나는 듯 하다. ■ 장승현,    
 함수연_Conte_캔버스에 유채_46×53cm_2004,    김선생님_봄에 진달래가 슬퍼서 눈물이 났어요. 이상하죠? / 왜 진달래가 슬퍼 보이지? 철쭉은 안 그런데... / 나_아마 진달래는 순한 꽃이니까요. 아기진달래... / 김선생님_생각해보니 아직 연두색이 보이지 않을 때 진달래가 마른 땅에 피어서 그런거 같아요. / 나_맞아요. 철쭉은 화장 진하게 한 여자 같아. ■ 함수연
 Vol.20050116a | 생활의 저편展
+******** imgSrcs ********
+/archives/2005011601a.gif
+/archives/2005011602a.gif
+https://neolook.com/archives/2005011603a.jpg
+https://neolook.com/archives/2005011604a.jpg
+https://neolook.com/archives/2005011605a.jpg
+https://neolook.com/archives/2005011606a.jpg
+https://neolook.com/archives/2005011607a.jpg
+https://neolook.com/archives/2005011608a.jpg
+https://neolook.com/archives/2005011609a.jpg
+https://neolook.com/archives/2005011610a.jpg

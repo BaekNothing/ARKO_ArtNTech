@@ -1,4 +1,6 @@
 /archives/20080102d
+
+******** description ********
 진선북카페 아트 프로젝트 전시작가공모
 접수기간 / 2008_0101 ▶ 2008_0212,    진선북카페 아트 프로젝트
 
@@ -48,3 +50,8 @@ www.jinsunart.com,
 2008년 3월 초에 개별 통지 및 네이버 블로그를 통해 공지
 
 Vol.20080102d | 진선북카페 아트 프로젝트 전시작가공모展
+******** imgSrcs ********
+https://neolook.com/archives/2008010201d.jpg
+/archives/2008010202d.gif
+/archives/2008010203d.gif
+/archives/2008010204d.gif

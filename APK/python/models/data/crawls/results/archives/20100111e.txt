@@ -1,4 +1,6 @@
 /archives/20100111e
+
+******** description ********
 Hero
 
 제7회 야외설치조각展
@@ -58,3 +60,14 @@ www.gasc.or.kr,
 ■ 김해문화의전당 전시교육팀
 
 Vol.20100111e | Hero-제7회 야외설치조각展
+******** imgSrcs ********
+https://neolook.com/archives/2010011101e.jpg
+https://neolook.com/archives/2010011102e.jpg
+https://neolook.com/archives/2010011103e.jpg
+https://neolook.com/archives/2010011104e.jpg
+https://neolook.com/archives/2010011105e.jpg
+https://neolook.com/archives/2010011106e.jpg
+https://neolook.com/archives/2010011107e.jpg
+https://neolook.com/archives/2010011108e.jpg
+https://neolook.com/archives/2010011109e.jpg
+https://neolook.com/archives/2010011110e.jpg

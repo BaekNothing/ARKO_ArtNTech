@@ -1,4 +1,6 @@
 /archives/20180130d
+
+******** description ********
 이마로씨의 무비월드
 
 이마로展 / LEEMARO / painting
@@ -36,3 +38,11 @@ ableart.or.kr,
 ■ 
 
 Vol.20180130d | 이마로展 / LEEMARO / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018013001d.jpg
+https://neolook.com/archives/2018013002d.jpg
+https://neolook.com/archives/2018013003d.jpg
+https://neolook.com/archives/2018013004d.jpg
+https://neolook.com/archives/2018013005d.jpg
+https://neolook.com/archives/2018013006d.jpg
+https://neolook.com/archives/2018013007d.jpg

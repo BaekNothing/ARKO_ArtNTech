@@ -1,4 +1,6 @@
 /archives/20160107h
+
+******** description ********
 오산 영 크리에이티브-108개 의자
 
 Young Creative in OSAN展
@@ -42,3 +44,10 @@ www.osanart.net,
 ■ 곽상욱
 
 Vol.20160107h | 오산 영 크리에이티브-108개 의자展
+******** imgSrcs ********
+https://neolook.com/archives/2016010701h.jpg
+https://neolook.com/archives/2016010702h.jpg
+https://neolook.com/archives/2016010703h.jpg
+https://neolook.com/archives/2016010704h.jpg
+https://neolook.com/archives/2016010705h.jpg
+https://neolook.com/archives/2016010706h.jpg

@@ -1,4 +1,6 @@
 /archives/20140115c
+
+******** description ********
 관계-맺고 섞이고 겹치다
 
 장진영展 / JANGJINYOUNG / 張鎭英 / painting
@@ -45,3 +47,11 @@ www.gallerylamer.com,
 ■ 장진영
 
 Vol.20140115c | 장진영展 / JANGJINYOUNG / 張鎭英 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011501c.jpg
+https://neolook.com/archives/2014011502c.jpg
+https://neolook.com/archives/2014011503c.jpg
+https://neolook.com/archives/2014011504c.jpg
+https://neolook.com/archives/2014011505c.jpg
+https://neolook.com/archives/2014011506c.jpg
+https://neolook.com/archives/2014011507c.jpg

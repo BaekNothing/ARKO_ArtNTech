@@ -1,4 +1,6 @@
 /archives/20220126e
+
+******** description ********
 밤부갤러리 오픈콜 2022
 
 BAMBU GALLERY OPEN CALL 2022
@@ -37,3 +39,5 @@ www.bambucollection.com
   제출 양식 미달시 지원되지 않습니다.
 
 Vol.20220126e | 밤부갤러리 오픈콜 2022
+******** imgSrcs ********
+https://neolook.com/archives/2022012601e.jpg

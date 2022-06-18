@@ -1,4 +1,6 @@
 /archives/20170111h
+
+******** description ********
 자! 다시 시작이야!
 
 김영미展 / KIMYOUNGMI / 金英美 / painting
@@ -33,3 +35,11 @@ www.theocd.co.kr,
 ■ 김영미
 
 Vol.20170111h | 김영미展 / KIMYOUNGMI / 金英美 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011101h.jpg
+https://neolook.com/archives/2017011102h.jpg
+https://neolook.com/archives/2017011103h.jpg
+https://neolook.com/archives/2017011104h.jpg
+https://neolook.com/archives/2017011105h.jpg
+https://neolook.com/archives/2017011106h.jpg
+https://neolook.com/archives/2017011107h.jpg

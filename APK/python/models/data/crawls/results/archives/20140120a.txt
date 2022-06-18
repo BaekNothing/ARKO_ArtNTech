@@ -1,4 +1,6 @@
 /archives/20140120a
+
+******** description ********
 온도 TEMPERATURE
 
 2014_0115 ▶ 2014_0121,    ,    
@@ -39,3 +41,15 @@ www.kosa08.com,
 ■ 중앙대학교 조소학과 대학원
 
 Vol.20140120a | 온도 TEMPERATURE展
+******** imgSrcs ********
+https://neolook.com/archives/2014012001a.jpg
+https://neolook.com/archives/2014012002a.jpg
+https://neolook.com/archives/2014012003a.jpg
+https://neolook.com/archives/2014012004a.jpg
+https://neolook.com/archives/2014012005a.jpg
+https://neolook.com/archives/2014012006a.jpg
+https://neolook.com/archives/2014012007a.jpg
+https://neolook.com/archives/2014012008a.jpg
+https://neolook.com/archives/2014012009a.jpg
+https://neolook.com/archives/2014012010a.jpg
+https://neolook.com/archives/2014012011a.jpg

@@ -1,4 +1,6 @@
 /archives/20130103e
+
+******** description ********
 제주도의 풍경
 
 김학대展 / KIMHAKDAI / 金學大 / painting
@@ -28,3 +30,11 @@ www.scalatium.com,
 ■ 김학대
 
 Vol.20130103e | 김학대展 / KIMHAKDAI / 金學大 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010301e.jpg
+https://neolook.com/archives/2013010302e.jpg
+https://neolook.com/archives/2013010303e.jpg
+https://neolook.com/archives/2013010304e.jpg
+https://neolook.com/archives/2013010305e.jpg
+https://neolook.com/archives/2013010306e.jpg
+https://neolook.com/archives/2013010307e.jpg

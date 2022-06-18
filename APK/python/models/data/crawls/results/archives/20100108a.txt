@@ -1,4 +1,6 @@
 /archives/20100108a
+
+******** description ********
 송암문화재단 신진작가 공모
 
 접수기간 / 2010_0108 ▶ 2010_0122,    ,    접수마감 / 2010_0122_금요일,    
@@ -30,3 +32,5 @@ www.songamfoundation.org,
 송암문화재단 서울시 종로구 수송동 46-15 www.songamfoundation.org
 
 Vol.20100108a | 송암문화재단 신진작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2010010801a.jpg

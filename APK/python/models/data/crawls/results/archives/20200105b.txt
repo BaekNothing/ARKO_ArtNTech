@@ -1,4 +1,6 @@
 /archives/20200105b
+
+******** description ********
 Being inside 내면풍경
 
 변대용展 / BYUNDAEYONG / 卞大龍 / sculpture
@@ -45,3 +47,9 @@ FRP에 우레탄도색_높이 250cm 가변설치_2019_부분,
 ■ 신혜영
 
 Vol.20200105b | 변대용展 / BYUNDAEYONG / 卞大龍 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2020010501b.jpg
+https://neolook.com/archives/2020010502b.jpg
+https://neolook.com/archives/2020010503b.jpg
+https://neolook.com/archives/2020010504b.jpg
+https://neolook.com/archives/2020010505b.jpg

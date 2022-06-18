@@ -1,4 +1,6 @@
 /archives/20090130f
+
+******** description ********
 문신 예술의 신화-융합 미학
 
 Mythology of Moon Shin's art world-an esthetic of unity
@@ -66,3 +68,10 @@ www.mise1984.com,
 연보
 도판목록
 Vol.20090130f | 문신 예술의 신화-융합 미학 / 지은이_김영호 / 미술세계
+******** imgSrcs ********
+https://neolook.com/archives/2009013001f.jpg
+https://neolook.com/archives/2009013002f.jpg
+https://neolook.com/archives/2009013003f.jpg
+https://neolook.com/archives/2009013004f.jpg
+https://neolook.com/archives/2009013005f.jpg
+https://neolook.com/archives/2009013006f.jpg

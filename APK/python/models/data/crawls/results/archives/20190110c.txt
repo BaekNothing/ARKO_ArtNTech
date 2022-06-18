@@ -1,4 +1,6 @@
 /archives/20190110c
+
+******** description ********
 휴가
 
 2019 시각예술 전시기획 공모展
@@ -51,3 +53,11 @@ blog.naver.com/seoripulgallery,
 기획_임정서 ● 디자인 영화 미술 퍼포먼스 등 실험적인 작품을 만들고 기획 기반 프로젝트로  작가이자 기획자로 활동하고 있다. (www.jungsuhsuelim.com) ■ 서리풀 청년아트갤러리
 
 Vol.20190110c | 휴가展
+******** imgSrcs ********
+https://neolook.com/archives/2019011001c.jpg
+https://neolook.com/archives/2019011002c.jpg
+https://neolook.com/archives/2019011003c.jpg
+https://neolook.com/archives/2019011004c.jpg
+https://neolook.com/archives/2019011005c.jpg
+https://neolook.com/archives/2019011006c.jpg
+https://neolook.com/archives/2019011007c.jpg

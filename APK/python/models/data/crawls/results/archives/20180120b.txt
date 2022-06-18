@@ -1,4 +1,6 @@
 /archives/20180120b
+
+******** description ********
 Life : A Beautiful Struggle
 
 Tommy 윤展 / Tommy Yoon / Tommy 尹 / photography
@@ -38,3 +40,14 @@ Tommy 윤_10 Me Next_C 타입 프린트_40×60cm_2013,
 ■ 임대식
 
 Vol.20180120b | Tommy 윤展 / Tommy Yoon / Tommy 尹 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018012001b.jpg
+https://neolook.com/archives/2018012002b.jpg
+https://neolook.com/archives/2018012003b.jpg
+https://neolook.com/archives/2018012004b.jpg
+https://neolook.com/archives/2018012005b.jpg
+https://neolook.com/archives/2018012006b.jpg
+https://neolook.com/archives/2018012007b.jpg
+https://neolook.com/archives/2018012008b.jpg
+https://neolook.com/archives/2018012009b.jpg
+https://neolook.com/archives/2018012010b.jpg

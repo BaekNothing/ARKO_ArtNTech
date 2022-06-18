@@ -1,4 +1,6 @@
 /archives/20100111a
+
+******** description ********
 제32회 중앙미술대전 공모 접수 안내
 
 접수기간 / 우편접수 2010_0111 ▶ 2010_0115
@@ -43,3 +45,5 @@ fineart.joins.com,
 홈페이지 http://fineart.joins.com | 전화 (02)2000-6330 | 이메일 jinyeong@joongang.co.kr
 
 Vol.20100111a | 제32회 중앙미술대전 공모 접수 안내
+******** imgSrcs ********
+https://neolook.com/archives/2010011101a.jpg

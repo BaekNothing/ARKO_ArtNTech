@@ -1,4 +1,6 @@
 /archives/20200109e
+
+******** description ********
 인생예찬
 
 5인 조각 초대展
@@ -36,3 +38,10 @@ www.arti-vita.net,
 ● 2020년의 문을 여는 『인생예찬』 전시가 보통 사람들의 평범한 일상에 깃들어있는 존재의 아름다움과 삶의 행복을 발견하고 한해를 살아가는 힘을 얻는 시간이 되기를 기대해봅니다. ■ 정옥
 
 Vol.20200109e | 인생예찬-5인 조각 초대展
+******** imgSrcs ********
+https://neolook.com/archives/2020010901e.jpg
+https://neolook.com/archives/2020010902e.jpg
+https://neolook.com/archives/2020010903e.jpg
+https://neolook.com/archives/2020010904e.jpg
+https://neolook.com/archives/2020010905e.jpg
+https://neolook.com/archives/2020010906e.jpg

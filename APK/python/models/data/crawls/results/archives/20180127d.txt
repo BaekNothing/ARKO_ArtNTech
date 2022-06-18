@@ -1,4 +1,6 @@
 /archives/20180127d
+
+******** description ********
 슬픔아 안녕!
 
 변경희展 / BYUNKYUNGHEE / 卞慶喜 / painting
@@ -37,3 +39,14 @@ www.spaceopt.co.kr,
 ■ 변경희
 
 Vol.20180127d | 변경희展 / BYUNKYUNGHEE / 卞慶喜 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012701d.jpg
+https://neolook.com/archives/2018012702d.jpg
+https://neolook.com/archives/2018012703d.jpg
+https://neolook.com/archives/2018012704d.jpg
+https://neolook.com/archives/2018012705d.jpg
+https://neolook.com/archives/2018012706d.jpg
+https://neolook.com/archives/2018012707d.jpg
+https://neolook.com/archives/2018012708d.jpg
+https://neolook.com/archives/2018012709d.jpg
+https://neolook.com/archives/2018012710d.jpg

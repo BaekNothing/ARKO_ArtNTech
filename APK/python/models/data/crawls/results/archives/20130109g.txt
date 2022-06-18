@@ -1,4 +1,6 @@
 /archives/20130109g
+
+******** description ********
 Ode to the Present '지금'을 위한 송가
 
 홍경아展 / HONGKYOUNGA / 洪景娥 / painting
@@ -37,3 +39,9 @@ Ode to the Present
 ■ Kim Su-Yeong
 
 Vol.20130109g | 홍경아展 / HONGKYOUNGA / 洪景娥 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010901g.jpg
+https://neolook.com/archives/2013010902g.jpg
+https://neolook.com/archives/2013010903g.jpg
+https://neolook.com/archives/2013010904g.jpg
+https://neolook.com/archives/2013010905g.jpg

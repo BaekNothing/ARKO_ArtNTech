@@ -1,4 +1,6 @@
 /archives/20150130e
+
+******** description ********
 The Defeat of Thinker
 
 박종호展 / PARKJONGHO / 朴鍾皓 / photography
@@ -37,3 +39,9 @@ www.63.co.kr,
 ■ 박종호
 
 Vol.20150130e | 박종호展 / PARKJONGHO / 朴鍾皓 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2015013001e.jpg
+https://neolook.com/archives/2015013002e.jpg
+https://neolook.com/archives/2015013003e.jpg
+https://neolook.com/archives/2015013004e.jpg
+https://neolook.com/archives/2015013005e.jpg

@@ -1,4 +1,6 @@
 /archives/20100113b
+
+******** description ********
 노마드 NOMAD
 
 권태균展 / KWONTAEGYUN / 權泰鈞 / photography
@@ -28,3 +30,11 @@ www.gallerylux.net,
 권태균_1986년 1월_경북 안동_퇴계 제사를 지내고
 
 권태균_1986년 8월_전남 진도_길가풍경,    Vol.20100113b | 권태균展 / KWONTAEGYUN / 權泰鈞 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2010011301b.jpg
+https://neolook.com/archives/2010011302b.jpg
+https://neolook.com/archives/2010011303b.jpg
+https://neolook.com/archives/2010011304b.jpg
+https://neolook.com/archives/2010011305b.jpg
+https://neolook.com/archives/2010011306b.jpg
+https://neolook.com/archives/2010011307b.jpg

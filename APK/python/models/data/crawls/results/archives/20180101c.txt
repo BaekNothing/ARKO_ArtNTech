@@ -1,4 +1,6 @@
 /archives/20180101c
+
+******** description ********
 전국 미술대학 졸업작품 100 이것이 한국미술의 미래다
 
 월간미술 2018년 1월호
@@ -116,3 +118,9 @@ Lee Woosung 「While Drinking Coffee with Yoonjung」
 gesso acrylic gouache on fabric 210×210cm 2017
 
 Vol.20180101c | 전국 미술대학 졸업작품 100 이것이 한국미술의 미래다
+******** imgSrcs ********
+https://neolook.com/archives/2018010101c.jpg
+https://neolook.com/archives/2018010102c.jpg
+https://neolook.com/archives/2018010103c.jpg
+https://neolook.com/archives/2018010104c.jpg
+https://neolook.com/archives/2018010105c.jpg

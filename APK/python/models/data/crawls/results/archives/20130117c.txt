@@ -1,4 +1,6 @@
 /archives/20130117c
+
+******** description ********
 TOOL STORY
 
 박주현展 / PARKJUHYUN / 朴柱炫 / sculpture
@@ -80,3 +82,11 @@ While we are holding it hard working is just a tool. (from『Seoul Art guide-Apr
 ■ Kang Sun-Hack
 
 Vol.20130117c | 박주현展 / PARKJUHYUN / 朴柱炫 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013011701c.jpg
+https://neolook.com/archives/2013011702c.jpg
+https://neolook.com/archives/2013011703c.jpg
+https://neolook.com/archives/2013011704c.jpg
+https://neolook.com/archives/2013011705c.jpg
+https://neolook.com/archives/2013011706c.jpg
+https://neolook.com/archives/2013011707c.jpg

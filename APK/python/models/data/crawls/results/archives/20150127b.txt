@@ -1,4 +1,6 @@
 /archives/20150127b
+
+******** description ********
 RISUS PURUS
 
 사이먼 고展 / SIMON KO / painting
@@ -40,3 +42,11 @@ Risus Purus (라이저스 퓨러스) 라는 말은 Samuel Beckett (새뮤얼 베
 ■ 사이먼 고
 
 Vol.20150127b | 사이먼 고展 / SIMON KO / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012701b.jpg
+https://neolook.com/archives/2015012702b.jpg
+https://neolook.com/archives/2015012703b.jpg
+https://neolook.com/archives/2015012704b.jpg
+https://neolook.com/archives/2015012705b.jpg
+https://neolook.com/archives/2015012706b.jpg
+https://neolook.com/archives/2015012707b.jpg

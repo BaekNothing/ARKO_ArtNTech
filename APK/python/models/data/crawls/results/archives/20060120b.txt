@@ -1,4 +1,6 @@
 /archives/20060120b
+
+******** description ********
 나쁜 아이콘
 
 김은진展 / KIMEUNJIN / 金銀鎭 / painting
@@ -23,3 +25,11 @@ www.ilmin.org,
 
 김은진_빨간풍경도_한지에 채색_162×130cm_2005,    김은진은 동양적 회화방식을 현대화하는 작업을 하는 작가로 이제까지 죽음 희생 구원 치유라는 종교의 본래적인 성향을 이미지화해오고 있다. 최근에는 종교의 성스러운 본성들이 인간의 탐욕이나 폭력과 만나면서 본래와 달리 변형되고 이중적이며 혼재된 모습을 지니고 있다는 점에 주목한다. 그러나 카톨릭의 성상들이 그녀의 회화에 언급된다는 사실은 단지 도상의 차용일 뿐이다. 그녀의 종교적 관심은 카톨릭 성화의 이미지 차용이고 그 차용은 새로운 창조를 이루고 있다. ● 전통적 주제나 회화방식을 개인적이고 현대적인 방식으로 재생산시키는 노력은 우리의 시각문화발전에 상당히 중요한 작업이다. 이러한 점을 고민하고 풀어나가는 작가들이 더욱 많아지길 기대하며 이와 병행하는 일민미술관이 되고자 한다. ■ 김희령
 Vol.20060120b | 김은진展 / KIMEUNJIN / 金銀鎭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2006012001b.jpg
+https://neolook.com/archives/2006012002b.jpg
+https://neolook.com/archives/2006012003b.jpg
+https://neolook.com/archives/2006012004b.jpg
+https://neolook.com/archives/2006012005b.jpg
+https://neolook.com/archives/2006012006b.jpg
+https://neolook.com/archives/2006012007b.jpg

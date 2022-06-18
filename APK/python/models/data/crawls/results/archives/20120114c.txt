@@ -1,4 +1,6 @@
 /archives/20120114c
+
+******** description ********
 You were you are
 
 송지윤_윤상윤展
@@ -18,3 +20,10 @@ www.gallerychosun.com,
 ■ 정다경
 
 Vol.20120104c | You were you are-송지윤_윤상윤展
+******** imgSrcs ********
+https://neolook.com/archives/2012010401j.jpg
+https://neolook.com/archives/2012010402j.jpg
+https://neolook.com/archives/2012010403j.jpg
+https://neolook.com/archives/2012010404j.jpg
+https://neolook.com/archives/2012010405j.jpg
+https://neolook.com/archives/2012010406j.jpg

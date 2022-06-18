@@ -1,4 +1,6 @@
 /archives/20100122h
+
+******** description ********
 2010 한국 현대미술의 지평
 The Horizon Exhibition on Contemporary Arts of Korea 2010,    갤러리 페이스 개관기념전展
  
@@ -25,3 +27,7 @@ Gallery Face 공간
 ■ 구지성,    ,    
 
 Vol.20100122h | 2010 한국 현대미술의 지평-갤러리 페이스 개관기념전展
+******** imgSrcs ********
+https://neolook.com/archives/2010012201h.jpg
+https://neolook.com/archives/2010012202h.jpg
+https://neolook.com/archives/2010012203h.jpg

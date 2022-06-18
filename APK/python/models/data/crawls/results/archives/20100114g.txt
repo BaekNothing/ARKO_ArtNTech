@@ -1,4 +1,6 @@
 /archives/20100114g
+
+******** description ********
 JULIAN SCHNABEL NEW PAINTINGS
 
 줄리안 슈나벨展 / Julian Schnabel / painting
@@ -32,3 +34,9 @@ www.changart.com,
 ■ 워터게이트 갤러리
 
 Vol.20100114g | 줄리안 슈나벨展 / Julian Schnabel / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010011401g.jpg
+https://neolook.com/archives/2010011402g.jpg
+https://neolook.com/archives/2010011403g.jpg
+https://neolook.com/archives/2010011404g.jpg
+https://neolook.com/archives/2010011405g.jpg

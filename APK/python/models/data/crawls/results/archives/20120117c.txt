@@ -1,4 +1,6 @@
 /archives/20120117c
+
+******** description ********
 마음
 
 김정아展 / KIMJUNGA / 金廷娥 / painting
@@ -35,3 +37,9 @@ The shapes of squares triangles circles and hearts. The huge canvases show preci
  ■ KIMDONGHYOUN 
 
 Vol.20120117c | 김정아展 / KIMJUNGA / 金廷娥 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011701c.jpg
+https://neolook.com/archives/2012011702c.jpg
+https://neolook.com/archives/2012011703c.jpg
+https://neolook.com/archives/2012011704c.jpg
+https://neolook.com/archives/2012011705c.jpg

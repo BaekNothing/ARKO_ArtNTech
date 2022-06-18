@@ -1,4 +1,6 @@
 /archives/20070123a
+
+******** description ********
 Percept scape-Concept scape
 2007_0124 ▶ 2007_0130,    김남수_historic site_컬러인화_95×120cm_2006
 
@@ -26,3 +28,11 @@ www.gallerylux.net,
 
 홍명섭_para-sight_컬러인화_45×60cm_2006,    가공할 만한 시간의 크롭핑(cropping)과 예언의 힘에 지배되는 모든 이미지들은 안타까운 두려움 때문이라 할지라도사진의 두께 속으로 숨어 들고자 한다. 너는 광채나는 공간의 비현실 속으로 사람들을 이끌어 가는 상상항해의 선장이다. 미지(未知)의 신세계. 그렇게 숨어들기를 결정했던 것은 우연 어떤 틈새도 허용할 수 없는 그런 수많은 결합들로 세계와 맺어져 있는 우연으로 인해서 이루어질 뿐이다. 네 안에서 이미지들은 누구의 명령도 듣지 않는다. 명령이라는 낱말은 그러므로 침묵에서조심스러움에서망각에서 나오는 것이다. ■ 문범
 Vol.20070123a | Percept scape-Concept scape展
+******** imgSrcs ********
+https://neolook.com/archives/2007012301a.jpg
+https://neolook.com/archives/2007012302a.jpg
+https://neolook.com/archives/2007012303a.jpg
+https://neolook.com/archives/2007012304a.jpg
+https://neolook.com/archives/2007012305a.jpg
+https://neolook.com/archives/2007012306a.jpg
+https://neolook.com/archives/2007012307a.jpg

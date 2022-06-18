@@ -1,4 +1,6 @@
 /archives/20160121c
+
+******** description ********
 섭씨 공간℃ The Temperature of Unknown Place
 
 김지선展 / KIMJISEON / 金志宣 / painting
@@ -35,3 +37,14 @@ www.cjartstudio.com,
 ■ 청주미술창작스튜디오
 
 Vol.20160121c | 김지선展 / KIMJISEON / 金志宣 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016012101c.jpg
+https://neolook.com/archives/2016012102c.jpg
+https://neolook.com/archives/2016012103c.jpg
+https://neolook.com/archives/2016012104c.jpg
+https://neolook.com/archives/2016012105c.jpg
+https://neolook.com/archives/2016012106c.jpg
+https://neolook.com/archives/2016012107c.jpg
+https://neolook.com/archives/2016012108c.jpg
+https://neolook.com/archives/2016012109c.jpg
+https://neolook.com/archives/2016012110c.jpg

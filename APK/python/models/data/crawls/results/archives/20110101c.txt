@@ -1,4 +1,6 @@
 /archives/20110101c
+
+******** description ********
 2011년 지금 세계미술의 현장
 
 월간미술 2011년 1월호
@@ -89,3 +91,9 @@ Readers Gift  190
 Postscript  192
 
 Vol.20110101c | 2011년 지금 세계미술의 현장
+******** imgSrcs ********
+https://neolook.com/archives/2011010101c.jpg
+https://neolook.com/archives/2011010102c.jpg
+https://neolook.com/archives/2011010104c.jpg
+https://neolook.com/archives/2011010103c.jpg
+https://neolook.com/archives/2011010105c.jpg

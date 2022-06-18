@@ -1,4 +1,6 @@
 /archives/20140127f
+
+******** description ********
 잘 될 거야
 
 김남표_조영철_황나현展
@@ -50,3 +52,15 @@ www.sempiospace.com,
 ■ 신경아
 
 Vol.20140127f | 잘 될 거야-2014 甲午年 샘표 스페이스 신년 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2014012701f.jpg
+https://neolook.com/archives/2014012702f.jpg
+https://neolook.com/archives/2014012703f.jpg
+https://neolook.com/archives/2014012704f.jpg
+https://neolook.com/archives/2014012705f.jpg
+https://neolook.com/archives/2014012706f.jpg
+https://neolook.com/archives/2014012707f.jpg
+https://neolook.com/archives/2014012708f.jpg
+https://neolook.com/archives/2014012709f.jpg
+https://neolook.com/archives/2014012710f.jpg
+https://neolook.com/archives/2014012711f.jpg

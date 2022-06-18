@@ -1,4 +1,6 @@
 /archives/20100119e
+
+******** description ********
 Being MASTER
 
 박종영展 / PARKJONGYOUNG / 朴鍾盈 / sculpture
@@ -40,3 +42,11 @@ www.kepco.co.kr/gallery,
 ■ 고충환
 
 Vol.20100119e | 박종영展 / PARKJONGYOUNG / 朴鍾盈 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2010011901e.jpg
+https://neolook.com/archives/2010011902e.jpg
+https://neolook.com/archives/2010011903e.jpg
+https://neolook.com/archives/2010011904e.jpg
+https://neolook.com/archives/2010011905e.jpg
+https://neolook.com/archives/2010011906e.jpg
+https://neolook.com/archives/2010011907e.jpg

@@ -1,4 +1,6 @@
 /archives/20190116c
+
+******** description ********
 아바타 Avatar
 
 김경수展 / KIMKYOUNGSOO / 金炅秀 / photography
@@ -44,3 +46,11 @@ www.gallery-now.com,
 ■ 김경수
 
 Vol.20190116c | 김경수展 / KIMKYOUNGSOO / 金炅秀 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2019011601c.jpg
+https://neolook.com/archives/2019011602c.jpg
+https://neolook.com/archives/2019011603c.jpg
+https://neolook.com/archives/2019011604c.jpg
+https://neolook.com/archives/2019011605c.jpg
+https://neolook.com/archives/2019011606c.jpg
+https://neolook.com/archives/2019011607c.jpg

@@ -1,4 +1,6 @@
 /archives/20150101d
+
+******** description ********
 민화대첩
 
 미술세계 2015년 1월호
@@ -57,3 +59,9 @@ MONTHLY FOCUS,
 160   POSTSCRIPT
 
 Vol.20150101d | 민화대첩
+******** imgSrcs ********
+https://neolook.com/archives/2015010101d.jpg
+https://neolook.com/archives/2015010102d.jpg
+https://neolook.com/archives/2015010103d.jpg
+https://neolook.com/archives/2015010104d.jpg
+https://neolook.com/archives/2015010105d.jpg

@@ -1,4 +1,6 @@
 /archives/20200110a
+
+******** description ********
 말없는 눈
 
 전은희展 / JEONEUNHEE / 田銀姬 / painting
@@ -40,3 +42,14 @@ www.hapjungjigu.com,
 ■ 서다솜
 
 Vol.20200110a | 전은희展 / JEONEUNHEE / 田銀姬 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020011001a.jpg
+https://neolook.com/archives/2020011002a.jpg
+https://neolook.com/archives/2020011003a.jpg
+https://neolook.com/archives/2020011004a.jpg
+https://neolook.com/archives/2020011005a.jpg
+https://neolook.com/archives/2020011006a.jpg
+https://neolook.com/archives/2020011007a.jpg
+https://neolook.com/archives/2020011008a.jpg
+https://neolook.com/archives/2020011009a.jpg
+https://neolook.com/archives/2020011010a.jpg

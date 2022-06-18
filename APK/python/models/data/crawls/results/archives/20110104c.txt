@@ -1,4 +1,6 @@
 /archives/20110104c
+
+******** description ********
 SECRET STAGE
 
 홍근영展 / HONGGEUNYOUNG / 洪根暎 / sculpture.drawing
@@ -41,3 +43,11 @@ www.146.co.kr,
 ■ 홍근영
 
 Vol.20110104c | 홍근영展 / HONGGEUNYOUNG / 洪根暎 / sculpture.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2011010401c.jpg
+https://neolook.com/archives/2011010402c.jpg
+https://neolook.com/archives/2011010403c.jpg
+https://neolook.com/archives/2011010404c.jpg
+https://neolook.com/archives/2011010405c.jpg
+https://neolook.com/archives/2011010406c.jpg
+https://neolook.com/archives/2011010407c.jpg

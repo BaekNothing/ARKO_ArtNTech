@@ -1,4 +1,6 @@
 /archives/20150115c
+
+******** description ********
 생성된 풍경 Generated Landscape
 
 임선구_조미나_홍재진展
@@ -52,3 +54,19 @@ www.gallerygabi.com,
 비교적 사실적으로 화면을 묘사한 작업들도 있지만 대부분의 작업이 추상적인 이미지로 완결되는 것은 다양한 방법으로 본래의 형태 너머의 것을 표현하려는 노력의 결과이다. 본래의 이미지에서 페인팅으로 넘어오는 과정에서 생겨나는 두 이미지 사이의 차이점에 초점을 맞추어 재생산된 이미지를 다시 재생산하는 과정을 반복하여 결과적으로는 처음의 이미지와는 전혀 다른 이미지를 갖게 되었다. 이처럼 나는 어떤 개념이나 의식을 통해 대상이나 상황을 마주하기보다는 경험 속에서 스스로가 지각한 것으로부터 작업을 진행한다. ■ 홍재진
 
 Vol.20150115c | 생성된 풍경 Generated Landscape展
+******** imgSrcs ********
+https://neolook.com/archives/2015011501c.jpg
+https://neolook.com/archives/2015011502c.jpg
+https://neolook.com/archives/2015011503c.jpg
+https://neolook.com/archives/2015011504c.jpg
+https://neolook.com/archives/2015011505c.jpg
+https://neolook.com/archives/2015011506c.jpg
+https://neolook.com/archives/2015011507c.jpg
+https://neolook.com/archives/2015011508c.jpg
+https://neolook.com/archives/2015011509c.jpg
+https://neolook.com/archives/2015011510c.jpg
+https://neolook.com/archives/2015011511c.jpg
+https://neolook.com/archives/2015011512c.jpg
+https://neolook.com/archives/2015011513c.jpg
+https://neolook.com/archives/2015011514c.jpg
+https://neolook.com/archives/2015011515c.jpg

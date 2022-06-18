@@ -1,4 +1,6 @@
 /archives/20100107d
+
+******** description ********
 POINT
 
 한-일 젊은 작가 비평가 교류展
@@ -42,3 +44,11 @@ www.kac.or.jp,
 
 문의 : 075-213-1000
 Vol.20100107d | POINT-한-일 젊은 작가 비평가 교류展
+******** imgSrcs ********
+https://neolook.com/archives/2010010707d.jpg
+https://neolook.com/archives/2010010701d.jpg
+https://neolook.com/archives/2010010702d.jpg
+https://neolook.com/archives/2010010703d.jpg
+https://neolook.com/archives/2010010704d.jpg
+https://neolook.com/archives/2010010705d.jpg
+https://neolook.com/archives/2010010706d.jpg

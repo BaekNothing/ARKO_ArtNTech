@@ -1,4 +1,6 @@
 /archives/20210105b
+
+******** description ********
 양구군립박수근미술관 창작스튜디오
 
 16기 입주작가 공모
@@ -54,3 +56,5 @@ www.parksookeun.or.kr,
 - 기타사항은 양구군 내규에 따른다.
 
 Vol.20210105b | 양구군립박수근미술관 창작스튜디오 16기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2021010501b.jpg

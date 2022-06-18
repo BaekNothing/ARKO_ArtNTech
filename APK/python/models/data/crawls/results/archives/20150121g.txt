@@ -1,4 +1,6 @@
 /archives/20150121g
+
+******** description ********
 콜라보 다모여
 2015_0121 ▶ 2015_0313 ,    김병진 × 보네이도 코리아 조니워커 하우스 서울,    초대일시 / 2015_0121_수요일_05:00pm
 
@@ -50,3 +52,14 @@ www.kotra.or.kr/opengallery,
 ■ 박신의
 
 Vol.20150121g | 콜라보 다모여展
+******** imgSrcs ********
+https://neolook.com/archives/2015012101g.jpg
+https://neolook.com/archives/2015012102g.jpg
+https://neolook.com/archives/2015012103g.jpg
+https://neolook.com/archives/2015012104g.jpg
+https://neolook.com/archives/2015012105g.jpg
+https://neolook.com/archives/2015012106g.jpg
+https://neolook.com/archives/2015012107g.jpg
+https://neolook.com/archives/2015012108g.jpg
+https://neolook.com/archives/2015012109g.jpg
+https://neolook.com/archives/2015012110g.jpg

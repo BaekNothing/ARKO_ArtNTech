@@ -1,4 +1,6 @@
 /archives/20110105i
+
+******** description ********
 1부-하얀다락방
 
 2011_0105 ▶ 2011_0112,    
@@ -40,3 +42,10 @@ www.galleryskyyeon.com,
 ■ 연지리
 
 Vol.20110105i | 1부-하얀다락방展
+******** imgSrcs ********
+https://neolook.com/archives/2011010501i.jpg
+https://neolook.com/archives/2011010502i.jpg
+https://neolook.com/archives/2011010503i.jpg
+https://neolook.com/archives/2011010504i.jpg
+https://neolook.com/archives/2011010505i.jpg
+https://neolook.com/archives/2011010506i.jpg

@@ -1,4 +1,6 @@
 /archives/20170121b
+
+******** description ********
 2017 시각의 성장통
 
 박지환_홍진웅 2인展
@@ -44,3 +46,13 @@ blog.naver.com/space-ida,
 ■ 홍진웅
 
 Vol.20170121b | 2017 시각의 성장-통박지환_홍진웅 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2017012101b.jpg
+https://neolook.com/archives/2017012102b.jpg
+https://neolook.com/archives/2017012103b.jpg
+https://neolook.com/archives/2017012104b.jpg
+https://neolook.com/archives/2017012105b.jpg
+https://neolook.com/archives/2017012106b.jpg
+https://neolook.com/archives/2017012107b.jpg
+https://neolook.com/archives/2017012108b.jpg
+https://neolook.com/archives/2017012109b.jpg

@@ -1,4 +1,6 @@
 /archives/20150127a
+
+******** description ********
 예술모텔 777호 : 열정을 위한 다시茶時
 
 양주시립장욱진미술관 신진작가 기획展
@@ -98,3 +100,21 @@ changucchin.yangju.go.kr,
     이 다시는 조선말까지 행해진다.
 
 Vol.20150127a | 예술모텔 777호 : 열정을 위한 다시茶時展
+******** imgSrcs ********
+https://neolook.com/archives/2015012701a.jpg
+https://neolook.com/archives/2015012702a.jpg
+https://neolook.com/archives/2015012703a.jpg
+https://neolook.com/archives/2015012704a.jpg
+https://neolook.com/archives/2015012705a.jpg
+https://neolook.com/archives/2015012706a.jpg
+https://neolook.com/archives/2015012707a.jpg
+https://neolook.com/archives/2015012708a.jpg
+https://neolook.com/archives/2015012709a.jpg
+https://neolook.com/archives/2015012710a.jpg
+https://neolook.com/archives/2015012711a.jpg
+https://neolook.com/archives/2015012712a.jpg
+https://neolook.com/archives/2015012713a.jpg
+https://neolook.com/archives/2015012714a.jpg
+https://neolook.com/archives/2015012715a.jpg
+https://neolook.com/archives/2015012716a.jpg
+https://neolook.com/archives/2015012717a.jpg

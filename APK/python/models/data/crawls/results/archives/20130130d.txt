@@ -1,4 +1,6 @@
 /archives/20130130d
+
+******** description ********
 도시-사라지는 풍경 City-disappearing landscape
 
 정영주展 / JOUNGYOUNGJU / 鄭英胄 / painting
@@ -53,3 +55,11 @@ City- disappearing landscape
 ■ Joung young-ju
 
 Vol.20130130d | 정영주展 / JOUNGYOUNGJU / 鄭英胄 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013013001d.jpg
+https://neolook.com/archives/2013013002d.jpg
+https://neolook.com/archives/2013013003d.jpg
+https://neolook.com/archives/2013013004d.jpg
+https://neolook.com/archives/2013013005d.jpg
+https://neolook.com/archives/2013013006d.jpg
+https://neolook.com/archives/2013013007d.jpg

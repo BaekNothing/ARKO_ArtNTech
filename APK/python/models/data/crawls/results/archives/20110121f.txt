@@ -1,4 +1,6 @@
 /archives/20110121f
+
+******** description ********
 긴여행 A Long Journey
 
 입양인 아티스트 3인展
@@ -60,3 +62,13 @@ Tel. +82.31.585.3202~3,
 ■ 마야 웨이머
 
 Vol.20110121f | 긴여행 A Long Journey展
+******** imgSrcs ********
+https://neolook.com/archives/2011012101f.jpg
+https://neolook.com/archives/2011012102f.jpg
+https://neolook.com/archives/2011012103f.jpg
+https://neolook.com/archives/2011012104f.jpg
+https://neolook.com/archives/2011012105f.jpg
+https://neolook.com/archives/2011012106f.jpg
+https://neolook.com/archives/2011012107f.jpg
+https://neolook.com/archives/2011012108f.jpg
+https://neolook.com/archives/2011012109f.jpg

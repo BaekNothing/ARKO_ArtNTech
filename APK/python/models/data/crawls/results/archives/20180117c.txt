@@ -1,4 +1,6 @@
 /archives/20180117c
+
+******** description ********
 완벽한 유형학 Mechanized body 
 
 김동훈展 / KIMDONGHOON / 金東熏 / photography
@@ -32,3 +34,11 @@ www.spaceopt.co.kr,
 ■ 김동훈
 
 Vol.20180117c | 김동훈展 / KIMDONGHOON / 金東熏 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018011701c.jpg
+https://neolook.com/archives/2018011702c.jpg
+https://neolook.com/archives/2018011703c.jpg
+https://neolook.com/archives/2018011704c.jpg
+https://neolook.com/archives/2018011705c.jpg
+https://neolook.com/archives/2018011706c.jpg
+https://neolook.com/archives/2018011707c.jpg

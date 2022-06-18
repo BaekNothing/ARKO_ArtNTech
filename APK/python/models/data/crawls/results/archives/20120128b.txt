@@ -1,4 +1,6 @@
 /archives/20120128b
+
+******** description ********
 Two ways of telling: 이야기의 두 가지 방식
 
 2012_0128 ▶ 2012_0215,    ,    
@@ -44,3 +46,13 @@ www.미술관.org,
  ■ 박옥생
 
 Vol.20120128b | Two ways of telling: 이야기의 두 가지 방식展
+******** imgSrcs ********
+https://neolook.com/archives/2012012801b.jpg
+https://neolook.com/archives/2012012802b.jpg
+https://neolook.com/archives/2012012803b.jpg
+https://neolook.com/archives/2012012804b.jpg
+https://neolook.com/archives/2012012805b.jpg
+https://neolook.com/archives/2012012806b.jpg
+https://neolook.com/archives/2012012807b.jpg
+https://neolook.com/archives/2012012808b.jpg
+https://neolook.com/archives/2012012809b.jpg

@@ -1,4 +1,6 @@
 /archives/20050105a
+
+******** description ********
 Play as Alice
 
 나수연 개인展
@@ -23,3 +25,13 @@ Tel. 02_3443_9816,
 
 나수연_이상한 나라의 우사다_퍼포먼스_2004,    관객의 직접적인 참여를 위해 코스튬 플레이 의상 설치작품 만화 캐릭터들의 의상이나 소품을 착용하고 사진을 찍을 수 있는 설치물과 회화작업을 전시하였다. 회화작업의 기법에 있어서는 전통적인 동양화 채색기법을 버리지 않으면서도 코스튬플레이어나 인형의 이미지등 비현실에 가까운 모티브에는 오히려 리얼리티에 대한 시각적 설득력이 강한 사진매체를 사용하여 환상과 현실이 동등한 무게를 갖도록 하였다. ■ 나수연
 Vol.20050105a | 나수연 개인展
+******** imgSrcs ********
+https://neolook.com/archives/2005010501a.jpg
+https://neolook.com/archives/2005010502a.jpg
+https://neolook.com/archives/2005010503a.jpg
+https://neolook.com/archives/2005010504a.jpg
+/archives/2005010505a.gif
+/archives/2005010506a.gif
+/archives/2005010507a.gif
+/archives/2005010508a.gif
+https://neolook.com/archives/2005010509a.jpg

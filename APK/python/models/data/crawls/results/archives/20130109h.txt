@@ -1,4 +1,6 @@
 /archives/20130109h
+
+******** description ********
 메이든 픽쳐스 13
 
 Maden Pictures 13展
@@ -37,3 +39,10 @@ Maden이라는 단어는 Made(Make의 과거분사)에 en을 붙여 만든 신�
 ■ ARARIO GALLERY
 
 Vol.20130109h | 메이든 픽쳐스 13 Maden Pictures 13展
+******** imgSrcs ********
+https://neolook.com/archives/2013010901h.jpg
+https://neolook.com/archives/2013010902h.jpg
+https://neolook.com/archives/2013010903h.jpg
+https://neolook.com/archives/2013010904h.jpg
+https://neolook.com/archives/2013010905h.jpg
+https://neolook.com/archives/2013010906h.jpg

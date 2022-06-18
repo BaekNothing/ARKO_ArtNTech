@@ -1,4 +1,6 @@
 /archives/20120105d
+
+******** description ********
 아프리카 미술 여행 Journey of Africa Art
 
 대학로 갤러리 2012년 기획展
@@ -32,3 +34,10 @@ Richard Kimati_Curches in Africa_캔버스에 유채_144×144cm,
 ■ 대학로 갤러리
 
 Vol.20120105d | 아프리카 미술 여행 Journey of Africa Art展
+******** imgSrcs ********
+https://neolook.com/archives/2012010501d.jpg
+https://neolook.com/archives/2012010502d.jpg
+https://neolook.com/archives/2012010503d.jpg
+https://neolook.com/archives/2012010504d.jpg
+https://neolook.com/archives/2012010505d.jpg
+https://neolook.com/archives/2012010506d.jpg

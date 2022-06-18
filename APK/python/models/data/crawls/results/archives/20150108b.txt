@@ -1,4 +1,6 @@
 /archives/20150108b
+
+******** description ********
 13 달인 어느 해에 In einem jahr mit 13 monden
 
 이도展 / YIDO / ??? / installation
@@ -25,3 +27,8 @@ www.cjartstudio.com,
 ■ 이도
 
 Vol.20150108b | 이도展 / YIDO / ??? / installation
+******** imgSrcs ********
+https://neolook.com/archives/2015010801b.jpg
+https://neolook.com/archives/2015010802b.jpg
+https://neolook.com/archives/2015010803b.jpg
+https://neolook.com/archives/2015010804b.jpg

@@ -1,4 +1,6 @@
 /archives/20160108c
+
+******** description ********
 좀 더 어두운 숲  A Bit More Darker Forest
 
 박광수展 / PARKGWANGSOO / 朴光洙 / drawing
@@ -37,3 +39,10 @@ www.kumhomuseum.com,
 참여방법 : 당일 입장관객 대상 
 
 Vol.20160108c | 박광수展 / PARKGWANGSOO / 朴光洙 / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2016010801c.jpg
+https://neolook.com/archives/2016010802c.jpg
+https://neolook.com/archives/2016010803c.jpg
+https://neolook.com/archives/2016010804c.jpg
+https://neolook.com/archives/2016010805c.jpg
+https://neolook.com/archives/2016010806c.jpg

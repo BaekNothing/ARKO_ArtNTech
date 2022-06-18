@@ -1,4 +1,6 @@
 /archives/20110118d
+
+******** description ********
 Beyond Limits
 
 2011_0126 ▶ 2011_0228,    ,    
@@ -49,3 +51,12 @@ centumcity.shinsegae.com,
 ■ 이신애
 
 Vol.20110118d | Beyond Limits展
+******** imgSrcs ********
+https://neolook.com/archives/2011011801d.jpg
+https://neolook.com/archives/2011011802d.jpg
+https://neolook.com/archives/2011011803d.jpg
+https://neolook.com/archives/2011011804d.jpg
+https://neolook.com/archives/2011011805d.jpg
+https://neolook.com/archives/2011011806d.jpg
+https://neolook.com/archives/2011011807d.jpg
+https://neolook.com/archives/2011011808d.jpg

@@ -1,4 +1,6 @@
 /archives/20150107d
+
+******** description ********
 일상(日常)의 상(想)-도시
 
 송영후展 / SONGYOUNGHOO / 宋營厚 / painting
@@ -35,3 +37,11 @@ www.gallerydos.com,
 ■ 송영후
 
 Vol.20150107d | 송영후展 / SONGYOUNGHOO / 宋營厚 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010701d.jpg
+https://neolook.com/archives/2015010702d.jpg
+https://neolook.com/archives/2015010703d.jpg
+https://neolook.com/archives/2015010704d.jpg
+https://neolook.com/archives/2015010705d.jpg
+https://neolook.com/archives/2015010706d.jpg
+https://neolook.com/archives/2015010707d.jpg

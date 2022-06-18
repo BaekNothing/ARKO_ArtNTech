@@ -1,4 +1,6 @@
 /archives/20190124a
+
+******** description ********
 2019 화이트블럭 천안창작촌 입주작가전
 
 김윤아_박성소영_조이경_안효찬_유민혜_최경아_한재열展
@@ -36,3 +38,12 @@ www.whiteblock.org,
 ■ 김유빈
 
 Vol.20190124a | 2019 화이트블럭 천안창작촌 입주작가展
+******** imgSrcs ********
+https://neolook.com/archives/2019012401a.jpg
+https://neolook.com/archives/2019012402a.jpg
+https://neolook.com/archives/2019012403a.jpg
+https://neolook.com/archives/2019012404a.jpg
+https://neolook.com/archives/2019012405a.jpg
+https://neolook.com/archives/2019012406a.jpg
+https://neolook.com/archives/2019012407a.jpg
+https://neolook.com/archives/2019012408a.jpg

@@ -1,4 +1,6 @@
 /archives/20110110f
+
+******** description ********
 Reload
 
 홍남기展 / HONGNAMKI / 洪男基 / animation
@@ -34,3 +36,11 @@ Reload ● 2011년도 첫 전시인 이번 카이스트 Suplex 로비 전시에�
 ■ 이기언
 
 Vol.20110110f | 홍남기展 / HONGNAMKI / 洪男基 / animation
+******** imgSrcs ********
+https://neolook.com/archives/2011011001f.jpg
+https://neolook.com/archives/2011011002f.jpg
+https://neolook.com/archives/2011011003f.jpg
+https://neolook.com/archives/2011011004f.jpg
+https://neolook.com/archives/2011011005f.jpg
+https://neolook.com/archives/2011011006f.jpg
+https://neolook.com/archives/2011011007f.jpg

@@ -1,4 +1,6 @@
 /archives/20160119d
+
+******** description ********
 세포증식
 
 Half n Half 세번째 그룹展
@@ -34,3 +36,10 @@ Half n Half의 세 번째 기획전인 『세포 증식』展은 생명체가 �
 ■ Half n Half
 
 Vol.20160119d | 세포증식-Half n Half 세번째 그룹展
+******** imgSrcs ********
+https://neolook.com/archives/2016011901d.jpg
+https://neolook.com/archives/2016011902d.jpg
+https://neolook.com/archives/2016011903d.jpg
+https://neolook.com/archives/2016011904d.jpg
+https://neolook.com/archives/2016011905d.jpg
+https://neolook.com/archives/2016011906d.jpg

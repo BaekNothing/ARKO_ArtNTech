@@ -1,4 +1,6 @@
 /archives/20140108f
+
+******** description ********
 정오 12시
 2014_0108 ▶ 2014_0128,    ,    별도의 초대일시가 없습니다.
 
@@ -57,3 +59,11 @@ www.artpp.co.kr,
 ■ 이미선
 
 Vol.20140108f | 정오 12시展
+******** imgSrcs ********
+https://neolook.com/archives/2014010801f.jpg
+https://neolook.com/archives/2014010802f.jpg
+https://neolook.com/archives/2014010803f.jpg
+https://neolook.com/archives/2014010804f.jpg
+https://neolook.com/archives/2014010805f.jpg
+https://neolook.com/archives/2014010806f.jpg
+https://neolook.com/archives/2014010807f.jpg

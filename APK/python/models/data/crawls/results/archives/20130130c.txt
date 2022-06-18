@@ -1,4 +1,6 @@
 /archives/20130130c
+
+******** description ********
 연기로 그림 그리다
 
 박병철展 / PARKBYUNGCHUL / 朴炳澈 / painting
@@ -89,3 +91,11 @@ www.iwoljeon.org,
 ■ 김인철
 
 Vol.20130130c | 박병철展 / PARKBYUNGCHUL / 朴炳澈 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013013001c.jpg
+https://neolook.com/archives/2013013002c.jpg
+https://neolook.com/archives/2013013003c.jpg
+https://neolook.com/archives/2013013004c.jpg
+https://neolook.com/archives/2013013005c.jpg
+https://neolook.com/archives/2013013006c.jpg
+https://neolook.com/archives/2013013007c.jpg

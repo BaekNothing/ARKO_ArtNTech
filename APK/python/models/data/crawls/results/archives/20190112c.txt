@@ -1,4 +1,6 @@
 /archives/20190112c
+
+******** description ********
 여행의 기술 The Art of Travel
 
 미소_김유나_이은우_이진선_이진솔_조은혜展
@@ -66,3 +68,21 @@ Traveling as an artist inspires new creations. Many people not just artists take
 ■ Yoonkyung Kim
 
 Vol.20190112c | 여행의 기술 The Art of Travel展
+******** imgSrcs ********
+https://neolook.com/archives/2019011201c.jpg
+https://neolook.com/archives/2019011202c.jpg
+https://neolook.com/archives/2019011203c.jpg
+https://neolook.com/archives/2019011204c.jpg
+https://neolook.com/archives/2019011205c.jpg
+https://neolook.com/archives/2019011206c.jpg
+https://neolook.com/archives/2019011207c.jpg
+https://neolook.com/archives/2019011208c.jpg
+https://neolook.com/archives/2019011209c.jpg
+https://neolook.com/archives/2019011210c.jpg
+https://neolook.com/archives/2019011211c.jpg
+https://neolook.com/archives/2019011212c.jpg
+https://neolook.com/archives/2019011213c.jpg
+https://neolook.com/archives/2019011214c.jpg
+https://neolook.com/archives/2019011215c.jpg
+https://neolook.com/archives/2019011216c.jpg
+https://neolook.com/archives/2019011217c.jpg

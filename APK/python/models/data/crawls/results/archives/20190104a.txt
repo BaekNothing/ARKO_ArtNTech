@@ -1,4 +1,6 @@
 /archives/20190104a
+
+******** description ********
 결_숲속의 향기
 
 황지현展 / HWANGJIHYUN / 黃智鉉 / installation
@@ -16,3 +18,5 @@ www.facebook.com/space9mullae,
 ■ 스페이스 나인
 
 Vol.20190104a | 황지현展 / HWANGJIHYUN / 黃智鉉 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2019010401a.jpg

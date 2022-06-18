@@ -1,4 +1,6 @@
 /archives/20120128c
+
+******** description ********
 The BOUNDARY
 
 김진_박유진展
@@ -34,3 +36,11 @@ www.heyri.net,
  ■ 문예슬
 
 Vol.20120128c | The BOUNDARY-김진_박유진展
+******** imgSrcs ********
+https://neolook.com/archives/2012012801c.jpg
+https://neolook.com/archives/2012012802c.jpg
+https://neolook.com/archives/2012012803c.jpg
+https://neolook.com/archives/2012012804c.jpg
+https://neolook.com/archives/2012012805c.jpg
+https://neolook.com/archives/2012012806c.jpg
+https://neolook.com/archives/2012012807c.jpg

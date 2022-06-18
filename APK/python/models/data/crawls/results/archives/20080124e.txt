@@ -1,4 +1,6 @@
 /archives/20080124e
+
+******** description ********
 인터내셔널 영아티스트 춘계예술대전
 
 International Young Artists' Spring Art Show_春季藝術大展 작품 공모
@@ -62,3 +64,5 @@ April 10th~June 7th 2008
 
 If you have questions or concerns please contact The Dream Team at+82.02.765.6576. / www.springartshow.org
 Vol.20080124e | 인터내셔널 영아티스트 춘계예술대전 작품 공모
+******** imgSrcs ********
+/archives/2008012401e.gif

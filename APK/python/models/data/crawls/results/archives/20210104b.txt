@@ -1,4 +1,6 @@
 /archives/20210104b
+
+******** description ********
 Registrar Emotion
 
 안현정展 / AHNHYUNJUNG / 安賢定 / painting
@@ -25,3 +27,11 @@ instagram.com/registrar_emotion,
 ■ 안현정
 
 Vol.20210104b | 안현정展 / AHNHYUNJUNG / 安賢定 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021010401b.jpg
+https://neolook.com/archives/2021010402b.jpg
+https://neolook.com/archives/2021010403b.jpg
+https://neolook.com/archives/2021010404b.jpg
+https://neolook.com/archives/2021010405b.jpg
+https://neolook.com/archives/2021010406b.jpg
+https://neolook.com/archives/2021010407b.jpg

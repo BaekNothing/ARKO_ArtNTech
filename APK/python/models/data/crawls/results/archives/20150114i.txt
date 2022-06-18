@@ -1,4 +1,6 @@
 /archives/20150114i
+
+******** description ********
 산점투시 散點透視
 
 덕성여대 동양화과 신진작가 발언展
@@ -49,3 +51,16 @@ www.egalleryi.co.kr,
 ■ 차은영
 
 Vol.20150114i | 산점투시 散點透視-덕성여대 동양화과 신진작가 발언展
+******** imgSrcs ********
+https://neolook.com/archives/2015011401i.jpg
+https://neolook.com/archives/2015011402i.jpg
+https://neolook.com/archives/2015011403i.jpg
+https://neolook.com/archives/2015011404i.jpg
+https://neolook.com/archives/2015011405i.jpg
+https://neolook.com/archives/2015011406i.jpg
+https://neolook.com/archives/2015011407i.jpg
+https://neolook.com/archives/2015011408i.jpg
+https://neolook.com/archives/2015011409i.jpg
+https://neolook.com/archives/2015011410i.jpg
+https://neolook.com/archives/2015011411i.jpg
+https://neolook.com/archives/2015011412i.jpg

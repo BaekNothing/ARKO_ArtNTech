@@ -1,4 +1,6 @@
 /archives/20110120b
+
+******** description ********
 Storyteller
 
 강석현展 / Eddie Kang / 姜錫鉉 / painting
@@ -30,3 +32,11 @@ www.galleryihn.com,
 ■ 방윤호
 
 Vol.20110120b | 강석현展 / Eddie Kang / 姜錫鉉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012001b.jpg
+https://neolook.com/archives/2011012002b.jpg
+https://neolook.com/archives/2011012003b.jpg
+https://neolook.com/archives/2011012004b.jpg
+https://neolook.com/archives/2011012005b.jpg
+https://neolook.com/archives/2011012006b.jpg
+https://neolook.com/archives/2011012007b.jpg

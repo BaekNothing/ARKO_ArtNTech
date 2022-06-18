@@ -1,4 +1,6 @@
 /archives/20110111d
+
+******** description ********
 Rhythm in Art
 
 Gaain Winter Collection
@@ -42,3 +44,10 @@ Rhythm in Art-Gaain Winter Collection展_가인갤러리_2010,
 ■ 가인갤러리
 
 Vol.20110111d | Rhythm in Art-Gaain Winter Collection展
+******** imgSrcs ********
+https://neolook.com/archives/2011011101d.jpg
+https://neolook.com/archives/2011011102d.jpg
+https://neolook.com/archives/2011011103d.jpg
+https://neolook.com/archives/2011011104d.jpg
+https://neolook.com/archives/2011011105d.jpg
+https://neolook.com/archives/2011011106d.jpg

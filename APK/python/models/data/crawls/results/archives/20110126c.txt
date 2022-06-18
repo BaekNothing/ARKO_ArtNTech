@@ -1,4 +1,6 @@
 /archives/20110126c
+
+******** description ********
 M . I D E A
 
 인세인 박展 / INSANE PARK / installation
@@ -28,3 +30,11 @@ www.arariogallery.com,
 ■ 박영택
 
 Vol.20110126c | 인세인 박展 / INSANE PARK / installation
+******** imgSrcs ********
+https://neolook.com/archives/2011012601c.jpg
+https://neolook.com/archives/2011012602c.jpg
+https://neolook.com/archives/2011012603c.jpg
+https://neolook.com/archives/2011012604c.jpg
+https://neolook.com/archives/2011012605c.jpg
+https://neolook.com/archives/2011012606c.jpg
+https://neolook.com/archives/2011012607c.jpg

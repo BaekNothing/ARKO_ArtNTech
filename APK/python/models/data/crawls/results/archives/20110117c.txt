@@ -1,4 +1,6 @@
 /archives/20110117c
+
+******** description ********
 Listen & Repeat
 
 문지혜展 / MOONJIHYE / 文芝惠 / sculpture
@@ -26,3 +28,9 @@ www.kosa08.com/home,
 ■ 문지혜
 
 Vol.20110117c | 문지혜展 / MOONJIHYE / 文芝惠 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2011011701c.jpg
+https://neolook.com/archives/2011011702c.jpg
+https://neolook.com/archives/2011011703c.jpg
+https://neolook.com/archives/2011011704c.jpg
+https://neolook.com/archives/2011011705c.jpg

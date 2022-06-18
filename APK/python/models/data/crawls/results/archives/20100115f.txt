@@ -1,4 +1,6 @@
 /archives/20100115f
+
+******** description ********
 이상한 도시
 
 범벅 컴퍼니展
@@ -32,3 +34,11 @@ www.spacebandee.com,    ,    범벅 컴퍼니(7명의 젊은작가로 일시적�
 ■ 신양희
 
 Vol.20100115f | 이상한도시展
+******** imgSrcs ********
+https://neolook.com/archives/2010011501f.jpg
+https://neolook.com/archives/2010011502f.jpg
+https://neolook.com/archives/2010011503f.jpg
+https://neolook.com/archives/2010011504f.jpg
+https://neolook.com/archives/2010011505f.jpg
+https://neolook.com/archives/2010011506f.jpg
+https://neolook.com/archives/2010011507f.jpg

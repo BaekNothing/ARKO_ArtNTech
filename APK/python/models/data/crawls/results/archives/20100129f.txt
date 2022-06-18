@@ -1,4 +1,6 @@
 /archives/20100129f
+
+******** description ********
 the INTERSECTION
 
 문형태_이승민_이재원_임장환展
@@ -45,3 +47,11 @@ dnagallery.co.kr,
 ■ 임장환
 
 Vol.20100129f | the INTERSECTION展
+******** imgSrcs ********
+https://neolook.com/archives/2010012901f.jpg
+https://neolook.com/archives/2010012902f.jpg
+https://neolook.com/archives/2010012903f.jpg
+https://neolook.com/archives/2010012904f.jpg
+https://neolook.com/archives/2010012905f.jpg
+https://neolook.com/archives/2010012906f.jpg
+https://neolook.com/archives/2010012907f.jpg

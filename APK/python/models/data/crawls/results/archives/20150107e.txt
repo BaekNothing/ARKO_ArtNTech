@@ -1,4 +1,6 @@
 /archives/20150107e
+
+******** description ********
 플로베르의 침묵 Silence of Flaubert
 
 고명근_김승영_유영진_이혜승展
@@ -30,3 +32,9 @@ www.skape.co.kr,
   『플로베르의 침묵(Silences de Flaubert)』을 인용하였습니다.
 
 Vol.20150107e | 플로베르의 침묵 Silence of Flaubert展
+******** imgSrcs ********
+https://neolook.com/archives/2015010701e.jpg
+https://neolook.com/archives/2015010702e.jpg
+https://neolook.com/archives/2015010703e.jpg
+https://neolook.com/archives/2015010704e.jpg
+https://neolook.com/archives/2015010705e.jpg

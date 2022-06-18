@@ -1,4 +1,6 @@
 /archives/20180107a
+
+******** description ********
 MONOROOM 모노룸
 
 김범중_이길원_한상진展
@@ -34,3 +36,10 @@ www.artfactory4u.com,
 ■ 김진하
 
 Vol.20180107a | MONOROOM 모노룸展
+******** imgSrcs ********
+https://neolook.com/archives/2018010701a.jpg
+https://neolook.com/archives/2018010702a.jpg
+https://neolook.com/archives/2018010703a.jpg
+https://neolook.com/archives/2018010704a.jpg
+https://neolook.com/archives/2018010705a.jpg
+https://neolook.com/archives/2018010706a.jpg

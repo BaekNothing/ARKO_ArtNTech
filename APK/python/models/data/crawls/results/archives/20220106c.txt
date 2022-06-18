@@ -1,4 +1,6 @@
 /archives/20220106c
+
+******** description ********
 2022 갤러리 스페이스 앤 전시작가 모집
 
 Gallery Space & Call for Artist
@@ -51,3 +53,5 @@ blog.naver.com/caisson24h,
     없을 정도의 건강상 문제가 있는 경우
 
 Vol.20220106c | 2022 갤러리 스페이스 앤 전시작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2022010601c.jpg

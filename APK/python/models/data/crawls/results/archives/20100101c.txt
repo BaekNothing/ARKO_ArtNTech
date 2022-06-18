@@ -1,4 +1,6 @@
 /archives/20100101c
+
+******** description ********
 『월간미술』지령 300호
 
 월간미술 2010년 1월호
@@ -87,3 +89,9 @@ Sight & Issue
 196   Postscript
 
 Vol.20100101c | 월간미술 2010년 1월호  / 『월간미술』지령 300호
+******** imgSrcs ********
+https://neolook.com/archives/2010010101c.jpg
+https://neolook.com/archives/2010010102c.jpg
+https://neolook.com/archives/2010010103c.jpg
+https://neolook.com/archives/2010010104c.jpg
+https://neolook.com/archives/2010010105c.jpg

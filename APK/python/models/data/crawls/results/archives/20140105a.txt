@@ -1,4 +1,6 @@
 /archives/20140105a
+
+******** description ********
 정지의 시작 Beginning of the stop
 
 최승윤展 / CHOISEUNGYOON / 崔乘潤 / painting
@@ -37,3 +39,10 @@ www.youngeunmuseum.org,
 ■ 영은미술관
 
 Vol.20140105a | 최승윤展 / CHOISEUNGYOON / 崔乘潤 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010501a.jpg
+https://neolook.com/archives/2014010502a.jpg
+https://neolook.com/archives/2014010503a.jpg
+https://neolook.com/archives/2014010504a.jpg
+https://neolook.com/archives/2014010505a.jpg
+https://neolook.com/archives/2014010506a.jpg

@@ -1,4 +1,6 @@
 /archives/20160119h
+
+******** description ********
 황금산은 없다 The golden mountain does not exist
 
 김윤섭_김현석 2인展
@@ -41,3 +43,15 @@ cafe.naver.com/gallery2yeonju,
 ■ 이연주 갤러리
 
 Vol.20160119h | 황금산은 없다-김윤섭_김현석 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2016011901h.jpg
+https://neolook.com/archives/2016011902h.jpg
+https://neolook.com/archives/2016011903h.jpg
+https://neolook.com/archives/2016011904h.jpg
+https://neolook.com/archives/2016011905h.jpg
+https://neolook.com/archives/2016011906h.jpg
+https://neolook.com/archives/2016011907h.jpg
+https://neolook.com/archives/2016011908h.jpg
+https://neolook.com/archives/2016011909h.jpg
+https://neolook.com/archives/2016011910h.jpg
+https://neolook.com/archives/2016011911h.jpg

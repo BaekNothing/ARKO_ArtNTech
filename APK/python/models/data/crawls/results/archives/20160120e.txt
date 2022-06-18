@@ -1,4 +1,6 @@
 /archives/20160120e
+
+******** description ********
 복을 부르는 그림
 
 김성복_김용철_송규태_신진호_이이남_임영숙展
@@ -38,3 +40,11 @@ blog.naver.com/sonsjsa,
 ■ 손소정
 
 Vol.20160120e | 복을 부르는 그림展
+******** imgSrcs ********
+https://neolook.com/archives/2016012001e.jpg
+https://neolook.com/archives/2016012002e.jpg
+https://neolook.com/archives/2016012003e.jpg
+https://neolook.com/archives/2016012004e.jpg
+https://neolook.com/archives/2016012005e.jpg
+https://neolook.com/archives/2016012006e.jpg
+https://neolook.com/archives/2016012007e.jpg

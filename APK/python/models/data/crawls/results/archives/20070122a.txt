@@ -1,4 +1,6 @@
 /archives/20070122a
+
+******** description ********
 flying
 
 여강연 회화展
@@ -26,3 +28,11 @@ www.kepco.co.kr/plaza,
 
 여강연_flying_캔버스에 유채_111.5×145cm_2006,    무엇인가를 향한 날개 짓... 낢의 공간은 아직 형성되어 있지 않은 유동하는 거대한 흐름의 부분이다. 자생하는 꽃잎들은 하염없이 색채를 유희하며 관념의 공간이 흐름 속에서 단지 시선을 유혹할 뿐이다. 신의 수태와 마찬가지로 흐름의 공간 속에서 자생하는 꽃잎들은 모순되며 순결하고 비현실적인 마법이다. 이 '순결한 절대적인 상황'은 설명될 수 없는 것이다. 단지 나의 회화를 통해서 보는 이들 시선과의 조우 속에서 특별한 감각으로 발생되기를 바란다. ■ 여강연
 Vol.20070122a | 여강연 회화展
+******** imgSrcs ********
+https://neolook.com/archives/2007012201a.jpg
+https://neolook.com/archives/2007012202a.jpg
+https://neolook.com/archives/2007012203a.jpg
+https://neolook.com/archives/2007012204a.jpg
+https://neolook.com/archives/2007012205a.jpg
+https://neolook.com/archives/2007012206a.jpg
+https://neolook.com/archives/2007012207a.jpg

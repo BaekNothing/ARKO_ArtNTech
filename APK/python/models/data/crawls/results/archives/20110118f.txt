@@ -1,4 +1,6 @@
 /archives/20110118f
+
+******** description ********
 안녕하십니까
 
 1부 / 2011_0205 ▶ 2011_0217
@@ -54,3 +56,13 @@ www.artetc.org,
 ■ 안녕하십니까
 
 Vol.20110118f | 안녕하십니까展
+******** imgSrcs ********
+https://neolook.com/archives/2011011801f.jpg
+https://neolook.com/archives/2011011802f.jpg
+https://neolook.com/archives/2011011803f.jpg
+https://neolook.com/archives/2011011804f.jpg
+https://neolook.com/archives/2011011805f.jpg
+https://neolook.com/archives/2011011806f.jpg
+https://neolook.com/archives/2011011807f.jpg
+https://neolook.com/archives/2011011808f.jpg
+https://neolook.com/archives/2011011809f.jpg

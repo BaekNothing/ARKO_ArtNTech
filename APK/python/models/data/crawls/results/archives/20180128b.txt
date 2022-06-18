@@ -1,4 +1,6 @@
 /archives/20180128b
+
+******** description ********
 oo의 미학
 
 고중흡_황문익_석민정展
@@ -29,3 +31,9 @@ oo의 미학展_엘리펀트 아트_2018,
 ■ 석민정
 
 Vol.20180128b | oo의 미학展
+******** imgSrcs ********
+https://neolook.com/archives/2018012801b.jpg
+https://neolook.com/archives/2018012802b.jpg
+https://neolook.com/archives/2018012803b.jpg
+https://neolook.com/archives/2018012804b.jpg
+https://neolook.com/archives/2018012805b.jpg

@@ -1,4 +1,6 @@
 /archives/20130123d
+
+******** description ********
 Conflict
 
 김태식展 / KIMTAESIK / 金泰植 / sculpture
@@ -40,3 +42,11 @@ www.galleryis.com,
 ■ 김태식
 
 Vol.20130123d | 김태식展 / KIMTAESIK / 金泰植 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013012301d.jpg
+https://neolook.com/archives/2013012302d.jpg
+https://neolook.com/archives/2013012303d.jpg
+https://neolook.com/archives/2013012304d.jpg
+https://neolook.com/archives/2013012305d.jpg
+https://neolook.com/archives/2013012306d.jpg
+https://neolook.com/archives/2013012307d.jpg

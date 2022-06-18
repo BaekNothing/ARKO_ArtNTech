@@ -1,4 +1,6 @@
 /archives/20150109e
+
+******** description ********
 박수근미술관 창작스튜디오 9기 입주작가전
 
 김형곤_정명화_최윤정_황연주展
@@ -64,3 +66,13 @@ www.parksookeun.or.kr,
 ■ 오세원
 
 Vol.20150109e | 박수근미술관 창작스튜디오 9기 입주작가展
+******** imgSrcs ********
+https://neolook.com/archives/2015010901e.jpg
+https://neolook.com/archives/2015010902e.jpg
+https://neolook.com/archives/2015010903e.jpg
+https://neolook.com/archives/2015010904e.jpg
+https://neolook.com/archives/2015010905e.jpg
+https://neolook.com/archives/2015010906e.jpg
+https://neolook.com/archives/2015010907e.jpg
+https://neolook.com/archives/2015010908e.jpg
+https://neolook.com/archives/2015010909e.jpg

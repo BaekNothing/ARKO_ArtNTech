@@ -1,4 +1,6 @@
 /archives/20130126d
+
+******** description ********
 교감 Mutual response
 
 최은옥展 / CHOIEUNOAK / 崔恩玉 / painting
@@ -32,3 +34,9 @@ www.dukwongallery.co.kr,
 ■ 김상철
 
 Vol.20130126d | 최은옥展 / CHOIEUNOAK / 崔恩玉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012601d.jpg
+https://neolook.com/archives/2013012602d.jpg
+https://neolook.com/archives/2013012603d.jpg
+https://neolook.com/archives/2013012604d.jpg
+https://neolook.com/archives/2013012605d.jpg

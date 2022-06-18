@@ -1,4 +1,6 @@
 /archives/20050102a
+
+******** description ********
 2005년 일주아트하우스 지원작가 모집
 
 신진작가 지원
@@ -58,3 +60,8 @@ PAL(VHS DVD) 자료는 자료 앞면에 반드시 표기하셨나요?,    - 우�
 
 ■ 문의_ 일주아트하우스 Tel. 02_2002_7777 / 이메일 ilju@iljuarthouse.org
 Vol.20050102a | 2005년 일주아트하우스 지원작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2005010201a.jpg
+https://neolook.com/archives/2005010202a.jpg
+https://neolook.com/archives/2005010203a.jpg
+https://neolook.com/archives/2005010204a.jpg

@@ -1,4 +1,6 @@
 /archives/20160113e
+
+******** description ********
 그리고 모든 것이 죽을 때 and when Everything dies
 
 오세미展 / OSEMI / 吳世美 / mixed media
@@ -31,3 +33,10 @@ www.gallerydos.com,
 ■ 김미향
 
 Vol.20160113e | 오세미展 / OSEMI / 吳世美 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2016011301e.jpg
+https://neolook.com/archives/2016011302e.jpg
+https://neolook.com/archives/2016011303e.jpg
+https://neolook.com/archives/2016011304e.jpg
+https://neolook.com/archives/2016011305e.jpg
+https://neolook.com/archives/2016011306e.jpg

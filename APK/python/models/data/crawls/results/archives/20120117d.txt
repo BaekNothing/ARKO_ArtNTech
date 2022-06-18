@@ -1,4 +1,6 @@
 /archives/20120117d
+
+******** description ********
 집으로 가는 길
 
 최성임展 / CHOISUNGIM / 崔成任 / installation
@@ -37,3 +39,11 @@ blog.naver.com/drawing114u,
 ■ 최성임
 
 Vol.20120117d | 최성임展 / CHOISUNGIM / 崔成任 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2012011701d.jpg
+https://neolook.com/archives/2012011702d.jpg
+https://neolook.com/archives/2012011703d.jpg
+https://neolook.com/archives/2012011704d.jpg
+https://neolook.com/archives/2012011705d.jpg
+https://neolook.com/archives/2012011706d.jpg
+https://neolook.com/archives/2012011707d.jpg

@@ -1,4 +1,6 @@
 /archives/20100111b
+
+******** description ********
 음양
 
 김구림展 / KIMKULIM / 金丘林 / painting.mixed media
@@ -38,3 +40,11 @@ CSP111 ArtSpace는 2010년 1월 11일부터 2월 12일까지 개관기획 프로
 ■ CSP111 ArtSpace
 
 Vol.20100111b | 김구림展 / KIMKULIM / 金丘林 / painting.mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2010011101b.jpg
+https://neolook.com/archives/2010011102b.jpg
+https://neolook.com/archives/2010011103b.jpg
+https://neolook.com/archives/2010011104b.jpg
+https://neolook.com/archives/2010011105b.jpg
+https://neolook.com/archives/2010011106b.jpg
+https://neolook.com/archives/2010011107b.jpg

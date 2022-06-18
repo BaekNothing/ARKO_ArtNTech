@@ -1,4 +1,6 @@
 /archives/20160116c
+
+******** description ********
 속삭이는 빛 Whispering Light
 
 정희경展 / CHUNGHEEKYUNG / 丁憙慶 / painting
@@ -56,3 +58,13 @@ www.seohoart.com,
 ■ 박영택
 
 Vol.20160116c | 정희경展 / CHUNGHEEKYUNG / 丁憙慶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011601c.jpg
+https://neolook.com/archives/2016011602c.jpg
+https://neolook.com/archives/2016011603c.jpg
+https://neolook.com/archives/2016011604c.jpg
+https://neolook.com/archives/2016011605c.jpg
+https://neolook.com/archives/2016011606c.jpg
+https://neolook.com/archives/2016011607c.jpg
+https://neolook.com/archives/2016011608c.jpg
+https://neolook.com/archives/2016011609c.jpg

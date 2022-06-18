@@ -1,4 +1,6 @@
 /archives/20080104b
+
+******** description ********
 A Piece of a Piece
 
 창동미술창작스튜디오 6기 단기 입주작가展
@@ -23,3 +25,7 @@ www.artstudio.or.kr,
 우)132-040_서울시 도봉구 창동 601-107번지 | Tel. 02_995_0995 | Fax. 02_995_2638
 
 Vol.20080104b | A Piece of a Piece展
+******** imgSrcs ********
+https://neolook.com/archives/2008010401b.jpg
+https://neolook.com/archives/2008010402b.jpg
+https://neolook.com/archives/2008010403b.jpg

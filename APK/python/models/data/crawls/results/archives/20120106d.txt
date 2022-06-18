@@ -1,4 +1,6 @@
 /archives/20120106d
+
+******** description ********
 나의 맨드라미
 
 라파엘라 이展 / Raphaella Yi / painting
@@ -28,3 +30,11 @@ Tel. +82.2.865.2119,
  ■ 조영희
 
 Vol.20120106d | 라파엘라 이展 / Raphaella Yi / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010601d.jpg
+https://neolook.com/archives/2012010602d.jpg
+https://neolook.com/archives/2012010603d.jpg
+https://neolook.com/archives/2012010604d.jpg
+https://neolook.com/archives/2012010605d.jpg
+https://neolook.com/archives/2012010606d.jpg
+https://neolook.com/archives/2012010607d.jpg

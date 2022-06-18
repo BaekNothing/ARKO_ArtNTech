@@ -1,4 +1,6 @@
 /archives/20110108b
+
+******** description ********
 여자의 방
 
 책임기획_김영미
@@ -43,3 +45,14 @@ Tel. +82.2.3445.2550,
 ■ 김영미
 
 Vol.20110108b | 여자의 방展
+******** imgSrcs ********
+https://neolook.com/archives/2011010801b.jpg
+https://neolook.com/archives/2011010802b.jpg
+https://neolook.com/archives/2011010803b.jpg
+https://neolook.com/archives/2011010804b.jpg
+https://neolook.com/archives/2011010808b.jpg
+https://neolook.com/archives/2011010809b.jpg
+https://neolook.com/archives/2011010810b.jpg
+https://neolook.com/archives/2011010807b.jpg
+https://neolook.com/archives/2011010805b.jpg
+https://neolook.com/archives/2011010806b.jpg

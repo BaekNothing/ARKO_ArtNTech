@@ -1,4 +1,6 @@
 /archives/20170120d
+
+******** description ********
 Magic Wand
 
 노상호展 / NOHSANGHO / 盧尙號 / painting.installation
@@ -44,3 +46,11 @@ All rights reserved.,
 ■ 노상호
 
 Vol.20170120d | 노상호展 / NOHSANGHO / 盧尙號 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2017012001d.jpg
+https://neolook.com/archives/2017012002d.jpg
+https://neolook.com/archives/2017012003d.jpg
+https://neolook.com/archives/2017012004d.jpg
+https://neolook.com/archives/2017012005d.jpg
+https://neolook.com/archives/2017012006d.jpg
+https://neolook.com/archives/2017012007d.jpg

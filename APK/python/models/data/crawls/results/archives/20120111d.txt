@@ -1,4 +1,6 @@
 /archives/20120111d
+
+******** description ********
 Neverending Childhood끝나지 않는 유년기
 
 구이진展 / KOOEGENE / 具利珍 / painting
@@ -37,3 +39,10 @@ A current trend in contemporary art is the desire to represent the past in the p
 ■ Ho Kyung Chung
 
 Vol.20120111d | 구이진展 / KOOEGENE / 具利珍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011101d.jpg
+https://neolook.com/archives/2012011102d.jpg
+https://neolook.com/archives/2012011103d.jpg
+https://neolook.com/archives/2012011104d.jpg
+https://neolook.com/archives/2012011105d.jpg
+https://neolook.com/archives/2012011106d.jpg

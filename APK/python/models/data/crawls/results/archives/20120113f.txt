@@ -1,4 +1,6 @@
 /archives/20120113f
+
+******** description ********
 다섯개의 프롤로그 Five Different Prologues
 
 갤러리 스케이프 기획展
@@ -48,3 +50,15 @@ www.skape.co.kr,
  ■ 심소미
 
 Vol.20120113f | 다섯개의 프롤로그-갤러리 스케이프 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2012011301f.jpg
+https://neolook.com/archives/2012011302f.jpg
+https://neolook.com/archives/2012011303f.jpg
+https://neolook.com/archives/2012011304f.jpg
+https://neolook.com/archives/2012011305f.jpg
+https://neolook.com/archives/2012011306f.jpg
+https://neolook.com/archives/2012011307f.jpg
+https://neolook.com/archives/2012011308f.jpg
+https://neolook.com/archives/2012011309f.jpg
+https://neolook.com/archives/2012011310f.jpg
+https://neolook.com/archives/2012011311f.jpg

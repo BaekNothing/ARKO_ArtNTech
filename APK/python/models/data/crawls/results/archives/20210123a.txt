@@ -1,4 +1,6 @@
 /archives/20210123a
+
+******** description ********
 2021 반갑소!
 
 2021_0121 ▶ 2021_0223 / 백화점 휴점일 휴관,    ,    
@@ -40,3 +42,14 @@ shinsegae.com,
 ■ 광주신세계갤러리
 
 Vol.20210123a | 2021 반갑소!展
+******** imgSrcs ********
+https://neolook.com/archives/2021012301a.jpg
+https://neolook.com/archives/2021012302a.jpg
+https://neolook.com/archives/2021012303a.jpg
+https://neolook.com/archives/2021012304a.jpg
+https://neolook.com/archives/2021012305a.jpg
+https://neolook.com/archives/2021012306a.jpg
+https://neolook.com/archives/2021012307a.jpg
+https://neolook.com/archives/2021012308a.jpg
+https://neolook.com/archives/2021012309a.jpg
+https://neolook.com/archives/2021012310a.jpg

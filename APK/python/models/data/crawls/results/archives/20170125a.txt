@@ -1,4 +1,6 @@
 /archives/20170125a
+
+******** description ********
 제3회 디지펀아트: 디지털뮤즈
 
 2017 DigiFun.Art: Digital Muse展
@@ -60,3 +62,18 @@ etk.srail.co.kr,
 ■ 지스마트글로벌
 
 Vol.20170125a | 제3회 디지펀아트: 디지털뮤즈 2017 DigiFun.Art: Digital Muse展
+******** imgSrcs ********
+https://neolook.com/archives/2017012501a.jpg
+https://neolook.com/archives/2017012502a.jpg
+https://neolook.com/archives/2017012503a.jpg
+https://neolook.com/archives/2017012504a.jpg
+https://neolook.com/archives/2017012505a.jpg
+https://neolook.com/archives/2017012506a.jpg
+https://neolook.com/archives/2017012507a.jpg
+https://neolook.com/archives/2017012508a.jpg
+https://neolook.com/archives/2017012509a.jpg
+https://neolook.com/archives/2017012510a.jpg
+https://neolook.com/archives/2017012511a.jpg
+https://neolook.com/archives/2017012512a.jpg
+https://neolook.com/archives/2017012513a.jpg
+https://neolook.com/archives/2017012514a.jpg

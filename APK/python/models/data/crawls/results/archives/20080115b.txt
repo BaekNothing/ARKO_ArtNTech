@@ -1,4 +1,6 @@
 /archives/20080115b
+
+******** description ********
 The Big and Hip
 
 2008 한국현대사진 유망작가 16인 초대展
@@ -44,3 +46,9 @@ www.rhogallery.com,
 간담회_ 2008_0127_일요일 / 공모전 시상식과 함께 작가와의 대화시간 진행
 
 Vol.20080115b | 2008 한국현대사진 유망작가 16인 초대展
+******** imgSrcs ********
+/archives/2008011501b.gif
+https://neolook.com/archives/2008011502b.jpg
+https://neolook.com/archives/2008011503b.jpg
+https://neolook.com/archives/2008011504b.jpg
+https://neolook.com/archives/2008011505b.jpg

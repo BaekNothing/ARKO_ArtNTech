@@ -1,4 +1,6 @@
 /archives/20180104d
+
+******** description ********
 그리움
 
 최화정展 / CHOIHWAJUNG / 崔化禎 / painting
@@ -47,3 +49,14 @@ I look at myself inside me.
 ■ Choi Hwajung
 
 Vol.20180104d | 최화정展 / CHOIHWAJUNG / 崔化禎 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010401d.jpg
+https://neolook.com/archives/2018010402d.jpg
+https://neolook.com/archives/2018010403d.jpg
+https://neolook.com/archives/2018010404d.jpg
+https://neolook.com/archives/2018010405d.jpg
+https://neolook.com/archives/2018010406d.jpg
+https://neolook.com/archives/2018010407d.jpg
+https://neolook.com/archives/2018010408d.jpg
+https://neolook.com/archives/2018010409d.jpg
+https://neolook.com/archives/2018010410d.jpg

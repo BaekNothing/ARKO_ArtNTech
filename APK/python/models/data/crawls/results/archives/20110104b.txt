@@ -1,4 +1,6 @@
 /archives/20110104b
+
+******** description ********
 나 여기있어요
 
 예술이밥먹여주나요 세번째 단체展
@@ -137,3 +139,11 @@ And stoop and build 'em up with worn-out tools ...
 ■ 손세임
 
 Vol.20110104b | 나 여기있어요-예술이밥먹여주나요 세번째 단체展
+******** imgSrcs ********
+https://neolook.com/archives/2011010401b.jpg
+https://neolook.com/archives/2011010402b.jpg
+https://neolook.com/archives/2011010403b.jpg
+https://neolook.com/archives/2011010404b.jpg
+https://neolook.com/archives/2011010405b.jpg
+https://neolook.com/archives/2011010406b.jpg
+https://neolook.com/archives/2011010407b.jpg

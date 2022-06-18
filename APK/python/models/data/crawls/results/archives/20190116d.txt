@@ -1,4 +1,6 @@
 /archives/20190116d
+
+******** description ********
 제9회 서울디지털대학교 미술상 수상전
 
 2019 9th SDU ART PRIZE展
@@ -55,3 +57,14 @@ finearts.sdu.ac.kr,
 - SDU회화과 학과문의 : 02-2128-3198
 
 Vol.20190116d | 제9회 서울디지털대학교 미술상 수상전-2019 9th SDU ART PRIZE展
+******** imgSrcs ********
+https://neolook.com/archives/2019011601d.jpg
+https://neolook.com/archives/2019011602d.jpg
+https://neolook.com/archives/2019011603d.jpg
+https://neolook.com/archives/2019011604d.jpg
+https://neolook.com/archives/2019011605d.jpg
+https://neolook.com/archives/2019011606d.jpg
+https://neolook.com/archives/2019011607d.jpg
+https://neolook.com/archives/2019011608d.jpg
+https://neolook.com/archives/2019011609d.jpg
+https://neolook.com/archives/2019011610d.jpg

@@ -1,4 +1,6 @@
 /archives/20170106b
+
+******** description ********
 새날을 밝히는 새그림
 
 서공임展 / SUHGONGIM / 徐恭任 / painting
@@ -48,3 +50,11 @@ www.facebook.com/lottegalleryanyang,
 ■ 롯데갤러리
 
 Vol.20170106b | 서공임展 / SUHGONGIM / 徐恭任 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017010601b.jpg
+https://neolook.com/archives/2017010602b.jpg
+https://neolook.com/archives/2017010603b.jpg
+https://neolook.com/archives/2017010604b.jpg
+https://neolook.com/archives/2017010605b.jpg
+https://neolook.com/archives/2017010606b.jpg
+https://neolook.com/archives/2017010607b.jpg

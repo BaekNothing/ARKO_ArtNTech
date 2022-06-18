@@ -1,4 +1,6 @@
 /archives/20110118a
+
+******** description ********
 Alice in Wonder
 
 김성재展 / KIMSUNGJAE / 金成財 / sculpture
@@ -31,3 +33,9 @@ blog.naver.com/biz_analyst,
 ■ 조성지
 
 Vol.20110118a | 김성재展 / KIMSUNGJAE / 金成財 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2011011801a.jpg
+https://neolook.com/archives/2011011802a.jpg
+https://neolook.com/archives/2011011803a.jpg
+https://neolook.com/archives/2011011804a.jpg
+https://neolook.com/archives/2011011805a.jpg

@@ -1,4 +1,6 @@
 /archives/20120104b
+
+******** description ********
 이창조展 / LEECHANGJO / 李昌朝 / painting
  
 2012_0104 ▶ 2012_0110,    
@@ -30,3 +32,11 @@ www.insaartcenter.com,
 ■ 선기현
 
 Vol.20120104b | 이창조展 / LEECHANGJO / 李昌朝 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010401b.jpg
+https://neolook.com/archives/2012010402b.jpg
+https://neolook.com/archives/2012010403b.jpg
+https://neolook.com/archives/2012010404b.jpg
+https://neolook.com/archives/2012010405b.jpg
+https://neolook.com/archives/2012010406b.jpg
+https://neolook.com/archives/2012010407b.jpg

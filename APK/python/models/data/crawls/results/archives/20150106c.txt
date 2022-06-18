@@ -1,4 +1,6 @@
 /archives/20150106c
+
+******** description ********
 BELT 2015 선정작가전
 
 BELT Competition 2015展
@@ -89,3 +91,18 @@ www.umgallery.co.kr,
 ■ (사)한국판화사진진흥협회
 
 Vol.20150106c | BELT 2015 선정작가展
+******** imgSrcs ********
+https://neolook.com/archives/2015010601c.jpg
+https://neolook.com/archives/2015010602c.jpg
+https://neolook.com/archives/2015010603c.jpg
+https://neolook.com/archives/2015010604c.jpg
+https://neolook.com/archives/2015010605c.jpg
+https://neolook.com/archives/2015010606c.jpg
+https://neolook.com/archives/2015010607c.jpg
+https://neolook.com/archives/2015010608c.jpg
+https://neolook.com/archives/2015010609c.jpg
+https://neolook.com/archives/2015010610c.jpg
+https://neolook.com/archives/2015010611c.jpg
+https://neolook.com/archives/2015010612c.jpg
+https://neolook.com/archives/2015010613c.jpg
+https://neolook.com/archives/2015010614c.jpg

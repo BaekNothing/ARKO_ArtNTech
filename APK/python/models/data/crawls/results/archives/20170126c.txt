@@ -1,4 +1,6 @@
 /archives/20170126c
+
+******** description ********
 제2회 뉴 드로잉 프로젝트
 
 New Drawing Project展
@@ -63,3 +65,11 @@ EZMONSTER_YES! I'M STUPID_잡지에 아크릴채색_22×32.5cm_2016,
 ■ 윤여진
 
 Vol.20170126c | 제2회 뉴 드로잉 프로젝트展
+******** imgSrcs ********
+https://neolook.com/archives/2017012601c.jpg
+https://neolook.com/archives/2017012602c.jpg
+https://neolook.com/archives/2017012603c.jpg
+https://neolook.com/archives/2017012604c.jpg
+https://neolook.com/archives/2017012605c.jpg
+https://neolook.com/archives/2017012606c.jpg
+https://neolook.com/archives/2017012607c.jpg

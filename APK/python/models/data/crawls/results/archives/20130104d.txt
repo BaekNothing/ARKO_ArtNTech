@@ -1,4 +1,6 @@
 /archives/20130104d
+
+******** description ********
 전통의 울림
 2013_0104 ▶ 2013_0124 / 주말 휴관,    ,    
 별도의 초대일시가 없습니다.
@@ -32,3 +34,11 @@ www.elandfa.org,
 ■ 천석필
 
 Vol.20130104d | 전통의 울림展
+******** imgSrcs ********
+https://neolook.com/archives/2013010401d.jpg
+https://neolook.com/archives/2013010402d.jpg
+https://neolook.com/archives/2013010403d.jpg
+https://neolook.com/archives/2013010404d.jpg
+https://neolook.com/archives/2013010405d.jpg
+https://neolook.com/archives/2013010406d.jpg
+https://neolook.com/archives/2013010407d.jpg

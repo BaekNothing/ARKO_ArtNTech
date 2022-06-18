@@ -1,4 +1,6 @@
 /archives/20180102h
+
+******** description ********
 프랙탈
 
 FRACTAL展
@@ -38,3 +40,12 @@ shinsegae.com,
 ■ 신세계갤러리 본점
 
 Vol.20180102h | FRACTAL 프랙탈展
+******** imgSrcs ********
+https://neolook.com/archives/2018010201h.jpg
+https://neolook.com/archives/2018010202h.jpg
+https://neolook.com/archives/2018010203h.jpg
+https://neolook.com/archives/2018010204h.jpg
+https://neolook.com/archives/2018010205h.jpg
+https://neolook.com/archives/2018010206h.jpg
+https://neolook.com/archives/2018010207h.jpg
+https://neolook.com/archives/2018010208h.jpg

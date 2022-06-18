@@ -1,4 +1,6 @@
 /archives/20120118c
+
+******** description ********
 뉴 밀레니엄
 2012_0118 ▶ 2012_0125,    원재은_페르소나의 조각 Fragment of PERSONA_캔버스에 유채_80×118cm_2011,    별도의 초대일시가 없습니다.
 
@@ -48,3 +50,18 @@ www.galleryskyyeon.com,
 ■ 연지리 
 
 Vol.20120118c | 뉴 밀레니엄展
+******** imgSrcs ********
+https://neolook.com/archives/2012011801c.jpg
+https://neolook.com/archives/2012011802c.jpg
+https://neolook.com/archives/2012011803c.jpg
+https://neolook.com/archives/2012011804c.jpg
+https://neolook.com/archives/2012011805c.jpg
+https://neolook.com/archives/2012011806c.jpg
+https://neolook.com/archives/2012011807c.jpg
+https://neolook.com/archives/2012011808c.jpg
+https://neolook.com/archives/2012011809c.jpg
+https://neolook.com/archives/2012011810c.jpg
+https://neolook.com/archives/2012011811c.jpg
+https://neolook.com/archives/2012011812c.jpg
+https://neolook.com/archives/2012011813c.jpg
+https://neolook.com/archives/2012011814c.jpg

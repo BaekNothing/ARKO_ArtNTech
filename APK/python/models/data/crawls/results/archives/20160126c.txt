@@ -1,4 +1,6 @@
 /archives/20160126c
+
+******** description ********
 의아한 산책 Wondering Wandering
 
 정영돈展 / JUNGYOUNGDON / 鄭暎燉 / photography
@@ -38,3 +40,11 @@ Youngdon Jung's work is about his contemplation of things and sceneries he accid
 ■ Haeni Park
 
 Vol.20160126c | 정영돈展 / JUNGYOUNGDON / 鄭暎燉 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016012601c.jpg
+https://neolook.com/archives/2016012602c.jpg
+https://neolook.com/archives/2016012603c.jpg
+https://neolook.com/archives/2016012604c.jpg
+https://neolook.com/archives/2016012605c.jpg
+https://neolook.com/archives/2016012606c.jpg
+https://neolook.com/archives/2016012607c.jpg

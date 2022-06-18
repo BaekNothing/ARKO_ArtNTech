@@ -1,4 +1,6 @@
 /archives/20140104b
+
+******** description ********
 오브제 속에 담긴 풍경
 
 정지현展 / CHEONGJIHYUN / 鄭址顯 / painting
@@ -29,3 +31,10 @@ www.cjartstudio.com,
 ■ 정지현
 
 Vol.20140104b | 정지현展 / CHEONGJIHYUN / 鄭址顯 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010401b.jpg
+https://neolook.com/archives/2014010402b.jpg
+https://neolook.com/archives/2014010403b.jpg
+https://neolook.com/archives/2014010404b.jpg
+https://neolook.com/archives/2014010405b.jpg
+https://neolook.com/archives/2014010406b.jpg

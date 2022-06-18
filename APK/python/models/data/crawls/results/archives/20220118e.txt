@@ -1,4 +1,6 @@
 /archives/20220118e
+
+******** description ********
 제주도를 그리다
 
 김남표展 / KIMNAMPYO / 金南杓 / painting
@@ -38,3 +40,12 @@ www.kyobobook.co.kr/culture
 ■ 교보아트스페이스
 
 Vol.20220118e | 김남표展 / KIMNAMPYO / 金南杓 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011801e.jpg
+https://neolook.com/archives/2022011802e.jpg
+https://neolook.com/archives/2022011803e.jpg
+https://neolook.com/archives/2022011804e.jpg
+https://neolook.com/archives/2022011805e.jpg
+https://neolook.com/archives/2022011806e.jpg
+https://neolook.com/archives/2022011807e.jpg
+https://neolook.com/archives/2022011808e.jpg

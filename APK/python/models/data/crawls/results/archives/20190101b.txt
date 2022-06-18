@@ -1,4 +1,6 @@
 /archives/20190101b
+
+******** description ********
 창간 20주년 스페셜 인터뷰
 
 아트인컬처 2019년 1월호
@@ -74,3 +76,13 @@ IMAGE LINK
 161   SUBSCRIPTION
 
 Vol.20190101b | 창간 20주년 스페셜 인터뷰
+******** imgSrcs ********
+https://neolook.com/archives/2019010101b.jpg
+https://neolook.com/archives/2019010102b.jpg
+https://neolook.com/archives/2019010103b.jpg
+https://neolook.com/archives/2019010104b.jpg
+https://neolook.com/archives/2019010105b.jpg
+https://neolook.com/archives/2019010106b.jpg
+https://neolook.com/archives/2019010107b.jpg
+https://neolook.com/archives/2019010108b.jpg
+https://neolook.com/archives/2019010109b.jpg

@@ -1,4 +1,6 @@
 /archives/20210115g
+
+******** description ********
 Data Composition
 
 그레이코드_지인展
@@ -40,3 +42,9 @@ Data Composition - 과거 현재 미래의 경계를 허물기 위한 예술적 
 ■ 정가희
 
 Vol.20210115g | Data Composition-그레이코드_지인展
+******** imgSrcs ********
+https://neolook.com/archives/2021011501g.jpg
+https://neolook.com/archives/2021011502g.jpg
+https://neolook.com/archives/2021011503g.jpg
+https://neolook.com/archives/2021011504g.jpg
+https://neolook.com/archives/2021011505g.jpg

@@ -1,4 +1,6 @@
 /archives/20130122a
+
+******** description ********
 꿈틀대는 사물들
 
 강원제展 / KANGWONJE / 姜元濟 / painting
@@ -33,3 +35,11 @@ www.kepco.co.kr/gallery,
 ■ 강원제
 
 Vol.20130122a | 강원제展 / KANGWONJE / 姜元濟 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012201a.jpg
+https://neolook.com/archives/2013012202a.jpg
+https://neolook.com/archives/2013012203a.jpg
+https://neolook.com/archives/2013012204a.jpg
+https://neolook.com/archives/2013012205a.jpg
+https://neolook.com/archives/2013012206a.jpg
+https://neolook.com/archives/2013012207a.jpg

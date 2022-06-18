@@ -1,4 +1,6 @@
 /archives/20140114c
+
+******** description ********
 백화점 百貨店
 
 EASY FUNNY AND WORTHY ART COLLECTION 100展
@@ -44,3 +46,13 @@ blog.naver.com/lottekb,
 ■ 롯데갤러리
 
 Vol.20140114c | 백화점 百貨店展
+******** imgSrcs ********
+https://neolook.com/archives/2014011401c.jpg
+https://neolook.com/archives/2014011402c.jpg
+https://neolook.com/archives/2014011403c.jpg
+https://neolook.com/archives/2014011404c.jpg
+https://neolook.com/archives/2014011405c.jpg
+https://neolook.com/archives/2014011406c.jpg
+https://neolook.com/archives/2014011407c.jpg
+https://neolook.com/archives/2014011408c.jpg
+https://neolook.com/archives/2014011409c.jpg

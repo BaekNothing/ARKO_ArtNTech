@@ -1,4 +1,6 @@
 /archives/20190102d
+
+******** description ********
 What I am…
 
 한효니展 / HANHYONI / ??? / painting
@@ -37,3 +39,14 @@ cafe.naver.com/woosukgallery,
 ■ 한효니
 
 Vol.20190102d | 한효니展 / HANHYONI / ??? / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019010201d.jpg
+https://neolook.com/archives/2019010202d.jpg
+https://neolook.com/archives/2019010203d.jpg
+https://neolook.com/archives/2019010204d.jpg
+https://neolook.com/archives/2019010205d.jpg
+https://neolook.com/archives/2019010206d.jpg
+https://neolook.com/archives/2019010207d.jpg
+https://neolook.com/archives/2019010208d.jpg
+https://neolook.com/archives/2019010209d.jpg
+https://neolook.com/archives/2019010210d.jpg

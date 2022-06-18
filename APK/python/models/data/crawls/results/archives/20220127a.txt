@@ -1,4 +1,6 @@
 /archives/20220127a
+
+******** description ********
 Multilayerd Viewpoints of The Work
 
 양대만展 / YANGDAEMAN / 梁大萬 / painting
@@ -34,3 +36,10 @@ www.artspacequlia.com,
 ■ 양대만
 
 Vol.20220127a | 양대만展 / YANGDAEMAN / 梁大萬 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012701a.jpg
+https://neolook.com/archives/2022012702a.jpg
+https://neolook.com/archives/2022012703a.jpg
+https://neolook.com/archives/2022012704a.jpg
+https://neolook.com/archives/2022012705a.jpg
+https://neolook.com/archives/2022012706a.jpg

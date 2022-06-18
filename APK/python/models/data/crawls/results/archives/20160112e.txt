@@ -1,4 +1,6 @@
 /archives/20160112e
+
+******** description ********
 더 시프트 THE SHIFT
 
 2016 갤러리박영 작가공모 선정展
@@ -72,3 +74,17 @@ www.gallerypakyoung.co.kr,
 ■ 주은희
 
 Vol.20160112e | 더 시프트 THE SHIFT展
+******** imgSrcs ********
+https://neolook.com/archives/2016011201e.jpg
+https://neolook.com/archives/2016011202e.jpg
+https://neolook.com/archives/2016011203e.jpg
+https://neolook.com/archives/2016011204e.jpg
+https://neolook.com/archives/2016011205e.jpg
+https://neolook.com/archives/2016011206e.jpg
+https://neolook.com/archives/2016011207e.jpg
+https://neolook.com/archives/2016011208e.jpg
+https://neolook.com/archives/2016011209e.jpg
+https://neolook.com/archives/2016011210e.jpg
+https://neolook.com/archives/2016011211e.jpg
+https://neolook.com/archives/2016011212e.jpg
+https://neolook.com/archives/2016011213e.jpg

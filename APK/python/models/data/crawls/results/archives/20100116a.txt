@@ -1,4 +1,6 @@
 /archives/20100116a
+
+******** description ********
 face face face!
 
 정강展 / JUNGKANG / 鄭江 / photography.video installation
@@ -43,3 +45,11 @@ www.arkoartcenter.or.kr,
 ■ 이선영
 
 Vol.20100116a | 정강展 / JUNGKANG / 鄭江 / photography.video installation
+******** imgSrcs ********
+https://neolook.com/archives/2010011601a.jpg
+https://neolook.com/archives/2010011602a.jpg
+https://neolook.com/archives/2010011603a.jpg
+https://neolook.com/archives/2010011604a.jpg
+https://neolook.com/archives/2010011605a.jpg
+https://neolook.com/archives/2010011606a.jpg
+https://neolook.com/archives/2010011607a.jpg

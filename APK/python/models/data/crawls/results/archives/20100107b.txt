@@ -1,4 +1,6 @@
 /archives/20100107b
+
+******** description ********
 Imagin-R
 
 류덕인_박자용展
@@ -35,3 +37,12 @@ Imagin-R (Imaginaire Imagin-ére Imagin-Air Imaginée Imaginer) 라는 주제로
 박자용 블로그_jayjaypark.tistory.com
 
 Vol.20100107b | Imagin-R-류덕인_박자용展
+******** imgSrcs ********
+https://neolook.com/archives/2010010701b.jpg
+https://neolook.com/archives/2010010702b.jpg
+https://neolook.com/archives/2010010703b.jpg
+https://neolook.com/archives/2010010704b.jpg
+https://neolook.com/archives/2010010705b.jpg
+https://neolook.com/archives/2010010706b.jpg
+https://neolook.com/archives/2010010707b.jpg
+https://neolook.com/archives/2010010708b.jpg

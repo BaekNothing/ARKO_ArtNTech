@@ -1,4 +1,6 @@
 /archives/20160126b
+
+******** description ********
 서울 오늘을 찍다
 
 2015 사진 아카데미展
@@ -71,3 +73,28 @@ sema.seoul.go.kr/bukseoul,
 최병수_이태원-쇼 윈도우 너머 #1_피그먼트 프린트_29.7×42cm_2015
 
 최영귀_양재천_피그먼트 프린트_40×60cm_2015,    Vol.20160126b | 서울 오늘을 찍다-2015 사진 아카데미展
+******** imgSrcs ********
+https://neolook.com/archives/2016012601b.jpg
+https://neolook.com/archives/2016012602b.jpg
+https://neolook.com/archives/2016012603b.jpg
+https://neolook.com/archives/2016012604b.jpg
+https://neolook.com/archives/2016012605b.jpg
+https://neolook.com/archives/2016012606b.jpg
+https://neolook.com/archives/2016012607b.jpg
+https://neolook.com/archives/2016012608b.jpg
+https://neolook.com/archives/2016012609b.jpg
+https://neolook.com/archives/2016012610b.jpg
+https://neolook.com/archives/2016012611b.jpg
+https://neolook.com/archives/2016012612b.jpg
+https://neolook.com/archives/2016012613b.jpg
+https://neolook.com/archives/2016012614b.jpg
+https://neolook.com/archives/2016012615b.jpg
+https://neolook.com/archives/2016012616b.jpg
+https://neolook.com/archives/2016012617b.jpg
+https://neolook.com/archives/2016012618b.jpg
+https://neolook.com/archives/2016012619b.jpg
+https://neolook.com/archives/2016012620b.jpg
+https://neolook.com/archives/2016012621b.jpg
+https://neolook.com/archives/2016012622b.jpg
+https://neolook.com/archives/2016012623b.jpg
+https://neolook.com/archives/2016012624b.jpg

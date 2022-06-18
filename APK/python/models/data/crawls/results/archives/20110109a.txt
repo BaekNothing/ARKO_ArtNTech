@@ -1,4 +1,6 @@
 /archives/20110109a
+
+******** description ********
 POPping DAY-2nd
 
 김나래_손현욱_임지빈展
@@ -59,3 +61,11 @@ www.pop-art.co.kr,
 ■ 임지빈
 
 Vol.20110109a | POPping DAY-2nd-김나래_손현욱_임지빈展
+******** imgSrcs ********
+https://neolook.com/archives/2011010901a.jpg
+https://neolook.com/archives/2011010902a.jpg
+https://neolook.com/archives/2011010903a.jpg
+https://neolook.com/archives/2011010904a.jpg
+https://neolook.com/archives/2011010905a.jpg
+https://neolook.com/archives/2011010906a.jpg
+https://neolook.com/archives/2011010907a.jpg

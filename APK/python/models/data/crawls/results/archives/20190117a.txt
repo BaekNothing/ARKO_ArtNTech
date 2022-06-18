@@ -1,4 +1,6 @@
 /archives/20190117a
+
+******** description ********
 흔적 - 비실체성
 
 김성룡展 / KIMSEOUNGRYONG / 金成龍 / painting
@@ -48,3 +50,11 @@ www.bongsanart.org,
 ■ 김성룡
 
 Vol.20190117a | 김성룡展 / KIMSEOUNGRYONG / 金成龍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011701a.jpg
+https://neolook.com/archives/2019011702a.jpg
+https://neolook.com/archives/2019011703a.jpg
+https://neolook.com/archives/2019011704a.jpg
+https://neolook.com/archives/2019011705a.jpg
+https://neolook.com/archives/2019011706a.jpg
+https://neolook.com/archives/2019011707a.jpg

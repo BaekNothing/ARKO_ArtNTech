@@ -1,4 +1,6 @@
 /archives/20090114e
+
+******** description ********
 Identical Times
 
 구민자展 / GUMINJA / 丘旼子 / installation.video
@@ -19,3 +21,10 @@ www.spacecroft.com,
 구민자_42.195_사진 환등기_가변설치_2007,    거리를 측정하는 도구-walking measure-를 끌고 다니면서 일상적으로 걷거나 움직이는 모든 거리를 측정했는데 8일에 걸쳐 마라톤이 수행되었다. 마라톤이 라는 것이 갖는 의미들이 많겠지만 그에 더해 걷고있는 나뉘어진 시간의 조각들은 같은 의미로서 연결되어 연속성을 갖게 된다.,    
 구민자_air parcel_단채널 비디오_2007~2008,    air parcel ● 허공을 향하는 전열기의 열기. 곧 사라지고 없어질 것 같은 열 공기 덩어리들의 위치를 추적한다. 그것은 바람을 타고 계속 퍼져나가 지구 어딘가에 머무르거나 또 움직이고 있을 것이다.
 Vol.20090114e | 구민자展 / GUMINJA / 丘旼子 / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2009011401e.jpg
+https://neolook.com/archives/2009011402e.jpg
+https://neolook.com/archives/2009011403e.jpg
+https://neolook.com/archives/2009011404e.jpg
+https://neolook.com/archives/2009011405e.jpg
+https://neolook.com/archives/2009011406e.jpg

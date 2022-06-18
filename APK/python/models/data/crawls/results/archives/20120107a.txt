@@ -1,4 +1,6 @@
 /archives/20120107a
+
+******** description ********
 쓸쓸한 풍경 .  Estranged Vistas
 
 표인부展 / PYOINBU / 表仁夫 / painting
@@ -51,3 +53,11 @@ Inbu Pyo: Estranged Vistas
 ■ Thalia Vrachopoulos
 
 Vol.20120107a | 표인부展 / PYOINBU / 表仁夫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010701a.jpg
+https://neolook.com/archives/2012010702a.jpg
+https://neolook.com/archives/2012010703a.jpg
+https://neolook.com/archives/2012010704a.jpg
+https://neolook.com/archives/2012010705a.jpg
+https://neolook.com/archives/2012010706a.jpg
+https://neolook.com/archives/2012010707a.jpg

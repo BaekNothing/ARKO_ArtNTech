@@ -1,4 +1,6 @@
 /archives/20170117g
+
+******** description ********
 [ 꿈 결 ] : 두번 째 이야기
 
 박태근展 / PARKTAEGEUN / 朴泰根 / photography
@@ -51,3 +53,14 @@ blog.naver.com/mhjsdb,
 ■ 박태근
 
 Vol.20170117g | 박태근展 / PARKTAEGEUN / 朴泰根 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2017011701g.jpg
+https://neolook.com/archives/2017011702g.jpg
+https://neolook.com/archives/2017011703g.jpg
+https://neolook.com/archives/2017011704g.jpg
+https://neolook.com/archives/2017011705g.jpg
+https://neolook.com/archives/2017011706g.jpg
+https://neolook.com/archives/2017011707g.jpg
+https://neolook.com/archives/2017011708g.jpg
+https://neolook.com/archives/2017011709g.jpg
+https://neolook.com/archives/2017011710g.jpg

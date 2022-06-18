@@ -1,4 +1,6 @@
 /archives/20120113a
+
+******** description ********
 2011HIVE AIR(Artists In Residence)-릴레이 개인전 
 
 임동빈展 / LIMDONGBIN / 任東彬 / painting
@@ -34,3 +36,8 @@ cafe.naver.com/hivecamp,
 본 릴레이개인전은 젊은 국내 하이브 입주 작가들의 경력 개발과 창작 역량 강화라는 기획 의도를 담고 있습니다. 
 
 Vol.20120113a | 임동빈展 / LIMDONGBIN / 任東彬 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011301a.jpg
+https://neolook.com/archives/2012011302a.jpg
+https://neolook.com/archives/2012011303a.jpg
+https://neolook.com/archives/2012011304a.jpg

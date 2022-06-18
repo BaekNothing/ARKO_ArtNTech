@@ -1,4 +1,6 @@
 /archives/20180116c
+
+******** description ********
 2018 기억공작소Ⅰ-애매한 기억
 
 기쿠치 다카시展 / Kikuchi Takashi / 菊池孝 / sculpture.installation
@@ -52,3 +54,11 @@ www.bongsanart.org,
 ■ 기쿠치 다카시
 
 Vol.20180116c | 기쿠치 다카시展 / Kikuchi Takashi / 菊池孝 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2018011601c.jpg
+https://neolook.com/archives/2018011602c.jpg
+https://neolook.com/archives/2018011603c.jpg
+https://neolook.com/archives/2018011604c.jpg
+https://neolook.com/archives/2018011605c.jpg
+https://neolook.com/archives/2018011606c.jpg
+https://neolook.com/archives/2018011607c.jpg

@@ -1,4 +1,6 @@
 /archives/20200106b
+
+******** description ********
 2020년 창작공간 달
 
 3기 입주작가 모집
@@ -40,3 +42,5 @@ www.spacedal.com,
 - 이메일 : artspacedal@naver.com
 
 Vol.20200106b | 2020년 창작공간 달 3기 입주작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2020010601b.jpg

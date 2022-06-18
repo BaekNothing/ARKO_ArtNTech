@@ -1,4 +1,6 @@
 /archives/20110129a
+
+******** description ********
 서울 튜더 Seoul Tudor
 
 리처드 우즈展 / Richard Woods / installation.painting
@@ -32,3 +34,10 @@ www.artclub1563.com,
 ■ 이지윤
 
 Vol.20110129a | 리처드 우즈展 / Richard Woods / installation.painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012901a.jpg
+https://neolook.com/archives/2011012902a.jpg
+https://neolook.com/archives/2011012903a.jpg
+https://neolook.com/archives/2011012904a.jpg
+https://neolook.com/archives/2011012905a.jpg
+https://neolook.com/archives/2011012906a.jpg

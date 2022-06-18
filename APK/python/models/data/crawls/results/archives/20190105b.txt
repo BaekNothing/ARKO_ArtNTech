@@ -1,4 +1,6 @@
 /archives/20190105b
+
+******** description ********
 쾌락정원 2019
 
 오화진展 / OHHWAJIN / 吳和珍 / installation
@@ -38,3 +40,11 @@ instagram.com/space_mm,
 ■ 김태수
 
 Vol.20190105b | 오화진展 / OHHWAJIN / 吳和珍 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2019010501b.jpg
+https://neolook.com/archives/2019010502b.jpg
+https://neolook.com/archives/2019010503b.jpg
+https://neolook.com/archives/2019010504b.jpg
+https://neolook.com/archives/2019010505b.jpg
+https://neolook.com/archives/2019010506b.jpg
+https://neolook.com/archives/2019010507b.jpg

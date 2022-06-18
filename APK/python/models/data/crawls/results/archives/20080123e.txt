@@ -1,4 +1,6 @@
 /archives/20080123e
+
+******** description ********
 The Room 2008-예술가의 방
 
 양연화展 / YANGYOUNHWA / 楊娟華 / painting.drawing.installation
@@ -18,3 +20,10 @@ www.velvet.or.kr,
 
 양연화_예술가의 작업실_사진에 가필_120×163cm_2007,    십여 점의 회화와 드로잉이 포함된 이번 전시에서 가장 주목할 부분은 지하 전시실에서 진행되는 설치작업이다. 1층에서 전시되는 회화 작품들 속에 재현된 작가의 작업실이 1:1의 크기로 설치된다. 유리창 너머로 우리가 익히 상상하던 아틀리에 풍경이 들여다보인다. 그러나 문을 열고 들어가면 모든 것이 "뒤집힌다!" 예술가의 작업실 그 비밀의 방의 문을 열어 보지 않으려는가? ■ 전예완
 Vol.20080123e | 양연화展 / YANGYOUNHWA / 楊娟華 / painting.drawing.installation
+******** imgSrcs ********
+https://neolook.com/archives/2008012301e.jpg
+https://neolook.com/archives/2008012302e.jpg
+https://neolook.com/archives/2008012303e.jpg
+/archives/2008012304e.gif
+https://neolook.com/archives/2008012305e.jpg
+https://neolook.com/archives/2008012306e.jpg

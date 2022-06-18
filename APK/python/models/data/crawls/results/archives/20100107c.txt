@@ -1,4 +1,6 @@
 /archives/20100107c
+
+******** description ********
 Actual Imagination
 
 권두현展 / KWONDOOHYOUN / 權杜炫 / painting
@@ -85,3 +87,11 @@ Art Therapy - 이상적 가치가 비실용적으로 여겨지는 요즘 서정�
 ■ 조성우
 
 Vol.20100107c | 권두현展 / KWONDOOHYOUN / 權杜炫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010010701c.jpg
+https://neolook.com/archives/2010010702c.jpg
+https://neolook.com/archives/2010010703c.jpg
+https://neolook.com/archives/2010010704c.jpg
+https://neolook.com/archives/2010010705c.jpg
+https://neolook.com/archives/2010010706c.jpg
+https://neolook.com/archives/2010010707c.jpg

@@ -1,4 +1,6 @@
 /archives/20120127g
+
+******** description ********
 Hidden Chapter 히든 챕터 : 숨겨진 이야기
 
 준권展 / JOONKWON / 俊權 / mixed media
@@ -76,3 +78,11 @@ JOON KWON의 현은 작가의 총괄적 매개로 살아 움직여 프로젝트 
 ■ 정보람
 
 Vol.20120127g | 준권展 / JOONKWON / 俊權 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2012012701g.jpg
+https://neolook.com/archives/2012012702g.jpg
+https://neolook.com/archives/2012012703g.jpg
+https://neolook.com/archives/2012012704g.jpg
+https://neolook.com/archives/2012012705g.jpg
+https://neolook.com/archives/2012012706g.jpg
+https://neolook.com/archives/2012012707g.jpg

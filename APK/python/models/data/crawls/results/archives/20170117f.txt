@@ -1,4 +1,6 @@
 /archives/20170117f
+
+******** description ********
 Virtual-Scape 가상 풍경
 
 김영헌展 / KIMYOUNGHUN / 金永憲 / painting
@@ -43,3 +45,14 @@ www.choiandlager.com,
 ■ 초이앤라거 갤러리 서울
 
 Vol.20170117f | 김영헌展 / KIMYOUNGHUN / 金永憲 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011701f.jpg
+https://neolook.com/archives/2017011702f.jpg
+https://neolook.com/archives/2017011703f.jpg
+https://neolook.com/archives/2017011704f.jpg
+https://neolook.com/archives/2017011705f.jpg
+https://neolook.com/archives/2017011706f.jpg
+https://neolook.com/archives/2017011707f.jpg
+https://neolook.com/archives/2017011708f.jpg
+https://neolook.com/archives/2017011709f.jpg
+https://neolook.com/archives/2017011710f.jpg

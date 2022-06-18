@@ -1,4 +1,6 @@
 /archives/20160106f
+
+******** description ********
 Circling
 
 김태은展 / KIMTAEEUN / 金泰恩 / installation
@@ -45,3 +47,14 @@ www.cyartgallery.com,
 ■ 이승훈
 
 Vol.20160106f | 김태은展 / KIMTAEEUN / 金泰恩 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2016010601f.jpg
+https://neolook.com/archives/2016010602f.jpg
+https://neolook.com/archives/2016010603f.jpg
+https://neolook.com/archives/2016010604f.jpg
+https://neolook.com/archives/2016010605f.jpg
+https://neolook.com/archives/2016010606f.jpg
+https://neolook.com/archives/2016010607f.jpg
+https://neolook.com/archives/2016010608f.jpg
+https://neolook.com/archives/2016010609f.jpg
+https://neolook.com/archives/2016010610f.jpg

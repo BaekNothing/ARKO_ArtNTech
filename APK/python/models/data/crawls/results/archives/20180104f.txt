@@ -1,4 +1,6 @@
 /archives/20180104f
+
+******** description ********
 스윽. 딱 스르륵 Swish. Bam Swish.
 
 신승주展 / SHINSEUNGJU / 辛承珠 / installation
@@ -42,3 +44,11 @@ www.cmoa.or.kr/cjas/index.do,
 ■ 신승주
 
 Vol.20180104f | 신승주展 / SHINSEUNGJU / 辛承珠 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018010401f.jpg
+https://neolook.com/archives/2018010402f.jpg
+https://neolook.com/archives/2018010403f.jpg
+https://neolook.com/archives/2018010404f.jpg
+https://neolook.com/archives/2018010405f.jpg
+https://neolook.com/archives/2018010406f.jpg
+https://neolook.com/archives/2018010407f.jpg

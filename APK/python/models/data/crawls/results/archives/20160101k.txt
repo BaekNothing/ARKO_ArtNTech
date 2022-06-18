@@ -1,4 +1,6 @@
 /archives/20160101k
+
+******** description ********
 2015 사진작업 결산 리스트 : 그럴 형편은 아니지만,    포토닷 2016년 1월호
  
 January VOL. 26,    ,    
@@ -65,3 +67,11 @@ belt 2016 선정작가전(1.6~1.12/갤러리 나우)
 136   이예림 아이들의 엄마
 
 Vol.20160101k | 2015 사진작업 결산 리스트 : 그럴 형편은 아니지만
+******** imgSrcs ********
+https://neolook.com/archives/2016010101k.jpg
+https://neolook.com/archives/2016010102k.jpg
+https://neolook.com/archives/2016010103k.jpg
+https://neolook.com/archives/2016010104k.jpg
+https://neolook.com/archives/2016010105k.jpg
+https://neolook.com/archives/2016010106k.jpg
+https://neolook.com/archives/2016010107k.jpg

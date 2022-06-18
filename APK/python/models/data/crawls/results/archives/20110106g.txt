@@ -1,4 +1,6 @@
 /archives/20110106g
+
+******** description ********
 순간의 알레고리  Allegory of the moment
 
 황정희展 / HWANGJEONGHEE / 黃楨喜 / painting
@@ -45,3 +47,7 @@ www.gallerygabi.com,
 ■ 황정희
 
 Vol.20110106g | 황정희展 / HWANGJEONGHEE / 黃楨喜 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010601g.jpg
+https://neolook.com/archives/2011010602g.jpg
+https://neolook.com/archives/2011010603g.jpg

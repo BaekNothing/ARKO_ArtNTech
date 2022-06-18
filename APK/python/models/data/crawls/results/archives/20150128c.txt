@@ -1,4 +1,6 @@
 /archives/20150128c
+
+******** description ********
 공간에서 이루어지는 일상의 기록
 
 최진욱展 / CHOICHINUK / 崔震旭 / painting
@@ -38,3 +40,14 @@ www.the-k-gallery.com,
 ■ 박영택
 
 Vol.20150128c | 최진욱展 / CHOICHINUK / 崔震旭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012801c.jpg
+https://neolook.com/archives/2015012802c.jpg
+https://neolook.com/archives/2015012803c.jpg
+https://neolook.com/archives/2015012804c.jpg
+https://neolook.com/archives/2015012805c.jpg
+https://neolook.com/archives/2015012806c.jpg
+https://neolook.com/archives/2015012807c.jpg
+https://neolook.com/archives/2015012808c.jpg
+https://neolook.com/archives/2015012809c.jpg
+https://neolook.com/archives/2015012810c.jpg

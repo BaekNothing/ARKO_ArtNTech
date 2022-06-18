@@ -1,4 +1,6 @@
 /archives/20090123e
+
+******** description ********
 그림(painting) 그린(drawing) 그릇(vessel)
 
 한향림갤러리 기획展
@@ -24,3 +26,11 @@ www.heyrigallery.com,
 
 박미선_꽃_도자_각 10.5×24×24cm_2008_부분,    박미선 ● 슬립의 유동성을 일정한 규칙에 따라 반복적인 움직임으로 기(器)의 표면에 그림을 그린다. 얇은 층을 쌓아 만든 선으로 그린 반복적인 패턴은 단순화된 꽃의 형태로 식물의 생장 에너지를 표현한 것이다. 특히 기(器) 표면의 점차 확장하는 패턴은 식물의 성장 과정이자 식물 세포의 크기 변화를 시각적으로 보여준다. ■ 이진숙
 Vol.20090123e | 그림(painting) 그린(drawing) 그릇(vessel)展
+******** imgSrcs ********
+https://neolook.com/archives/2009012301e.jpg
+https://neolook.com/archives/2009012302e.jpg
+https://neolook.com/archives/2009012303e.jpg
+https://neolook.com/archives/2009012304e.jpg
+https://neolook.com/archives/2009012305e.jpg
+https://neolook.com/archives/2009012306e.jpg
+https://neolook.com/archives/2009012307e.jpg

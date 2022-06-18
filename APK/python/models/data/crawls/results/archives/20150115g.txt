@@ -1,4 +1,6 @@
 /archives/20150115g
+
+******** description ********
 MEMORY GAP ; Bulat Village 기억의 간격 ; 벌랏마을
 
 서윤희展 / SUHYOONHEE / 徐侖熙 / installation.painting
@@ -34,3 +36,11 @@ www.schemaart.net,
 ■ 한영애
 
 Vol.20150115g | 서윤희展 / SUHYOONHEE / 徐侖熙 / installation.painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011501g.jpg
+https://neolook.com/archives/2015011502g.jpg
+https://neolook.com/archives/2015011503g.jpg
+https://neolook.com/archives/2015011504g.jpg
+https://neolook.com/archives/2015011505g.jpg
+https://neolook.com/archives/2015011506g.jpg
+https://neolook.com/archives/2015011507g.jpg

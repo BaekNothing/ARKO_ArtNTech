@@ -1,4 +1,6 @@
 /archives/20220115b
+
+******** description ********
 Wrong Orbit : 경로를 이탈하였습니다
 
 문채원展 / MOONCHAEWON / 文彩苑 / painting
@@ -30,3 +32,11 @@ www.mythtakemuseum.com,
 작동하지 않는 설명서(non-functional manual) 시리즈는 의미를 읽을 수 있다는 것이 곧 이해를 의미하는 것은 아니라는 생각에서 출발한다. 작업에 등장하는 이미지들은 본래 만들어진 용도를 피해 적극적으로 실패하고 오역되는 것을 목표로 한다. 나는 설명서나 안내책자 등의 매체들을 그림과 문장단위로 분절하여 단일한 의미를 전달하는 본래의 용도를 애매한 결론이나 모순적인 상황으로 대체한다. 직관적인 기호와 이미지로 만들어진 '그럴듯한' 시스템은 도움이되는 정보를 주기보다 현실의 예측 불가능성과 불확실성에 대응하는 방법들을 농담조로 제시한다. ■ 문채원
 
 Vol.20220115b | 문채원展 / MOONCHAEWON / 文彩苑 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011501b.jpg
+https://neolook.com/archives/2022011502b.jpg
+https://neolook.com/archives/2022011503b.jpg
+https://neolook.com/archives/2022011504b.jpg
+https://neolook.com/archives/2022011505b.jpg
+https://neolook.com/archives/2022011506b.jpg
+https://neolook.com/archives/2022011507b.jpg

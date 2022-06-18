@@ -1,4 +1,6 @@
 /archives/20100119b
+
+******** description ********
 일민의 문화
 
 세계의 문화 전통의 문화
@@ -32,3 +34,11 @@ www.ilmin.org,
 ■ 일민미술관
 
 Vol.20100119b | 일민의 문화 세계의 문화 전통의 문화展
+******** imgSrcs ********
+https://neolook.com/archives/2010011901b.jpg
+https://neolook.com/archives/2010011902b.jpg
+https://neolook.com/archives/2010011903b.jpg
+https://neolook.com/archives/2010011904b.jpg
+https://neolook.com/archives/2010011905b.jpg
+https://neolook.com/archives/2010011906b.jpg
+https://neolook.com/archives/2010011907b.jpg

@@ -1,4 +1,6 @@
 /archives/20180110c
+
+******** description ********
 이랜드갤러리 아트로 참여작가 모집
 접수기간 / 2018_0330 ▶ 상시모집,    ,    접수마감 / 상시모집
 문의 / Tel. +82.(0)2.2029.3111 / artrogallery@eland.co.kr,    이랜드갤러리 아트로
@@ -27,3 +29,5 @@ www.elandgallery.com,
 기타 문의: artrogallery@eland.co.kr  02-2029-3111
 
 Vol.20180110c | 이랜드갤러리 아트로 참여작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2018011001c.jpg

@@ -1,4 +1,6 @@
 /archives/20130102h
+
+******** description ********
 2013 테이크아웃드로잉 참여작가 공모
 접수기간 / 2013_0102 ▶ 2013_0130,    ,    접수마감 / 2013_0130_수요일,    테이크아웃드로잉 이태원동
 TAKEOUT DRAWING Itaewon-dong
@@ -35,3 +37,5 @@ www.takeoutdrawing.com,
  포트폴리오와 동영상의 경우 CD (avi format)로 우편 접수(제목에 2013년 카페 레지던시 지원서 표기)
 
 Vol.20130102h | 2013 테이크아웃드로잉 참여작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2013010201h.jpg

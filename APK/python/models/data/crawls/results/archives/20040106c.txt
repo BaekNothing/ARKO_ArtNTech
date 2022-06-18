@@ -1,4 +1,6 @@
 /archives/20040106c
+
+******** description ********
 3기 일주포럼 / 근대성과 탈근대성
 
 ⑤ 근대성에 대한 해석학적 이해_구자윤
@@ -50,3 +52,5 @@ iljuarthouse.org,
 일주포럼 진행 김연주 / Tel. 02_723_6277 / kyj35@yahoo.co.kr
 
 Vol.20040106c | 3기 일주포럼 : 근대성과 탈근대성
+******** imgSrcs ********
+https://neolook.com/archives/2004010601c.jpg

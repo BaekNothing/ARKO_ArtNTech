@@ -1,4 +1,6 @@
 /archives/20150129i
+
+******** description ********
 텍스트 콜라주
 
 윤성지_이광기_조은지展
@@ -28,3 +30,9 @@ www.gam.go.kr,
 ■ 경남도립미술관
 
 Vol.20150129i | 텍스트 콜라주展
+******** imgSrcs ********
+https://neolook.com/archives/2015012901i.jpg
+https://neolook.com/archives/2015012902i.jpg
+https://neolook.com/archives/2015012903i.jpg
+https://neolook.com/archives/2015012904i.jpg
+https://neolook.com/archives/2015012905i.jpg

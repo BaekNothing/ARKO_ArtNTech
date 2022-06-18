@@ -1,4 +1,6 @@
 /archives/20210102b
+
+******** description ********
 UNIVERSE_WHANKI 1 – Ⅰ – 21
 
 롯데 미디어 프로젝트展 LOTTE MEDIA PROJECT
@@ -31,3 +33,10 @@ blog.naver.com/a_arthall,
 ● 모두가 힘든 시기에 마련한 이번 프로젝트를 통해 작가가 평생에 걸쳐 끊임없이 집중하고 사용했던 푸른빛의 다채로운 스펙트럼과 무한한 깊이를 느껴보길 바라며 희망을 불어넣는 푸른빛으로 2021년을 맞이하기를 바란다. ■ 에비뉴엘 아트홀
 
 Vol.20210102b | UNIVERSE_WHANKI 1 – I – 21-롯데 미디어 프로젝트展
+******** imgSrcs ********
+https://neolook.com/archives/2021010201b.jpg
+https://neolook.com/archives/2021010202b.jpg
+https://neolook.com/archives/2021010203b.jpg
+https://neolook.com/archives/2021010204b.jpg
+https://neolook.com/archives/2021010205b.jpg
+https://neolook.com/archives/2021010206b.jpg

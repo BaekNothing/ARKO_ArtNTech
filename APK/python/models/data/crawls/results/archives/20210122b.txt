@@ -1,4 +1,6 @@
 /archives/20210122b
+
+******** description ********
 오늘 순간 감정
 
 2021_0122 ▶ 2021_0228 / 월공휴일 휴관,    
@@ -33,3 +35,10 @@ Artside Gallery holds a group exhibition "Today Moment and Emotion" from January
 ■ 갤러리 아트사이드
 
 Vol.20210122b | 오늘 순간 감정展
+******** imgSrcs ********
+https://neolook.com/archives/2021012201b.jpg
+https://neolook.com/archives/2021012202b.jpg
+https://neolook.com/archives/2021012203b.jpg
+https://neolook.com/archives/2021012204b.jpg
+https://neolook.com/archives/2021012205b.jpg
+https://neolook.com/archives/2021012206b.jpg

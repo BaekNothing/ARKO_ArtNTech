@@ -1,4 +1,6 @@
 /archives/20140124d
+
+******** description ********
 미쓰-플레이
 
 mis-play展
@@ -53,3 +55,12 @@ KKHH는 더 나아가 오차의 문제를 공동체 안으로 확장한다. 5명
 ■ 김미정_이설_이수민_주현서
 
 Vol.20140124d | 미쓰-플레이 mis-play展
+******** imgSrcs ********
+https://neolook.com/archives/2014012401d.jpg
+https://neolook.com/archives/2014012402d.jpg
+https://neolook.com/archives/2014012403d.jpg
+https://neolook.com/archives/2014012404d.jpg
+https://neolook.com/archives/2014012405d.jpg
+https://neolook.com/archives/2014012406d.jpg
+https://neolook.com/archives/2014012407d.jpg
+https://neolook.com/archives/2014012408d.jpg

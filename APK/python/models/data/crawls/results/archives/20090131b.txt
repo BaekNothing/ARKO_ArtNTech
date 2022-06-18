@@ -1,4 +1,6 @@
 /archives/20090131b
+
+******** description ********
 대안공간 반디를 기록하다
 
 섬에서 반디로 19992008
@@ -25,3 +27,9 @@ Tel. +82.51.645.4115,
 8.반디를 기록하다 Recording Space Bandee
 
 Vol.20090131b | 대안공간 반디를 기록하다 / 지은이_대안공간 반디 / 비온후
+******** imgSrcs ********
+https://neolook.com/archives/2009013101b.jpg
+https://neolook.com/archives/2009013102b.jpg
+https://neolook.com/archives/2009013103b.jpg
+https://neolook.com/archives/2009013104b.jpg
+https://neolook.com/archives/2009013105b.jpg

@@ -1,4 +1,6 @@
 /archives/20100102c
+
+******** description ********
 경기도 양주시 장흥 조각아카데미_아뜰리에 2기 입주작가 공모
 접수기간 / 2010_0101 ▶ 2010_0210,    ,    접수마감 / 2010_0210_수요일
 
@@ -44,3 +46,7 @@ www.artpark.co.kr,
 
 ● 문의_마아현_ahyunma@nate.com / Tel. +82.31.837.0020
 Vol.20100102c | 경기도 양주시 장흥 조각아카데미_아뜰리에 2기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2010010201c.jpg
+https://neolook.com/archives/2010010202c.jpg
+https://neolook.com/archives/2010010203c.jpg

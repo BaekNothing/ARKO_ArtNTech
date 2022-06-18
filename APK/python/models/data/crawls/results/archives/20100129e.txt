@@ -1,4 +1,6 @@
 /archives/20100129e
+
+******** description ********
 Beyond 'Surface Culture'
 
 '표면문화'를 넘어서展
@@ -40,3 +42,10 @@ Beyond 'Surface Culture' ['표면문화'를 넘어서] 1. '표면문화' 의 형
 ■ 현재민
 
 Vol.20100129e | Beyond 'Surface Culture' '표면문화'를 넘어서展
+******** imgSrcs ********
+https://neolook.com/archives/2010012901e.jpg
+https://neolook.com/archives/2010012902e.jpg
+https://neolook.com/archives/2010012903e.jpg
+https://neolook.com/archives/2010012904e.jpg
+https://neolook.com/archives/2010012905e.jpg
+https://neolook.com/archives/2010012906e.jpg

@@ -1,4 +1,6 @@
 /archives/20130122b
+
+******** description ********
 아트캠페인 바람난 미술
 
 전시장을 나온 미술 예술이 넘치는 거리展
@@ -142,3 +144,7 @@ www.seoulcitizenshall.kr,
 
 □ 문의 / 서울문화재단 시민문화팀 02-3290-7146
 Vol.20130122b | 아트캠페인 바람난 미술-전시장을 나온 미술 예술이 넘치는 거리展
+******** imgSrcs ********
+https://neolook.com/archives/2013012201b.jpg
+https://neolook.com/archives/2013012202b.jpg
+https://neolook.com/archives/2013012203b.jpg

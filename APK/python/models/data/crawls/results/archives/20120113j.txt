@@ -1,4 +1,6 @@
 /archives/20120113j
+
+******** description ********
 헤테로크로니 Heterochrony
 
 서현석展 / SEOHYUNSUK / 徐賢錫 / performance
@@ -38,3 +40,8 @@ www.seoulstation.org,
 ■ 서현석
 
 Vol.20120113j | 서현석展 / SEOHYUNSUK / 徐賢錫 / performance
+******** imgSrcs ********
+https://neolook.com/archives/2012011301j.jpg
+https://neolook.com/archives/2012011302j.jpg
+https://neolook.com/archives/2012011303j.jpg
+https://neolook.com/archives/2012011304j.jpg

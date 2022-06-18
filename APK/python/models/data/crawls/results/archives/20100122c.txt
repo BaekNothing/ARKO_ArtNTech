@@ -1,4 +1,6 @@
 /archives/20100122c
+
+******** description ********
 MEDIA CONCERT  'LOVE'
 
 고병오_김일권_이수진_채진숙展
@@ -38,3 +40,8 @@ Tel. +82.2.734.7555,    ,    MEDIA CONCERT "LOVE"
 ■ 김효선
 
 Vol.20100122c | MEDIA CONCERT  'LOVE'展
+******** imgSrcs ********
+https://neolook.com/archives/2010012201c.jpg
+https://neolook.com/archives/2010012202c.jpg
+https://neolook.com/archives/2010012203c.jpg
+https://neolook.com/archives/2010012204c.jpg

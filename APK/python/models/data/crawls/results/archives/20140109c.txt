@@ -1,4 +1,6 @@
 /archives/20140109c
+
+******** description ********
 Remember Your Heart
 
 정연연展 / JUNGYEONYEON / 鄭瑌延 / painting
@@ -34,3 +36,11 @@ www.gallerytoast.com,
 ■ 정연연
 
 Vol.20140109c | 정연연展 / JUNGYEONYEON / 鄭瑌延 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010901c.jpg
+https://neolook.com/archives/2014010902c.jpg
+https://neolook.com/archives/2014010903c.jpg
+https://neolook.com/archives/2014010904c.jpg
+https://neolook.com/archives/2014010905c.jpg
+https://neolook.com/archives/2014010906c.jpg
+https://neolook.com/archives/2014010907c.jpg

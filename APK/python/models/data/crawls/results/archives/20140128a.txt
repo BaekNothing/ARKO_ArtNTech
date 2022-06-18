@@ -1,4 +1,6 @@
 /archives/20140128a
+
+******** description ********
 댓글티-깡통 Value of the Daesgeul-kkanggtong
 
 배인석展 / BAEINSOEK / 裵仁錫 / performance
@@ -31,3 +33,11 @@ cafe.naver.com/daesgeul,
 ■ 배인석
 
 Vol.20140128a | 배인석展 / BAEINSOEK / 裵仁錫 / performance
+******** imgSrcs ********
+https://neolook.com/archives/2014012801a.jpg
+https://neolook.com/archives/2014012802a.jpg
+https://neolook.com/archives/2014012803a.jpg
+https://neolook.com/archives/2014012804a.jpg
+https://neolook.com/archives/2014012805a.jpg
+https://neolook.com/archives/2014012806a.jpg
+https://neolook.com/archives/2014012807a.jpg

@@ -1,4 +1,6 @@
 /archives/20180104c
+
+******** description ********
 동고동락; 네가 나를 부를 때
 
 무술년 신년기획展
@@ -64,3 +66,18 @@ blog.naver.com/glotteart,
 ■ 고영재
 
 Vol.20180104c | 동고동락; 네가 나를 부를 때展
+******** imgSrcs ********
+https://neolook.com/archives/2018010401c.jpg
+https://neolook.com/archives/2018010402c.jpg
+https://neolook.com/archives/2018010403c.jpg
+https://neolook.com/archives/2018010404c.jpg
+https://neolook.com/archives/2018010405c.jpg
+https://neolook.com/archives/2018010406c.jpg
+https://neolook.com/archives/2018010407c.jpg
+https://neolook.com/archives/2018010408c.jpg
+https://neolook.com/archives/2018010409c.jpg
+https://neolook.com/archives/2018010410c.jpg
+https://neolook.com/archives/2018010411c.jpg
+https://neolook.com/archives/2018010412c.jpg
+https://neolook.com/archives/2018010413c.jpg
+https://neolook.com/archives/2018010414c.jpg

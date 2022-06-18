@@ -1,4 +1,6 @@
 /archives/20140107d
+
+******** description ********
 디지털적 사유의 풍경
 
 김윤희展 / KIMYOONHEE / 金允熙 / painting
@@ -49,3 +51,8 @@ samtanartmine.com,
 ■ 김윤희
 
 Vol.20140107d | 김윤희展 / KIMYOONHEE / 金允熙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010701d.jpg
+https://neolook.com/archives/2014010702d.jpg
+https://neolook.com/archives/2014010703d.jpg
+https://neolook.com/archives/2014010704d.jpg

@@ -1,4 +1,6 @@
 /archives/20150128d
+
+******** description ********
 김부연 유작전
 
 김부연展 / KIMBOOYEON / 金富淵 / painting
@@ -46,3 +48,12 @@ blog.naver.com/palaisdes,
 ■ 박상우
 
 Vol.20150128d | 김부연展 / KIMBOOYEON / 金富淵 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012801d.jpg
+https://neolook.com/archives/2015012802d.jpg
+https://neolook.com/archives/2015012803d.jpg
+https://neolook.com/archives/2015012804d.jpg
+https://neolook.com/archives/2015012805d.jpg
+https://neolook.com/archives/2015012806d.jpg
+https://neolook.com/archives/2015012807d.jpg
+https://neolook.com/archives/2015012808d.jpg

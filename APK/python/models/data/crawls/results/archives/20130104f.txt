@@ -1,4 +1,6 @@
 /archives/20130104f
+
+******** description ********
 이어짐에 의한 세계 The World by Connecting
 
 이재순展 / LEEJAESOON / 李在珣 / installation
@@ -51,3 +53,11 @@ I would like to generate a world that meets another world by connecting individu
 ■ LEEJAESOON
 
 Vol.20130104f | 이재순展 / LEEJAESOON / 李在珣 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2013010401f.jpg
+https://neolook.com/archives/2013010402f.jpg
+https://neolook.com/archives/2013010403f.jpg
+https://neolook.com/archives/2013010404f.jpg
+https://neolook.com/archives/2013010405f.jpg
+https://neolook.com/archives/2013010406f.jpg
+https://neolook.com/archives/2013010407f.jpg

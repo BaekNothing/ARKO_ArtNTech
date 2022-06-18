@@ -1,4 +1,6 @@
 /archives/20170105c
+
+******** description ********
 Build Life_Mix up
 
 음정수展 / EUMJEONGSOO / 陰正琇 / sculpture
@@ -30,3 +32,9 @@ www.facebook.com/L153ART,
 ■ 음정수
 
 Vol.20170105c | 음정수展 / EUMJEONGSOO / 陰正琇 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2017010501c.jpg
+https://neolook.com/archives/2017010502c.jpg
+https://neolook.com/archives/2017010503c.jpg
+https://neolook.com/archives/2017010504c.jpg
+https://neolook.com/archives/2017010505c.jpg

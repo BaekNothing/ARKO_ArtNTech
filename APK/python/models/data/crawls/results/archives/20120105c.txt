@@ -1,4 +1,6 @@
 /archives/20120105c
+
+******** description ********
 브리짓 프로젝트 : Part 2
 
 Bridge Project : Part 2展
@@ -26,3 +28,13 @@ www.cjartstudio.com,
 ■ 청주미술창작스튜디오
 
 Vol.20120105c | 브리짓 프로젝트 : Part 2 Bridge Project : Part 2展
+******** imgSrcs ********
+https://neolook.com/archives/2012010501c.jpg
+https://neolook.com/archives/2012010502c.jpg
+https://neolook.com/archives/2012010503c.jpg
+https://neolook.com/archives/2012010504c.jpg
+https://neolook.com/archives/2012010505c.jpg
+https://neolook.com/archives/2012010506c.jpg
+https://neolook.com/archives/2012010507c.jpg
+https://neolook.com/archives/2012010508c.jpg
+https://neolook.com/archives/2012010509c.jpg

@@ -1,4 +1,6 @@
 /archives/20110111a
+
+******** description ********
 The crumplation
 
 서웅주展 / SEOWOONGJOO / 徐雄柱 / painting
@@ -35,3 +37,11 @@ blog.naver.com/codisenss,
 ■ 서웅주
 
 Vol.20110111a | 서웅주展 / SEOWOONGJOO / 徐雄柱 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011101a.jpg
+https://neolook.com/archives/2011011102a.jpg
+https://neolook.com/archives/2011011103a.jpg
+https://neolook.com/archives/2011011104a.jpg
+https://neolook.com/archives/2011011105a.jpg
+https://neolook.com/archives/2011011106a.jpg
+https://neolook.com/archives/2011011107a.jpg

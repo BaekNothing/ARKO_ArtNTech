@@ -1,4 +1,6 @@
 /archives/20150120a
+
+******** description ********
 Beyond Recall: 용마랜드
 
 2014 꿈의숲 아트페스티벌 공모 선정작展
@@ -61,3 +63,14 @@ There was Something 은 그런 추억을 회상하는 작업이다. 그곳에 �
 ■ 림지
 
 Vol.20150120a | Beyond Recall: 용마랜드展
+******** imgSrcs ********
+https://neolook.com/archives/2015012001a.jpg
+https://neolook.com/archives/2015012002a.jpg
+https://neolook.com/archives/2015012003a.jpg
+https://neolook.com/archives/2015012004a.jpg
+https://neolook.com/archives/2015012005a.jpg
+https://neolook.com/archives/2015012006a.jpg
+https://neolook.com/archives/2015012007a.jpg
+https://neolook.com/archives/2015012008a.jpg
+https://neolook.com/archives/2015012009a.jpg
+https://neolook.com/archives/2015012010a.jpg

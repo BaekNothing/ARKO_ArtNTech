@@ -1,4 +1,6 @@
 /archives/20180129a
+
+******** description ********
 4.9mb Seoulscape
 
 조준용展 / CHOJUNYONG / 趙浚容 / photography.video
@@ -31,3 +33,9 @@ www.gallerylux.net,
 ■ 김성우
 
 Vol.20180129a | 조준용展 / CHOJUNYONG / 趙浚容 / photography.video
+******** imgSrcs ********
+https://neolook.com/archives/2018012901a.jpg
+https://neolook.com/archives/2018012902a.jpg
+https://neolook.com/archives/2018012903a.jpg
+https://neolook.com/archives/2018012904a.jpg
+https://neolook.com/archives/2018012905a.jpg

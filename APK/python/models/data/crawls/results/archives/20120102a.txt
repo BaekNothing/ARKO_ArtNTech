@@ -1,4 +1,6 @@
 /archives/20120102a
+
+******** description ********
 2012 갤러리룩스 신진작가 지원전 공모 안내
 
 접수기간 / 2012_0102 ▶ 2012_0214,    ,    
@@ -39,3 +41,5 @@ www.gallerylux.net,
             gallerylux@gmail.com
 
 Vol.20120102a | 2012 갤러리룩스 신진작가 지원전 공모 안내
+******** imgSrcs ********
+https://neolook.com/archives/2012010201a.jpg

@@ -1,4 +1,6 @@
 /archives/20130105b
+
+******** description ********
 갤러리 습격사건 I - 케이크 나누기
 2013_0105 ▶ 2013_0208,    ,    별도의 초대일시가 없습니다.
 참여작가 / 오종원_보라리_박기현_임용현_윤송이_상덕
@@ -32,3 +34,11 @@ www.palaisdeseoul.net,
 ■ 이수
 
 Vol.20130105b | 갤러리 습격사건 I - 케이크 나누기展
+******** imgSrcs ********
+https://neolook.com/archives/2013010501b.jpg
+https://neolook.com/archives/2013010502b.jpg
+https://neolook.com/archives/2013010503b.jpg
+https://neolook.com/archives/2013010504b.jpg
+https://neolook.com/archives/2013010505b.jpg
+https://neolook.com/archives/2013010506b.jpg
+https://neolook.com/archives/2013010507b.jpg

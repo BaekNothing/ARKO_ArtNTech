@@ -1,4 +1,6 @@
 /archives/20180122a
+
+******** description ********
 마술 정원의 파편들 Fragments of a Magic Garden
 
 케어스틴 세츠_베티나 바이스 2인展
@@ -30,3 +32,10 @@ www.bundoart.com,
 ■ 윤규홍
 
 Vol.20180122a | 마술 정원의 파편들-케어스틴 세츠_베티나 바이스 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2018012201a.jpg
+https://neolook.com/archives/2018012202a.jpg
+https://neolook.com/archives/2018012203a.jpg
+https://neolook.com/archives/2018012204a.jpg
+https://neolook.com/archives/2018012205a.jpg
+https://neolook.com/archives/2018012206a.jpg

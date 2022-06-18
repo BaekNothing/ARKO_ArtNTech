@@ -1,4 +1,6 @@
 /archives/20220119c
+
+******** description ********
 Glass Cat's Cradle 유리알 기차
 
 Danew展 / LEEJISUN / 李智善 / painting
@@ -29,3 +31,9 @@ Danew_Not the end_600×700cm,
 ■ Danew
 
 Vol.20220119c | Danew展 / LEEJISUN / 李智善 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011901c.jpg
+https://neolook.com/archives/2022011902c.jpg
+https://neolook.com/archives/2022011903c.jpg
+https://neolook.com/archives/2022011904c.jpg
+https://neolook.com/archives/2022011905c.jpg

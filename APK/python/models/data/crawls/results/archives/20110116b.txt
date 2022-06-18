@@ -1,4 +1,6 @@
 /archives/20110116b
+
+******** description ********
 Evoke
 
 강정헌_이효연展
@@ -36,3 +38,12 @@ www.gallery4walls.com,
 ■ 강정헌
 
 Vol.20110116b | Evoke-강정헌_이효연展
+******** imgSrcs ********
+https://neolook.com/archives/2011011601b.jpg
+https://neolook.com/archives/2011011602b.jpg
+https://neolook.com/archives/2011011603b.jpg
+https://neolook.com/archives/2011011604b.jpg
+https://neolook.com/archives/2011011605b.jpg
+https://neolook.com/archives/2011011606b.jpg
+https://neolook.com/archives/2011011607b.jpg
+https://neolook.com/archives/2011011608b.jpg

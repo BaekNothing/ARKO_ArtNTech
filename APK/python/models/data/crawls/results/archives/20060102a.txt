@@ -1,4 +1,6 @@
 /archives/20060102a
+
+******** description ********
 나는 야 상팔자
 
 이김천展 / LEEGIMCHEON / 李金泉 / painting
@@ -26,3 +28,11 @@ Tel. +82.(0)2.2163.1700,
 이김천_나는 야 상팔자_장지에 채색_105×59cm_2005
 
 이김천_나는 야 상팔자_장지에 채색_142×76cm_2006,    Vol.20060102a | 이김천展 / LEEGIMCHEON / 李金泉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2006010201a.jpg
+https://neolook.com/archives/2006010202a.jpg
+https://neolook.com/archives/2006010203a.jpg
+https://neolook.com/archives/2006010204a.jpg
+https://neolook.com/archives/2006010205a.jpg
+https://neolook.com/archives/2006010206a.jpg
+https://neolook.com/archives/2006010207a.jpg

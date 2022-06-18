@@ -1,4 +1,6 @@
 /archives/20100111c
+
+******** description ********
 스트레칭
 
 노해나_풀진_오세나展
@@ -26,3 +28,12 @@ blog.naver.com/gahwa2009,
 ■ 
 
 Vol.20100111c | 스트레칭-노해나_풀진_오세나展
+******** imgSrcs ********
+https://neolook.com/archives/2010011101c.jpg
+https://neolook.com/archives/2010011102c.jpg
+https://neolook.com/archives/2010011103c.jpg
+https://neolook.com/archives/2010011104c.jpg
+https://neolook.com/archives/2010011105c.jpg
+https://neolook.com/archives/2010011106c.jpg
+https://neolook.com/archives/2010011107c.jpg
+https://neolook.com/archives/2010011108c.jpg

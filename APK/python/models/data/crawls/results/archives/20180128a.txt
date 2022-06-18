@@ -1,4 +1,6 @@
 /archives/20180128a
+
+******** description ********
 내가 보는 것이 나이다. _ Je suis ce que je vois.
 
 현미展 / HYUNMI / 玄美 / painting
@@ -33,3 +35,9 @@ Tel. 070.8259.5456,
 ■ 현미
 
 Vol.20180128a | 현미展 / HYUNMI / 玄美 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012801a.jpg
+https://neolook.com/archives/2018012802a.jpg
+https://neolook.com/archives/2018012803a.jpg
+https://neolook.com/archives/2018012804a.jpg
+https://neolook.com/archives/2018012805a.jpg

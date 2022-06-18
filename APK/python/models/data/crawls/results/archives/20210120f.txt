@@ -1,4 +1,6 @@
 /archives/20210120f
+
+******** description ********
 단청
 
 무우수갤러리 오픈기념 기획展
@@ -68,3 +70,11 @@ moowoosoogallery.com,
 ■ 조은정
 
 Vol.20210120f | 단청-무우수갤러리 오픈기념 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2021012001f.jpg
+https://neolook.com/archives/2021012002f.jpg
+https://neolook.com/archives/2021012003f.jpg
+https://neolook.com/archives/2021012004f.jpg
+https://neolook.com/archives/2021012005f.jpg
+https://neolook.com/archives/2021012006f.jpg
+https://neolook.com/archives/2021012007f.jpg

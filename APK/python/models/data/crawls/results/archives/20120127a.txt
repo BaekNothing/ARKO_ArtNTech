@@ -1,4 +1,6 @@
 /archives/20120127a
+
+******** description ********
 Jang's Museum 신진작가 2012 공모
 
 2012_0127 ▶ 2012_0209,    ,    
@@ -39,3 +41,5 @@ jazilael@hotmail.com,
                     010-9018-9527 / E-mail_jazilael@hotmail.com
 
 Vol.20120127a | Jang's Museum 신진작가 2012 공모
+******** imgSrcs ********
+https://neolook.com/archives/2012012701a.jpg

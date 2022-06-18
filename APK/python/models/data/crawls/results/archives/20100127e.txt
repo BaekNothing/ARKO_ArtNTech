@@ -1,4 +1,6 @@
 /archives/20100127e
+
+******** description ********
 운주사의 비백 여백 공백
 
 이건우展 / LEEGEONWOO / 李建雨 / painting
@@ -30,3 +32,11 @@ www.debecgallery.com,
 * 공백(空白) : 말 그대로 빈 공간
 
 Vol.20100127e | 이건우展 / LEEGEONWOO / 李建雨 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012701e.jpg
+https://neolook.com/archives/2010012702e.jpg
+https://neolook.com/archives/2010012703e.jpg
+https://neolook.com/archives/2010012704e.jpg
+https://neolook.com/archives/2010012705e.jpg
+https://neolook.com/archives/2010012706e.jpg
+https://neolook.com/archives/2010012707e.jpg

@@ -1,4 +1,6 @@
 /archives/20200115a
+
+******** description ********
 노려본들 어쩔 것이냐
 
 두산 큐레이터 워크샵 기획展
@@ -40,3 +42,15 @@ www.doosangallery.com,
 ● '두산 큐레이터 워크샵'은 한국 현대미술계에 새로운 시각을 제시할 신진 큐레이터를 발굴 지원하는 프로그램이다. 매년 3명의 큐레이터를 선정하여 1년 동안 각 분야의 전문가들을 초청 강의∙세미나∙워크샵으로 현대미술의 이론과 현장을 깊이 있게 다룬다. 1년의 교육기간 후 두산갤러리에서 3명이 공동으로 전시를 기획해 봄으로써 1년간의 연구를 구체화할 수 있는 실질적인 큐레이팅 기회를 갖게 한다. ■ 두산갤러리 서울
 
 Vol.20200115a | 노려본들 어쩔 것이냐-두산 큐레이터 워크샵 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2020011501a.jpg
+https://neolook.com/archives/2020011502a.jpg
+https://neolook.com/archives/2020011503a.jpg
+https://neolook.com/archives/2020011504a.jpg
+https://neolook.com/archives/2020011505a.jpg
+https://neolook.com/archives/2020011506a.jpg
+https://neolook.com/archives/2020011507a.jpg
+https://neolook.com/archives/2020011508a.jpg
+https://neolook.com/archives/2020011509a.jpg
+https://neolook.com/archives/2020011510a.jpg
+https://neolook.com/archives/2020011511a.jpg

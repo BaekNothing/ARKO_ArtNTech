@@ -1,4 +1,6 @@
 /archives/20120103b
+
+******** description ********
 UNEASY... 
 
 윤미선展 / YOONMISEON / 尹美善 / mixid media
@@ -43,3 +45,11 @@ www.gallerydam.com,
 ■ 윤미선
 
 Vol.20120103b | 윤미선展 / YOONMISEON / 尹美善 / mixid media
+******** imgSrcs ********
+https://neolook.com/archives/2012010301b.jpg
+https://neolook.com/archives/2012010302b.jpg
+https://neolook.com/archives/2012010303b.jpg
+https://neolook.com/archives/2012010304b.jpg
+https://neolook.com/archives/2012010305b.jpg
+https://neolook.com/archives/2012010306b.jpg
+https://neolook.com/archives/2012010307b.jpg

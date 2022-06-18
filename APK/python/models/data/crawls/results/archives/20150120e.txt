@@ -1,4 +1,6 @@
 /archives/20150120e
+
+******** description ********
 하나의 전체-가능성 있는 모든 결합
 
 서혜영展 / SUHHAIYOUNG / 徐慧寧 / sculpture.installation
@@ -57,3 +59,11 @@ www.goethe.de/korea,
 ● 서_독일문화원은 정면에서 보면 하나의 건물이지만 실은 남산 중턱에 비스듬히 언덕을 타고 몇 개의 매스로 이루어진 독특한 형태로 되어있으며 내부구조 역시 한눈에 파악되지 않는다. 구성원 역시 다양하며 독일어수업은 물론 다수의 문화행사도 진행된다. 이러한 공간을 구성하는 특수하고 다양한 요소들은 내가 풀어야할 퍼즐의 단서이며 이미 맞추어진 조각이자 하나의 전체이다.
 
 Vol.20150120e | 서혜영展 / SUHHAIYOUNG / 徐慧寧 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2015012001e.jpg
+https://neolook.com/archives/2015012002e.jpg
+https://neolook.com/archives/2015012003e.jpg
+https://neolook.com/archives/2015012004e.jpg
+https://neolook.com/archives/2015012005e.jpg
+https://neolook.com/archives/2015012006e.jpg
+https://neolook.com/archives/2015012007e.jpg

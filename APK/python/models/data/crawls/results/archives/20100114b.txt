@@ -1,4 +1,6 @@
 /archives/20100114b
+
+******** description ********
 미인
 
 '여우수작' 두 번째 이야기
@@ -42,3 +44,14 @@ Tel. +82.2.325.8780,
 ■ 김상철
 
 Vol.20100114b | 미인-'여우수작' 두 번째 이야기展
+******** imgSrcs ********
+https://neolook.com/archives/2010011401b.jpg
+https://neolook.com/archives/2010011402b.jpg
+https://neolook.com/archives/2010011403b.jpg
+https://neolook.com/archives/2010011404b.jpg
+https://neolook.com/archives/2010011405b.jpg
+https://neolook.com/archives/2010011406b.jpg
+https://neolook.com/archives/2010011407b.jpg
+https://neolook.com/archives/2010011408b.jpg
+https://neolook.com/archives/2010011409b.jpg
+https://neolook.com/archives/2010011410b.jpg

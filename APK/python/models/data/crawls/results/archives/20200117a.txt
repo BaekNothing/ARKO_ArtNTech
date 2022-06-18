@@ -1,4 +1,6 @@
 /archives/20200117a
+
+******** description ********
 2020년 『수창청춘극장』 
 
 1분기 공연자 모집요강
@@ -55,3 +57,6 @@ www.suchang.or.kr,
 □ 지원문의 : 수창청춘맨숀 대외협력 이호준(Tel. 053-252-2570)
 
 Vol.20200117a | 2020년 『수창청춘극장』 1분기 공연자 모집요강
+******** imgSrcs ********
+https://neolook.com/archives/2020011701a.jpg
+https://neolook.com/archives/2020011702a.jpg

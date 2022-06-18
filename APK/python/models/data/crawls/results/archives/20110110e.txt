@@ -1,4 +1,6 @@
 /archives/20110110e
+
+******** description ********
 소리없는 낭독
 
 2011_0110 ▶ 2011_0409,    
@@ -45,3 +47,14 @@ blog.naver.com/dentaltrust,
 ■ 김영환
 
 Vol.20110110e | 소리없는 낭독展
+******** imgSrcs ********
+https://neolook.com/archives/2011011001e.jpg
+https://neolook.com/archives/2011011002e.jpg
+https://neolook.com/archives/2011011003e.jpg
+https://neolook.com/archives/2011011004e.jpg
+https://neolook.com/archives/2011011005e.jpg
+https://neolook.com/archives/2011011006e.jpg
+https://neolook.com/archives/2011011007e.jpg
+https://neolook.com/archives/2011011008e.jpg
+https://neolook.com/archives/2011011009e.jpg
+https://neolook.com/archives/2011011010e.jpg

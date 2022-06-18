@@ -1,4 +1,6 @@
 /archives/20180102e
+
+******** description ********
 안온한 시간들
 
 안소현展 / AHNSOHYUN / 安昭炫 / painting
@@ -49,3 +51,14 @@ www.elandspace.co.kr,
 ■ 안소현
 
 Vol.20180102e | 안소현展 / AHNSOHYUN / 安昭炫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010201e.jpg
+https://neolook.com/archives/2018010202e.jpg
+https://neolook.com/archives/2018010203e.jpg
+https://neolook.com/archives/2018010204e.jpg
+https://neolook.com/archives/2018010205e.jpg
+https://neolook.com/archives/2018010206e.jpg
+https://neolook.com/archives/2018010207e.jpg
+https://neolook.com/archives/2018010208e.jpg
+https://neolook.com/archives/2018010209e.jpg
+https://neolook.com/archives/2018010210e.jpg

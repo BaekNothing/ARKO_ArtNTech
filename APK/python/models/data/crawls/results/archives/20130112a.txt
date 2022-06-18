@@ -1,4 +1,6 @@
 /archives/20130112a
+
+******** description ********
 eyes 시선
 
 최경운展 / CHOIKYUNGWOON / 崔輕云 / painting
@@ -46,3 +48,9 @@ www.kepco.co.kr/gallery,
 ■ 최경운
 
 Vol.20130112a | 최경운展 / CHOIKYUNGWOON / 崔輕云 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011201a.jpg
+https://neolook.com/archives/2013011202a.jpg
+https://neolook.com/archives/2013011203a.jpg
+https://neolook.com/archives/2013011204a.jpg
+https://neolook.com/archives/2013011205a.jpg

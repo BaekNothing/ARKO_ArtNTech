@@ -1,4 +1,6 @@
 /archives/20160129b
+
+******** description ********
 복기 - 난지 8기를 돌아보며
 
 난지후속지원사업(프로젝트지원)展
@@ -34,3 +36,6 @@ semananji.seoul.go.kr,
 "월드컵파크 3단지 난지천공원"정류장 하차 후 도보 15분
 
 Vol.20160129b | 복기 - 난지 8기를 돌아보며展
+******** imgSrcs ********
+https://neolook.com/archives/2016012901b.jpg
+https://neolook.com/archives/2016012902b.jpg

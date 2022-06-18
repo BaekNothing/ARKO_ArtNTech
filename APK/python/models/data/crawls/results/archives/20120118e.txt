@@ -1,4 +1,6 @@
 /archives/20120118e
+
+******** description ********
 Perspicere
 
 김우정展 / KIMWOOJUNG / 金優貞 / sculpture
@@ -45,3 +47,11 @@ www.galleryis.com,
 ■ 김우정
 
 Vol.20120118e | 김우정展 / KIMWOOJUNG / 金優貞 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2012011801e.jpg
+https://neolook.com/archives/2012011802e.jpg
+https://neolook.com/archives/2012011803e.jpg
+https://neolook.com/archives/2012011804e.jpg
+https://neolook.com/archives/2012011805e.jpg
+https://neolook.com/archives/2012011806e.jpg
+https://neolook.com/archives/2012011807e.jpg

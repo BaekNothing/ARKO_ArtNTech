@@ -1,4 +1,6 @@
 /archives/20200124a
+
+******** description ********
 소장품 100선
 
 100 Collective Signatures of Daegu Art Museum展
@@ -47,3 +49,14 @@ artmuseum.daegu.go.kr,
 ■ 대구미술관
 
 Vol.20200124a | 소장품 100선展
+******** imgSrcs ********
+https://neolook.com/archives/2020012401a.jpg
+https://neolook.com/archives/2020012402a.jpg
+https://neolook.com/archives/2020012403a.jpg
+https://neolook.com/archives/2020012404a.jpg
+https://neolook.com/archives/2020012405a.jpg
+https://neolook.com/archives/2020012406a.jpg
+https://neolook.com/archives/2020012407a.jpg
+https://neolook.com/archives/2020012408a.jpg
+https://neolook.com/archives/2020012409a.jpg
+https://neolook.com/archives/2020012410a.jpg

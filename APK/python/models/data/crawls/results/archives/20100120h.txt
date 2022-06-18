@@ -1,4 +1,6 @@
 /archives/20100120h
+
+******** description ********
 수묵산수
 
 민병권展 / MINBYOUNGGOWN / 閔丙權 / painting
@@ -47,3 +49,11 @@ blog.naver.com/joychamm,
 ■ 오세권
 
 Vol.20100120h | 민병권展 / MINBYOUNGGOWN / 閔丙權 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012001h.jpg
+https://neolook.com/archives/2010012002h.jpg
+https://neolook.com/archives/2010012003h.jpg
+https://neolook.com/archives/2010012004h.jpg
+https://neolook.com/archives/2010012005h.jpg
+https://neolook.com/archives/2010012006h.jpg
+https://neolook.com/archives/2010012007h.jpg

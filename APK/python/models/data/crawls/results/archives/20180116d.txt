@@ -1,4 +1,6 @@
 /archives/20180116d
+
+******** description ********
 저항과 도전의 이단아들
 
 Renegades in resistance and challenge展
@@ -58,3 +60,11 @@ artmuseum.daegu.go.kr,
 ■ 대구미술관
 
 Vol.20180116d | 저항과 도전의 이단아들展
+******** imgSrcs ********
+https://neolook.com/archives/2018011601d.jpg
+https://neolook.com/archives/2018011602d.jpg
+https://neolook.com/archives/2018011603d.jpg
+https://neolook.com/archives/2018011604d.jpg
+https://neolook.com/archives/2018011605d.jpg
+https://neolook.com/archives/2018011606d.jpg
+https://neolook.com/archives/2018011607d.jpg

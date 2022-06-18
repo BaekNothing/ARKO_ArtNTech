@@ -1,4 +1,6 @@
 /archives/20110128b
+
+******** description ********
 외국인이 그린 옛 한국풍경
 
 2011_0128 ▶ 2011_0221 / 백화점 휴점일 휴관,    
@@ -20,3 +22,9 @@ blog.naver.com/lotte2890,
 ■ 롯데갤러리 청량리점
 
 Vol.20110128b | 외국인이 그린 옛 한국풍경展
+******** imgSrcs ********
+https://neolook.com/archives/2011012801b.jpg
+https://neolook.com/archives/2011012802b.jpg
+https://neolook.com/archives/2011012803b.jpg
+https://neolook.com/archives/2011012804b.jpg
+https://neolook.com/archives/2011012805b.jpg

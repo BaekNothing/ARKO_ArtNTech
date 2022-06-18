@@ -1,4 +1,6 @@
 /archives/20130111c
+
+******** description ********
 어떤 풍경 A Certain Landscape
 
 설박展 / SULPARK / 雪朴 / painting
@@ -94,3 +96,11 @@ If at this point the ink wash paintings of the young artist Sul Park can be seen
 ■ CHANGYOUNGJUN
 
 Vol.20130111c | 설박展 / SULPARK / 雪朴 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011101c.jpg
+https://neolook.com/archives/2013011102c.jpg
+https://neolook.com/archives/2013011103c.jpg
+https://neolook.com/archives/2013011104c.jpg
+https://neolook.com/archives/2013011105c.jpg
+https://neolook.com/archives/2013011106c.jpg
+https://neolook.com/archives/2013011107c.jpg

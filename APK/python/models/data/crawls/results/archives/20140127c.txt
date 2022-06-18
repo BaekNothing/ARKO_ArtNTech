@@ -1,4 +1,6 @@
 /archives/20140127c
+
+******** description ********
 카오스모스 Chaosmos
 
 김태균展 / KIMTAEGYUN / 金泰均 / sculpture.installation
@@ -31,3 +33,11 @@ puestogallery.co.kr,
 ■ 김태균
 
 Vol.20140127c | 김태균展 / KIMTAEGYUN / 金泰均 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2014012701c.jpg
+https://neolook.com/archives/2014012702c.jpg
+https://neolook.com/archives/2014012703c.jpg
+https://neolook.com/archives/2014012704c.jpg
+https://neolook.com/archives/2014012705c.jpg
+https://neolook.com/archives/2014012706c.jpg
+https://neolook.com/archives/2014012707c.jpg

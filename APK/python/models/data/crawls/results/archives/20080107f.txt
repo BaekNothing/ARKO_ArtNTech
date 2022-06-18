@@ -1,4 +1,6 @@
 /archives/20080107f
+
+******** description ********
 MINI Art Bag Project 2008
 
 호기심과 감동의 경계展
@@ -25,3 +27,8 @@ www.MINI.co.kr/artbag,
 ○ 장소_강남구 논현동 Emporia D'Original Auction B1
 
 Vol.20080107f | MINI Art Bag Project_호기심과 감동의 경계展
+******** imgSrcs ********
+/archives/2008010701f.gif
+https://neolook.com/archives/2008010702f.jpg
+https://neolook.com/archives/2008010703f.jpg
+https://neolook.com/archives/2008010704f.jpg

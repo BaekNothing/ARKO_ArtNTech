@@ -1,4 +1,6 @@
 /archives/20170102f
+
+******** description ********
 잠기다
 
 김다정_김혜영_왕조연_최혜수_한동은_황지원展
@@ -27,3 +29,11 @@ www.facebook.com/mullaeartspace,
 ■ '잠기다'전 6인 일동
 
 Vol.20170102f | 잠기다展
+******** imgSrcs ********
+https://neolook.com/archives/2017010201f.jpg
+https://neolook.com/archives/2017010202f.jpg
+https://neolook.com/archives/2017010203f.jpg
+https://neolook.com/archives/2017010204f.jpg
+https://neolook.com/archives/2017010205f.jpg
+https://neolook.com/archives/2017010206f.jpg
+https://neolook.com/archives/2017010207f.jpg

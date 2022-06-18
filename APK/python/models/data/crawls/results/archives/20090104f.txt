@@ -1,4 +1,6 @@
 /archives/20090104f
+
+******** description ********
 Studio in Studio
 
 이소영展 / LEESOYOUNG / 李昭暎 / mixed media
@@ -19,3 +21,10 @@ www.weibanggallery.com,
 
 이소영展_웨이방 갤러리_2009,    시간과 공간이라는 물리적 제한이 먼 풍경처럼 물러나고 나의 시선이 지배하는 상황이 드러나면 새로운 현실이 만들어진다. 그것의 객관적 현실성과는 관계없이 화면 안에서의 또 다른 질서와 관계로 설명할 수 있는 세계로 독립하는 것이다. 이렇게 하나의 공간에서 분리되어 나오는 수많은 장면들이 쌓여 만들어내는 시간과 공간의 숲에는 정작 어떤 시간도 공간도 존재하지 않는다. 텅 빈 그 지점 순간에 내가 있다. ■ 이소영
 Vol.20090104f | 이소영展 / LEESOYOUNG / 李昭暎 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2009010401f.jpg
+https://neolook.com/archives/2009010402f.jpg
+https://neolook.com/archives/2009010403f.jpg
+https://neolook.com/archives/2009010404f.jpg
+https://neolook.com/archives/2009010405f.jpg
+https://neolook.com/archives/2009010406f.jpg

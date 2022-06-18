@@ -1,4 +1,6 @@
 /archives/20180105b
+
+******** description ********
 Refraction
 
 박서린_송민규_정안용展
@@ -51,3 +53,18 @@ Refraction展_히든엠갤러리_2018,
 ■ 서우리
 
 Vol.20180105b | Refraction展
+******** imgSrcs ********
+https://neolook.com/archives/2018010501b.jpg
+https://neolook.com/archives/2018010502b.jpg
+https://neolook.com/archives/2018010503b.jpg
+https://neolook.com/archives/2018010504b.jpg
+https://neolook.com/archives/2018010505b.jpg
+https://neolook.com/archives/2018010506b.jpg
+https://neolook.com/archives/2018010507b.jpg
+https://neolook.com/archives/2018010508b.jpg
+https://neolook.com/archives/2018010509b.jpg
+https://neolook.com/archives/2018010510b.jpg
+https://neolook.com/archives/2018010511b.jpg
+https://neolook.com/archives/2018010512b.jpg
+https://neolook.com/archives/2018010513b.jpg
+https://neolook.com/archives/2018010514b.jpg

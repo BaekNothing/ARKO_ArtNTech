@@ -1,4 +1,6 @@
 /archives/19970303a
+
+******** description ********
 일러스트 조각
 
 ILLUST·SCULPTURE展
@@ -32,3 +34,5 @@ www.seonam.org,
 The 『ILLUST·SCULPTURE』 is to sense the reality of our contemporaries through the easy and familiar works of sculpture.
 
 Vol.19970303a | 일러스트 조각 ILLUST·SCULPTURE展
+******** imgSrcs ********
+https://neolook.com/archives/1997030301a.jpg

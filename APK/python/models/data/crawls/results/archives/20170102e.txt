@@ -1,4 +1,6 @@
 /archives/20170102e
+
+******** description ********
 꿈-여행(Traum-Reise)
 
 신성환展 / SHINSUNGHAWN / 申城丸 / video performance
@@ -24,3 +26,9 @@ blog.naver.com/rundgallery,
 신성환_꿈-여행(Traum-Reise)_단채널 영상 HD format_00:05:56_2008
 
 신성환_꿈-여행(Traum-Reise)_단채널 영상 HD format_00:05:56_2008,    Vol.20170102e | 신성환展 / SHINSUNGHAWN / 申城丸 / video performance
+******** imgSrcs ********
+https://neolook.com/archives/2017010201e.jpg
+https://neolook.com/archives/2017010202e.jpg
+https://neolook.com/archives/2017010203e.jpg
+https://neolook.com/archives/2017010204e.jpg
+https://neolook.com/archives/2017010205e.jpg

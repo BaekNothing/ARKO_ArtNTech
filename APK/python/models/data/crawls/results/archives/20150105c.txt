@@ -1,4 +1,6 @@
 /archives/20150105c
+
+******** description ********
 Sedimentation
 
 이주연展 / LEEJUYOUN / 李周涓 / fiber art
@@ -35,3 +37,11 @@ www.elandfa.org,
 ■ 고경옥
 
 Vol.20150105c | 이주연展 / LEEJUYOUN / 李周涓 / fiber art
+******** imgSrcs ********
+https://neolook.com/archives/2015010501c.jpg
+https://neolook.com/archives/2015010502c.jpg
+https://neolook.com/archives/2015010503c.jpg
+https://neolook.com/archives/2015010504c.jpg
+https://neolook.com/archives/2015010505c.jpg
+https://neolook.com/archives/2015010506c.jpg
+https://neolook.com/archives/2015010507c.jpg

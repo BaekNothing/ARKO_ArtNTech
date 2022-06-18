@@ -1,4 +1,6 @@
 /archives/20170102d
+
+******** description ********
 2017 두산 큐레이터 워크샵 참가자 공모
 
 2017 DOOSAN Curator Workshop
@@ -29,3 +31,5 @@ seoul@doosangallery.com / * email 접수만 가능
 02-708-5050
 
 Vol.20170102d | 2017 두산 큐레이터 워크샵 참가자 공모
+******** imgSrcs ********
+https://neolook.com/archives/2017010201d.jpg

@@ -1,4 +1,6 @@
 /archives/20130107e
+
+******** description ********
 모던 디자인의 선구자들
 
 윌리엄 모리스에서 발터 그로피우스까지
@@ -63,3 +65,9 @@ www.vizandbiz.co.kr,
 찾아보기         188
 
 Vol.20130107e | 모던 디자인의 선구자들 / 지은이_니콜라우스 페브스너 / 도서출판 비즈앤비즈
+******** imgSrcs ********
+https://neolook.com/archives/2013010701e.jpg
+https://neolook.com/archives/2013010702e.jpg
+https://neolook.com/archives/2013010703e.jpg
+https://neolook.com/archives/2013010704e.jpg
+https://neolook.com/archives/2013010705e.jpg

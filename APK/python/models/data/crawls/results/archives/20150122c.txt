@@ -1,4 +1,6 @@
 /archives/20150122c
+
+******** description ********
 시간의 그물 The Net of Time
 
 양주혜展 / YANGJUHAE / 梁朱蕙 / painting
@@ -37,3 +39,11 @@ shinsegae.com,
 ■ 신세계갤러리
 
 Vol.20150122c | 양주혜展 / YANGJUHAE / 梁朱蕙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012201c.jpg
+https://neolook.com/archives/2015012202c.jpg
+https://neolook.com/archives/2015012203c.jpg
+https://neolook.com/archives/2015012204c.jpg
+https://neolook.com/archives/2015012205c.jpg
+https://neolook.com/archives/2015012206c.jpg
+https://neolook.com/archives/2015012207c.jpg

@@ -1,4 +1,6 @@
 /archives/20090105c
+
+******** description ********
 Collection n Collection 2
 2009_0105 ▶ 2009_0130 / 일공휴일 휴관,    곽덕준_무의미742_91×116.8cm_2007,    초대일시_2009_0106_화요일_06:00pm
 
@@ -29,3 +31,9 @@ www.shinhanmuseum.co.kr,
 5. 카다로그 전시회
 
 Vol.20090105c | Collection n Collection 2展
+******** imgSrcs ********
+https://neolook.com/archives/2009010501c.jpg
+https://neolook.com/archives/2009010502c.jpg
+https://neolook.com/archives/2009010503c.jpg
+https://neolook.com/archives/2009010504c.jpg
+https://neolook.com/archives/2009010505c.jpg

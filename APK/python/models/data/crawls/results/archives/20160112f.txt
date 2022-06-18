@@ -1,4 +1,6 @@
 /archives/20160112f
+
+******** description ********
 대청호백과사전
 
 그룹ㅎ_마불갤러리_mu/um展
@@ -47,3 +49,14 @@ mu/um_대청호백과사전展_청주시립대청호미술관 제3전시실_2016
 ■ 청주시립대청호미술관
 
 Vol.20160112f | 대청호백과사전展
+******** imgSrcs ********
+https://neolook.com/archives/2016011201f.jpg
+https://neolook.com/archives/2016011202f.jpg
+https://neolook.com/archives/2016011203f.jpg
+https://neolook.com/archives/2016011204f.jpg
+https://neolook.com/archives/2016011205f.jpg
+https://neolook.com/archives/2016011206f.jpg
+https://neolook.com/archives/2016011207f.jpg
+https://neolook.com/archives/2016011208f.jpg
+https://neolook.com/archives/2016011209f.jpg
+https://neolook.com/archives/2016011210f.jpg

@@ -1,4 +1,6 @@
 /archives/20090110b
+
+******** description ********
 씨알 하나-Ssial
 
 2009 자라섬 바깥미술展
@@ -67,3 +69,14 @@ www.jarasum.net,
 
 ■ 문의 | 왕광현 Tel. 017.282.8925
 Vol.20090110b | 씨알 하나-Ssial / 2009 자라섬 바깥미술展
+******** imgSrcs ********
+https://neolook.com/archives/2009011001b.jpg
+https://neolook.com/archives/2009011002b.jpg
+https://neolook.com/archives/2009011003b.jpg
+https://neolook.com/archives/2009011004b.jpg
+https://neolook.com/archives/2009011005b.jpg
+https://neolook.com/archives/2009011006b.jpg
+https://neolook.com/archives/2009011007b.jpg
+https://neolook.com/archives/2009011008b.jpg
+https://neolook.com/archives/2009011009b.jpg
+https://neolook.com/archives/2009011010b.jpg

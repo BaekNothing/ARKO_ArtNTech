@@ -1,4 +1,6 @@
 /archives/20210112b
+
+******** description ********
 Against
 
 2021_0112 ▶ 2021_0131 / 월공휴일 휴관,    ,    별도의 초대일시가 없습니다.
@@ -24,3 +26,5 @@ www.kimsechoong.com,
 3) Ibid. p. 339.
 
 Vol.20210112b | Against展
+******** imgSrcs ********
+https://neolook.com/archives/2021011201b.jpg

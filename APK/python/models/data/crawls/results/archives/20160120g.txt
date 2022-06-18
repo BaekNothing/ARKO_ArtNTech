@@ -1,4 +1,6 @@
 /archives/20160120g
+
+******** description ********
 열한 번째 손가락(Eleventh Finger)
 
 김소영展 / KIMSOYOUNG / 金昭暎 / painting
@@ -29,3 +31,8 @@ The works starting from one narrative have made their own separate narratives. T
 ■ KIMSOYOUNG
 
 Vol.20160120g | 김소영展 / KIMSOYOUNG / 金昭暎 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016012001g.jpg
+https://neolook.com/archives/2016012002g.jpg
+https://neolook.com/archives/2016012003g.jpg
+https://neolook.com/archives/2016012004g.jpg

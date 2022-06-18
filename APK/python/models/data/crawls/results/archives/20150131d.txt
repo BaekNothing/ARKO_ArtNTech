@@ -1,4 +1,6 @@
 /archives/20150131d
+
+******** description ********
 정말이지너는 You're Sur Real
 
 무나씨展 / Moonassi / illustration
@@ -70,3 +72,14 @@ www.daelimmuseum.org/project/project_intro.do,
 오민 | 영상 설치작가 / 2015. 11. 28. (토) – 12. 27. (일)
 
 Vol.20150131d | 무나씨展 / Moonassi / illustration
+******** imgSrcs ********
+https://neolook.com/archives/2015013101d.jpg
+https://neolook.com/archives/2015013102d.jpg
+https://neolook.com/archives/2015013103d.jpg
+https://neolook.com/archives/2015013104d.jpg
+https://neolook.com/archives/2015013105d.jpg
+https://neolook.com/archives/2015013106d.jpg
+https://neolook.com/archives/2015013107d.jpg
+https://neolook.com/archives/2015013108d.jpg
+https://neolook.com/archives/2015013109d.jpg
+https://neolook.com/archives/2015013110d.jpg

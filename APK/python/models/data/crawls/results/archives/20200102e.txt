@@ -1,4 +1,6 @@
 /archives/20200102e
+
+******** description ********
 EMPTY CANDYBOX vol.2
 
 황필주展 / HWANGPILJOO / 黃弼周 / photography 
@@ -33,3 +35,10 @@ Empty Candy Box는 화려함 뒤에 있는 허무를 은유한다.
 ■ 황필주
 
 Vol.20200102e | 황필주展 / HWANGPILJOO / 黃弼周 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2020010201e.jpg
+https://neolook.com/archives/2020010202e.jpg
+https://neolook.com/archives/2020010203e.jpg
+https://neolook.com/archives/2020010204e.jpg
+https://neolook.com/archives/2020010205e.jpg
+https://neolook.com/archives/2020010206e.jpg

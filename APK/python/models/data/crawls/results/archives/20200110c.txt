@@ -1,4 +1,6 @@
 /archives/20200110c
+
+******** description ********
 살아남기 To Survive
 
 강주리展 / KANGJOOLEE / 姜妵利 / mixed media
@@ -62,3 +64,11 @@ www.bongsanart.org,
 - 내용 : '살아남기 To Survive'의 영감 리서치 과정을 소개하고 작업 전시 경험담을 공유한다.
 
 Vol.20200110c | 강주리展 / KANGJOOLEE / 姜妵利 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2020011001c.jpg
+https://neolook.com/archives/2020011002c.jpg
+https://neolook.com/archives/2020011003c.jpg
+https://neolook.com/archives/2020011004c.jpg
+https://neolook.com/archives/2020011005c.jpg
+https://neolook.com/archives/2020011006c.jpg
+https://neolook.com/archives/2020011007c.jpg

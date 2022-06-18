@@ -1,4 +1,6 @@
 /archives/20210129a
+
+******** description ********
 파이돈 Phaedo
 
 손광주展 / SONKWANGJU / 孫光珠 / video
@@ -38,3 +40,11 @@ suma.suwon.go.kr,
 ■ 손광주
 
 Vol.20210129a | 손광주展 / SONKWANGJU / 孫光珠 / video
+******** imgSrcs ********
+https://neolook.com/archives/2021012901a.jpg
+https://neolook.com/archives/2021012902a.jpg
+https://neolook.com/archives/2021012903a.jpg
+https://neolook.com/archives/2021012904a.jpg
+https://neolook.com/archives/2021012905a.jpg
+https://neolook.com/archives/2021012906a.jpg
+https://neolook.com/archives/2021012907a.jpg

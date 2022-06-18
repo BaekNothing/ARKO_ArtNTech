@@ -1,4 +1,6 @@
 /archives/20120111g
+
+******** description ********
 나무 Tree
 
 2012 포토그룹 사진展
@@ -35,3 +37,14 @@ www.kyunginart.co.kr,
  ■ 이흥렬
 
 Vol.20120111g | 나무-2012 포토그룹 사진展
+******** imgSrcs ********
+https://neolook.com/archives/2012011101g.jpg
+https://neolook.com/archives/2012011102g.jpg
+https://neolook.com/archives/2012011103g.jpg
+https://neolook.com/archives/2012011104g.jpg
+https://neolook.com/archives/2012011105g.jpg
+https://neolook.com/archives/2012011106g.jpg
+https://neolook.com/archives/2012011107g.jpg
+https://neolook.com/archives/2012011108g.jpg
+https://neolook.com/archives/2012011109g.jpg
+https://neolook.com/archives/2012011110g.jpg

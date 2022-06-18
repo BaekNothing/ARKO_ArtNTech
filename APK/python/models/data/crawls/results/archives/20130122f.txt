@@ -1,4 +1,6 @@
 /archives/20130122f
+
+******** description ********
 알레고리의 힘
 
 2013_0122 ▶ 2013_0224 / 월요일 휴관,    
@@ -36,3 +38,12 @@ www.adamas253.com,
 ■ 아다마스253 갤러리
 
 Vol.20130122f | 알레고리의 힘展
+******** imgSrcs ********
+https://neolook.com/archives/2013012201f.jpg
+https://neolook.com/archives/2013012202f.jpg
+https://neolook.com/archives/2013012203f.jpg
+https://neolook.com/archives/2013012204f.jpg
+https://neolook.com/archives/2013012205f.jpg
+https://neolook.com/archives/2013012206f.jpg
+https://neolook.com/archives/2013012207f.jpg
+https://neolook.com/archives/2013012208f.jpg

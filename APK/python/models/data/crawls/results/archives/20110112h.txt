@@ -1,4 +1,6 @@
 /archives/20110112h
+
+******** description ********
 my world-Landscape
 
 변선화展 / BYUNSUNHWA / 卞善和 / painting.installation
@@ -39,3 +41,10 @@ gana.insaartcenter.com,
 ■ 이선유
 
 Vol.20110112h | 변선화展 / BYUNSUNHWA / 卞善和 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2011011201h.jpg
+https://neolook.com/archives/2011011202h.jpg
+https://neolook.com/archives/2011011203h.jpg
+https://neolook.com/archives/2011011204h.jpg
+https://neolook.com/archives/2011011205h.jpg
+https://neolook.com/archives/2011011206h.jpg

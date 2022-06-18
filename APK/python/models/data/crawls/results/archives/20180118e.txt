@@ -1,4 +1,6 @@
 /archives/20180118e
+
+******** description ********
 Happy Re;Birth DAY
 
 FORI展 / sculpture
@@ -56,3 +58,10 @@ All the living things in this world are aggregation of matters. Tiny cells are b
 폐품의 형태와 색감 성질 등을 활용해 나만의 로봇(인형)을 만드는 프로그램입니다. 10×10cm 미니캔버스에 폐품을 부착한 뒤 마카 또는 물감으로 채색하며 쓰임을 다한 물건들이 아이들의 손을 거치며 새롭게 탄생하는 스토리로 진행합니다.
 
 Vol.20180118e | FORI展 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2018011801e.jpg
+https://neolook.com/archives/2018011802e.jpg
+https://neolook.com/archives/2018011803e.jpg
+https://neolook.com/archives/2018011804e.jpg
+https://neolook.com/archives/2018011805e.jpg
+https://neolook.com/archives/2018011806e.jpg

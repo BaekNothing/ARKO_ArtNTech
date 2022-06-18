@@ -1,4 +1,6 @@
 /archives/20220104b
+
+******** description ********
 soft-morphic
 
 김해미_배하경_손지형_장다원_장윤정展
@@ -44,3 +46,16 @@ soft-morphic은 부드럽고 연한 상태를 뜻하는 soft에 '형태(상)의'
 ■ 플레이스막2
 
 Vol.20220104b | soft-morphic展
+******** imgSrcs ********
+https://neolook.com/archives/2022010401b.jpg
+https://neolook.com/archives/2022010402b.jpg
+https://neolook.com/archives/2022010403b.jpg
+https://neolook.com/archives/2022010404b.jpg
+https://neolook.com/archives/2022010405b.jpg
+https://neolook.com/archives/2022010406b.jpg
+https://neolook.com/archives/2022010407b.jpg
+https://neolook.com/archives/2022010408b.jpg
+https://neolook.com/archives/2022010409b.jpg
+https://neolook.com/archives/2022010410b.jpg
+https://neolook.com/archives/2022010411b.jpg
+https://neolook.com/archives/2022010412b.jpg

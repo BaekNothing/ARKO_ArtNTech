@@ -1,4 +1,6 @@
 /archives/20180113b
+
+******** description ********
 기억이 머무른 시간
 
 이영수展 / LEEYOUNGSOO / 李英守 / painting
@@ -32,3 +34,10 @@ www.instagram.com/dipinseoul,
 ■ 이영수
 
 Vol.20180113b | 이영수展 / LEEYOUNGSOO / 李英守 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011301b.jpg
+https://neolook.com/archives/2018011302b.jpg
+https://neolook.com/archives/2018011303b.jpg
+https://neolook.com/archives/2018011304b.jpg
+https://neolook.com/archives/2018011305b.jpg
+https://neolook.com/archives/2018011306b.jpg

@@ -1,4 +1,6 @@
 /archives/20140121a
+
+******** description ********
 숨겨진 시점 풍경을 거닐다
 
 조종성展 / JOJONGSUNG / 曺宗成 / painting
@@ -35,3 +37,11 @@ www.johyungallery.com,
 ■ 박영택
 
 Vol.20140121a | 조종성展 / JOJONGSUNG / 曺宗成 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012101a.jpg
+https://neolook.com/archives/2014012102a.jpg
+https://neolook.com/archives/2014012103a.jpg
+https://neolook.com/archives/2014012104a.jpg
+https://neolook.com/archives/2014012105a.jpg
+https://neolook.com/archives/2014012106a.jpg
+https://neolook.com/archives/2014012107a.jpg

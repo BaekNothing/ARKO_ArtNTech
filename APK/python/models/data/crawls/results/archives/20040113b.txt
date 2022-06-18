@@ -1,4 +1,6 @@
 /archives/20040113b
+
+******** description ********
 Funny Sculpture! Funny Painting Ⅲ!
 
 갤러리 세줄 작가 공모
@@ -30,3 +32,8 @@ www.sejul.com,
 
 ■ 문의_Tel. 02-391-9171(전시기획팀) / 홈페이지. www.sejul.com
 Vol.20040113b | Funny Sculpture! Funny Painting Ⅲ!-갤러리 세줄 작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2004011301b.jpg
+https://neolook.com/archives/2004011302b.jpg
+https://neolook.com/archives/2004011303b.jpg
+https://neolook.com/archives/2004011304b.jpg

@@ -1,4 +1,6 @@
 /archives/20200109h
+
+******** description ********
 일상의 매혹: 전통과 현대 사이
 
 김정란_손유영_이여운_최재혁展
@@ -50,3 +52,13 @@ www.instagram.com/lottegallery_official,
 ■ 롯데갤러리 일산점
 
 Vol.20200109h | 일상의 매혹: 전통과 현대 사이展
+******** imgSrcs ********
+https://neolook.com/archives/2020010901h.jpg
+https://neolook.com/archives/2020010902h.jpg
+https://neolook.com/archives/2020010903h.jpg
+https://neolook.com/archives/2020010904h.jpg
+https://neolook.com/archives/2020010905h.jpg
+https://neolook.com/archives/2020010906h.jpg
+https://neolook.com/archives/2020010907h.jpg
+https://neolook.com/archives/2020010908h.jpg
+https://neolook.com/archives/2020010909h.jpg

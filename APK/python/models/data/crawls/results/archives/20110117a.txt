@@ -1,4 +1,6 @@
 /archives/20110117a
+
+******** description ********
 듀얼 스트럭쳐 DUAL STRUCTURE
 
 김한기展 / KIMHANGI / 金漢起 / sculpture.installation
@@ -32,3 +34,9 @@ www.galleryiang.com,
 ■ 황인성
 
 Vol.20110117a | 김한기展 / KIMHANGI / 金漢起 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2011011701a.jpg
+https://neolook.com/archives/2011011702a.jpg
+https://neolook.com/archives/2011011703a.jpg
+https://neolook.com/archives/2011011704a.jpg
+https://neolook.com/archives/2011011705a.jpg

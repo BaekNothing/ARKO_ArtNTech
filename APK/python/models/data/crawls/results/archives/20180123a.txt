@@ -1,4 +1,6 @@
 /archives/20180123a
+
+******** description ********
 서울 오늘을 찍다
 
 2017 사진아카데미展
@@ -105,3 +107,24 @@ sema.seoul.go.kr,
 ■ 한기애
 
 Vol.20180123a | 서울 오늘을 찍다-2017 사진아카데미展
+******** imgSrcs ********
+https://neolook.com/archives/2018012301a.jpg
+https://neolook.com/archives/2018012302a.jpg
+https://neolook.com/archives/2018012303a.jpg
+https://neolook.com/archives/2018012304a.jpg
+https://neolook.com/archives/2018012305a.jpg
+https://neolook.com/archives/2018012306a.jpg
+https://neolook.com/archives/2018012307a.jpg
+https://neolook.com/archives/2018012308a.jpg
+https://neolook.com/archives/2018012309a.jpg
+https://neolook.com/archives/2018012310a.jpg
+https://neolook.com/archives/2018012311a.jpg
+https://neolook.com/archives/2018012312a.jpg
+https://neolook.com/archives/2018012313a.jpg
+https://neolook.com/archives/2018012314a.jpg
+https://neolook.com/archives/2018012315a.jpg
+https://neolook.com/archives/2018012316a.jpg
+https://neolook.com/archives/2018012317a.jpg
+https://neolook.com/archives/2018012318a.jpg
+https://neolook.com/archives/2018012319a.jpg
+https://neolook.com/archives/2018012320a.jpg

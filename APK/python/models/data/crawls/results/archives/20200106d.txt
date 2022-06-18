@@ -1,4 +1,6 @@
 /archives/20200106d
+
+******** description ********
 신세계 환상곡
 
 이승연展 / LEESEUNGYOUN / 李承娟 / installation.film
@@ -47,3 +49,14 @@ www.soorimcf.or.kr,
 ■ 이승연
 
 Vol.20200106d | 이승연展 / LEESEUNGYOUN / 李承娟 / installation.film
+******** imgSrcs ********
+https://neolook.com/archives/2020010601d.jpg
+https://neolook.com/archives/2020010602d.jpg
+https://neolook.com/archives/2020010603d.jpg
+https://neolook.com/archives/2020010604d.jpg
+https://neolook.com/archives/2020010605d.jpg
+https://neolook.com/archives/2020010606d.jpg
+https://neolook.com/archives/2020010607d.jpg
+https://neolook.com/archives/2020010608d.jpg
+https://neolook.com/archives/2020010609d.jpg
+https://neolook.com/archives/2020010610d.jpg

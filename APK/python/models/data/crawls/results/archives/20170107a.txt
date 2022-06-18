@@ -1,4 +1,6 @@
 /archives/20170107a
+
+******** description ********
 습관의 존재
 
 최지인展 / CHOIJIIN / 崔智仁 / drawing.sculpture
@@ -26,3 +28,9 @@ www.gcr.kr,
 ■ 최지인
 
 Vol.20170107a | 최지인展 / CHOIJIIN / 崔智仁 / drawing.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2017010701a.jpg
+https://neolook.com/archives/2017010702a.jpg
+https://neolook.com/archives/2017010703a.jpg
+https://neolook.com/archives/2017010704a.jpg
+https://neolook.com/archives/2017010705a.jpg

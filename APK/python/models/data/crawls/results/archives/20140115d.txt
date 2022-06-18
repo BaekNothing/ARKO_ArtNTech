@@ -1,4 +1,6 @@
 /archives/20140115d
+
+******** description ********
 KYKEON : 변화의 태도와 가능성
 
 2014 유나이티드 갤러리 젊은작가 공간지원사업展
@@ -38,3 +40,13 @@ www.unitedgallery.co.kr,
 ■ 김영진
 
 Vol.20140115d | KYKEON : 변화의 태도와 가능성展
+******** imgSrcs ********
+https://neolook.com/archives/2014011501d.jpg
+https://neolook.com/archives/2014011502d.jpg
+https://neolook.com/archives/2014011503d.jpg
+https://neolook.com/archives/2014011504d.jpg
+https://neolook.com/archives/2014011505d.jpg
+https://neolook.com/archives/2014011506d.jpg
+https://neolook.com/archives/2014011507d.jpg
+https://neolook.com/archives/2014011508d.jpg
+https://neolook.com/archives/2014011509d.jpg

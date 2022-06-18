@@ -1,4 +1,6 @@
 /archives/20120116c
+
+******** description ********
 Hidden cityscape
 
 신주영_안명호展
@@ -45,3 +47,14 @@ www.sempiospace.com,
 ■ 김연희
 
 Vol.20120116c | Hidden cityscape-신주영_안명호展
+******** imgSrcs ********
+https://neolook.com/archives/2012011601c.jpg
+https://neolook.com/archives/2012011602c.jpg
+https://neolook.com/archives/2012011603c.jpg
+https://neolook.com/archives/2012011604c.jpg
+https://neolook.com/archives/2012011605c.jpg
+https://neolook.com/archives/2012011606c.jpg
+https://neolook.com/archives/2012011607c.jpg
+https://neolook.com/archives/2012011608c.jpg
+https://neolook.com/archives/2012011609c.jpg
+https://neolook.com/archives/2012011610c.jpg

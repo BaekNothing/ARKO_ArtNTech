@@ -1,4 +1,6 @@
 /archives/20150114d
+
+******** description ********
 물상과의 사유
 
 엄재홍展 / EUMJAEHONG / 嚴載弘 / painting
@@ -32,3 +34,9 @@ www.ablefineartny.com,
 ■ 엄재홍
 
 Vol.20150114d | 엄재홍展 / EUMJAEHONG / 嚴載弘 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011401d.jpg
+https://neolook.com/archives/2015011402d.jpg
+https://neolook.com/archives/2015011403d.jpg
+https://neolook.com/archives/2015011404d.jpg
+https://neolook.com/archives/2015011405d.jpg

@@ -1,4 +1,6 @@
 /archives/20170118b
+
+******** description ********
 The Sky 하늘 
 
 김지원展 / KIMJIWON / 金智元 / painting
@@ -27,3 +29,9 @@ www.ganaartspace.com,
 ■ 김지원
 
 Vol.20170118b | 김지원展 / KIMJIWON / 金智元 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011801b.jpg
+https://neolook.com/archives/2017011802b.jpg
+https://neolook.com/archives/2017011803b.jpg
+https://neolook.com/archives/2017011804b.jpg
+https://neolook.com/archives/2017011805b.jpg

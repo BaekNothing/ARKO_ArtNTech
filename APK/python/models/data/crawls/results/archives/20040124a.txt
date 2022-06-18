@@ -1,4 +1,6 @@
 /archives/20040124a
+
+******** description ********
 동ㆍ짓ㆍ날ㆍ꿈
 
 박계숙展 / PARKGAESUK / 朴桂淑 / painting
@@ -18,3 +20,9 @@ Tel. +82.(0)2.733_3373,
 박계숙_산불_캔버스에 아크릴채색_84×100cm_2003
 
 박계숙_백일몽_캔버스에 아크릴채색_41×8cm_2003,    Vol.20040124a | 박계숙展 / PARKGAESUK / 朴桂淑 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2004012401a.jpg
+https://neolook.com/archives/2004012402a.jpg
+https://neolook.com/archives/2004012403a.jpg
+https://neolook.com/archives/2004012404a.jpg
+https://neolook.com/archives/2004012405a.jpg

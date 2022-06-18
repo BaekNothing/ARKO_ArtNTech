@@ -1,4 +1,6 @@
 /archives/20200116c
+
+******** description ********
 달빛 녹취록
 
 이재삼展 / LEEJAESAM / 李在三 / painting
@@ -55,3 +57,14 @@ www.grimson.co.kr,
 ■ 이재삼
 
 Vol.20200116c | 이재삼展 / LEEJAESAM / 李在三 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020011601c.jpg
+https://neolook.com/archives/2020011602c.jpg
+https://neolook.com/archives/2020011603c.jpg
+https://neolook.com/archives/2020011604c.jpg
+https://neolook.com/archives/2020011605c.jpg
+https://neolook.com/archives/2020011606c.jpg
+https://neolook.com/archives/2020011607c.jpg
+https://neolook.com/archives/2020011608c.jpg
+https://neolook.com/archives/2020011609c.jpg
+https://neolook.com/archives/2020011610c.jpg

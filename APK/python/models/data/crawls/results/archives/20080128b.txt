@@ -1,4 +1,6 @@
 /archives/20080128b
+
+******** description ********
 銀여우 프로젝트 Ⅱ
 
 TRUNKGALLERY 2008 Photo Exhibition 300展
@@ -39,3 +41,14 @@ www.trunkgallery.com,
 
 이정록_mythic scape18-Forest of spirit#3_Ed. 1/6_디지털 프린트_90×120cm_2007,    Young Photo Artist들을 지원하는 '銀여우' 여러분들의 적극적 참여를 기대합니다. ■ 트렁크갤러리
 Vol.20080128b | 銀여우 프로젝트 Ⅱ展
+******** imgSrcs ********
+https://neolook.com/archives/2008012801b.jpg
+https://neolook.com/archives/2008012802b.jpg
+https://neolook.com/archives/2008012803b.jpg
+https://neolook.com/archives/2008012804b.jpg
+https://neolook.com/archives/2008012805b.jpg
+https://neolook.com/archives/2008012806b.jpg
+https://neolook.com/archives/2008012807b.jpg
+https://neolook.com/archives/2008012808b.jpg
+https://neolook.com/archives/2008012809b.jpg
+https://neolook.com/archives/2008012810b.jpg

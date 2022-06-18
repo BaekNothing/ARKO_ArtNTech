@@ -1,4 +1,6 @@
 /archives/20160113h
+
+******** description ********
 현실활용가 Discrete Use of Reality
 
 두산 큐레이터 워크샵 기획展
@@ -53,3 +55,19 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20160113h | 현실활용가-두산 큐레이터 워크샵 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2016011301h.jpg
+https://neolook.com/archives/2016011302h.jpg
+https://neolook.com/archives/2016011303h.jpg
+https://neolook.com/archives/2016011304h.jpg
+https://neolook.com/archives/2016011305h.jpg
+https://neolook.com/archives/2016011306h.jpg
+https://neolook.com/archives/2016011307h.jpg
+https://neolook.com/archives/2016011308h.jpg
+https://neolook.com/archives/2016011309h.jpg
+https://neolook.com/archives/2016011310h.jpg
+https://neolook.com/archives/2016011311h.jpg
+https://neolook.com/archives/2016011312h.jpg
+https://neolook.com/archives/2016011313h.jpg
+https://neolook.com/archives/2016011314h.jpg
+https://neolook.com/archives/2016011315h.jpg

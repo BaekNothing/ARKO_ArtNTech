@@ -1,4 +1,6 @@
 /archives/20140107c
+
+******** description ********
 흐트러진 시간
 
 임해랑展 / IMHAERANG / 任𣢇琅 / installation
@@ -31,3 +33,10 @@ www.ujungartcenter.com,
 ■ 임해랑
 
 Vol.20140107c | 임해랑展 / IMHAERANG / 任𣢇琅 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010701c.jpg
+https://neolook.com/archives/2014010702c.jpg
+https://neolook.com/archives/2014010703c.jpg
+https://neolook.com/archives/2014010704c.jpg
+https://neolook.com/archives/2014010705c.jpg
+https://neolook.com/archives/2014010706c.jpg

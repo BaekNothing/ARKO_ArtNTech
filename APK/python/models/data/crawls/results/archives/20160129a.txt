@@ -1,4 +1,6 @@
 /archives/20160129a
+
+******** description ********
 이방인 Lo Straniero
 
 박찬배展 / PARKCHANBAE / 朴贊培 / photography
@@ -44,3 +46,14 @@ www.galleryvoda.com,
 ■ 김광기
 
 Vol.20160129a | 박찬배展 / PARKCHANBAE / 朴贊培 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016012901a.jpg
+https://neolook.com/archives/2016012902a.jpg
+https://neolook.com/archives/2016012903a.jpg
+https://neolook.com/archives/2016012904a.jpg
+https://neolook.com/archives/2016012905a.jpg
+https://neolook.com/archives/2016012906a.jpg
+https://neolook.com/archives/2016012907a.jpg
+https://neolook.com/archives/2016012908a.jpg
+https://neolook.com/archives/2016012909a.jpg
+https://neolook.com/archives/2016012910a.jpg

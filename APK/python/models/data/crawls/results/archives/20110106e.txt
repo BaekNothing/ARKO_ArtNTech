@@ -1,4 +1,6 @@
 /archives/20110106e
+
+******** description ********
 Conversion
 
 신원삼展 / SHINWONSAM / 申元三 / painting
@@ -37,3 +39,11 @@ Conversion ● 사람들은 도시의 어느 곳에나 있다. 그것이 작가 
 ■ 추명지
 
 Vol.20110106e | 신원삼展 / SHINWONSAM / 申元三 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010601e.jpg
+https://neolook.com/archives/2011010602e.jpg
+https://neolook.com/archives/2011010603e.jpg
+https://neolook.com/archives/2011010604e.jpg
+https://neolook.com/archives/2011010605e.jpg
+https://neolook.com/archives/2011010606e.jpg
+https://neolook.com/archives/2011010607e.jpg

@@ -1,4 +1,6 @@
 /archives/20130101b
+
+******** description ********
 What is Contemporary Art?
 
 아트인컬처 2013년 1월호
@@ -137,3 +139,9 @@ Artists 100
 장샤오강
 
 Vol.20130101b | What is Contemporary Art?
+******** imgSrcs ********
+https://neolook.com/archives/2013010101b.jpg
+https://neolook.com/archives/2013010102b.jpg
+https://neolook.com/archives/2013010103b.jpg
+https://neolook.com/archives/2013010104b.jpg
+https://neolook.com/archives/2013010105b.jpg

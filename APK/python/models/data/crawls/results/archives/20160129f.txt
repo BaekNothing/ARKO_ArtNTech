@@ -1,4 +1,6 @@
 /archives/20160129f
+
+******** description ********
 백화점 百畵點
 
 100가지 그림展
@@ -45,3 +47,15 @@ Have Your Own! ●
 ■ 롯데백화점 광복점
 
 Vol.20160129f | 백화점 百畵點-100가지 그림展
+******** imgSrcs ********
+https://neolook.com/archives/2016012901f.jpg
+https://neolook.com/archives/2016012902f.jpg
+https://neolook.com/archives/2016012903f.jpg
+https://neolook.com/archives/2016012904f.jpg
+https://neolook.com/archives/2016012905f.jpg
+https://neolook.com/archives/2016012906f.jpg
+https://neolook.com/archives/2016012907f.jpg
+https://neolook.com/archives/2016012908f.jpg
+https://neolook.com/archives/2016012909f.jpg
+https://neolook.com/archives/2016012910f.jpg
+https://neolook.com/archives/2016012911f.jpg

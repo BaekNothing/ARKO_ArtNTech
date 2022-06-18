@@ -1,4 +1,6 @@
 /archives/20170119d
+
+******** description ********
 회색온도 Grey Temperature
 
 오세경展 / OHSEKYUNG / 吳世莖 / painting
@@ -37,3 +39,14 @@ www.cmoa.or.kr/cjas/index.do,
 ■ 청주미술창작스튜디오
 
 Vol.20170119d | 오세경展 / OHSEKYUNG / 吳世莖 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011901d.jpg
+https://neolook.com/archives/2017011902d.jpg
+https://neolook.com/archives/2017011903d.jpg
+https://neolook.com/archives/2017011904d.jpg
+https://neolook.com/archives/2017011905d.jpg
+https://neolook.com/archives/2017011906d.jpg
+https://neolook.com/archives/2017011907d.jpg
+https://neolook.com/archives/2017011908d.jpg
+https://neolook.com/archives/2017011909d.jpg
+https://neolook.com/archives/2017011910d.jpg

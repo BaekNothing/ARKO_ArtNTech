@@ -1,4 +1,6 @@
 /archives/20160111a
+
+******** description ********
 동그란 이야기들 네모난 얼굴들 구불거리는 시간들
 Circular Stories Rectangular Faces Twisty Times,    이지선展 / LEEJISUN / 李智善 / drawing.video installation
  
@@ -42,3 +44,11 @@ www.ohzemidong.co.kr,
 ■ 이지선
 
 Vol.20160111a | 이지선展 / LEEJISUN / 李智善 / drawing.video installation
+******** imgSrcs ********
+https://neolook.com/archives/2016011101a.jpg
+https://neolook.com/archives/2016011102a.jpg
+https://neolook.com/archives/2016011103a.jpg
+https://neolook.com/archives/2016011104a.jpg
+https://neolook.com/archives/2016011105a.jpg
+https://neolook.com/archives/2016011106a.jpg
+https://neolook.com/archives/2016011107a.jpg

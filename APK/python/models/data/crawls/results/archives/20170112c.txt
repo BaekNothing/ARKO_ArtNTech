@@ -1,4 +1,6 @@
 /archives/20170112c
+
+******** description ********
 모던그래픽 디자인의 선구자 알폰스 무하
 
 알폰스 무하展 / Alphonse Mucha / painting
@@ -48,3 +50,7 @@ store.lotteshopping.com,
 ■
 
 Vol.20170112c | 알폰스 무하展 / Alphonse Mucha / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011201c.jpg
+https://neolook.com/archives/2017011202c.jpg
+https://neolook.com/archives/2017011203c.jpg

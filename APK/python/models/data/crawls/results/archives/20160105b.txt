@@ -1,4 +1,6 @@
 /archives/20160105b
+
+******** description ********
 상상놀이
 
 서지희展 / SEOJIHUI / 徐知希 / painting
@@ -55,3 +57,10 @@ blog.naver.com/palaisdes,
 ■ 서지희
 
 Vol.20160105b | 서지희展 / SEOJIHUI / 徐知希 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016010501b.jpg
+https://neolook.com/archives/2016010502b.jpg
+https://neolook.com/archives/2016010503b.jpg
+https://neolook.com/archives/2016010504b.jpg
+https://neolook.com/archives/2016010505b.jpg
+https://neolook.com/archives/2016010506b.jpg

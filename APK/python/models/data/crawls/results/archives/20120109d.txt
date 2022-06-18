@@ -1,4 +1,6 @@
 /archives/20120109d
+
+******** description ********
 BMM ACADEMY 수강생 모집
 
 접수기간 / 2012_0109 ▶ 2012_0130,    ,    
@@ -38,3 +40,6 @@ www.bmmuseum.com,
      Guest폴더_내리기전용폴더_BMM ACADEMY 폴더에 보도자료 이미지 강좌소개가 있으니
      참고하시면 됩니다.,    
 Vol.20120109d | BMM ACADEMY 수강생 모집
+******** imgSrcs ********
+https://neolook.com/archives/2012010901d.jpg
+https://neolook.com/archives/2012010902d.jpg

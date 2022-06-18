@@ -1,4 +1,6 @@
 /archives/20120104a
+
+******** description ********
 또 다른 목소리
 
 Another Voice展
@@ -70,3 +72,19 @@ www.gallerygabi.com,
 ■ 손영실
 
 Vol.20120104a | 또 다른 목소리 Another Voice展
+******** imgSrcs ********
+https://neolook.com/archives/2012010401a.jpg
+https://neolook.com/archives/2012010402a.jpg
+https://neolook.com/archives/2012010403a.jpg
+https://neolook.com/archives/2012010404a.jpg
+https://neolook.com/archives/2012010405a.jpg
+https://neolook.com/archives/2012010406a.jpg
+https://neolook.com/archives/2012010407a.jpg
+https://neolook.com/archives/2012010408a.jpg
+https://neolook.com/archives/2012010409a.jpg
+https://neolook.com/archives/2012010410a.jpg
+https://neolook.com/archives/2012010411a.jpg
+https://neolook.com/archives/2012010412a.jpg
+https://neolook.com/archives/2012010413a.jpg
+https://neolook.com/archives/2012010414a.jpg
+https://neolook.com/archives/2012010415a.jpg

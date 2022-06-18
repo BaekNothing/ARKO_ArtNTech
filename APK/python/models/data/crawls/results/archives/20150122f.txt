@@ -1,4 +1,6 @@
 /archives/20150122f
+
+******** description ********
 인간은 하나의 별이다...FLOW
 
 진시영展  / JINSIYON / 晋始榮 / photography
@@ -30,3 +32,11 @@ blog.naver.com/lospsg2013,
 ■ 진시영
 
 Vol.20150122f | 진시영展  / JINSIYON / 晋始榮 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2015012201f.jpg
+https://neolook.com/archives/2015012202f.jpg
+https://neolook.com/archives/2015012203f.jpg
+https://neolook.com/archives/2015012204f.jpg
+https://neolook.com/archives/2015012205f.jpg
+https://neolook.com/archives/2015012206f.jpg
+https://neolook.com/archives/2015012207f.jpg

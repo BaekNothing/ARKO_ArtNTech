@@ -1,4 +1,6 @@
 /archives/20140106b
+
+******** description ********
 시간의 현상이 기록된 캡슐
 
 박능생展 / PARKNUNGSAENG / 朴能生 / painting
@@ -34,3 +36,10 @@ www.elandfa.org,
 ■ 천석필
 
 Vol.20140106b | 박능생展 / PARKNUNGSAENG / 朴能生 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014010601b.jpg
+https://neolook.com/archives/2014010602b.jpg
+https://neolook.com/archives/2014010603b.jpg
+https://neolook.com/archives/2014010604b.jpg
+https://neolook.com/archives/2014010605b.jpg
+https://neolook.com/archives/2014010606b.jpg

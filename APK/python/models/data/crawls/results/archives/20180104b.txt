@@ -1,4 +1,6 @@
 /archives/20180104b
+
+******** description ********
 가장자리 The Edge
 
 이재명展 / LEEJAEMYUNG / 李在明 / painting
@@ -53,3 +55,10 @@ www.ksdgallery.kr,
 ■ 이재명
 
 Vol.20180104b | 이재명展 / LEEJAEMYUNG / 李在明 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010401b.jpg
+https://neolook.com/archives/2018010402b.jpg
+https://neolook.com/archives/2018010403b.jpg
+https://neolook.com/archives/2018010404b.jpg
+https://neolook.com/archives/2018010405b.jpg
+https://neolook.com/archives/2018010406b.jpg

@@ -14,7 +14,7 @@ def get_index():
     for art in arta:
         index += art.find('a')["href"] + '\n'
     print(index)
-    with open('cwals/index/index.txt', 'wt', encoding='utf8') as f:
+    with open('crawls/index/index.txt', 'wt', encoding='utf8') as f:
         f.write(str(index))
     return index
 
@@ -26,24 +26,24 @@ def get_subIndex(url):
     for art in arta:
         subIndex += art.find('a')["href"] + '\n'
     print(subIndex)
-    with open('cwals/index/' + url + '.txt', 'wt', encoding='utf8') as f:
+    with open('crawls/index/' + url + '.txt', 'wt', encoding='utf8') as f:
         f.write(str(subIndex))
     return subIndex
 
 def get_text_from_index():
-    listdir = os.listdir('cwals/index/archives')
+    listdir = os.listdir('crawls/index/archives')
     for i in listdir:
         if i.endswith('.txt'):
-            urls = open('cwals/index/archives/' + i, 'r', encoding='utf8').read().splitlines()
+            urls = open('crawls/index/archives/' + i, 'r', encoding='utf8').read().splitlines()
             for url in urls :
                 try:
                     get_text(url)
-                except:
-                    print("error :", url)
-                time.sleep(1)
+                except Exception as e:
+                    print("error :", url, e)
+                time.sleep(0.05)
 
 def get_text(url):
-    fname = 'cwals/results' + url + '.txt'
+    fname = 'crawls/results' + url + '.txt'
     if os.path.isfile(fname) :
         return 
     print(fname)
@@ -52,11 +52,19 @@ def get_text(url):
     arta = soup.find_all('div', class_='archives-description')
 
     filteredText = url + '\n'
+    filteredText += "\n******** description ********\n" 
     for art in arta:
         filteredText += art.text.strip()
     filteredText = filteredText.replace(',', '')
     filteredText = filteredText.replace('\n\n\n', ',    ')
-
+    
+    filteredText += "\n******** imgSrcs ********\n"
+    imgs = soup.find_all('img')
+    for img in imgs:
+        if "archives" in img["src"]:
+            filteredText += img["src"] + '\n'
+    
+    print(filteredText)
     with open(fname, 'wt', encoding='utf8') as f:
         f.write(str(filteredText))
 
@@ -66,7 +74,7 @@ if  text.lower() == 'index':
 elif  text.lower() == 'url':
     get_text(input('url: ')) 
 elif  text.lower() == 'subindex':
-    with open('cwals/index.txt', 'rt', encoding='utf8') as f:
+    with open('crawls/index/index.txt', 'rt', encoding='utf8') as f:
         lines = f.read().splitlines()
         for line in lines:
             get_subIndex(line)

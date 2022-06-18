@@ -1,4 +1,6 @@
 /archives/20170117d
+
+******** description ********
 기억:록
 
 안경희展 / ANKYUNGHEE / 安庚喜 / photography
@@ -30,3 +32,8 @@ blog.naver.com/lottedlftks,
 ■ 황희지
 
 Vol.20170117d | 안경희展 / ANKYUNGHEE / 安庚喜 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2017011701d.jpg
+https://neolook.com/archives/2017011702d.jpg
+https://neolook.com/archives/2017011703d.jpg
+https://neolook.com/archives/2017011704d.jpg

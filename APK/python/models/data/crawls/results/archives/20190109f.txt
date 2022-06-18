@@ -1,4 +1,6 @@
 /archives/20190109f
+
+******** description ********
 썬비의 육아일기: 너의 모든 순간을 기억할게
 
 썬비展 / SUNDAYB / illustration
@@ -54,3 +56,11 @@ EVENT 2. '쏭레브키즈' 키즈로션 3종 세트 샘플 증정 (선착순 100
 EVENT 3. 임산부 뱃지 증정 (선착순 10명)
 
 Vol.20190109f | 썬비展 / SUNDAYB / illustration
+******** imgSrcs ********
+https://neolook.com/archives/2019010901f.jpg
+https://neolook.com/archives/2019010902f.jpg
+https://neolook.com/archives/2019010903f.jpg
+https://neolook.com/archives/2019010904f.jpg
+https://neolook.com/archives/2019010905f.jpg
+https://neolook.com/archives/2019010906f.jpg
+https://neolook.com/archives/2019010907f.jpg

@@ -1,4 +1,6 @@
 /archives/20190115a
+
+******** description ********
 피팅룸
 
 Fitting Room展
@@ -42,3 +44,13 @@ cafe.naver.com/woosukgallery,
 ■ 김전희
 
 Vol.20190115a | 피팅룸-Fitting Room展
+******** imgSrcs ********
+https://neolook.com/archives/2019011501a.jpg
+https://neolook.com/archives/2019011502a.jpg
+https://neolook.com/archives/2019011503a.jpg
+https://neolook.com/archives/2019011504a.jpg
+https://neolook.com/archives/2019011505a.jpg
+https://neolook.com/archives/2019011506a.jpg
+https://neolook.com/archives/2019011507a.jpg
+https://neolook.com/archives/2019011508a.jpg
+https://neolook.com/archives/2019011509a.jpg

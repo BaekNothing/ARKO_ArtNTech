@@ -1,4 +1,6 @@
 /archives/20210115c
+
+******** description ********
 코끼리가 방 안에 있다
 
 Elephant in the Room展
@@ -56,3 +58,11 @@ Bruno Rey_레이 의자 (Rey Chairs),
 ■ 조은영
 
 Vol.20210115c | 코끼리가 방 안에 있다-Elephant in the Room展
+******** imgSrcs ********
+https://neolook.com/archives/2021011501c.jpg
+https://neolook.com/archives/2021011502c.jpg
+https://neolook.com/archives/2021011503c.jpg
+https://neolook.com/archives/2021011504c.jpg
+https://neolook.com/archives/2021011505c.jpg
+https://neolook.com/archives/2021011506c.jpg
+https://neolook.com/archives/2021011507c.jpg

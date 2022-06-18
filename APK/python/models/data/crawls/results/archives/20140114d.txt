@@ -1,4 +1,6 @@
 /archives/20140114d
+
+******** description ********
 본업: 생활하는 예술가
 
 BONUP: Art as Livelihood展
@@ -42,3 +44,11 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20140114d | 본업: 생활하는 예술가 BONUP: Art as Livelihood展
+******** imgSrcs ********
+https://neolook.com/archives/2014011401d.jpg
+https://neolook.com/archives/2014011402d.jpg
+https://neolook.com/archives/2014011403d.jpg
+https://neolook.com/archives/2014011404d.jpg
+https://neolook.com/archives/2014011405d.jpg
+https://neolook.com/archives/2014011406d.jpg
+https://neolook.com/archives/2014011407d.jpg

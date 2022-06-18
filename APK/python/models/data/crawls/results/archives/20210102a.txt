@@ -1,4 +1,6 @@
 /archives/20210102a
+
+******** description ********
 언택트 시대의 뜻밖의 발견
 
 2021_0101 ▶ 2021_0228,    
@@ -39,3 +41,12 @@ www.mosanmuseum.com,
 ■ 임호영
 
 Vol.20210102a | 언택트 시대의 뜻밖의 발견展
+******** imgSrcs ********
+https://neolook.com/archives/2021010201a.jpg
+https://neolook.com/archives/2021010202a.jpg
+https://neolook.com/archives/2021010203a.jpg
+https://neolook.com/archives/2021010204a.jpg
+https://neolook.com/archives/2021010205a.jpg
+https://neolook.com/archives/2021010206a.jpg
+https://neolook.com/archives/2021010207a.jpg
+https://neolook.com/archives/2021010208a.jpg

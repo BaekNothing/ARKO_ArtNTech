@@ -1,4 +1,6 @@
 /archives/20160107f
+
+******** description ********
 에코 ECHO
 
 엘마 베스트너展 / Elmar Vestner / photography
@@ -37,3 +39,14 @@ www.cjartstudio.com,
 ■ 청주미술창작스튜디오
 
 Vol.20160107f | 엘마 베스트너展 / Elmar Vestner / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016010701f.jpg
+https://neolook.com/archives/2016010702f.jpg
+https://neolook.com/archives/2016010703f.jpg
+https://neolook.com/archives/2016010704f.jpg
+https://neolook.com/archives/2016010705f.jpg
+https://neolook.com/archives/2016010706f.jpg
+https://neolook.com/archives/2016010707f.jpg
+https://neolook.com/archives/2016010708f.jpg
+https://neolook.com/archives/2016010709f.jpg
+https://neolook.com/archives/2016010710f.jpg

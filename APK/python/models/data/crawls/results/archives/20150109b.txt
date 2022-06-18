@@ -1,4 +1,6 @@
 /archives/20150109b
+
+******** description ********
 기억의 숲
 
 공원정展 / KONGWONJUNG / 孔元貞 / photography.installation
@@ -29,3 +31,9 @@ www.sunkwang.org,
 ■ 유은순
 
 Vol.20150109b | 공원정展 / KONGWONJUNG / 孔元貞 / photography.installation
+******** imgSrcs ********
+https://neolook.com/archives/2015010901b.jpg
+https://neolook.com/archives/2015010902b.jpg
+https://neolook.com/archives/2015010903b.jpg
+https://neolook.com/archives/2015010904b.jpg
+https://neolook.com/archives/2015010905b.jpg

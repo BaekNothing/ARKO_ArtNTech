@@ -1,4 +1,6 @@
 /archives/20180112c
+
+******** description ********
 nor
 
 홍정욱展 / HONGJUNGOUK / 洪貞旭 / installation
@@ -69,3 +71,12 @@ Faith 보여지것이 보이는 것이 아니다. ● (작가와의 인터뷰 20
  - 참가문의 : 053-661-3526
  - 내 용 : 기본을 바탕으로 하는 작가의 창의 경험에 대한 이야기
 Vol.20180112c | 홍정욱展 / HONGJUNGOUK / 洪貞旭 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018011201c.jpg
+https://neolook.com/archives/2018011202c.jpg
+https://neolook.com/archives/2018011203c.jpg
+https://neolook.com/archives/2018011204c.jpg
+https://neolook.com/archives/2018011205c.jpg
+https://neolook.com/archives/2018011206c.jpg
+https://neolook.com/archives/2018011207c.jpg
+https://neolook.com/archives/2018011208c.jpg

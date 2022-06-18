@@ -1,4 +1,6 @@
 /archives/20110103g
+
+******** description ********
 동동동_同動洞
 
 2010년 마을미술 프로젝트
@@ -46,3 +48,14 @@ Tel. +82.10.6315.1567,
 ■ 송지현
 
 Vol.20110103g | 동동동_同動洞展
+******** imgSrcs ********
+https://neolook.com/archives/2011010301g.jpg
+https://neolook.com/archives/2011010302g.jpg
+https://neolook.com/archives/2011010303g.jpg
+https://neolook.com/archives/2011010304g.jpg
+https://neolook.com/archives/2011010305g.jpg
+https://neolook.com/archives/2011010306g.jpg
+https://neolook.com/archives/2011010307g.jpg
+https://neolook.com/archives/2011010308g.jpg
+https://neolook.com/archives/2011010309g.jpg
+https://neolook.com/archives/2011010310g.jpg

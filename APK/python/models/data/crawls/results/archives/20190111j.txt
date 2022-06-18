@@ -1,4 +1,6 @@
 /archives/20190111j
+
+******** description ********
 Openness - Nowness
 
 지엔처_시에판_친쥔_김나율_국동완展
@@ -34,3 +36,12 @@ www.gallerysu.net,
 보두앙 르봉은 배정완·김오안 작가의 2인전 『스트릿 라이프 Street Life』 를 선보인다. 멀티미디어 설치 작업 '스트릿 라이프 (Street Life)'는 미국의 홈리스 청년들을 다룬 실험적인 내러티브 작업으로 선택 혹은 필요에 의해 일반적 삶의 패턴에서 벗어난 청년들이 겪는 고난과 자유에 대해 이야기한다. ■ 갤러리 수
 
 Vol.20190111j | Openness - Nowness展
+******** imgSrcs ********
+https://neolook.com/archives/2019011101j.jpg
+https://neolook.com/archives/2019011102j.jpg
+https://neolook.com/archives/2019011103j.jpg
+https://neolook.com/archives/2019011104j.jpg
+https://neolook.com/archives/2019011105j.jpg
+https://neolook.com/archives/2019011106j.jpg
+https://neolook.com/archives/2019011107j.jpg
+https://neolook.com/archives/2019011108j.jpg

@@ -1,4 +1,6 @@
 /archives/20110102a
+
+******** description ********
 with nothing
 
 김범준展 / KIMBEONJUN / 金範埈 / mixed media
@@ -29,3 +31,9 @@ www.placemak.com,
 트 위 터 : @placeMAK
 
 Vol.20110102a | 김범준展 / KIMBEONJUN / 金範埈 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2011010201a.jpg
+https://neolook.com/archives/2011010202a.jpg
+https://neolook.com/archives/2011010203a.jpg
+https://neolook.com/archives/2011010204a.jpg
+https://neolook.com/archives/2011010205a.jpg

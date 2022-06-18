@@ -1,4 +1,6 @@
 /archives/20120104g
+
+******** description ********
 2부 하얀 정글
 
 2012_0104 ▶ 2012_0110,    
@@ -43,3 +45,15 @@ www.galleryskyyeon.com,
 ■ 연지리 
 
 Vol.20120104g | 2부 하얀 정글展
+******** imgSrcs ********
+https://neolook.com/archives/2012010401g.jpg
+https://neolook.com/archives/2012010402g.jpg
+https://neolook.com/archives/2012010403g.jpg
+https://neolook.com/archives/2012010404g.jpg
+https://neolook.com/archives/2012010405g.jpg
+https://neolook.com/archives/2012010406g.jpg
+https://neolook.com/archives/2012010407g.jpg
+https://neolook.com/archives/2012010408g.jpg
+https://neolook.com/archives/2012010409g.jpg
+https://neolook.com/archives/2012010410g.jpg
+https://neolook.com/archives/2012010411g.jpg

@@ -1,4 +1,6 @@
 /archives/20150114c
+
+******** description ********
 ICED PINK-금기 너머의 가면
 
 김문식展 / KIMMOONSIK / 金文植 / painting
@@ -34,3 +36,11 @@ www.ganaartspace.com,
 ■ 차민영
 
 Vol.20150114c | 김문식展 / KIMMOONSIK / 金文植 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011401c.jpg
+https://neolook.com/archives/2015011402c.jpg
+https://neolook.com/archives/2015011403c.jpg
+https://neolook.com/archives/2015011404c.jpg
+https://neolook.com/archives/2015011405c.jpg
+https://neolook.com/archives/2015011406c.jpg
+https://neolook.com/archives/2015011407c.jpg

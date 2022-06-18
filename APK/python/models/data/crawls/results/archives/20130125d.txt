@@ -1,4 +1,6 @@
 /archives/20130125d
+
+******** description ********
 경계에 선 풍경  The boundaries of the landscape
 
 김미강展 / KIMMIKANG / 金美杠 / painting
@@ -28,3 +30,11 @@ Tel. +82.2.943.9300,    ,    나는 주로 일상에서 마주치는 무심하�
 ■ 김미강
 
 Vol.20130125d | 김미강展 / KIMMIKANG / 金美杠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012501d.jpg
+https://neolook.com/archives/2013012502d.jpg
+https://neolook.com/archives/2013012503d.jpg
+https://neolook.com/archives/2013012504d.jpg
+https://neolook.com/archives/2013012505d.jpg
+https://neolook.com/archives/2013012506d.jpg
+https://neolook.com/archives/2013012507d.jpg

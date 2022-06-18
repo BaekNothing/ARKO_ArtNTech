@@ -1,4 +1,6 @@
 /archives/20170102c
+
+******** description ********
 2017 제1회 JCC 예술상 및 JCC 프론티어 미술대상 공모
 접수기간 / 2017_0101 ▶ 2017_0110,    ,    접수마감 / 2017_0110_화요일_06:00pm
 주최 / 재단법인 재능문화,    JCC 미술관
@@ -36,3 +38,5 @@ T : 02-2138-7373~4 / E : jccaward@jeicf.org / museum.jeijcc.org
 서울시 종로구 창경궁로 35길 29 JCC 미술관
 
 Vol.20170102c | 2017 제1회 JCC 예술상 및 JCC 프론티어 미술대상 공모
+******** imgSrcs ********
+https://neolook.com/archives/2017010201c.jpg

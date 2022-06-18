@@ -1,4 +1,6 @@
 /archives/20100120f
+
+******** description ********
 조주연展 / CHOJUYEON / 趙姝姸 / painting
  
 2010_0120 ▶ 2010_0126,    
@@ -36,3 +38,9 @@ www.insaartcenter.com,
 ■ 조주연
 
 Vol.20100120f | 조주연展 / CHOJUYEON / 趙姝姸 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012001f.jpg
+https://neolook.com/archives/2010012002f.jpg
+https://neolook.com/archives/2010012003f.jpg
+https://neolook.com/archives/2010012004f.jpg
+https://neolook.com/archives/2010012005f.jpg

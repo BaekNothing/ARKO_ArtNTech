@@ -1,4 +1,6 @@
 /archives/20090107a
+
+******** description ********
 감싸안음
 
 서성봉展 / SEOSUNGBONG / 徐成奉 / sculpture
@@ -30,3 +32,11 @@ www.artspace-hyun.co.kr,
 
 서성봉_감싸안음展_2009,    이다음 전시는 나에게 너무나 소중한 그리움의 향수로 마음가득 자리하고 있는 제주의 모습인 정낭과 현무암을 가지고 감싸안음의 작품을 선보일 것이다. ■ 서성봉
 Vol.20090107a | 서성봉展 / SEOSUNGBONG / 徐成奉 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2009010701a.jpg
+https://neolook.com/archives/2009010702a.jpg
+https://neolook.com/archives/2009010703a.jpg
+https://neolook.com/archives/2009010704a.jpg
+https://neolook.com/archives/2009010705a.jpg
+https://neolook.com/archives/2009010706a.jpg
+https://neolook.com/archives/2009010707a.jpg

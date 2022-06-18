@@ -1,4 +1,6 @@
 /archives/20140129a
+
+******** description ********
 Art Blending Show
 
 김선경展 / KIMSUNKYOUNG / 金先慶 / painting
@@ -26,3 +28,10 @@ www.the-k-gallery.com,
 ■ 김선경
 
 Vol.20140129a | 김선경展 / KIMSUNKYOUNG / 金先慶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012901a.jpg
+https://neolook.com/archives/2014012902a.jpg
+https://neolook.com/archives/2014012903a.jpg
+https://neolook.com/archives/2014012904a.jpg
+https://neolook.com/archives/2014012905a.jpg
+https://neolook.com/archives/2014012906a.jpg

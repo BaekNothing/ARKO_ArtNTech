@@ -1,4 +1,6 @@
 /archives/20190127a
+
+******** description ********
 무작위의 기술 Random Drawings
 
 박미례展 / PARKMIRAE / 朴美禮 / painting
@@ -51,3 +53,14 @@ Tel. +82.(0)2.318.0131,
 ■ 디아트플랜트 요 갤러리
 
 Vol.20190127a | 박미례展 / PARKMIRAE / 朴美禮 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019012701a.jpg
+https://neolook.com/archives/2019012702a.jpg
+https://neolook.com/archives/2019012703a.jpg
+https://neolook.com/archives/2019012704a.jpg
+https://neolook.com/archives/2019012705a.jpg
+https://neolook.com/archives/2019012706a.jpg
+https://neolook.com/archives/2019012707a.jpg
+https://neolook.com/archives/2019012708a.jpg
+https://neolook.com/archives/2019012709a.jpg
+https://neolook.com/archives/2019012710a.jpg

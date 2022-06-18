@@ -1,4 +1,6 @@
 /archives/20100115b
+
+******** description ********
 현대사진을 그리다
 
 구름수_현김희정_메타_한혜령展
@@ -93,3 +95,13 @@ www.gallery-now.com,
 ■ 한혜령
 
 Vol.20100115b | 현대사진을 그리다展
+******** imgSrcs ********
+https://neolook.com/archives/2010011501b.jpg
+https://neolook.com/archives/2010011502b.jpg
+https://neolook.com/archives/2010011503b.jpg
+https://neolook.com/archives/2010011504b.jpg
+https://neolook.com/archives/2010011505b.jpg
+https://neolook.com/archives/2010011506b.jpg
+https://neolook.com/archives/2010011507b.jpg
+https://neolook.com/archives/2010011508b.jpg
+https://neolook.com/archives/2010011509b.jpg

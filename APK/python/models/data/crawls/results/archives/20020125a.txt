@@ -1,4 +1,6 @@
 /archives/20020125a
+
+******** description ********
 일주아트하우스 미디어 스튜디오
 
 2002 지원작가 공모
@@ -89,3 +91,7 @@ DVD 워크스테이션(dv 편집 겸용)
   .dv camera: sony pd100(2대)
 
 Vol.20020125a | 일주아트하우스 미디어 스튜디오 2002 지원작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2002012501a.jpg
+https://neolook.com/archives/2002012502a.jpg
+https://neolook.com/archives/2002012503a.jpg

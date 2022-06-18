@@ -1,4 +1,6 @@
 /archives/20130124a
+
+******** description ********
 스펙타클과 우회의 전략 기 드보르와 국제상황주의
 
 The Spectacle and the detour of strategy
@@ -206,3 +208,5 @@ Guy Debord son art et son temps | Brigitte Cornand | 1995 | 60min | TV Documenta
 좀 더 미디어 아트를 알리고 가깝게 가고자 국제심포지엄와 워크샵 아카데미 운영을 통해 동시대 문화와 함께 소통하는 자리를 꾸준히 마련하고 있다.
 
 Vol.20130124a | 스펙타클과 우회의 전략 기 드보르와 국제상황주의 / 상영회
+******** imgSrcs ********
+https://neolook.com/archives/2013012401a.jpg

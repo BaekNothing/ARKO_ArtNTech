@@ -1,4 +1,6 @@
 /archives/20190111f
+
+******** description ********
 겹쳐진 장면
 
 이은재展 / LEEEUNJAE / 李恩宰 / installation
@@ -63,3 +65,11 @@ www.bongsanart.org,
 그 순간을 위한 여러 가지 조건들과 요소들 그리고 그것들의 관계에 대해 생각해 보면서 새로운 순간을 경험한다.,    
 
 Vol.20190111f | 이은재展 / LEEEUNJAE / 李恩宰 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2019011101f.jpg
+https://neolook.com/archives/2019011102f.jpg
+https://neolook.com/archives/2019011103f.jpg
+https://neolook.com/archives/2019011104f.jpg
+https://neolook.com/archives/2019011105f.jpg
+https://neolook.com/archives/2019011106f.jpg
+https://neolook.com/archives/2019011107f.jpg

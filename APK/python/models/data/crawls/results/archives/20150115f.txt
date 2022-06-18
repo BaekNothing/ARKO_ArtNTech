@@ -1,4 +1,6 @@
 /archives/20150115f
+
+******** description ********
 self-action
 
 노해율展 / NOHHAEYUL / 盧海律 / installation
@@ -52,3 +54,11 @@ Self-Action 물질과 상상(想像)의 관계맺음에 대하여
 주동적 동력으로 시작되는 오브제들의 움직임은 주동적이기는 하나 주변으로부터 완전히 자유롭지 못하다. 어딘가에 매달려 있거나 정해진 틀 안에서 움직인다. 하지만 주동적이다. 스스로 움직인다. ■ 노해율
 
 Vol.20150115f | 노해율展 / NOHHAEYUL / 盧海律 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2015011501f.jpg
+https://neolook.com/archives/2015011502f.jpg
+https://neolook.com/archives/2015011503f.jpg
+https://neolook.com/archives/2015011504f.jpg
+https://neolook.com/archives/2015011505f.jpg
+https://neolook.com/archives/2015011506f.jpg
+https://neolook.com/archives/2015011507f.jpg

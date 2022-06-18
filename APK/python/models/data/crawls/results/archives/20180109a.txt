@@ -1,4 +1,6 @@
 /archives/20180109a
+
+******** description ********
 이모젠 커닝햄展 / Imogen Cunningham / photography
  
 2018_0109 ▶ 2018_0222 / 일공휴일 휴관,    
@@ -39,3 +41,10 @@ Art Space J is pleased to announce the first exhibition of 2018 『Imogen Cunnin
 ■ Art Space J
 
 Vol.20180109a | 이모젠 커닝햄展 / Imogen Cunningham / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018010901a.jpg
+https://neolook.com/archives/2018010902a.jpg
+https://neolook.com/archives/2018010903a.jpg
+https://neolook.com/archives/2018010904a.jpg
+https://neolook.com/archives/2018010905a.jpg
+https://neolook.com/archives/2018010906a.jpg

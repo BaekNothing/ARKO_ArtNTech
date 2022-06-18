@@ -1,4 +1,6 @@
 /archives/20130126a
+
+******** description ********
 Happy...Room
 
 권유미展 / KWONYUMI / 權愈美 / painting
@@ -30,3 +32,11 @@ www.heyri.net,
 ■ 서희주
 
 Vol.20130126a | 권유미展 / KWONYUMI / 權愈美 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012601a.jpg
+https://neolook.com/archives/2013012602a.jpg
+https://neolook.com/archives/2013012603a.jpg
+https://neolook.com/archives/2013012604a.jpg
+https://neolook.com/archives/2013012605a.jpg
+https://neolook.com/archives/2013012606a.jpg
+https://neolook.com/archives/2013012607a.jpg

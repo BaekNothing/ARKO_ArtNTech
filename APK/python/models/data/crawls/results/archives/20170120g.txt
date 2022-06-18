@@ -1,4 +1,6 @@
 /archives/20170120g
+
+******** description ********
 달무지개 moonbow
 
 정승혜展 / JUNGSEUNGHYE / 鄭丞惠 / painting
@@ -54,3 +56,11 @@ www.bongsanart.org,
 ■ 정승혜
 
 Vol.20170120g | 정승혜展 / JUNGSEUNGHYE / 鄭丞惠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017012001g.jpg
+https://neolook.com/archives/2017012002g.jpg
+https://neolook.com/archives/2017012003g.jpg
+https://neolook.com/archives/2017012004g.jpg
+https://neolook.com/archives/2017012005g.jpg
+https://neolook.com/archives/2017012006g.jpg
+https://neolook.com/archives/2017012007g.jpg

@@ -1,4 +1,6 @@
 /archives/20210107c
+
+******** description ********
 Connecting the dots
 
 강현아展 / KANGHYUNA / 姜賢兒 / installation
@@ -28,3 +30,10 @@ cmoa.cheongju.go.kr/cjas,
 강현아_종이 낙엽 2_드로잉_29.7×42×1.5cm_2020
 
 강현아_종이 낙엽1_드로잉_29.7×42×1.5cm_2020,    Vol.20210107c | 강현아展 / KANGHYUNA / 姜賢兒 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2021010701c.jpg
+https://neolook.com/archives/2021010702c.jpg
+https://neolook.com/archives/2021010703c.jpg
+https://neolook.com/archives/2021010704c.jpg
+https://neolook.com/archives/2021010705c.jpg
+https://neolook.com/archives/2021010706c.jpg

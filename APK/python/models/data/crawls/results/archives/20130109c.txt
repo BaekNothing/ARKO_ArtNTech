@@ -1,4 +1,6 @@
 /archives/20130109c
+
+******** description ********
 삶의 모습들 Scenes of Real Life
 
 김경섭展 / KIMKYOUNGSUP / 金暻燮 / sculpture.installation
@@ -48,3 +50,14 @@ www.ganaartspace.com,
 ■ 김경섭
 
 Vol.20130109c | 김경섭展 / KIMKYOUNGSUP / 金暻燮 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2013010901c.jpg
+https://neolook.com/archives/2013010902c.jpg
+https://neolook.com/archives/2013010903c.jpg
+https://neolook.com/archives/2013010904c.jpg
+https://neolook.com/archives/2013010905c.jpg
+https://neolook.com/archives/2013010906c.jpg
+https://neolook.com/archives/2013010907c.jpg
+https://neolook.com/archives/2013010908c.jpg
+https://neolook.com/archives/2013010909c.jpg
+https://neolook.com/archives/2013010910c.jpg

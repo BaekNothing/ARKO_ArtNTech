@@ -1,4 +1,6 @@
 /archives/20110101j
+
+******** description ********
 한국 미술시장 현황조사 리서치-2010 한국미술계의 힘
 
 새로운 미술경제 월간 아트프라이스 2011년 1월호
@@ -54,3 +56,9 @@ FOCUS,
 당신에게 러브레터 토닥토닥 그림편지 현대미술 스타일 매뉴얼 절망에서 피어난 매혹의 화가 에드바르 뭉크 빅 아트북 임상주의-모더니티의 정치사회학 외 
 
 Vol.20110101j | 한국 미술시장 현황조사 리서치-2010 한국미술계의 힘
+******** imgSrcs ********
+https://neolook.com/archives/2011010101j.jpg
+https://neolook.com/archives/2011010102j.jpg
+https://neolook.com/archives/2011010103j.jpg
+https://neolook.com/archives/2011010104j.jpg
+https://neolook.com/archives/2011010105j.jpg

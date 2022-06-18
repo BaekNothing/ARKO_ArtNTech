@@ -1,4 +1,6 @@
 /archives/20100101e
+
+******** description ********
 EYEBALL_Media Art Webzine
 
 EYEBALL 2010년 1월
@@ -40,3 +42,10 @@ Film Maker_Yumi JUNG
 Film Festival_The 5th Cinematheque Friends Film Festival,    
 
 Cinema_Film Festival_The 5th Cinematheque Friends Film Festival,    Vol.20100101e | EYEBALL 2010년 1월 / EYEBALL_Media Art Webzine
+******** imgSrcs ********
+https://neolook.com/archives/2010010101e.jpg
+https://neolook.com/archives/2010010102e.jpg
+https://neolook.com/archives/2010010103e.jpg
+https://neolook.com/archives/2010010104e.jpg
+https://neolook.com/archives/2010010105e.jpg
+https://neolook.com/archives/2010010106e.jpg

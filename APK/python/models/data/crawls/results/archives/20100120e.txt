@@ -1,4 +1,6 @@
 /archives/20100120e
+
+******** description ********
 L I N G E R
 
 이예린展 / LEEYELEEN / 李藝粼 / installation.video.drawing
@@ -33,3 +35,10 @@ blog.karts.ac.kr/gallery175,
 이예린의 작업의 두 축은 여기를 의심하며 저 너머의 세계를 지향한다. 여기를 의심하며 다른 세계가 있다고 말하는 것은 해야 할 일이지만 그리 어려운 일이 아니다. 그러나 작가는 저 너머 세계의 정체에 대해서는 지금까지는 침묵했다. 앞으로 그가 가야 할 길은 동경으로 가득했던 저 너머 세계에 대한 정체를 밝히는 것이 아닐까? 그것이 육안으로 확인할 수 없는 세계이기에 더욱더 말이다. ■ 이대범
 
 Vol.20100120e | 이예린展 / LEEYELEEN / 李藝粼 / installation.video.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2010012001e.jpg
+https://neolook.com/archives/2010012002e.jpg
+https://neolook.com/archives/2010012003e.jpg
+https://neolook.com/archives/2010012004e.jpg
+https://neolook.com/archives/2010012005e.jpg
+https://neolook.com/archives/2010012006e.jpg

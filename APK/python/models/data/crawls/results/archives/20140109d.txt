@@ -1,4 +1,6 @@
 /archives/20140109d
+
+******** description ********
 더블로직
 
 Double Logic展
@@ -52,3 +54,14 @@ www.spacek.co.kr,
 ■ 스페이스K
 
 Vol.20140109d | 더블로직 Double Logic展
+******** imgSrcs ********
+https://neolook.com/archives/2014010901d.jpg
+https://neolook.com/archives/2014010902d.jpg
+https://neolook.com/archives/2014010903d.jpg
+https://neolook.com/archives/2014010904d.jpg
+https://neolook.com/archives/2014010905d.jpg
+https://neolook.com/archives/2014010906d.jpg
+https://neolook.com/archives/2014010907d.jpg
+https://neolook.com/archives/2014010908d.jpg
+https://neolook.com/archives/2014010909d.jpg
+https://neolook.com/archives/2014010910d.jpg

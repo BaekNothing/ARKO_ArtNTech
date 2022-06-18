@@ -1,4 +1,6 @@
 /archives/20160109a
+
+******** description ********
 우리 그림
 
 김선두·김혜련의 병풍과 족자展
@@ -32,3 +34,9 @@ www.heyri.net,
 ■ 김선두
 
 Vol.20160109a | 우리 그림-김선두·김혜련의 병풍과 족자展
+******** imgSrcs ********
+https://neolook.com/archives/2016010901a.jpg
+https://neolook.com/archives/2016010902a.jpg
+https://neolook.com/archives/2016010903a.jpg
+https://neolook.com/archives/2016010904a.jpg
+https://neolook.com/archives/2016010905a.jpg

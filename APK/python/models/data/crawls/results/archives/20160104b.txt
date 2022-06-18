@@ -1,4 +1,6 @@
 /archives/20160104b
+
+******** description ********
 바다를 품은 정원
 
 오윤화展 / OHYUNHWA / 吳潤花 / painting
@@ -48,3 +50,14 @@ www.elandspace.co.kr,
 ■ 오윤화
 
 Vol.20160104b | 오윤화展 / OHYUNHWA / 吳潤花 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016010401b.jpg
+https://neolook.com/archives/2016010402b.jpg
+https://neolook.com/archives/2016010403b.jpg
+https://neolook.com/archives/2016010404b.jpg
+https://neolook.com/archives/2016010405b.jpg
+https://neolook.com/archives/2016010406b.jpg
+https://neolook.com/archives/2016010407b.jpg
+https://neolook.com/archives/2016010408b.jpg
+https://neolook.com/archives/2016010409b.jpg
+https://neolook.com/archives/2016010410b.jpg

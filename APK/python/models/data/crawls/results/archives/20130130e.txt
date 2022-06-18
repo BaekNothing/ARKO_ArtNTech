@@ -1,4 +1,6 @@
 /archives/20130130e
+
+******** description ********
 Pretty in Pink
 
 정치영展 / CHUNGCHIYUNG / 丁致榮 / painting
@@ -37,3 +39,11 @@ www.kwanhoongallery.com,
 ■ 이근용
 
 Vol.20130130e | 정치영展 / CHUNGCHIYUNG / 丁致榮 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013013001e.jpg
+https://neolook.com/archives/2013013002e.jpg
+https://neolook.com/archives/2013013003e.jpg
+https://neolook.com/archives/2013013004e.jpg
+https://neolook.com/archives/2013013005e.jpg
+https://neolook.com/archives/2013013006e.jpg
+https://neolook.com/archives/2013013007e.jpg

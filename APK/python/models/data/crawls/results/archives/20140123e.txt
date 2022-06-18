@@ -1,4 +1,6 @@
 /archives/20140123e
+
+******** description ********
 헛소리 하지마! 임마!
 
 Don't give a damn man!展
@@ -25,3 +27,5 @@ Tel. +82.2.2631.7731,
 ■ 김월식
 
 Vol.20140123e | 헛소리 하지마! 임마! Don't give a damn man!展
+******** imgSrcs ********
+https://neolook.com/archives/2014012301e.jpg

@@ -1,4 +1,6 @@
 /archives/20200113e
+
+******** description ********
 이곳에서 저 멀리 Somewhere over the rainbow
 
 김옥선_정연두 2인展
@@ -46,3 +48,16 @@ www.kyobobook.co.kr/culture/cultureClassicList.laf?serviceGb=KAS&orderClick=,
 '내사랑 지니'는 1960년대 미국 텔레비전 드라마 제목이다. 작가는 2001년부터 세계 14개국을 돌아다니며 사람들의 꿈을 물어보고 그 꿈을 사진으로 실현시키는 작업을 해오고 있다. 2001년 버전에는 슬라이드 프로젝션으로 전시되었으나 금번 전시에는 디지털 영상으로 보여진다. 작품은 현실과 꿈이 긴 여백을 두고 천천히 교차하는 시간 동안 작가는 관객에게 꿈을 생각하게 하는 여유를 준다. ■ 교보아트스페이스
 
 Vol.20200113e | 이곳에서 저 멀리-김옥선_정연두 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2020011301e.jpg
+https://neolook.com/archives/2020011302e.jpg
+https://neolook.com/archives/2020011303e.jpg
+https://neolook.com/archives/2020011304e.jpg
+https://neolook.com/archives/2020011305e.jpg
+https://neolook.com/archives/2020011306e.jpg
+https://neolook.com/archives/2020011307e.jpg
+https://neolook.com/archives/2020011308e.jpg
+https://neolook.com/archives/2020011309e.jpg
+https://neolook.com/archives/2020011310e.jpg
+https://neolook.com/archives/2020011311e.jpg
+https://neolook.com/archives/2020011312e.jpg

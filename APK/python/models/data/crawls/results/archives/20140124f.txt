@@ -1,4 +1,6 @@
 /archives/20140124f
+
+******** description ********
 쌤소나이트 2014 아트 콜라보레이션 신진작가 공모전
 
 Design Innovation Samsonite 2014 Art Collaboration
@@ -59,3 +61,5 @@ Business + Art = Bizart !! ●
 - 상금에 대한 제세공과금은 수상자가 부담하게 됩니다.
 
 Vol.20140124f | 쌤소나이트 2014 아트 콜라보레이션 신진작가 공모전
+******** imgSrcs ********
+https://neolook.com/archives/2014012401f.jpg

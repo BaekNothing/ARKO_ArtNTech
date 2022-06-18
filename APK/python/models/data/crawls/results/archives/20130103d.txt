@@ -1,4 +1,6 @@
 /archives/20130103d
+
+******** description ********
 하늘 미학 Sky Aesthetics Ⅳ
 
 송은주展 / SONGEUNJOO / 宋銀珠 / painting
@@ -34,3 +36,10 @@ www.ujungartcenter.com,
 ■ 송은주
 
 Vol.20130103d | 송은주展 / SONGEUNJOO / 宋銀珠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010301d.jpg
+https://neolook.com/archives/2013010302d.jpg
+https://neolook.com/archives/2013010303d.jpg
+https://neolook.com/archives/2013010304d.jpg
+https://neolook.com/archives/2013010305d.jpg
+https://neolook.com/archives/2013010306d.jpg

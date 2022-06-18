@@ -1,4 +1,6 @@
 /archives/20220119a
+
+******** description ********
 on the table
 
 강주형_이승훈_강이展
@@ -29,3 +31,8 @@ vimeo.com/355178719,
 ■ 도잉아트
 
 Vol.20220119a | on the table展
+******** imgSrcs ********
+https://neolook.com/archives/2022011901a.jpg
+https://neolook.com/archives/2022011902a.jpg
+https://neolook.com/archives/2022011903a.jpg
+https://neolook.com/archives/2022011904a.jpg

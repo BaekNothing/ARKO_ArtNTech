@@ -1,4 +1,6 @@
 /archives/20190114c
+
+******** description ********
 사이존재
 
 곽수연_김상수_유민석_정우재_주후식_최석운展
@@ -40,3 +42,11 @@ www.instagram.com/gallerymarie_,
 ■ 차경림
 
 Vol.20190114c | 사이존재展
+******** imgSrcs ********
+https://neolook.com/archives/2019011401c.jpg
+https://neolook.com/archives/2019011402c.jpg
+https://neolook.com/archives/2019011403c.jpg
+https://neolook.com/archives/2019011404c.jpg
+https://neolook.com/archives/2019011405c.jpg
+https://neolook.com/archives/2019011406c.jpg
+https://neolook.com/archives/2019011407c.jpg

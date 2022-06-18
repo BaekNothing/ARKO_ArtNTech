@@ -1,4 +1,6 @@
 /archives/20170106c
+
+******** description ********
 Artist Socks Project : STEP BY STEP
 
 노상호_문형태_이혜영_퍼엉_임지빈_성낙진_손동주展
@@ -31,3 +33,12 @@ blog.naver.com/lotte_art,
 ■ 롯데갤러리
 
 Vol.20170106c | Artist Socks Project : STEP BY STEP展
+******** imgSrcs ********
+https://neolook.com/archives/2017010601c.jpg
+https://neolook.com/archives/2017010602c.jpg
+https://neolook.com/archives/2017010603c.jpg
+https://neolook.com/archives/2017010604c.jpg
+https://neolook.com/archives/2017010605c.jpg
+https://neolook.com/archives/2017010606c.jpg
+https://neolook.com/archives/2017010607c.jpg
+https://neolook.com/archives/2017010608c.jpg

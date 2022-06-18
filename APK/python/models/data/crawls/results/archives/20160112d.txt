@@ -1,4 +1,6 @@
 /archives/20160112d
+
+******** description ********
 FRAME SURFACE
 
 이효정展 / LEEHYOJEONG / 李孝晶 / mixed media
@@ -38,3 +40,14 @@ www.sedec.kr,
 ■ 이효정
 
 Vol.20160112d | 이효정展 / LEEHYOJEONG / 李孝晶 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2016011201d.jpg
+https://neolook.com/archives/2016011202d.jpg
+https://neolook.com/archives/2016011203d.jpg
+https://neolook.com/archives/2016011204d.jpg
+https://neolook.com/archives/2016011205d.jpg
+https://neolook.com/archives/2016011206d.jpg
+https://neolook.com/archives/2016011207d.jpg
+https://neolook.com/archives/2016011208d.jpg
+https://neolook.com/archives/2016011209d.jpg
+https://neolook.com/archives/2016011210d.jpg

@@ -1,4 +1,6 @@
 /archives/20150125a
+
+******** description ********
 Debris Debris
 
 경현수展 / KYUNGHYUNSOO / 慶賢秀 / painting
@@ -34,3 +36,11 @@ What You See Is What You Get ●
 ■ 신세계갤러리
 
 Vol.20150125a | 경현수展 / KYUNGHYUNSOO / 慶賢秀 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012501a.jpg
+https://neolook.com/archives/2015012502a.jpg
+https://neolook.com/archives/2015012503a.jpg
+https://neolook.com/archives/2015012504a.jpg
+https://neolook.com/archives/2015012505a.jpg
+https://neolook.com/archives/2015012506a.jpg
+https://neolook.com/archives/2015012507a.jpg

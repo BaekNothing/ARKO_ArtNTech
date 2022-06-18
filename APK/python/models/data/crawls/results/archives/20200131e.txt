@@ -1,4 +1,6 @@
 /archives/20200131e
+
+******** description ********
 ALOGORITHM SELF-PORTRAIT
 
 최윤세展 / ??? / ??? / mixed media
@@ -21,3 +23,7 @@ www.spacebae.com,
 이 실험을 통해서 '유튜브 추천 상 알고리즘이 최윤세를 표현할 수 있는 능력이 어느 정도까지 가능한 것인가?'의 질문에 답변이 될 수 있으며 알고리즘의 가능성에 대해서 언급할 수 있는 작품이 될 수 있기를 바란다. ■ 최윤세
 
 Vol.20200131e | 최윤세展 / ??? / ??? / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2020013101e.jpg
+https://neolook.com/archives/2020013102e.jpg
+https://neolook.com/archives/2020013103e.jpg

@@ -1,4 +1,6 @@
 /archives/20130123g
+
+******** description ********
 반복-사유의 흔적
 
 갤러리 라메르 기획展
@@ -42,3 +44,19 @@ www.gallerylamer.com,
 ■ 김상철
 
 Vol.20130123g | 반복-사유의 흔적展
+******** imgSrcs ********
+https://neolook.com/archives/2013012301g.jpg
+https://neolook.com/archives/2013012302g.jpg
+https://neolook.com/archives/2013012303g.jpg
+https://neolook.com/archives/2013012304g.jpg
+https://neolook.com/archives/2013012305g.jpg
+https://neolook.com/archives/2013012306g.jpg
+https://neolook.com/archives/2013012307g.jpg
+https://neolook.com/archives/2013012308g.jpg
+https://neolook.com/archives/2013012309g.jpg
+https://neolook.com/archives/2013012310g.jpg
+https://neolook.com/archives/2013012311g.jpg
+https://neolook.com/archives/2013012312g.jpg
+https://neolook.com/archives/2013012313g.jpg
+https://neolook.com/archives/2013012314g.jpg
+https://neolook.com/archives/2013012315g.jpg

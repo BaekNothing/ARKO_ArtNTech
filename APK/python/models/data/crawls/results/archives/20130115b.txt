@@ -1,4 +1,6 @@
 /archives/20130115b
+
+******** description ********
 한국민예총! 오늘 해는 다시 떠오른다
 
 2013_0116 ▶ 2013_0129,    ,    
@@ -55,3 +57,9 @@ www.araart.co.kr,
 ■ ,    ■ 문의 한국민족예술단체총연합 본부총국 02-739-6851
 
 Vol.20130115b | 한국민예총! 오늘 해는 다시 떠오른다展
+******** imgSrcs ********
+https://neolook.com/archives/2013011501b.jpg
+https://neolook.com/archives/2013011502b.jpg
+https://neolook.com/archives/2013011503b.jpg
+https://neolook.com/archives/2013011504b.jpg
+https://neolook.com/archives/2013011505b.jpg

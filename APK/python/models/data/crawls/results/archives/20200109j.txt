@@ -1,4 +1,6 @@
 /archives/20200109j
+
+******** description ********
 한겹 blurry layer
 
 조혜진展 / CHOHYEJIN / 趙彗眞 / installation
@@ -41,3 +43,11 @@ www.boan1942.com,
 동시대 대도시의 삶에도 자개장이나 금언(金言)과 같은 역할을 하는 장치와 인식이 존재한다. 그러나 이것 역시 곧 과거가 될 것이며 또한 버려질 것이며 새로운 욕망으로 대체될 차비를 하고 있다. 만일 지금 우리의 삶이 과거가 되었을 때 공통으로 수집되고 집착하던 풍속의 기호들은 단지 흘러간 사물일 뿐일까? 요컨대 조혜진이 만들어 온 집 그 내부와 외부의 은유는 지나간 삶들의 좌절된 욕망을 넘어 앞으로 버려질 지금 우리의 부산물이 지닌 열망과 좌절을 앞서 표상하고 있는 것은 아닐까? ■ 구나연
 
 Vol.20200109j | 조혜진展 / CHOHYEJIN / 趙彗眞 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2020010901j.jpg
+https://neolook.com/archives/2020010902j.jpg
+https://neolook.com/archives/2020010903j.jpg
+https://neolook.com/archives/2020010904j.jpg
+https://neolook.com/archives/2020010905j.jpg
+https://neolook.com/archives/2020010906j.jpg
+https://neolook.com/archives/2020010907j.jpg

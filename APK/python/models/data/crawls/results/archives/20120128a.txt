@@ -1,4 +1,6 @@
 /archives/20120128a
+
+******** description ********
 broken space
 
 작은공간 이소 폐관 기념展
@@ -29,3 +31,14 @@ broken space展_작은공간 이소_2012,
 ■ 작은공간 이소
 
 Vol.20120128a | broken space - 작은공간 이소 폐관 기념展
+******** imgSrcs ********
+https://neolook.com/archives/2012012801a.jpg
+https://neolook.com/archives/2012012802a.jpg
+https://neolook.com/archives/2012012803a.jpg
+https://neolook.com/archives/2012012804a.jpg
+https://neolook.com/archives/2012012805a.jpg
+https://neolook.com/archives/2012012806a.jpg
+https://neolook.com/archives/2012012807a.jpg
+https://neolook.com/archives/2012012808a.jpg
+https://neolook.com/archives/2012012809a.jpg
+https://neolook.com/archives/2012012810a.jpg

@@ -1,4 +1,6 @@
 /archives/20210127b
+
+******** description ********
 새겨진 풍경
 
 이한정_임현경 2인展
@@ -37,3 +39,15 @@ www.hobanartrium.com,
 ■ 호반아트리움
 
 Vol.20210127b | 새겨진 풍경-이한정_임현경 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2021012701b.jpg
+https://neolook.com/archives/2021012702b.jpg
+https://neolook.com/archives/2021012703b.jpg
+https://neolook.com/archives/2021012704b.jpg
+https://neolook.com/archives/2021012705b.jpg
+https://neolook.com/archives/2021012706b.jpg
+https://neolook.com/archives/2021012707b.jpg
+https://neolook.com/archives/2021012708b.jpg
+https://neolook.com/archives/2021012709b.jpg
+https://neolook.com/archives/2021012710b.jpg
+https://neolook.com/archives/2021012711b.jpg

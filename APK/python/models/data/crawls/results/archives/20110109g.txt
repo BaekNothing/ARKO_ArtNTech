@@ -1,4 +1,6 @@
 /archives/20110109g
+
+******** description ********
 비너스-생태학적 상상
 
 송인구展 / SONGINGU / 宋寅球 / painting
@@ -33,3 +35,11 @@ www.isamtoh.com,
 ■ 이종호
 
 Vol.20110109g | 송인구展 / SONGINGU / 宋寅球 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010901g.jpg
+https://neolook.com/archives/2011010902g.jpg
+https://neolook.com/archives/2011010903g.jpg
+https://neolook.com/archives/2011010904g.jpg
+https://neolook.com/archives/2011010905g.jpg
+https://neolook.com/archives/2011010906g.jpg
+https://neolook.com/archives/2011010907g.jpg

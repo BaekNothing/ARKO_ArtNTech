@@ -1,4 +1,6 @@
 /archives/20120119c
+
+******** description ********
 PAINTERS 화가들
 2012_0119 ▶ 2012_0210 / 일요일구정연휴 휴관,    김별_Honest_캔버스에 유채_130.3×162.2cm_2011,    초대일시 / 2012_0119_목요일_05:00pm
 참여작가 / 김별_정유진_홍성준
@@ -22,3 +24,10 @@ www.gallerygabi.com,
 ■ 최희승
 
 Vol.20120119c | PAINTERS 화가들展
+******** imgSrcs ********
+https://neolook.com/archives/2012011901c.jpg
+https://neolook.com/archives/2012011902c.jpg
+https://neolook.com/archives/2012011903c.jpg
+https://neolook.com/archives/2012011904c.jpg
+https://neolook.com/archives/2012011905c.jpg
+https://neolook.com/archives/2012011906c.jpg

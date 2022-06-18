@@ -1,4 +1,6 @@
 /archives/20210125b
+
+******** description ********
 2021 대구예술발전소 입주작가 공모
 
 2021 Open Call for Artist in Residency
@@ -197,3 +199,5 @@ www.daeguartfactory.kr,
 - 주소: (41920)대구광역시 중구 달성로 22길 31-12(수창동)
 
 Vol.20210125b | 2021 대구예술발전소 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2021012501b.jpg

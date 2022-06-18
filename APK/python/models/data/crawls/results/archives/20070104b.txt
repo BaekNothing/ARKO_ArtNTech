@@ -1,4 +1,6 @@
 /archives/20070104b
+
+******** description ********
 정치 디자인 디자인의 정치
 
 책임기획_김현호_이정혜
@@ -37,3 +39,19 @@ www.zeroonecenter.com,
 특별전; 조립되지 않은 혹은 생성되지 않은 의미의 기표 1970~2003: 한국 디자인 사료전
 설치_이정혜,    한편 부대 전시로 『조립되지 않은 혹은 생성되지 않은 의미의 기표 1970~2003; 한국 디자인 사료』전이 열리고 있다. 대한민국 정부가 디자인에 어떻게 정책적으로 개입했으며 또한 디자이너들이 어떻게 활동의 범위를 넓혀 나갔는지를 알려 주는 사료들을 디자이너 이정혜가 열 여섯 개의 책상에 펼쳐진 책의 이미지들로 만들어 전시하고 있다.
 Vol.20070104b | 정치 디자인 디자인의 정치展
+******** imgSrcs ********
+/archives/2007010401b.gif
+https://neolook.com/archives/2007010402b.jpg
+https://neolook.com/archives/2007010403b.jpg
+https://neolook.com/archives/2007010404b.jpg
+https://neolook.com/archives/2007010405b.jpg
+https://neolook.com/archives/2007010406b.jpg
+https://neolook.com/archives/2007010407b.jpg
+https://neolook.com/archives/2007010408b.jpg
+/archives/2007010409b.gif
+https://neolook.com/archives/2007010410b.jpg
+https://neolook.com/archives/2007010411b.jpg
+https://neolook.com/archives/2007010412b.jpg
+https://neolook.com/archives/2007010413b.jpg
+https://neolook.com/archives/2007010414b.jpg
+https://neolook.com/archives/2007010415b.jpg

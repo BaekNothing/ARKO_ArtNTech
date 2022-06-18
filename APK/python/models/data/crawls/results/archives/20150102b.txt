@@ -1,4 +1,6 @@
 /archives/20150102b
+
+******** description ********
 업커밍 Upcoming
 
 2015 KNB아트갤러리 청년작가지원展
@@ -54,3 +56,13 @@ www.knbank.co.kr,
 ■ 정운식
 
 Vol.20150102b | 업커밍 Upcoming-2015 KNB아트갤러리 청년작가지원展
+******** imgSrcs ********
+https://neolook.com/archives/2015010201b.jpg
+https://neolook.com/archives/2015010202b.jpg
+https://neolook.com/archives/2015010203b.jpg
+https://neolook.com/archives/2015010204b.jpg
+https://neolook.com/archives/2015010205b.jpg
+https://neolook.com/archives/2015010206b.jpg
+https://neolook.com/archives/2015010207b.jpg
+https://neolook.com/archives/2015010208b.jpg
+https://neolook.com/archives/2015010209b.jpg

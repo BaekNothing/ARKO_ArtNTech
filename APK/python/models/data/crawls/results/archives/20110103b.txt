@@ -1,4 +1,6 @@
 /archives/20110103b
+
+******** description ********
 시간을 엮다
 
 박석신展 / PARKSEUKSHIN / 朴錫信 / painting.installation
@@ -30,3 +32,11 @@ Tel. +82.2.2029.9885,
 ■ 고경옥
 
 Vol.20110103b | 박석신展 / PARKSEUKSHIN / 朴錫信 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2011010301b.jpg
+https://neolook.com/archives/2011010302b.jpg
+https://neolook.com/archives/2011010303b.jpg
+https://neolook.com/archives/2011010304b.jpg
+https://neolook.com/archives/2011010305b.jpg
+https://neolook.com/archives/2011010306b.jpg
+https://neolook.com/archives/2011010307b.jpg

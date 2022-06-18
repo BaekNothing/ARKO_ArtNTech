@@ -1,4 +1,6 @@
 /archives/20160121f
+
+******** description ********
 SWEET MATE
 2016_0121 ▶ 2016_0314 / 백화점 휴점일 휴관,    버라이어티숨_Icecream Store_디지털 프린트_가변크기_2016,    별도의 초대일시가 없습니다.
 
@@ -31,3 +33,9 @@ blog.naver.com/akgallery_,
 ■ AK 갤러리
 
 Vol.20160121f | SWEET MATE展
+******** imgSrcs ********
+https://neolook.com/archives/2016012101f.jpg
+https://neolook.com/archives/2016012102f.jpg
+https://neolook.com/archives/2016012103f.jpg
+https://neolook.com/archives/2016012104f.jpg
+https://neolook.com/archives/2016012105f.jpg

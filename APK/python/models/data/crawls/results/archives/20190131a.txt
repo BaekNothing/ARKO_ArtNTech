@@ -1,4 +1,6 @@
 /archives/20190131a
+
+******** description ********
 Flags
 
 김이박_노순택_박건웅_박그림_안데스展
@@ -56,3 +58,12 @@ Flags展_두산갤러리 뉴욕_2019,
 3) Born in the 1960s the members of this generation spent their young adulthood in the 1980s to lead the way in student demonstrations and civil movements for the democratization of South Korea.
 
 Vol.20190131a | Flags展
+******** imgSrcs ********
+https://neolook.com/archives/2019013101a.jpg
+https://neolook.com/archives/2019013102a.jpg
+https://neolook.com/archives/2019013103a.jpg
+https://neolook.com/archives/2019013104a.jpg
+https://neolook.com/archives/2019013105a.jpg
+https://neolook.com/archives/2019013106a.jpg
+https://neolook.com/archives/2019013107a.jpg
+https://neolook.com/archives/2019013108a.jpg

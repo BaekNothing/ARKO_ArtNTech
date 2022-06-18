@@ -1,4 +1,6 @@
 /archives/20150114g
+
+******** description ********
 다른 방식의 ○
 
 두산 큐레이터 워크샵 기획展
@@ -38,3 +40,10 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20150114g | 다른 방식의 ○-두산 큐레이터 워크샵 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2015011401g.jpg
+https://neolook.com/archives/2015011402g.jpg
+https://neolook.com/archives/2015011403g.jpg
+https://neolook.com/archives/2015011404g.jpg
+https://neolook.com/archives/2015011405g.jpg
+https://neolook.com/archives/2015011406g.jpg

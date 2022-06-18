@@ -1,4 +1,6 @@
 /archives/20180124h
+
+******** description ********
 2018 SDU BFA
 
 제7회 서울디지털대학교 회화과 졸업展
@@ -63,3 +65,16 @@ www.topohaus.com,
 ■ 유정현
 
 Vol.20180124h | 2018 SDU BFA-제7회 서울디지털대학교 회화과 졸업展
+******** imgSrcs ********
+https://neolook.com/archives/2018012401h.jpg
+https://neolook.com/archives/2018012402h.jpg
+https://neolook.com/archives/2018012403h.jpg
+https://neolook.com/archives/2018012404h.jpg
+https://neolook.com/archives/2018012405h.jpg
+https://neolook.com/archives/2018012406h.jpg
+https://neolook.com/archives/2018012407h.jpg
+https://neolook.com/archives/2018012408h.jpg
+https://neolook.com/archives/2018012409h.jpg
+https://neolook.com/archives/2018012410h.jpg
+https://neolook.com/archives/2018012411h.jpg
+https://neolook.com/archives/2018012412h.jpg

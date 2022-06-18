@@ -1,4 +1,6 @@
 /archives/20130125b
+
+******** description ********
 아이러니_복제된 형상구조 속 전복의 미학
 
 관용展 / Guan Yong / 管勇 / painting.sculpture
@@ -35,3 +37,11 @@ www.interalia.co.kr,
 ■ 김미령
 
 Vol.20130125b | 관용展 / Guan Yong / 管勇 / painting.sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013012501b.jpg
+https://neolook.com/archives/2013012502b.jpg
+https://neolook.com/archives/2013012503b.jpg
+https://neolook.com/archives/2013012504b.jpg
+https://neolook.com/archives/2013012505b.jpg
+https://neolook.com/archives/2013012506b.jpg
+https://neolook.com/archives/2013012507b.jpg

@@ -1,4 +1,6 @@
 /archives/20150128e
+
+******** description ********
 브릴리언트 메모리즈 brilliant memories
 
 현대자동차 GBC 캠페인展
@@ -49,3 +51,10 @@ www.ddp.or.kr,
 ■ 강수미
 
 Vol.20150128e | 브릴리언트 메모리즈 brilliant memories-현대자동차 GBC 캠페인展
+******** imgSrcs ********
+https://neolook.com/archives/2015012801e.jpg
+https://neolook.com/archives/2015012802e.jpg
+https://neolook.com/archives/2015012803e.jpg
+https://neolook.com/archives/2015012804e.jpg
+https://neolook.com/archives/2015012805e.jpg
+https://neolook.com/archives/2015012806e.jpg

@@ -1,4 +1,6 @@
 /archives/20150113c
+
+******** description ********
 공간의 재해석 Space Redefined
 
 강홍구_박찬우_임준영_시즌 라오展
@@ -37,3 +39,13 @@ blog.naver.com/galleryjj,
 ■ 
 
 Vol.20150113c | 공간의 재해석 Space Redefined展
+******** imgSrcs ********
+https://neolook.com/archives/2015011301c.jpg
+https://neolook.com/archives/2015011302c.jpg
+https://neolook.com/archives/2015011303c.jpg
+https://neolook.com/archives/2015011304c.jpg
+https://neolook.com/archives/2015011305c.jpg
+https://neolook.com/archives/2015011306c.jpg
+https://neolook.com/archives/2015011307c.jpg
+https://neolook.com/archives/2015011308c.jpg
+https://neolook.com/archives/2015011309c.jpg

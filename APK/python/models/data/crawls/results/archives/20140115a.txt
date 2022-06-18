@@ -1,4 +1,6 @@
 /archives/20140115a
+
+******** description ********
 It's Pouring
 
 강옥주展 / KANGOKJOO / 姜沃住 / photography
@@ -34,3 +36,10 @@ www.gallerydos.com,
 ■ 윤채원
 
 Vol.20140115a | 강옥주展 / KANGOKJOO / 姜沃住 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2014011501a.jpg
+https://neolook.com/archives/2014011502a.jpg
+https://neolook.com/archives/2014011503a.jpg
+https://neolook.com/archives/2014011504a.jpg
+https://neolook.com/archives/2014011505a.jpg
+https://neolook.com/archives/2014011506a.jpg

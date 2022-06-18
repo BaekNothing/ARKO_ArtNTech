@@ -1,4 +1,6 @@
 /archives/20130123c
+
+******** description ********
 Eye Code 2013
 
 안수인展 / AHNSOOIN / 安秀婣 / painting
@@ -29,3 +31,9 @@ www.spaceinno.com,
 ■ 안수인
 
 Vol.20130123c | 안수인展 / AHNSOOIN / 安秀婣 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012301c.jpg
+https://neolook.com/archives/2013012302c.jpg
+https://neolook.com/archives/2013012303c.jpg
+https://neolook.com/archives/2013012304c.jpg
+https://neolook.com/archives/2013012305c.jpg

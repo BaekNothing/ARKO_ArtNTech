@@ -1,4 +1,6 @@
 /archives/20080115f
+
+******** description ********
 理 想
 
 이상순展 / LEESANGSOON / 李相順 / painting
@@ -22,3 +24,12 @@ mooze.co.kr,
 
 이상순_이상-Idea_장지에 채색_130×194cm_2007,    현실 속에서의 작은 도피 또 다른 미지의 세계에 대한 동경이 이처럼 이색적인 풍경을 보여 주고 있다. ■ 스페이스 아침
 Vol.20080115f | 이상순展 / LEESANGSOON / 李相順 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2008011501f.jpg
+https://neolook.com/archives/2008011502f.jpg
+https://neolook.com/archives/2008011503f.jpg
+https://neolook.com/archives/2008011504f.jpg
+https://neolook.com/archives/2008011505f.jpg
+https://neolook.com/archives/2008011506f.jpg
+https://neolook.com/archives/2008011507f.jpg
+https://neolook.com/archives/2008011508f.jpg

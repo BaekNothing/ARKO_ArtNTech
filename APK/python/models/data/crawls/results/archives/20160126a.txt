@@ -1,4 +1,6 @@
 /archives/20160126a
+
+******** description ********
 의식의 분절 An Articulation in Conscience
 
 서정배展 / SEOJEONGBAE / 徐正培 / installation.drawing
@@ -39,3 +41,11 @@ blog.naver.com/palaisdes,
 ■ 서정배
 
 Vol.20160126a | 서정배展 / SEOJEONGBAE / 徐正培 / installation.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2016012601a.jpg
+https://neolook.com/archives/2016012602a.jpg
+https://neolook.com/archives/2016012603a.jpg
+https://neolook.com/archives/2016012604a.jpg
+https://neolook.com/archives/2016012605a.jpg
+https://neolook.com/archives/2016012606a.jpg
+https://neolook.com/archives/2016012607a.jpg

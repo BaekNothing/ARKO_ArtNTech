@@ -1,4 +1,6 @@
 /archives/20110121g
+
+******** description ********
 디지털 희.노.애.락
 
 2011년 한빛미디어갤러리 테마기획展
@@ -30,3 +32,8 @@ SCAT(TERED) ●  「SCAT(TERED)」(스캣)은 재즈 따위에서 가사 대신 
 ■ 전석환
 
 Vol.20110121g | 디지털 희.노.애.락展
+******** imgSrcs ********
+https://neolook.com/archives/2011012101g.jpg
+https://neolook.com/archives/2011012102g.jpg
+https://neolook.com/archives/2011012103g.jpg
+https://neolook.com/archives/2011012104g.jpg

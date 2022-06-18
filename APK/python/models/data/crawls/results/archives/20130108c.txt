@@ -1,4 +1,6 @@
 /archives/20130108c
+
+******** description ********
 이정展 / LEEJUNG / 李晶 / photography
  
 2013_0108 ▶ 2013_0204,    
@@ -32,3 +34,6 @@ evinces the recurrent void echoes of the inner self.
 ■ LEEJUNG
 
 Vol.20130108c | 이정展 / LEEJUNG / 李晶 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2013010801c.jpg
+https://neolook.com/archives/2013010802c.jpg

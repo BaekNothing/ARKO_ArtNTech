@@ -1,4 +1,6 @@
 /archives/20210105d
+
+******** description ********
 회화와 회화하다
 
 손유화展 / SONYUHWA / 孫唯花 / painting
@@ -38,3 +40,11 @@ www.a-lounge.kr,
 * 사회적 거리두기 강화로 인해 비공개로 진행합니다.
 
 Vol.20210105d | 손유화展 / SONYUHWA / 孫唯花 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021010501d.jpg
+https://neolook.com/archives/2021010502d.jpg
+https://neolook.com/archives/2021010503d.jpg
+https://neolook.com/archives/2021010504d.jpg
+https://neolook.com/archives/2021010505d.jpg
+https://neolook.com/archives/2021010506d.jpg
+https://neolook.com/archives/2021010507d.jpg

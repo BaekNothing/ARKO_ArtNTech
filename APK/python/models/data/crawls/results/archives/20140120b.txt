@@ -1,4 +1,6 @@
 /archives/20140120b
+
+******** description ********
 선물
 
 2014 DF 작가展
@@ -30,3 +32,10 @@ Tel. +82.2.325.6248,
 ■ 갤러리 소유
 
 Vol.20140120b | 선물-2014 DF 작가展
+******** imgSrcs ********
+https://neolook.com/archives/2014012001b.jpg
+https://neolook.com/archives/2014012002b.jpg
+https://neolook.com/archives/2014012003b.jpg
+https://neolook.com/archives/2014012004b.jpg
+https://neolook.com/archives/2014012005b.jpg
+https://neolook.com/archives/2014012006b.jpg

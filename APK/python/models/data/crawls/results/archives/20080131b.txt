@@ -1,4 +1,6 @@
 /archives/20080131b
+
+******** description ********
 그림의 대면_동양화와 서양화의 접경
 
 기획_현대회화연구소
@@ -48,3 +50,11 @@ www.somamuseum.org,
 
 Mae Smith_Harido_캔버스에 유채_86.36×86.36cm_2007,    여전히 회화예술에 전방과 내일이 있다면 이 프로젝트는 현대회화의 지역적 특성을 검증하고 전망하는 실마리를 현장에서 제공할 수 있을 것이다. ■ 소마미술관
 Vol.20080131b | 그림의 대면(對面)_동양화와 서양화의 접경(接境)展
+******** imgSrcs ********
+/archives/2008013101b.gif
+https://neolook.com/archives/2008013102b.jpg
+https://neolook.com/archives/2008013103b.jpg
+https://neolook.com/archives/2008013104b.jpg
+https://neolook.com/archives/2008013105b.jpg
+/archives/2008013106b.gif
+/archives/2008013107b.gif

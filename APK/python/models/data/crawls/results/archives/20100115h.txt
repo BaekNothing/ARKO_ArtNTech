@@ -1,4 +1,6 @@
 /archives/20100115h
+
+******** description ********
 Drawing17 어떤 정복 A Certain Conquest
 
 이지은展 / LEEJIEUN / 李知恩 / painting.installation
@@ -50,3 +52,11 @@ About artist ● 이지은
 개구리가 그려져 있거나 등장하는 모든 것(심지어 '개구리'라는 단어를 입력하고 눈으로 읽어야 하는 지금의 순간을 포함해서)에 거부감을 가지고 있다. 물에 들어간 생선 요리를 먹지 않는다. 지구 멸망을 기다리는 부하들을 만들어내면서 우주의 먼지스러운 잉여의 생활을 즐기고 있다. 
 
 Vol.20100115h | 이지은展 / LEEJIEUN / 李知恩 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2010011501h.jpg
+https://neolook.com/archives/2010011502h.jpg
+https://neolook.com/archives/2010011503h.jpg
+https://neolook.com/archives/2010011504h.jpg
+https://neolook.com/archives/2010011505h.jpg
+https://neolook.com/archives/2010011506h.jpg
+https://neolook.com/archives/2010011507h.jpg

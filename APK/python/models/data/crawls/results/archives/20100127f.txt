@@ -1,4 +1,6 @@
 /archives/20100127f
+
+******** description ********
 구경모展 / KOOKYUNGMO / 具暻謨 / sculpture
  
 2010_0127 ▶ 2010_0201,    
@@ -21,3 +23,9 @@ gana.insaartcenter.com,
 구경모_Hug 03_석기질점토_114×33×31cm_2009
 
 구경모_Loneliness01_석기질점토_101×35×29cm_2009,    Vol.20100127f | 구경모展 / KOOKYUNGMO / 具暻謨 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2010012701f.jpg
+https://neolook.com/archives/2010012702f.jpg
+https://neolook.com/archives/2010012703f.jpg
+https://neolook.com/archives/2010012704f.jpg
+https://neolook.com/archives/2010012705f.jpg

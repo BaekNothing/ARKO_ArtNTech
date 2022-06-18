@@ -1,4 +1,6 @@
 /archives/20180119e
+
+******** description ********
 대전현대미술의 태동-시대정신
 
 대전시립미술관 20주년:대전미술아카이브展
@@ -75,3 +77,24 @@ dmma.daejeon.go.kr,
 ■ 대전시립미술관
 
 Vol.20180119e | 대전현대미술의 태동-시대정신-대전시립미술관 20주년:대전미술아카이브展
+******** imgSrcs ********
+https://neolook.com/archives/2018011901e.jpg
+https://neolook.com/archives/2018011902e.jpg
+https://neolook.com/archives/2018011903e.jpg
+https://neolook.com/archives/2018011904e.jpg
+https://neolook.com/archives/2018011905e.jpg
+https://neolook.com/archives/2018011906e.jpg
+https://neolook.com/archives/2018011907e.jpg
+https://neolook.com/archives/2018011908e.jpg
+https://neolook.com/archives/2018011909e.jpg
+https://neolook.com/archives/2018011910e.jpg
+https://neolook.com/archives/2018011911e.jpg
+https://neolook.com/archives/2018011912e.jpg
+https://neolook.com/archives/2018011913e.jpg
+https://neolook.com/archives/2018011914e.jpg
+https://neolook.com/archives/2018011915e.jpg
+https://neolook.com/archives/2018011916e.jpg
+https://neolook.com/archives/2018011917e.jpg
+https://neolook.com/archives/2018011918e.jpg
+https://neolook.com/archives/2018011919e.jpg
+https://neolook.com/archives/2018011920e.jpg

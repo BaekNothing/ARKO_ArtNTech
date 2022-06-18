@@ -1,4 +1,6 @@
 /archives/20160113b
+
+******** description ********
 관계 Relationship
 
 백수정展 / BAEKSUJUNG / 白修貞 / mixed media
@@ -74,3 +76,11 @@ How do you communicate with a tree beside you who are looking at the painting?
 ■ BAEKSUJUNG
 
 Vol.20160113b | 백수정展 / BAEKSUJUNG / 白修貞 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2016011301b.jpg
+https://neolook.com/archives/2016011302b.jpg
+https://neolook.com/archives/2016011303b.jpg
+https://neolook.com/archives/2016011304b.jpg
+https://neolook.com/archives/2016011305b.jpg
+https://neolook.com/archives/2016011306b.jpg
+https://neolook.com/archives/2016011307b.jpg

@@ -1,4 +1,6 @@
 /archives/20180101k
+
+******** description ********
 MONAD-Double Slit
 
 포토닷 2018년 1월호
@@ -75,3 +77,13 @@ Photodot + Radar 3_원춘호 『사람 한대수』,
        김두영 『제 3의 눈』(2018.1.17 - 1.29 갤러리 인덱스)
 
 Vol.20180101k | MONAD-Double Slit
+******** imgSrcs ********
+https://neolook.com/archives/2018010101k.jpg
+https://neolook.com/archives/2018010102k.jpg
+https://neolook.com/archives/2018010103k.jpg
+https://neolook.com/archives/2018010104k.jpg
+https://neolook.com/archives/2018010105k.jpg
+https://neolook.com/archives/2018010106k.jpg
+https://neolook.com/archives/2018010107k.jpg
+https://neolook.com/archives/2018010108k.jpg
+https://neolook.com/archives/2018010109k.jpg

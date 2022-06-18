@@ -1,4 +1,6 @@
 /archives/20130117a
+
+******** description ********
 Permeated Perspective: Young Korean Painters
 
 2013_0117 ▶ 2013_0216 / 일월요일 휴관,    
@@ -38,3 +40,10 @@ www.doosangallery.com,
 ■ 두산갤러리 뉴욕
 
 Vol.20130117a | Permeated Perspective: Young Korean Painters展
+******** imgSrcs ********
+https://neolook.com/archives/2013011701a.jpg
+https://neolook.com/archives/2013011702a.jpg
+https://neolook.com/archives/2013011703a.jpg
+https://neolook.com/archives/2013011704a.jpg
+https://neolook.com/archives/2013011705a.jpg
+https://neolook.com/archives/2013011706a.jpg

@@ -1,4 +1,6 @@
 /archives/20180102g
+
+******** description ********
 Colorscape
 
 정하눅展 / JUNGHANUK / 鄭桓旭 / painting
@@ -30,3 +32,9 @@ blog.naver.com/rundgallery,
 ■ 정하눅
 
 Vol.20180102g | 정하눅展 / JUNGHANUK / 鄭桓旭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010201g.jpg
+https://neolook.com/archives/2018010202g.jpg
+https://neolook.com/archives/2018010203g.jpg
+https://neolook.com/archives/2018010204g.jpg
+https://neolook.com/archives/2018010205g.jpg

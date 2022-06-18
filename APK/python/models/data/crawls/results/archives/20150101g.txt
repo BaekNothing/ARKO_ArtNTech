@@ -1,4 +1,6 @@
 /archives/20150101g
+
+******** description ********
 2015 Asian Art Events: Biennales & Art Fairs
 
 아트인아시아 2015년 1. 2월호
@@ -24,3 +26,9 @@ Zhao Yao: The Relationship between Image and Viewer_Sylvie Tiao,    ,    ,    CU
 Politics of Difference Politics of Representation Political Patterns_Regina Shin,    ,    
 
 Vol.20150101g | 2015 Asian Art Events: Biennales & Art Fairs
+******** imgSrcs ********
+https://neolook.com/archives/2015010101g.jpg
+https://neolook.com/archives/2015010102g.jpg
+https://neolook.com/archives/2015010103g.jpg
+https://neolook.com/archives/2015010104g.jpg
+https://neolook.com/archives/2015010105g.jpg

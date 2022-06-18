@@ -1,4 +1,6 @@
 /archives/20180126c
+
+******** description ********
 암전 暗轉 blackout
 
 조경란展 / CHOKYUNGRAN / 趙京蘭 / video.installation
@@ -36,3 +38,11 @@ cr-collective.co.kr,
 ■ 씨알콜렉티브
 
 Vol.20180126c | 조경란展 / CHOKYUNGRAN / 趙京蘭 / video.installation
+******** imgSrcs ********
+https://neolook.com/archives/2018012601c.jpg
+https://neolook.com/archives/2018012602c.jpg
+https://neolook.com/archives/2018012603c.jpg
+https://neolook.com/archives/2018012604c.jpg
+https://neolook.com/archives/2018012605c.jpg
+https://neolook.com/archives/2018012606c.jpg
+https://neolook.com/archives/2018012607c.jpg

@@ -1,4 +1,6 @@
 /archives/20120112c
+
+******** description ********
 Artists with Arario 2011_Part 3
 
 2012_0112 ▶ 2012_0226 / 월요일 휴관,    
@@ -48,3 +50,14 @@ www.arariogallery.co.kr,
  ■ 아라리오 갤러리
 
 Vol.20120112c | Artists with Arario 2011_Part 3展
+******** imgSrcs ********
+https://neolook.com/archives/2012011201c.jpg
+https://neolook.com/archives/2012011202c.jpg
+https://neolook.com/archives/2012011203c.jpg
+https://neolook.com/archives/2012011204c.jpg
+https://neolook.com/archives/2012011205c.jpg
+https://neolook.com/archives/2012011206c.jpg
+https://neolook.com/archives/2012011207c.jpg
+https://neolook.com/archives/2012011208c.jpg
+https://neolook.com/archives/2012011209c.jpg
+https://neolook.com/archives/2012011210c.jpg

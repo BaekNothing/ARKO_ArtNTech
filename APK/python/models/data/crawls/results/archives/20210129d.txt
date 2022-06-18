@@ -1,4 +1,6 @@
 /archives/20210129d
+
+******** description ********
 2021 SNAB ACQUISITIONS
 
 2021 성남미술은행 소장품展
@@ -48,3 +50,11 @@ www.snab.or.kr,
 ■ 민재영
 
 Vol.20210129d | 2021 SNAB ACQUISITIONS-2021 성남미술은행 소장품展
+******** imgSrcs ********
+https://neolook.com/archives/2021012901d.jpg
+https://neolook.com/archives/2021012902d.jpg
+https://neolook.com/archives/2021012903d.jpg
+https://neolook.com/archives/2021012904d.jpg
+https://neolook.com/archives/2021012905d.jpg
+https://neolook.com/archives/2021012906d.jpg
+https://neolook.com/archives/2021012907d.jpg

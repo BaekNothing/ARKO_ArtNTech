@@ -1,4 +1,6 @@
 /archives/20210108d
+
+******** description ********
 변환지점 Transition Spot
 
 김인영展 / KIMINYOUNG / 金仁英 / installation
@@ -40,3 +42,11 @@ www.youtube.com/incheonartplatform,
 ■ 김인영
 
 Vol.20210108d | 김인영展 / KIMINYOUNG / 金仁英 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2021010801d.jpg
+https://neolook.com/archives/2021010802d.jpg
+https://neolook.com/archives/2021010803d.jpg
+https://neolook.com/archives/2021010804d.jpg
+https://neolook.com/archives/2021010805d.jpg
+https://neolook.com/archives/2021010806d.jpg
+https://neolook.com/archives/2021010807d.jpg

@@ -1,4 +1,6 @@
 /archives/20220126b
+
+******** description ********
 외곽순환
 
 김기수展 / KIMGISOO / 金基洙 / painting
@@ -47,3 +49,13 @@ www.artbit.kr,
 ** 배드 페인팅은 1970년대 미국 형상미술 중 한 흐름에 붙여진 명칭으로 비평가이지 큐레이터인 마르시아 터커Marcia Tucker가 1978년 뉴욕의 뉴뮤지엄New Museum of Contemporary Art에서 했던 동명의 전시 이름에서 유래. 배드페인팅은 당대의 스타일들에 대한 의도적이며 고의적인 불신을 표방하는 작품들을 말함. 특징은 형상의 변형 미술사적 자료와 비미술 자료의 혼합 환상적이거나 부적절한 내용 같은 것들. 배드 페인팅은 정확한 재현이나 예술에 대한 관습적 태도를 무시하는 가운데 재미있으면서 뭉클하기도 하며 종종 좋은 취향이라는 기준을 비웃는 황당함을 드러냄. 위키피디아 참조.
 
 Vol.20220126b | 김기수展 / KIMGISOO / 金基洙 / painting展
+******** imgSrcs ********
+https://neolook.com/archives/2022012601b.jpg
+https://neolook.com/archives/2022012602b.jpg
+https://neolook.com/archives/2022012603b.jpg
+https://neolook.com/archives/2022012604b.jpg
+https://neolook.com/archives/2022012605b.jpg
+https://neolook.com/archives/2022012606b.jpg
+https://neolook.com/archives/2022012607b.jpg
+https://neolook.com/archives/2022012608b.jpg
+https://neolook.com/archives/2022012609b.jpg

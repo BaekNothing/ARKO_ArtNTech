@@ -1,4 +1,6 @@
 /archives/20120120a
+
+******** description ********
 I'm Fine
 
 2012_0120 ▶ 2012_0131,    
@@ -43,3 +45,11 @@ cafe.daum.net/gallerybresson,
  ■ 이정용
 
 Vol.20120120a | I'm Fine展
+******** imgSrcs ********
+https://neolook.com/archives/2012012001a.jpg
+https://neolook.com/archives/2012012002a.jpg
+https://neolook.com/archives/2012012003a.jpg
+https://neolook.com/archives/2012012004a.jpg
+https://neolook.com/archives/2012012005a.jpg
+https://neolook.com/archives/2012012006a.jpg
+https://neolook.com/archives/2012012007a.jpg

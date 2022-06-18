@@ -1,4 +1,6 @@
 /archives/20070105c
+
+******** description ********
 part 3. 2006 깜보's
 
 일회용展
@@ -28,3 +30,8 @@ www.mass.or.kr,
 최진호_정체성 / 윤용일_'디자이너윤'의 진짜명품
 김철민_The real,    우리 생활에서 빠질수 없는 '일회용' 신인작가들이 갖고 있는 시각과 생각으로 '일회용'의 다양한 이야깃거리를 보여주는 전시이다. 우리 사회에서 '일회용'이 갖고 있는 의미들을 영상과 설치 사진 등을 통해 생각해 볼 수 있는 자리가 될 것이다. ■ 스페이스 매스
 Vol.20070105c | 일회용展
+******** imgSrcs ********
+/archives/2007010501c.gif
+https://neolook.com/archives/2007010502c.jpg
+https://neolook.com/archives/2007010503c.jpg
+https://neolook.com/archives/2007010504c.jpg

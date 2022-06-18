@@ -1,4 +1,6 @@
 /archives/20100119a
+
+******** description ********
 유기적 거리 organic distance
 
 강현선_김호준_박성환_백주미展
@@ -43,3 +45,12 @@ www.chungsoyoung.com,
 ■ 유기적 거리 organic distance展
 
 Vol.20100119a | 유기적 거리 organic distance展
+******** imgSrcs ********
+https://neolook.com/archives/2010011901a.jpg
+https://neolook.com/archives/2010011902a.jpg
+https://neolook.com/archives/2010011903a.jpg
+https://neolook.com/archives/2010011904a.jpg
+https://neolook.com/archives/2010011905a.jpg
+https://neolook.com/archives/2010011906a.jpg
+https://neolook.com/archives/2010011907a.jpg
+https://neolook.com/archives/2010011908a.jpg

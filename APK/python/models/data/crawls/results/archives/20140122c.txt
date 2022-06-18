@@ -1,4 +1,6 @@
 /archives/20140122c
+
+******** description ********
 팬도럼 Pandorum 우주공황장애
 
 안미영展 / AHNMIYOUNG / 安美影 / photography
@@ -42,3 +44,11 @@ www.gallerylux.net,
 ■ 안미영
 
 Vol.20140122c | 안미영展 / AHNMIYOUNG / 安美影 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2014012201c.jpg
+https://neolook.com/archives/2014012202c.jpg
+https://neolook.com/archives/2014012203c.jpg
+https://neolook.com/archives/2014012204c.jpg
+https://neolook.com/archives/2014012205c.jpg
+https://neolook.com/archives/2014012206c.jpg
+https://neolook.com/archives/2014012207c.jpg

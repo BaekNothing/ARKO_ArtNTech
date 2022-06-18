@@ -1,4 +1,6 @@
 /archives/20140124e
+
+******** description ********
 EX-AIR: 경험의 공기
 
 2013 국제교환입주프로그램 결과보고展
@@ -60,3 +62,13 @@ www.mmca.go.kr,
 ■ 장우진
 
 Vol.20140124e | EX-AIR: 경험의 공기-2013 국제교환입주프로그램 결과보고展
+******** imgSrcs ********
+https://neolook.com/archives/2014012401e.jpg
+https://neolook.com/archives/2014012402e.jpg
+https://neolook.com/archives/2014012403e.jpg
+https://neolook.com/archives/2014012404e.jpg
+https://neolook.com/archives/2014012405e.jpg
+https://neolook.com/archives/2014012406e.jpg
+https://neolook.com/archives/2014012407e.jpg
+https://neolook.com/archives/2014012408e.jpg
+https://neolook.com/archives/2014012409e.jpg

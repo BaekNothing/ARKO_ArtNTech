@@ -1,4 +1,6 @@
 /archives/20120112e
+
+******** description ********
 앗 뜨거 "It's so hot" 
 
 이지나展 / LEEJINA / 李지나 / painting
@@ -31,3 +33,11 @@ www.sunarts.kr,
  ■ 이지나
 
 Vol.20120112e | 이지나展 / LEEJINA / 李지나 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011201e.jpg
+https://neolook.com/archives/2012011202e.jpg
+https://neolook.com/archives/2012011203e.jpg
+https://neolook.com/archives/2012011204e.jpg
+https://neolook.com/archives/2012011205e.jpg
+https://neolook.com/archives/2012011206e.jpg
+https://neolook.com/archives/2012011207e.jpg

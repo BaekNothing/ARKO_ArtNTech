@@ -1,4 +1,6 @@
 /archives/20220117d
+
+******** description ********
 2022년 영국×독일 한국문화원 공모전
 
 2022 KCC OPEN CALL UK × GERMANY
@@ -53,3 +55,5 @@ kccuk.org.uk/en/,
 
 ▶ 공모 상세 페이지
 Vol.20220117d | 2022년 영국×독일 한국문화원 공모전
+******** imgSrcs ********
+https://neolook.com/archives/2022011701d.jpg

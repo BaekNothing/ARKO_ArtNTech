@@ -1,4 +1,6 @@
 /archives/20180126e
+
+******** description ********
 그 날 풍 경
 
 양승우展 / YANGSEUNGWOO / 梁丞佑 / photography
@@ -42,3 +44,14 @@ www.facebook.com/INDIPRESS/,
 ■ 김동화
 
 Vol.20180126e | 양승우展 / YANGSEUNGWOO / 梁丞佑 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018012601e.jpg
+https://neolook.com/archives/2018012602e.jpg
+https://neolook.com/archives/2018012603e.jpg
+https://neolook.com/archives/2018012604e.jpg
+https://neolook.com/archives/2018012605e.jpg
+https://neolook.com/archives/2018012606e.jpg
+https://neolook.com/archives/2018012607e.jpg
+https://neolook.com/archives/2018012608e.jpg
+https://neolook.com/archives/2018012609e.jpg
+https://neolook.com/archives/2018012610e.jpg

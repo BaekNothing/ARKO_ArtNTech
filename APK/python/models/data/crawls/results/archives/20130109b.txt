@@ -1,4 +1,6 @@
 /archives/20130109b
+
+******** description ********
 The City of No Limits
 
 김지혜展 / KIMJIHEA / 金智惠 / photography
@@ -34,3 +36,10 @@ www.gallerylamer.com,
 ■ 고충환
 
 Vol.20130109b | 김지혜展 / KIMJIHEA / 金智惠 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2013010901b.jpg
+https://neolook.com/archives/2013010902b.jpg
+https://neolook.com/archives/2013010903b.jpg
+https://neolook.com/archives/2013010904b.jpg
+https://neolook.com/archives/2013010905b.jpg
+https://neolook.com/archives/2013010906b.jpg

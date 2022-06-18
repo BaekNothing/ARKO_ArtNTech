@@ -1,4 +1,6 @@
 /archives/20190115c
+
+******** description ********
 .
 
 정혜정展 / JEUNGHYEJUNG / 鄭惠晶 / painting
@@ -40,3 +42,14 @@ www.dscf.or.kr,
 ■ 고재령
 
 Vol.20190115c | 정혜정展 / JEUNGHYEJUNG / 鄭惠晶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011501c.jpg
+https://neolook.com/archives/2019011502c.jpg
+https://neolook.com/archives/2019011503c.jpg
+https://neolook.com/archives/2019011504c.jpg
+https://neolook.com/archives/2019011505c.jpg
+https://neolook.com/archives/2019011506c.jpg
+https://neolook.com/archives/2019011507c.jpg
+https://neolook.com/archives/2019011508c.jpg
+https://neolook.com/archives/2019011509c.jpg
+https://neolook.com/archives/2019011510c.jpg

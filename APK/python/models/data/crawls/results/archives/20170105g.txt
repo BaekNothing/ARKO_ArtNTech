@@ -1,4 +1,6 @@
 /archives/20170105g
+
+******** description ********
 낯섦에 관한 기억 걷기 Memories of strangers walking
 
 김태훈展 / KIMTAEHOON / 金泰勳 / installation.video
@@ -26,3 +28,10 @@ www.cmoa.or.kr/cjas/index.do,
 ■ 청주미술창작스튜디오
 
 Vol.20170105g | 김태훈展 / KIMTAEHOON / 金泰勳 / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2017010501g.jpg
+https://neolook.com/archives/2017010502g.jpg
+https://neolook.com/archives/2017010503g.jpg
+https://neolook.com/archives/2017010504g.jpg
+https://neolook.com/archives/2017010505g.jpg
+https://neolook.com/archives/2017010506g.jpg

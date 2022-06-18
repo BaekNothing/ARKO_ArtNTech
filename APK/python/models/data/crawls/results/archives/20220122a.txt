@@ -1,4 +1,6 @@
 /archives/20220122a
+
+******** description ********
 L에게 밀려오다
 
 이은미展 / LEEEUNMI / 李銀美 / painting
@@ -41,3 +43,11 @@ www.gallerydam.com,
 ■ 이은미
 
 Vol.20220122a | 이은미展 / LEEEUNMI / 李銀美 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022012201a.jpg
+https://neolook.com/archives/2022012202a.jpg
+https://neolook.com/archives/2022012203a.jpg
+https://neolook.com/archives/2022012204a.jpg
+https://neolook.com/archives/2022012205a.jpg
+https://neolook.com/archives/2022012206a.jpg
+https://neolook.com/archives/2022012207a.jpg

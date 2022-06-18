@@ -1,4 +1,6 @@
 /archives/20090108a
+
+******** description ********
 PROPOSE
 
 UNC 갤러리 기획展
@@ -30,3 +32,11 @@ www.uncgallery.com,
 101st Proposal of the Contemporary Fine Art ● Just as a man confesses his love to his lover our contemporary fine art has continued to propose to the world. The young artists' proposals characterized by passion for the world throbbing for the unknown world challenge for the seemingly impossible things and confession of conviction and faith of all these things can be no fresher freer or more serious. Although the earth is freezing and the society and economy are depressed in this winter each of the artists is armed in different ways to prepare their proposals. Since you know the spring comes why don't you accept the beautiful artists' proposals? ■ LEEJEONGEUN
 
 Vol.20090108a | PROPOSE - UNC 갤러리 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2009010801a.jpg
+https://neolook.com/archives/2009010802a.jpg
+https://neolook.com/archives/2009010803a.jpg
+https://neolook.com/archives/2009010804a.jpg
+https://neolook.com/archives/2009010805a.jpg
+https://neolook.com/archives/2009010806a.jpg
+https://neolook.com/archives/2009010807a.jpg

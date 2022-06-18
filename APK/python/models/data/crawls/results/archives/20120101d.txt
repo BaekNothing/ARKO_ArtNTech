@@ -1,4 +1,6 @@
 /archives/20120101d
+
+******** description ********
 흑룡띠해를 맞이하는 자세
 
 미술세계 2012년 1월호
@@ -43,3 +45,9 @@ Special Feature
 168  Postscripts 편집후기
 
 Vol.20120101d | 흑룡띠해를 맞이하는 자세
+******** imgSrcs ********
+https://neolook.com/archives/2012010101d.jpg
+https://neolook.com/archives/2012010102d.jpg
+https://neolook.com/archives/2012010103d.jpg
+https://neolook.com/archives/2012010104d.jpg
+https://neolook.com/archives/2012010105d.jpg

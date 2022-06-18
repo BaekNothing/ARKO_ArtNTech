@@ -1,4 +1,6 @@
 /archives/20150108c
+
+******** description ********
 캔버스 망막 Canvas Retina
 
 권구희展 / KWONGUHUI / 權九喜 / painting
@@ -32,3 +34,8 @@ Canvas + installation 2차원의 평면작업을 설치의 오브제로 탈바�
 ■ 이은주
 
 Vol.20150108c | 권구희展 / KWONGUHUI / 權九喜 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010801c.jpg
+https://neolook.com/archives/2015010802c.jpg
+https://neolook.com/archives/2015010803c.jpg
+https://neolook.com/archives/2015010804c.jpg

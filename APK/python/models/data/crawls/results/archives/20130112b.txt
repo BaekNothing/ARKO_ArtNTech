@@ -1,4 +1,6 @@
 /archives/20130112b
+
+******** description ********
 공원 公園
 
 곽한울展 / GWAKHANOUL / 郭한울 / painting
@@ -44,3 +46,11 @@ cafe.daum.net/gallerymsmc,
 ■ 곽한울
 
 Vol.20130112b | 곽한울展 / GWAKHANOUL / 郭한울 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011201b.jpg
+https://neolook.com/archives/2013011202b.jpg
+https://neolook.com/archives/2013011203b.jpg
+https://neolook.com/archives/2013011204b.jpg
+https://neolook.com/archives/2013011205b.jpg
+https://neolook.com/archives/2013011206b.jpg
+https://neolook.com/archives/2013011207b.jpg

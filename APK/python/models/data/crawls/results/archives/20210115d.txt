@@ -1,4 +1,6 @@
 /archives/20210115d
+
+******** description ********
 또 다른 가능성 – 시대를 넘어
 
 봉산문화회관 기획展
@@ -45,3 +47,14 @@ www.bongsanart.org,
 ■ 조동오
 
 Vol.20210115d | 또 다른 가능성 – 시대를 넘어展
+******** imgSrcs ********
+https://neolook.com/archives/2021011501d.jpg
+https://neolook.com/archives/2021011502d.jpg
+https://neolook.com/archives/2021011503d.jpg
+https://neolook.com/archives/2021011504d.jpg
+https://neolook.com/archives/2021011505d.jpg
+https://neolook.com/archives/2021011506d.jpg
+https://neolook.com/archives/2021011507d.jpg
+https://neolook.com/archives/2021011508d.jpg
+https://neolook.com/archives/2021011509d.jpg
+https://neolook.com/archives/2021011510d.jpg

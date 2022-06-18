@@ -1,4 +1,6 @@
 /archives/20220113c
+
+******** description ********
 플레이그라운드 PLAYGROUND
 
 베리킴_카미 2인展
@@ -35,3 +37,11 @@ klampgallery.com,
 ● 2022년 1월 새로운 시작을 앞둔 클램프 갤러리는 독창성을 한계 없이 수용하는 자신의 놀이터에서 작업한 베리킴과 카미가 참여하는 본 전시를 필두로 현시대의 고민 요구 그리고 소망을 반영한 다양한 기획을 통해 많은 작가들이 그들의 유쾌한 상상을 현실로 구체화하고 작가와 관람객 모두가 즐길 수 있는 '놀이터'를 마련하기를 바란다. ■ 클램프 갤러리
 
 Vol.20220113c | 플레이그라운드 PLAYGROUND-베리킴_카미 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2022011301c.jpg
+https://neolook.com/archives/2022011302c.jpg
+https://neolook.com/archives/2022011303c.jpg
+https://neolook.com/archives/2022011304c.jpg
+https://neolook.com/archives/2022011305c.jpg
+https://neolook.com/archives/2022011306c.jpg
+https://neolook.com/archives/2022011307c.jpg

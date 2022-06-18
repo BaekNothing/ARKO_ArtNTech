@@ -1,4 +1,6 @@
 /archives/20100120a
+
+******** description ********
 Environment
 
 임세종展 / LIMSEJONG / 林世宗 / painting
@@ -28,3 +30,9 @@ www.gallerylamer.com,
 ■  임세종
 
 Vol.20100120a | 임세종展 / LIMSEJONG / 林世宗 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012001a.jpg
+https://neolook.com/archives/2010012002a.jpg
+https://neolook.com/archives/2010012003a.jpg
+https://neolook.com/archives/2010012004a.jpg
+https://neolook.com/archives/2010012005a.jpg

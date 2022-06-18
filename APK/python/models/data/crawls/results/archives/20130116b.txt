@@ -1,4 +1,6 @@
 /archives/20130116b
+
+******** description ********
 What do you see?
 
 김보미展 / KIMBOMI / 金甫美 / sculpture
@@ -45,3 +47,11 @@ www.galleryis.com,
 ■ 김보미
 
 Vol.20130116b | 김보미展 / KIMBOMI / 金甫美 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2013011601b.jpg
+https://neolook.com/archives/2013011602b.jpg
+https://neolook.com/archives/2013011603b.jpg
+https://neolook.com/archives/2013011604b.jpg
+https://neolook.com/archives/2013011605b.jpg
+https://neolook.com/archives/2013011606b.jpg
+https://neolook.com/archives/2013011607b.jpg

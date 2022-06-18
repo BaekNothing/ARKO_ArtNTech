@@ -1,4 +1,6 @@
 /archives/20110113g
+
+******** description ********
 서림嶼林534
 
 강예신展 / KANGYEHSINE / 姜叡伸 / painting
@@ -41,3 +43,11 @@ www.atelieraki.com,
 ■ 강예신
 
 Vol.20110113g | 강예신展 / KANGYEHSINE / 姜叡伸 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011306g.jpg
+https://neolook.com/archives/2011011307g.jpg
+https://neolook.com/archives/2011011301g.jpg
+https://neolook.com/archives/2011011302g.jpg
+https://neolook.com/archives/2011011303g.jpg
+https://neolook.com/archives/2011011304g.jpg
+https://neolook.com/archives/2011011305g.jpg

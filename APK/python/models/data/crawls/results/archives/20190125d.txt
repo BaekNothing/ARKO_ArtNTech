@@ -1,4 +1,6 @@
 /archives/20190125d
+
+******** description ********
 보너스 룸 Bonus Room
 
 갈유라展 / KALYURA / 葛儒羅 / installation.video
@@ -28,3 +30,8 @@ on The Black Ground)_설치 다채널 영상_00:05:27_2019,
 ■ 갈유라
 
 Vol.20190125d | 갈유라展 / KALYURA / 葛儒羅 / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2019012501d.jpg
+https://neolook.com/archives/2019012502d.jpg
+https://neolook.com/archives/2019012503d.jpg
+https://neolook.com/archives/2019012504d.jpg

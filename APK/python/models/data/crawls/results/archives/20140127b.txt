@@ -1,4 +1,6 @@
 /archives/20140127b
+
+******** description ********
 포스트민중미술 샤먼/리얼리즘
 
 지은이_김종길,    
@@ -48,3 +50,6 @@ www.samchang.or.kr,
 ○한국 '민족민중미술'의 당대적 과제와 미래
 
 Vol.20140127b | 포스트민중미술 샤먼/리얼리즘 / 지은이_김종길 / 삶창(삶이보이는창)
+******** imgSrcs ********
+https://neolook.com/archives/2014012701b.jpg
+https://neolook.com/archives/2014012702b.jpg

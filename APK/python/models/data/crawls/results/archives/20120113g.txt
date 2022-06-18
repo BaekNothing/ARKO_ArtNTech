@@ -1,4 +1,6 @@
 /archives/20120113g
+
+******** description ********
 소리가 보인다
 
 이김천展 / LEEGIMCHEON / 李金泉 / sculpture
@@ -40,3 +42,11 @@ gallerylvs.org
  ■ 황덕호
 
 Vol.20120113g | 이김천展 / LEEGIMCHEON / 李金泉 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2012011301g.jpg
+https://neolook.com/archives/2012011302g.jpg
+https://neolook.com/archives/2012011303g.jpg
+https://neolook.com/archives/2012011304g.jpg
+https://neolook.com/archives/2012011305g.jpg
+https://neolook.com/archives/2012011306g.jpg
+https://neolook.com/archives/2012011307g.jpg

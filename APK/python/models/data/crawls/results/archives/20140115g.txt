@@ -1,4 +1,6 @@
 /archives/20140115g
+
+******** description ********
 THING
 
 이정진展 / LEEJUNGJIN / 李貞眞 / photography
@@ -47,3 +49,11 @@ shinsegae.com,
 전화 및 방문 접수 : 02-310-1924
 
 Vol.20140115g | 이정진展 / LEEJUNGJIN / 李貞眞 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2014011501g.jpg
+https://neolook.com/archives/2014011502g.jpg
+https://neolook.com/archives/2014011503g.jpg
+https://neolook.com/archives/2014011504g.jpg
+https://neolook.com/archives/2014011505g.jpg
+https://neolook.com/archives/2014011506g.jpg
+https://neolook.com/archives/2014011507g.jpg

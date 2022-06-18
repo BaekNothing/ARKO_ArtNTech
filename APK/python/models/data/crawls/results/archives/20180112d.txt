@@ -1,4 +1,6 @@
 /archives/20180112d
+
+******** description ********
 Run Silent Run Deep
 
 윤석원展 / YOONSUKONE / 尹碩沅 / painting
@@ -33,3 +35,9 @@ www.chapterii.org,
 ■ 챕터투
 
 Vol.20180112d | 윤석원展 / YOONSUKONE / 尹碩沅 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011201d.jpg
+https://neolook.com/archives/2018011202d.jpg
+https://neolook.com/archives/2018011203d.jpg
+https://neolook.com/archives/2018011204d.jpg
+https://neolook.com/archives/2018011205d.jpg

@@ -1,4 +1,6 @@
 /archives/20210107d
+
+******** description ********
 VENUS
 
 안효찬展 / AHNHYOCHAN / 安曉燦 / sculpture
@@ -36,3 +38,11 @@ cmoa.cheongju.go.kr/cjas,
 ■ 청주미술창작스튜디오
 
 Vol.20210107d | 안효찬展 / AHNHYOCHAN / 安曉燦 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2021010701d.jpg
+https://neolook.com/archives/2021010702d.jpg
+https://neolook.com/archives/2021010703d.jpg
+https://neolook.com/archives/2021010704d.jpg
+https://neolook.com/archives/2021010705d.jpg
+https://neolook.com/archives/2021010706d.jpg
+https://neolook.com/archives/2021010707d.jpg

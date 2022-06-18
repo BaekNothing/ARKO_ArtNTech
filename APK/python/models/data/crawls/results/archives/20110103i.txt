@@ -1,4 +1,6 @@
 /archives/20110103i
+
+******** description ********
 순수풍경-중견작가의 힘 Ⅲ
 
 김근중 _정일展
@@ -38,3 +40,14 @@ Tel. +82.10.9327.9515,
 ■ 정영숙
 
 Vol.20110103i | 순수풍경-중견작가의 힘 Ⅲ展
+******** imgSrcs ********
+https://neolook.com/archives/2011010301i.jpg
+https://neolook.com/archives/2011010302i.jpg
+https://neolook.com/archives/2011010303i.jpg
+https://neolook.com/archives/2011010304i.jpg
+https://neolook.com/archives/2011010305i.jpg
+https://neolook.com/archives/2011010306i.jpg
+https://neolook.com/archives/2011010307i.jpg
+https://neolook.com/archives/2011010308i.jpg
+https://neolook.com/archives/2011010309i.jpg
+https://neolook.com/archives/2011010310i.jpg

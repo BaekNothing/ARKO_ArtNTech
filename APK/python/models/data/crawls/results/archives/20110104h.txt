@@ -1,4 +1,6 @@
 /archives/20110104h
+
+******** description ********
 Secret Dwelling 
 
 로리 킴展 / Lorie Kim / installation
@@ -32,3 +34,9 @@ SECRET DWELLING ●
 ■ 조성지
 
 Vol.20110104h | 로리 킴展 / Lorie Kim / installation
+******** imgSrcs ********
+https://neolook.com/archives/2011010401h.jpg
+https://neolook.com/archives/2011010402h.jpg
+https://neolook.com/archives/2011010403h.jpg
+https://neolook.com/archives/2011010404h.jpg
+https://neolook.com/archives/2011010405h.jpg

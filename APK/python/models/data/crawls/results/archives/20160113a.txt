@@ -1,4 +1,6 @@
 /archives/20160113a
+
+******** description ********
 엄마의 사랑 속에서
 
 미산 이귀란展 / MISAN LEEKWIRAN / 微山 李歸蘭 / painting
@@ -46,3 +48,9 @@ www.ganaartspace.com,
 ■ 미산 이귀란
 
 Vol.20160113a | 미산 이귀란展 / MISAN LEEKWIRAN / 微山 李歸蘭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011301a.jpg
+https://neolook.com/archives/2016011302a.jpg
+https://neolook.com/archives/2016011303a.jpg
+https://neolook.com/archives/2016011304a.jpg
+https://neolook.com/archives/2016011305a.jpg

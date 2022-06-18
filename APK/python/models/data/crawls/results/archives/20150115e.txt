@@ -1,4 +1,6 @@
 /archives/20150115e
+
+******** description ********
 女心
 
 임영숙_임은희 2인展
@@ -34,3 +36,12 @@ www.artfactory4u.com,
 ■ 
 
 Vol.20150115e | 女心-임영숙_임은희 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2015011501e.jpg
+https://neolook.com/archives/2015011502e.jpg
+https://neolook.com/archives/2015011503e.jpg
+https://neolook.com/archives/2015011504e.jpg
+https://neolook.com/archives/2015011505e.jpg
+https://neolook.com/archives/2015011506e.jpg
+https://neolook.com/archives/2015011507e.jpg
+https://neolook.com/archives/2015011508e.jpg

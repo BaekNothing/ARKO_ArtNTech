@@ -1,4 +1,6 @@
 /archives/20180102b
+
+******** description ********
 제3회 뉴 드로잉 프로젝트 공모
 
 New Drawing Project
@@ -46,3 +48,5 @@ blog.naver.com/yuma2014,
   「드로잉공모전시」 폴더 안: 작가명 폴더 생성 후 업로드
 
 Vol.20180102b | 제3회 뉴 드로잉 프로젝트 공모
+******** imgSrcs ********
+https://neolook.com/archives/2018010201b.jpg

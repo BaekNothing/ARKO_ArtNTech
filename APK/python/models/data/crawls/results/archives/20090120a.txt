@@ -1,4 +1,6 @@
 /archives/20090120a
+
+******** description ********
 FANTASIA
 
 가나아트부산 기획展
@@ -29,3 +31,14 @@ www.ganaart.com,
 
 황지윤_죽은 백송나무(남모르는 슬픔)_캔버스에 유채_193.9×112.1cm_2008,    몽환적인 산수화 속을 걷다_황지윤 ● 황지윤은 마치 정형화된 산수화를 그리는 듯이 보이지만 세밀하게 관찰하면 실재할 수도 실재하지 않을 수도 있는 다양한 동물의 군집으로 바위나 산 섬을 형상화한다. 단순한 풍경을 구성하는 이질적인 요소로 연출되는 몽환적인 분위기는 전체적으로 통일된 느낌의 다소 어두운 안정된 느낌의 색으로 한층 더해진다. 황지윤의 산수화를 따라가다 보면 누군가는 공포를 누군가는 유희를 느끼게 되고 개개인의 기억을 끄집어내면서 심리적인 풍경 속으로 빠져 들게 된다. 작가가 연출한 "환상 속에 자리 잡은 이상적인 공간"에 빠진 관객은 풍경 안의 인물이 되어 환상곡을 연주하고 있을지도 모를 일이다. ■ 가나아트갤러리
 Vol.20090120a | FANTASIA-가나아트부산 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2009012001a.jpg
+https://neolook.com/archives/2009012002a.jpg
+https://neolook.com/archives/2009012003a.jpg
+https://neolook.com/archives/2009012004a.jpg
+https://neolook.com/archives/2009012005a.jpg
+https://neolook.com/archives/2009012006a.jpg
+https://neolook.com/archives/2009012007a.jpg
+https://neolook.com/archives/2009012008a.jpg
+https://neolook.com/archives/2009012009a.jpg
+https://neolook.com/archives/2009012010a.jpg

@@ -1,4 +1,6 @@
 /archives/20110107b
+
+******** description ********
 Reflection
 
 김지연展 / KIMJIYEON / 金知娟 / photography
@@ -33,3 +35,11 @@ space15th.org,
 ■ 김지연
 
 Vol.20110107b | 김지연展 / KIMJIYEON / 金知娟 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011010701b.jpg
+https://neolook.com/archives/2011010702b.jpg
+https://neolook.com/archives/2011010703b.jpg
+https://neolook.com/archives/2011010704b.jpg
+https://neolook.com/archives/2011010705b.jpg
+https://neolook.com/archives/2011010706b.jpg
+https://neolook.com/archives/2011010707b.jpg

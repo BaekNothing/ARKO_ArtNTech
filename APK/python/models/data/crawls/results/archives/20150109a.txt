@@ -1,4 +1,6 @@
 /archives/20150109a
+
+******** description ********
 자연과의 대화
 
 박성실展 / PARKSUNGSIL / 朴盛實 / painting
@@ -35,3 +37,14 @@ Tel. +82.1599.1004,
 ■ 박성실
 
 Vol.20150109a | 박성실展 / PARKSUNGSIL / 朴盛實 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010901a.jpg
+https://neolook.com/archives/2015010902a.jpg
+https://neolook.com/archives/2015010903a.jpg
+https://neolook.com/archives/2015010904a.jpg
+https://neolook.com/archives/2015010905a.jpg
+https://neolook.com/archives/2015010906a.jpg
+https://neolook.com/archives/2015010907a.jpg
+https://neolook.com/archives/2015010908a.jpg
+https://neolook.com/archives/2015010909a.jpg
+https://neolook.com/archives/2015010910a.jpg

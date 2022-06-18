@@ -1,4 +1,6 @@
 /archives/20220111b
+
+******** description ********
 first season 첫번째 계절
 
 무심준展 / MUSIMJUN / painting
@@ -39,3 +41,11 @@ MonAmi 153 0.7
 ■ 무심준
 
 Vol.20220111b | 무심준展 / MUSIMJUN / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011101b.jpg
+https://neolook.com/archives/2022011102b.jpg
+https://neolook.com/archives/2022011103b.jpg
+https://neolook.com/archives/2022011104b.jpg
+https://neolook.com/archives/2022011105b.jpg
+https://neolook.com/archives/2022011106b.jpg
+https://neolook.com/archives/2022011107b.jpg

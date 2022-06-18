@@ -1,4 +1,6 @@
 /archives/20100110a
+
+******** description ********
 위너 그리고 디자이너 The Winner and the DESIGNER
 
 국제어워드수상디자이너 특별기획展
@@ -63,3 +65,14 @@ www.galleryiang.com,
 ■ 김상규
 
 Vol.20100110a | 위너 그리고 디자이너 The Winner and the DESIGNER展
+******** imgSrcs ********
+https://neolook.com/archives/2010011001a.jpg
+https://neolook.com/archives/2010011002a.jpg
+https://neolook.com/archives/2010011003a.jpg
+https://neolook.com/archives/2010011004a.jpg
+https://neolook.com/archives/2010011005a.jpg
+https://neolook.com/archives/2010011006a.jpg
+https://neolook.com/archives/2010011007a.jpg
+https://neolook.com/archives/2010011008a.jpg
+https://neolook.com/archives/2010011009a.jpg
+https://neolook.com/archives/2010011010a.jpg

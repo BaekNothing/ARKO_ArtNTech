@@ -1,4 +1,6 @@
 /archives/20200120a
+
+******** description ********
 눈 속임 눈 (Eye Trick I)
 
 박서연展 / PARKSEOYEON / 朴徐延 / painting
@@ -48,3 +50,13 @@ www.wuminartcenter.org,
 ■ 박서연
 
 Vol.20200120a | 박서연展 / PARKSEOYEON / 朴徐延 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020012001a.jpg
+https://neolook.com/archives/2020012002a.jpg
+https://neolook.com/archives/2020012003a.jpg
+https://neolook.com/archives/2020012004a.jpg
+https://neolook.com/archives/2020012005a.jpg
+https://neolook.com/archives/2020012006a.jpg
+https://neolook.com/archives/2020012007a.jpg
+https://neolook.com/archives/2020012008a.jpg
+https://neolook.com/archives/2020012009a.jpg

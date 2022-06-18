@@ -1,4 +1,6 @@
 /archives/20190110f
+
+******** description ********
 Mickey in Daegu
 2019_0110 ▶ 2019_0206 / 백화점 휴점일 휴관,    김건주,    별도의 초대일시가 없습니다.
 
@@ -31,3 +33,10 @@ blog.naver.com/dgallery1,
 ■ 롯데갤러리 대구점
 
 Vol.20190110f | Mickey in Daegu展
+******** imgSrcs ********
+https://neolook.com/archives/2019011001f.jpg
+https://neolook.com/archives/2019011002f.jpg
+https://neolook.com/archives/2019011003f.jpg
+https://neolook.com/archives/2019011004f.jpg
+https://neolook.com/archives/2019011005f.jpg
+https://neolook.com/archives/2019011006f.jpg

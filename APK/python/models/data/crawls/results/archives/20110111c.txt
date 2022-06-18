@@ -1,4 +1,6 @@
 /archives/20110111c
+
+******** description ********
 Felis Sapiens
 
 박정란_장영진展
@@ -24,3 +26,10 @@ twitter.com/gallery_k_ark,
 ■ 이규원
 
 Vol.20110111c | Felis Sapiens-박정란_장영진展
+******** imgSrcs ********
+https://neolook.com/archives/2011011101c.jpg
+https://neolook.com/archives/2011011102c.jpg
+https://neolook.com/archives/2011011103c.jpg
+https://neolook.com/archives/2011011104c.jpg
+https://neolook.com/archives/2011011105c.jpg
+https://neolook.com/archives/2011011106c.jpg

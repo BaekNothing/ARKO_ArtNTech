@@ -1,4 +1,6 @@
 /archives/20190131b
+
+******** description ********
 생·활 生·活 Vibrancy ∙ Life
 
 제주도립미술관 개관 10주년 기념展
@@ -39,3 +41,11 @@ jmoa.jeju.go.kr,
 ■ 제주도립미술관
 
 Vol.20190131b | 생·활 生·活 Vibrancy ∙ Life-제주도립미술관 개관 10주년 기념展
+******** imgSrcs ********
+https://neolook.com/archives/2019013101b.jpg
+https://neolook.com/archives/2019013102b.jpg
+https://neolook.com/archives/2019013103b.jpg
+https://neolook.com/archives/2019013104b.jpg
+https://neolook.com/archives/2019013105b.jpg
+https://neolook.com/archives/2019013106b.jpg
+https://neolook.com/archives/2019013107b.jpg

@@ -1,4 +1,6 @@
 /archives/20150110b
+
+******** description ********
 폭포
 
 이김천展 / LEEGIMCHEON / 李金泉 / mixed media
@@ -30,3 +32,11 @@ www.galleryjjnamu.com,
 이김천_피아노 건반이 끝이없네_패널에 시멘트 한지 먹 아크릴채색_40.5×53cm_2014
 
 이김천_하얀밤_패널에 시멘트 한지 먹 아크릴채색_53×40.5cm_2014,    Vol.20150110b | 이김천展 / LEEGIMCHEON / 李金泉 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2015011001b.jpg
+https://neolook.com/archives/2015011002b.jpg
+https://neolook.com/archives/2015011003b.jpg
+https://neolook.com/archives/2015011004b.jpg
+https://neolook.com/archives/2015011005b.jpg
+https://neolook.com/archives/2015011006b.jpg
+https://neolook.com/archives/2015011007b.jpg

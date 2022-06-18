@@ -1,4 +1,6 @@
 /archives/20140111d
+
+******** description ********
 흐린 풍경  Blurry Scene
 
 임태규展 / LIMTAEGYU / 林太圭 / painting
@@ -46,3 +48,11 @@ puestogallery.co.kr,
 ■ 임태규
 
 Vol.20140111d | 임태규展 / LIMTAEGYU / 林太圭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011101d.jpg
+https://neolook.com/archives/2014011102d.jpg
+https://neolook.com/archives/2014011103d.jpg
+https://neolook.com/archives/2014011104d.jpg
+https://neolook.com/archives/2014011105d.jpg
+https://neolook.com/archives/2014011106d.jpg
+https://neolook.com/archives/2014011107d.jpg

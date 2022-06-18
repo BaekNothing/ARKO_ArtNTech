@@ -1,4 +1,6 @@
 /archives/20150106d
+
+******** description ********
 metaphor
 
 이지숙展 / LEEJISOOK / 李知淑 / photography.video
@@ -43,3 +45,13 @@ www.meme21.com,
 ■ 이문정
 
 Vol.20150106d | 이지숙展 / LEEJISOOK / 李知淑 / photography.video
+******** imgSrcs ********
+https://neolook.com/archives/2015010601d.jpg
+https://neolook.com/archives/2015010602d.jpg
+https://neolook.com/archives/2015010603d.jpg
+https://neolook.com/archives/2015010604d.jpg
+https://neolook.com/archives/2015010605d.jpg
+https://neolook.com/archives/2015010606d.jpg
+https://neolook.com/archives/2015010607d.jpg
+https://neolook.com/archives/2015010608d.jpg
+https://neolook.com/archives/2015010609d.jpg

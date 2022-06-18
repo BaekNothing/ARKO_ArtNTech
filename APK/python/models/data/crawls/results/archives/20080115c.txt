@@ -1,4 +1,6 @@
 /archives/20080115c
+
+******** description ********
 마음 흐르는 곳
 
 김만근_이응종展
@@ -26,3 +28,11 @@ artbaiksong.com,
 -이응종 작가 시각장애인 작품 촬영 체험
 
 Vol.20080115c | 마음 흐르는 곳-김만근_이응종展
+******** imgSrcs ********
+https://neolook.com/archives/2008011501c.jpg
+https://neolook.com/archives/2008011502c.jpg
+https://neolook.com/archives/2008011503c.jpg
+https://neolook.com/archives/2008011504c.jpg
+https://neolook.com/archives/2008011505c.jpg
+https://neolook.com/archives/2008011506c.jpg
+https://neolook.com/archives/2008011507c.jpg

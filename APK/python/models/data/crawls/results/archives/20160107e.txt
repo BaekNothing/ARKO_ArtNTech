@@ -1,4 +1,6 @@
 /archives/20160107e
+
+******** description ********
 거리의 무법자 The Street outlaw
 
 김미래展 / KIMMIRAE / 金美來 / drawing.installation
@@ -36,3 +38,12 @@ www.cjartstudio.com,
 ■ 청주미술창작스튜디오
 
 Vol.20160107e | 김미래展 / KIMMIRAE / 金美來 / drawing.installation
+******** imgSrcs ********
+https://neolook.com/archives/2016010701e.jpg
+https://neolook.com/archives/2016010702e.jpg
+https://neolook.com/archives/2016010703e.jpg
+https://neolook.com/archives/2016010704e.jpg
+https://neolook.com/archives/2016010705e.jpg
+https://neolook.com/archives/2016010706e.jpg
+https://neolook.com/archives/2016010707e.jpg
+https://neolook.com/archives/2016010708e.jpg

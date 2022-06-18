@@ -1,4 +1,6 @@
 /archives/20170117c
+
+******** description ********
 안개의 속도 Fog Speed
 
 정용국展 / JEONGYONGKOOK / 鄭容國 / painting
@@ -22,3 +24,9 @@
 정용국_안개의 속도_한지에 수묵_50×50cm_2017
 
 정용국_안개의 속도_한지에 수묵_50×50cm_2017,    Vol.20170117c | 정용국展 / JEONGYONGKOOK / 鄭容國 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011701c.jpg
+https://neolook.com/archives/2017011702c.jpg
+https://neolook.com/archives/2017011703c.jpg
+https://neolook.com/archives/2017011704c.jpg
+https://neolook.com/archives/2017011705c.jpg

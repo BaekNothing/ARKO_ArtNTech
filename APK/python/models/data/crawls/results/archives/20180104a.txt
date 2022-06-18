@@ -1,4 +1,6 @@
 /archives/20180104a
+
+******** description ********
 회화의 조건 복궤
 
 제1회 박수근미술상 수상작가 황재형과 함께하는 예술캠프
@@ -53,3 +55,8 @@ www.parksookeun.or.kr,
                              평가 및 정리
 
 Vol.20180104a | 회화의 조건 복궤-제1회 박수근미술상 수상작가 황재형과 함께하는 예술캠프
+******** imgSrcs ********
+https://neolook.com/archives/2018010401a.jpg
+https://neolook.com/archives/2018010402a.jpg
+https://neolook.com/archives/2018010403a.jpg
+https://neolook.com/archives/2018010404a.jpg

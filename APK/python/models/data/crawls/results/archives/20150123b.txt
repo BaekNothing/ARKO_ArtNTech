@@ -1,4 +1,6 @@
 /archives/20150123b
+
+******** description ********
 틈; 간섭; 목격자 Crack; Interference; Witness
 
 이은새展 / LEEEUNSAE / 李은새 / painting
@@ -25,3 +27,9 @@ www.gallerychosun.com,
 ■ 이관훈
 
 Vol.20150123b | 이은새展 / LEEEUNSAE / 李은새 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012301b.jpg
+https://neolook.com/archives/2015012302b.jpg
+https://neolook.com/archives/2015012303b.jpg
+https://neolook.com/archives/2015012304b.jpg
+https://neolook.com/archives/2015012305b.jpg

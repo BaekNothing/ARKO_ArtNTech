@@ -1,4 +1,6 @@
 /archives/20160115b
+
+******** description ********
 PURE MIND : 은밀한 패러디의 유혹
 
 유용선展 / YOOYONGSUN / 兪龍善 / painting
@@ -32,3 +34,11 @@ www.artertain.com,
 ■ 임대식
 
 Vol.20160115b | 유용선展 / YOOYONGSUN / 兪龍善 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011501b.jpg
+https://neolook.com/archives/2016011502b.jpg
+https://neolook.com/archives/2016011503b.jpg
+https://neolook.com/archives/2016011504b.jpg
+https://neolook.com/archives/2016011505b.jpg
+https://neolook.com/archives/2016011506b.jpg
+https://neolook.com/archives/2016011507b.jpg

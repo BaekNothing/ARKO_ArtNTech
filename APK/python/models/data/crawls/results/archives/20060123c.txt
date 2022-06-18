@@ -1,4 +1,6 @@
 /archives/20060123c
+
+******** description ********
 갤러리 루브 2006 숨은 그림 찾기 프로젝트
 접수기간_2006_0123 ▶ 2006_0225,    
 
@@ -21,3 +23,6 @@ Tel. 02_3478_0815,
 
 ■ 문의_T.02-3478-0815 / E-mail_bora@theluv.co.kr / Homepage_www.theluv.co.kr
 Vol.20060123c | 갤러리 루브 2006 숨은 그림 찾기 프로젝트
+******** imgSrcs ********
+https://neolook.com/archives/2006012301c.jpg
+https://neolook.com/archives/2006012302c.jpg

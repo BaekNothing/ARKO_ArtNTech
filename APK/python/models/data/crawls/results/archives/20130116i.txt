@@ -1,4 +1,6 @@
 /archives/20130116i
+
+******** description ********
 2013 오픈스페이스 배 국제 레지던스 프로그램
 "오픈 투 유" 참여 작가공모,    2013 Openspace Bae International Artist-in-residence program-
 OPEN TO YOU
@@ -142,3 +144,5 @@ In return participating residency artists agree to oblige to the following reque
 * Please visit Openspace Bae's web site to download application form and for further details.
 
 Vol.20130116i | 2013 오픈스페이스 배 국제 레지던스 프로그램 "오픈 투 유" 참여 작가공모
+******** imgSrcs ********
+https://neolook.com/archives/2013011601i.jpg

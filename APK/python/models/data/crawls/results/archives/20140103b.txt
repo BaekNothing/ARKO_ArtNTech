@@ -1,4 +1,6 @@
 /archives/20140103b
+
+******** description ********
 현대 초상화 모색
 
 2014_0103 ▶ 2014_0121,    ,    
@@ -57,3 +59,19 @@ galleryhanok.blog.me,
 ■ 문명대
 
 Vol.20140103b | 현대 초상화 모색展
+******** imgSrcs ********
+https://neolook.com/archives/2014010301b.jpg
+https://neolook.com/archives/2014010302b.jpg
+https://neolook.com/archives/2014010303b.jpg
+https://neolook.com/archives/2014010304b.jpg
+https://neolook.com/archives/2014010305b.jpg
+https://neolook.com/archives/2014010306b.jpg
+https://neolook.com/archives/2014010307b.jpg
+https://neolook.com/archives/2014010308b.jpg
+https://neolook.com/archives/2014010309b.jpg
+https://neolook.com/archives/2014010310b.jpg
+https://neolook.com/archives/2014010311b.jpg
+https://neolook.com/archives/2014010312b.jpg
+https://neolook.com/archives/2014010313b.jpg
+https://neolook.com/archives/2014010314b.jpg
+https://neolook.com/archives/2014010315b.jpg

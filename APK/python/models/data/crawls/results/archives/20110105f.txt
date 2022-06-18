@@ -1,4 +1,6 @@
 /archives/20110105f
+
+******** description ********
 2011 CoA is U
 
 (Corea Artist is You)展
@@ -36,3 +38,11 @@ www.artsagan.com,
 ■ 김영태
 
 Vol.20110105f | 2011 CoA is U(Corea Artist is You)展
+******** imgSrcs ********
+https://neolook.com/archives/2011010501f.jpg
+https://neolook.com/archives/2011010502f.jpg
+https://neolook.com/archives/2011010503f.jpg
+https://neolook.com/archives/2011010504f.jpg
+https://neolook.com/archives/2011010505f.jpg
+https://neolook.com/archives/2011010506f.jpg
+https://neolook.com/archives/2011010507f.jpg

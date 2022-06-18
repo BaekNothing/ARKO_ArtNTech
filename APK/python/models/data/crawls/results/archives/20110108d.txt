@@ -1,4 +1,6 @@
 /archives/20110108d
+
+******** description ********
 송은미술대상 10주년 기념展
 
 송은 아트스페이스 개관전 제2부
@@ -51,3 +53,14 @@ www.songeunartspace.org,
 ■ 송은 아트스페이스
 
 Vol.20110108d | 송은미술대상 10주년 기념展
+******** imgSrcs ********
+https://neolook.com/archives/2011010801d.jpg
+https://neolook.com/archives/2011010802d.jpg
+https://neolook.com/archives/2011010803d.jpg
+https://neolook.com/archives/2011010804d.jpg
+https://neolook.com/archives/2011010805d.jpg
+https://neolook.com/archives/2011010806d.jpg
+https://neolook.com/archives/2011010807d.jpg
+https://neolook.com/archives/2011010808d.jpg
+https://neolook.com/archives/2011010809d.jpg
+https://neolook.com/archives/2011010810d.jpg

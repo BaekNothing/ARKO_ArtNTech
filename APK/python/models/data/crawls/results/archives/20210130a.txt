@@ -1,4 +1,6 @@
 /archives/20210130a
+
+******** description ********
 2020 신소장품전
 
 New Acquisitions2020展
@@ -45,3 +47,12 @@ www.snab.or.kr,
 ■ 성남큐브미술관
 
 Vol.20210130a | 2020 신소장품전 New Acquisitions2020展
+******** imgSrcs ********
+https://neolook.com/archives/2021013001a.jpg
+https://neolook.com/archives/2021013002a.jpg
+https://neolook.com/archives/2021013003a.jpg
+https://neolook.com/archives/2021013004a.jpg
+https://neolook.com/archives/2021013005a.jpg
+https://neolook.com/archives/2021013006a.jpg
+https://neolook.com/archives/2021013007a.jpg
+https://neolook.com/archives/2021013008a.jpg

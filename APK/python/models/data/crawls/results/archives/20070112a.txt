@@ -1,4 +1,6 @@
 /archives/20070112a
+
+******** description ********
 아트센터 나비_쇼케이스 2007
 
 nabi_Showcase 2007 : Open Source Open Creativity
@@ -77,3 +79,9 @@ Cine+MA workshop(Cine+MA_아트센터 나비 커뮤니티)
 
 ○ 자세한 내용은 추후 오픈되는 Showcase 2007 홈페이지(http://www.nabi.or.kr/showcase2007)를 참조하시기 바랍니다.
 Vol.20070112a | 아트센터 나비_쇼케이스 2007
+******** imgSrcs ********
+/archives/2007011201a.gif
+https://neolook.com/archives/2007011202a.jpg
+https://neolook.com/archives/2007011203a.jpg
+https://neolook.com/archives/2007011204a.jpg
+https://neolook.com/archives/2007011205a.jpg

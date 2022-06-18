@@ -1,4 +1,6 @@
 /archives/20180127a
+
+******** description ********
 건조장이 보이는 풍경 (경북 예천군)
 
 이인학展 / LEEINHAK / 李仁學 / photography
@@ -34,3 +36,11 @@ cafe.naver.com/dasimmill,
 ■ 이인학
 
 Vol.20180127a | 이인학展 / LEEINHAK / 李仁學 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018012701a.jpg
+https://neolook.com/archives/2018012702a.jpg
+https://neolook.com/archives/2018012703a.jpg
+https://neolook.com/archives/2018012704a.jpg
+https://neolook.com/archives/2018012705a.jpg
+https://neolook.com/archives/2018012706a.jpg
+https://neolook.com/archives/2018012707a.jpg

@@ -1,4 +1,6 @@
 /archives/20160115f
+
+******** description ********
 ACT 렉처
 
 국립아시아문화전당 창제작센터 렉처프로그램
@@ -57,3 +59,6 @@ www.acc.go.kr,
 - 매체담론연구랩 프로그램 : ACT 세미나 ACT 포럼 ACT 렉처
 
 Vol.20160115f | ACT 렉처-국립아시아문화전당 창제작센터 렉처프로그램
+******** imgSrcs ********
+https://neolook.com/archives/2016011501f.jpg
+https://neolook.com/archives/2016011502f.jpg

@@ -1,4 +1,6 @@
 /archives/20110115c
+
+******** description ********
 BEYOND THE BOOKS
 
 안경희展 / AHNKYUNGHEE/ 安庚喜 / photography
@@ -36,3 +38,11 @@ cafe.naver.com/seoulartspace,
 안경희의 작업은 책의 다른 형태를 보여줄 뿐 아니라 책 읽기의 다른 방법을 제시한다. 그녀가 만들어 놓은 책들 속에는 정답을 맞춰야할 문제도 없고 길 찾기를 위한 지도도 없다. 그 곳에서 우리는 익히 알아서 믿는 대로만 볼 수도 있고 마법에 걸린 듯이 전혀 다른 세상을 발견할 수도 있다. 당신이 독서광이든 문맹이든 관계없다. 오래도록 마음에 담아둔 소중한 기억 한 자락이나 언젠가 이루고 싶은 꿈이 있다면 그것으로 충분하다. 그녀의 책은 당신의 과거 혹은 미래가 있는 바로 그 시공간과의 만남으로 완성되는 것일 테니까. ■ 신수진
 
 Vol.20110115c | 안경희展 / AHNKYUNGHEE/ 安庚喜 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011011501c.jpg
+https://neolook.com/archives/2011011502c.jpg
+https://neolook.com/archives/2011011503c.jpg
+https://neolook.com/archives/2011011504c.jpg
+https://neolook.com/archives/2011011505c.jpg
+https://neolook.com/archives/2011011506c.jpg
+https://neolook.com/archives/2011011507c.jpg

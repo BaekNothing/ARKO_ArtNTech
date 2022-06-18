@@ -1,4 +1,6 @@
 /archives/20140125b
+
+******** description ********
 부흥상회
 
 조형섭展 / CHOHYEONGSEOB / 趙亨燮 / installation
@@ -39,3 +41,9 @@ www.spacebae.com,
 ■ 조형섭
 
 Vol.20140125b | 조형섭展 / CHOHYEONGSEOB / 趙亨燮 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014012501b.jpg
+https://neolook.com/archives/2014012502b.jpg
+https://neolook.com/archives/2014012503b.jpg
+https://neolook.com/archives/2014012504b.jpg
+https://neolook.com/archives/2014012505b.jpg

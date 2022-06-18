@@ -1,4 +1,6 @@
 /archives/20140114b
+
+******** description ********
 Usquam Nusquam 어디든 어디도 아닌
 
 제여란展 / JEYEORAN / 諸如蘭 / painting
@@ -44,3 +46,11 @@ www.spacek.co.kr,
 ■ 스페이스K
 
 Vol.20140114b | 제여란展 / JEYEORAN / 諸如蘭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011401b.jpg
+https://neolook.com/archives/2014011402b.jpg
+https://neolook.com/archives/2014011403b.jpg
+https://neolook.com/archives/2014011404b.jpg
+https://neolook.com/archives/2014011405b.jpg
+https://neolook.com/archives/2014011406b.jpg
+https://neolook.com/archives/2014011407b.jpg

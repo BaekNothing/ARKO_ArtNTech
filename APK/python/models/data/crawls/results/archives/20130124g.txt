@@ -1,4 +1,6 @@
 /archives/20130124g
+
+******** description ********
 탐하다
 
 Seek & Desire展
@@ -96,3 +98,14 @@ www.gam.go.kr,
 ■ 장여진
 
 Vol.20130124g | 탐하다-Seek & Desire展
+******** imgSrcs ********
+https://neolook.com/archives/2013012401g.jpg
+https://neolook.com/archives/2013012402g.jpg
+https://neolook.com/archives/2013012403g.jpg
+https://neolook.com/archives/2013012404g.jpg
+https://neolook.com/archives/2013012405g.jpg
+https://neolook.com/archives/2013012406g.jpg
+https://neolook.com/archives/2013012407g.jpg
+https://neolook.com/archives/2013012408g.jpg
+https://neolook.com/archives/2013012409g.jpg
+https://neolook.com/archives/2013012410g.jpg

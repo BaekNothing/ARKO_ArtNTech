@@ -1,4 +1,6 @@
 /archives/20200130a
+
+******** description ********
 키즈 아티스트 7
 
 Kids Artist 7展
@@ -35,3 +37,11 @@ www.gallerydam.com,
 전시에 참여한 다양한 장르의 작가들 특히 오랜 시간 동안 아이들의 지도를 맡아주신 선생님들과 초등학생부터 시작하여 이제 고등학생이 되기까지 함께 참여해 온 김은우(초4 11세) 김현정(초6 13세) 김휘수(고1 18세) 맹규리(고2 19세) 이정민(고3 19세) 이다경(중1 14세) 이다현(고2 18세) 이정민(고3 19세) 총 7명의 키즈 아티스트(Kids Artist)들은 각자의 호기심에서 비롯된 주제들에서 출발하여 예술적 표현의 무한한 상상력을 통해 새로운 발상의 전환을 꿈꾸어 봅니다. ■ 갤러리 담 
 
 Vol.20200130a | 키즈 아티스트 7 Kids Artist 7展
+******** imgSrcs ********
+https://neolook.com/archives/2020013001a.jpg
+https://neolook.com/archives/2020013002a.jpg
+https://neolook.com/archives/2020013003a.jpg
+https://neolook.com/archives/2020013004a.jpg
+https://neolook.com/archives/2020013005a.jpg
+https://neolook.com/archives/2020013006a.jpg
+https://neolook.com/archives/2020013007a.jpg

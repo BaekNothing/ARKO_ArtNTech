@@ -1,4 +1,6 @@
 /archives/20170116d
+
+******** description ********
 SHOW
 
 장영훈展 / JANGYOUNGHUN / 張永勳 / mixed media
@@ -30,3 +32,9 @@ SNS는 이런 위장된 가면들이 쏟아져 나오는 창구이다. 사회 �
 ■ 장영훈
 
 Vol.20170116d | 장영훈展 / JANGYOUNGHUN / 張永勳 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2017011601d.jpg
+https://neolook.com/archives/2017011602d.jpg
+https://neolook.com/archives/2017011603d.jpg
+https://neolook.com/archives/2017011604d.jpg
+https://neolook.com/archives/2017011605d.jpg

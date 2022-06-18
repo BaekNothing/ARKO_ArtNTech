@@ -1,4 +1,6 @@
 /archives/20080129c
+
+******** description ********
 환기미술관 공모작가 기획展
 접수기간 / 2008_0101 ▶ 2008_0331,    환기미술관 전경
 
@@ -35,3 +37,6 @@ www.whankimuseum.org,
 
 ■ 문의 환기미술관 Tel. 02_391_7701~2 E-mail whanki2@paran.com
 Vol.20080129c | 환기미술관 공모작가 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2008012901c.jpg
+https://neolook.com/archives/2008012902c.jpg

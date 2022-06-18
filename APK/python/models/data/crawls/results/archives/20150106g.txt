@@ -1,4 +1,6 @@
 /archives/20150106g
+
+******** description ********
 기억의 날인 Signatures of the memory
 
 김정환展 / KIMJEONGHWAN / 金政煥 / painting
@@ -35,3 +37,11 @@ gallery.ksd.or.kr,
 ■ 김정환
 
 Vol.20150106g | 김정환展 / KIMJEONGHWAN / 金政煥 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010601g.jpg
+https://neolook.com/archives/2015010602g.jpg
+https://neolook.com/archives/2015010603g.jpg
+https://neolook.com/archives/2015010604g.jpg
+https://neolook.com/archives/2015010605g.jpg
+https://neolook.com/archives/2015010606g.jpg
+https://neolook.com/archives/2015010607g.jpg

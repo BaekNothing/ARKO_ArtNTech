@@ -1,4 +1,6 @@
 /archives/20150131c
+
+******** description ********
 모서리 산책 무지개 숨
 
 최수진展 / CHOISUJIN / 崔秀珍 / painting
@@ -32,3 +34,10 @@ www.leeeugeangallery.com,
 ■ 지화진
 
 Vol.20150131c | 최수진展 / CHOISUJIN / 崔秀珍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015013101c.jpg
+https://neolook.com/archives/2015013102c.jpg
+https://neolook.com/archives/2015013103c.jpg
+https://neolook.com/archives/2015013104c.jpg
+https://neolook.com/archives/2015013105c.jpg
+https://neolook.com/archives/2015013106c.jpg

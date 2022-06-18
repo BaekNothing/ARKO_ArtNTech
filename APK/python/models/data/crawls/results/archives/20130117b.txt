@@ -1,4 +1,6 @@
 /archives/20130117b
+
+******** description ********
 다시-쓰기 Translate into Mother Tongue
 
 두산 큐레이터 워크샵 기획展
@@ -53,3 +55,12 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20130117b | 다시-쓰기 Translate into Mother Tongue-두산 큐레이터 워크샵 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2013011701b.jpg
+https://neolook.com/archives/2013011702b.jpg
+https://neolook.com/archives/2013011703b.jpg
+https://neolook.com/archives/2013011704b.jpg
+https://neolook.com/archives/2013011705b.jpg
+https://neolook.com/archives/2013011706b.jpg
+https://neolook.com/archives/2013011707b.jpg
+https://neolook.com/archives/2013011708b.jpg

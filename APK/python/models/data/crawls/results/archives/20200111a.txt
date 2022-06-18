@@ -1,4 +1,6 @@
 /archives/20200111a
+
+******** description ********
 중간에서 앞을 보기
 
 김수영_김수현_김효진展
@@ -43,3 +45,11 @@ www.seocho.go.kr/seoripulgallery,
 ■ 박주원
 
 Vol.20200111a | 중간에서 앞을 보기展
+******** imgSrcs ********
+https://neolook.com/archives/2020011101a.jpg
+https://neolook.com/archives/2020011102a.jpg
+https://neolook.com/archives/2020011103a.jpg
+https://neolook.com/archives/2020011104a.jpg
+https://neolook.com/archives/2020011105a.jpg
+https://neolook.com/archives/2020011106a.jpg
+https://neolook.com/archives/2020011107a.jpg

@@ -1,4 +1,6 @@
 /archives/20110119b
+
+******** description ********
 Pseudo-Eternities
 
 태미김展 / TAMMY KIM / drawing.installation
@@ -39,3 +41,11 @@ www.cjartstudio.com,
 ■ 신현진
 
 Vol.20110119b | 태미김展 / TAMMY KIM / drawing.installation
+******** imgSrcs ********
+https://neolook.com/archives/2011011901b.jpg
+https://neolook.com/archives/2011011902b.jpg
+https://neolook.com/archives/2011011903b.jpg
+https://neolook.com/archives/2011011904b.jpg
+https://neolook.com/archives/2011011905b.jpg
+https://neolook.com/archives/2011011906b.jpg
+https://neolook.com/archives/2011011907b.jpg

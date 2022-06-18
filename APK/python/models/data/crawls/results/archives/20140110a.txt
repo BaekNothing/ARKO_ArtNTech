@@ -1,4 +1,6 @@
 /archives/20140110a
+
+******** description ********
 생산적인 너무나 생산적인
 
 제4회 공장미술제 The 4th The Art Factory Project
@@ -51,3 +53,5 @@ In 1999 under an objective of advancing the Korean Contemporary art in quality t
 ■ Doosung MOON
 
 Vol.20140110a | 생산적인 너무나 생산적인-제4회 공장미술제
+******** imgSrcs ********
+https://neolook.com/archives/2014011001a.jpg

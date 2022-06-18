@@ -1,4 +1,6 @@
 /archives/20130107c
+
+******** description ********
 고독 고독 씹어 먹을 것.
 
 이다흰展 / LEEDAHEEN / 李다흰 / drawing
@@ -80,3 +82,10 @@ www.ohzemidong.co.kr,
 ■ 이다흰
 
 Vol.20130107c | 이다흰展 / LEEDAHEEN / 李다흰 / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2013010701c.jpg
+https://neolook.com/archives/2013010702c.jpg
+https://neolook.com/archives/2013010703c.jpg
+https://neolook.com/archives/2013010704c.jpg
+https://neolook.com/archives/2013010705c.jpg
+https://neolook.com/archives/2013010706c.jpg

@@ -1,4 +1,6 @@
 /archives/20190110d
+
+******** description ********
 녹색 에코 Green Echo
 
 이샛별展 / LISETBYUL / painting.drawing
@@ -39,3 +41,12 @@ www.cmoa.or.kr/cjas,
 ■ 이샛별
 
 Vol.20190110d | 이샛별展 / LISETBYUL / painting.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2019011001d.jpg
+https://neolook.com/archives/2019011002d.jpg
+https://neolook.com/archives/2019011003d.jpg
+https://neolook.com/archives/2019011004d.jpg
+https://neolook.com/archives/2019011005d.jpg
+https://neolook.com/archives/2019011006d.jpg
+https://neolook.com/archives/2019011007d.jpg
+https://neolook.com/archives/2019011008d.jpg

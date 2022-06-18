@@ -1,4 +1,6 @@
 /archives/20220119d
+
+******** description ********
 부서진 언어
 
 김현진展 / KIMHYUNJIN / 金賢珍 / photography
@@ -40,3 +42,11 @@ blog.naver.com/175gallery,
 ● 부서진 언어라 지칭하는 것은 사랑하는 사람에게 속삭이고 말하고 응시하고 안아주는 과정 중 나타나는 흔히 우리가 사랑이라 믿는 감각의 구성들로 사랑이 눈에 보이는가? 그건 어떤 믿음을 가지고 확신 할 수 있는 것일까? ■ 김현진
 
 Vol.20220119d | 김현진展 / KIMHYUNJIN / 金賢珍 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2022011901d.jpg
+https://neolook.com/archives/2022011902d.jpg
+https://neolook.com/archives/2022011903d.jpg
+https://neolook.com/archives/2022011904d.jpg
+https://neolook.com/archives/2022011905d.jpg
+https://neolook.com/archives/2022011906d.jpg
+https://neolook.com/archives/2022011907d.jpg

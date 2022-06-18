@@ -1,4 +1,6 @@
 /archives/20130103b
+
+******** description ********
 2013 복사세요
 2013_0103 ▶ 2013_0126 / 일요일 휴관,    김성복_신화_분홍대리석_63×30×23cm_2011,    별도의 초대일시가 없습니다.
 참여작가 / 김성복_안진의_오관진_이지숙_임영숙_한상윤
@@ -41,3 +43,16 @@ www.galleryepoque.com,
 ■ 갤러리 에뽀끄
 
 Vol.20130103b | 2013 복사세요展
+******** imgSrcs ********
+https://neolook.com/archives/2013010301b.jpg
+https://neolook.com/archives/2013010302b.jpg
+https://neolook.com/archives/2013010303b.jpg
+https://neolook.com/archives/2013010304b.jpg
+https://neolook.com/archives/2013010305b.jpg
+https://neolook.com/archives/2013010306b.jpg
+https://neolook.com/archives/2013010307b.jpg
+https://neolook.com/archives/2013010308b.jpg
+https://neolook.com/archives/2013010309b.jpg
+https://neolook.com/archives/2013010310b.jpg
+https://neolook.com/archives/2013010311b.jpg
+https://neolook.com/archives/2013010312b.jpg

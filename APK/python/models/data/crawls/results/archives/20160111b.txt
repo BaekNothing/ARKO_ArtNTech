@@ -1,4 +1,6 @@
 /archives/20160111b
+
+******** description ********
 제16회 송은미술대상 공모
 
 2016 SONGEUN ART AWARD
@@ -64,3 +66,5 @@ T. 02-3448-0100
 E. info@songeunartspace.org
 
 Vol.20160111b | 제16회 송은미술대상 공모
+******** imgSrcs ********
+https://neolook.com/archives/2016011101b.jpg

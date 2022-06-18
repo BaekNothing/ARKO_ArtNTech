@@ -1,4 +1,6 @@
 /archives/20170116a
+
+******** description ********
 이영익展 / LEEYOUNGIK / 李榮翼 / painting
  
 2017_0116 ▶ 2017_0218 / 일공휴일 휴관,    
@@ -27,3 +29,9 @@ www.spacedelco.com,
 ■ 양은희
 
 Vol.20170116a | 이영익展 / LEEYOUNGIK / 李榮翼 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011601a.jpg
+https://neolook.com/archives/2017011602a.jpg
+https://neolook.com/archives/2017011603a.jpg
+https://neolook.com/archives/2017011604a.jpg
+https://neolook.com/archives/2017011605a.jpg

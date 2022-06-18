@@ -1,4 +1,6 @@
 /archives/20180118h
+
+******** description ********
 풍경의 틈 Crack of landscape
 
 송미진展 / SONGMEEJIN / 宋美眞 / painting
@@ -26,3 +28,9 @@ www.cmoa.or.kr/cjas/index.do,
 ■ 청주미술창작스튜디오
 
 Vol.20180118h | 송미진展 / SONGMEEJIN / 宋美眞 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011801h.jpg
+https://neolook.com/archives/2018011802h.jpg
+https://neolook.com/archives/2018011803h.jpg
+https://neolook.com/archives/2018011804h.jpg
+https://neolook.com/archives/2018011805h.jpg

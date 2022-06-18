@@ -1,4 +1,6 @@
 /archives/20170103b
+
+******** description ********
 가려지지 않는 욕망
 
 강민하_김수정_이신혜_장유정_최민금展
@@ -40,3 +42,10 @@ www.haeunartbusan.com,
 ■ 최민금
 
 Vol.20170103b | 가려지지 않는 욕망展
+******** imgSrcs ********
+https://neolook.com/archives/2017010301b.jpg
+https://neolook.com/archives/2017010302b.jpg
+https://neolook.com/archives/2017010303b.jpg
+https://neolook.com/archives/2017010304b.jpg
+https://neolook.com/archives/2017010305b.jpg
+https://neolook.com/archives/2017010306b.jpg

@@ -1,4 +1,6 @@
 /archives/20220107c
+
+******** description ********
 도순연가
 
 김미형展 / KIMMIHYUNG / 金美亨 / painting
@@ -37,3 +39,11 @@ www.gallerydam.com,
 ■ 김미형
 
 Vol.20220107c | 김미형展 / KIMMIHYUNG / 金美亨 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010701c.jpg
+https://neolook.com/archives/2022010702c.jpg
+https://neolook.com/archives/2022010703c.jpg
+https://neolook.com/archives/2022010704c.jpg
+https://neolook.com/archives/2022010705c.jpg
+https://neolook.com/archives/2022010706c.jpg
+https://neolook.com/archives/2022010707c.jpg

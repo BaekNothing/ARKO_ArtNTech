@@ -1,4 +1,6 @@
 /archives/20140101c
+
+******** description ********
 국외소장문화재의 현황과 실태
 
 월간미술 2014년 1월호 
@@ -101,3 +103,9 @@ www.monthlyart.com,
 176   Postscript
 
 Vol.20140101c | 국외소장문화재의 현황과 실태
+******** imgSrcs ********
+https://neolook.com/archives/2014010101c.jpg
+https://neolook.com/archives/2014010102c.jpg
+https://neolook.com/archives/2014010103c.jpg
+https://neolook.com/archives/2014010104c.jpg
+https://neolook.com/archives/2014010105c.jpg

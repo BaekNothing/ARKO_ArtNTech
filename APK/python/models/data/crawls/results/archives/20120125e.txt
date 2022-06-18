@@ -1,4 +1,6 @@
 /archives/20120125e
+
+******** description ********
 공감(共感) : 감각을 공유하다. Being Vulnerable
 
 박정선展 / PARKJUNGSUN / 朴貞宣 / installation
@@ -28,3 +30,11 @@ gallerydos.com,
 ■ 박정선
 
 Vol.20120125e | 박정선展 / PARKJUNGSUN / 朴貞宣 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2012012501e.jpg
+https://neolook.com/archives/2012012502e.jpg
+https://neolook.com/archives/2012012503e.jpg
+https://neolook.com/archives/2012012504e.jpg
+https://neolook.com/archives/2012012505e.jpg
+https://neolook.com/archives/2012012506e.jpg
+https://neolook.com/archives/2012012507e.jpg

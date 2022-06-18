@@ -1,4 +1,6 @@
 /archives/20180123c
+
+******** description ********
 두 번째 풍경
 
 The Veiled Landscape展
@@ -44,3 +46,14 @@ sema.seoul.go.kr/bukseoul,
 ■ 서울시립 북서울미술관
 
 Vol.20180123c | 두 번째 풍경 The Veiled Landscape展
+******** imgSrcs ********
+https://neolook.com/archives/2018012301c.jpg
+https://neolook.com/archives/2018012302c.jpg
+https://neolook.com/archives/2018012303c.jpg
+https://neolook.com/archives/2018012304c.jpg
+https://neolook.com/archives/2018012305c.jpg
+https://neolook.com/archives/2018012306c.jpg
+https://neolook.com/archives/2018012307c.jpg
+https://neolook.com/archives/2018012308c.jpg
+https://neolook.com/archives/2018012309c.jpg
+https://neolook.com/archives/2018012310c.jpg

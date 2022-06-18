@@ -1,4 +1,6 @@
 /archives/20110128a
+
+******** description ********
 the cube
 
 임병진展 / LIMBYOUNGJIN / 林炳振 / sculpture
@@ -46,3 +48,10 @@ Tel. +82.31.678.2492,
 ■ 정형탁
 
 Vol.20110128a | 임병진展 / LIMBYOUNGJIN / 林炳振 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2011012801a.jpg
+https://neolook.com/archives/2011012802a.jpg
+https://neolook.com/archives/2011012803a.jpg
+https://neolook.com/archives/2011012804a.jpg
+https://neolook.com/archives/2011012805a.jpg
+https://neolook.com/archives/2011012806a.jpg

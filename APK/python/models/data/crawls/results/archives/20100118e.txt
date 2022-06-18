@@ -1,4 +1,6 @@
 /archives/20100118e
+
+******** description ********
 홍익대학교 미술대학원
 현대미술최고위과정 제27기 모집
 
@@ -86,3 +88,5 @@ Renaissance Art vs Contemporary Art(이한순 홍익대 예술학과 교수)
 "창조적 발전을 위한 일과 예술의 융합"
 
 Vol.20100118e | 홍익대학교 미술대학원-현대미술최고위과정 제27기 모집
+******** imgSrcs ********
+https://neolook.com/archives/2010011801e.jpg

@@ -1,4 +1,6 @@
 /archives/20140124h
+
+******** description ********
 Reflective City
 
 혜자展 / HYEJA / 惠子 / painting
@@ -38,3 +40,11 @@ Streets Arcades squares and central stations the places in a constant state of f
 ■ HYEJA
 
 Vol.20140124h | 혜자展 / HYEJA / 惠子 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012401h.jpg
+https://neolook.com/archives/2014012402h.jpg
+https://neolook.com/archives/2014012403h.jpg
+https://neolook.com/archives/2014012404h.jpg
+https://neolook.com/archives/2014012405h.jpg
+https://neolook.com/archives/2014012406h.jpg
+https://neolook.com/archives/2014012407h.jpg

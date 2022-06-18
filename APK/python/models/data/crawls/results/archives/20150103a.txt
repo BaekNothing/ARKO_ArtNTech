@@ -1,4 +1,6 @@
 /archives/20150103a
+
+******** description ********
 SDU BFA 2015 서울디지털대학교 회화과 졸업전시회
 
 Seoul Digital University
@@ -33,3 +35,12 @@ finearts.sdu.ac.kr,
 오귀자_십자가의 도_캔버스에 아크릴채색_100×73cm,    
 유영나_아프리카인상Ⅰ_캔버스에 유채_60.6×72.7cm
 은정희_회색계단 1_캔버스에 유채_92×65cm,    Vol.20150103a | SDU BFA 2015 서울디지털대학교 회화과 졸업展
+******** imgSrcs ********
+https://neolook.com/archives/2015010301a.jpg
+https://neolook.com/archives/2015010302a.jpg
+https://neolook.com/archives/2015010303a.jpg
+https://neolook.com/archives/2015010304a.jpg
+https://neolook.com/archives/2015010305a.jpg
+https://neolook.com/archives/2015010306a.jpg
+https://neolook.com/archives/2015010307a.jpg
+https://neolook.com/archives/2015010308a.jpg

@@ -1,4 +1,6 @@
 /archives/20180119c
+
+******** description ********
 외인 너머에 외인
 
 김지혜展 / KIMJIHYE / 金智慧 / painting
@@ -34,3 +36,9 @@ www.opencircuit.co.kr,
 ■ 황윤중
 
 Vol.20180119c | 김지혜展 / KIMJIHYE / 金智慧 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011901c.jpg
+https://neolook.com/archives/2018011902c.jpg
+https://neolook.com/archives/2018011903c.jpg
+https://neolook.com/archives/2018011904c.jpg
+https://neolook.com/archives/2018011905c.jpg

@@ -1,4 +1,6 @@
 /archives/20160106a
+
+******** description ********
 인터뷰 설악산
 
 임채욱展 / LIMCHAEWOOK / 林採旭 / photography
@@ -45,3 +47,13 @@ www.araart.co.kr,
 ■ 김준기
 
 Vol.20160106a | 임채욱展 / LIMCHAEWOOK / 林採旭 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016010601a.jpg
+https://neolook.com/archives/2016010602a.jpg
+https://neolook.com/archives/2016010603a.jpg
+https://neolook.com/archives/2016010604a.jpg
+https://neolook.com/archives/2016010605a.jpg
+https://neolook.com/archives/2016010606a.jpg
+https://neolook.com/archives/2016010607a.jpg
+https://neolook.com/archives/2016010608a.jpg
+https://neolook.com/archives/2016010609a.jpg

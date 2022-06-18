@@ -1,4 +1,6 @@
 /archives/20090110a
+
+******** description ********
 Daily Conversation
 
 아트팩토리 기획展
@@ -31,3 +33,15 @@ www.artfactory4u.com,
 
 최성석_버스안에서 2_종이에 수채_89.4×145.5cm_2007,    작가들의 개인적인 느낌일 뿐이었던 그것들은 사실 온갖 낯선 것들로 혼잡하게 메워진 도시의 삶을 살아가는 이들에게 공감대를 이어주는 끈이다. 어렵지 않게 읽혀지는 대량 생산 소비 사회의 각박함과 인간의 외로움은 이 시대를 살아가는 모든 이들이 이해하리라 믿는다. 일상이 그러하듯 희망과 우울이 공존하는 이번 전시의 작품들이 더 많은 이들의 마음을 달래주는 친구가 될 수 있길 바란다. ■ 김여명
 Vol.20090110a | Daily Conversation展
+******** imgSrcs ********
+https://neolook.com/archives/2009011001a.jpg
+https://neolook.com/archives/2009011002a.jpg
+https://neolook.com/archives/2009011003a.jpg
+https://neolook.com/archives/2009011004a.jpg
+https://neolook.com/archives/2009011005a.jpg
+https://neolook.com/archives/2009011006a.jpg
+https://neolook.com/archives/2009011007a.jpg
+https://neolook.com/archives/2009011008a.jpg
+https://neolook.com/archives/2009011009a.jpg
+https://neolook.com/archives/2009011010a.jpg
+https://neolook.com/archives/2009011011a.jpg

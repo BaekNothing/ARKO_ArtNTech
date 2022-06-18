@@ -1,4 +1,6 @@
 /archives/20180101l
+
+******** description ********
 책방 풍경
 
 SPACE(공간) 2018년 01월호
@@ -71,3 +73,8 @@ Film Life and the World of Architecture : Ecology in Concrete
 Those Who are Brainwashed in the Modern Version of Panopticon
 
 Vol.20180101l | 책방 풍경
+******** imgSrcs ********
+https://neolook.com/archives/2018010101l.jpg
+https://neolook.com/archives/2018010102l.jpg
+https://neolook.com/archives/2018010103l.jpg
+https://neolook.com/archives/2018010104l.jpg

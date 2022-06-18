@@ -1,4 +1,6 @@
 /archives/20120103a
+
+******** description ********
 내가 있는 자리-가로수
 
 김경미展 / KIMKYUNGMI / 金京美 / painting
@@ -44,3 +46,11 @@ Figure of Roadside tree Passing over Hyperrealism Painting ● Artist Kim Kyung 
 ■ Jang Junseok
 
 Vol.20120103a | 김경미展 / KIMKYUNGMI / 金京美 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010301a.jpg
+https://neolook.com/archives/2012010302a.jpg
+https://neolook.com/archives/2012010303a.jpg
+https://neolook.com/archives/2012010304a.jpg
+https://neolook.com/archives/2012010305a.jpg
+https://neolook.com/archives/2012010306a.jpg
+https://neolook.com/archives/2012010307a.jpg

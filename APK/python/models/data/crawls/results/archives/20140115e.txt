@@ -1,4 +1,6 @@
 /archives/20140115e
+
+******** description ********
 2014 신새김
 
 2014 Neo-Inscription展
@@ -75,3 +77,19 @@ www.artspaceh.com,
 ■ 아트스페이스 에이치
 
 Vol.20140115e | 2014 신새김 2014 Neo-Inscription展
+******** imgSrcs ********
+https://neolook.com/archives/2014011501e.jpg
+https://neolook.com/archives/2014011502e.jpg
+https://neolook.com/archives/2014011503e.jpg
+https://neolook.com/archives/2014011504e.jpg
+https://neolook.com/archives/2014011505e.jpg
+https://neolook.com/archives/2014011506e.jpg
+https://neolook.com/archives/2014011507e.jpg
+https://neolook.com/archives/2014011508e.jpg
+https://neolook.com/archives/2014011509e.jpg
+https://neolook.com/archives/2014011510e.jpg
+https://neolook.com/archives/2014011511e.jpg
+https://neolook.com/archives/2014011512e.jpg
+https://neolook.com/archives/2014011513e.jpg
+https://neolook.com/archives/2014011514e.jpg
+https://neolook.com/archives/2014011515e.jpg

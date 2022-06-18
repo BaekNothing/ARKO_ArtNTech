@@ -1,4 +1,6 @@
 /archives/20100126d
+
+******** description ********
 김사라展 / KIMSARAH / 金絲羅 / installation
  
 2010_0127 ▶ 2010_0202,    
@@ -36,3 +38,11 @@ cyartgallery.com,
 ■ 김사라
 
 Vol.20100126d | 김사라展 / KIMSARAH / 金絲羅 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2010012601d.jpg
+https://neolook.com/archives/2010012602d.jpg
+https://neolook.com/archives/2010012603d.jpg
+https://neolook.com/archives/2010012604d.jpg
+https://neolook.com/archives/2010012605d.jpg
+https://neolook.com/archives/2010012606d.jpg
+https://neolook.com/archives/2010012607d.jpg

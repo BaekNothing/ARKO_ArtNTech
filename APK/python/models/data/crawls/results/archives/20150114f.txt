@@ -1,4 +1,6 @@
 /archives/20150114f
+
+******** description ********
 틈의 풍경
 
 원선경展 / WONSUNKYUNG / 元旋瓊 / painting
@@ -33,3 +35,11 @@ www.hwabong.com,
 ■ 원선경
 
 Vol.20150114f | 원선경展 / WONSUNKYUNG / 元旋瓊 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011401f.jpg
+https://neolook.com/archives/2015011402f.jpg
+https://neolook.com/archives/2015011403f.jpg
+https://neolook.com/archives/2015011404f.jpg
+https://neolook.com/archives/2015011405f.jpg
+https://neolook.com/archives/2015011406f.jpg
+https://neolook.com/archives/2015011407f.jpg

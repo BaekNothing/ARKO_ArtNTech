@@ -1,4 +1,6 @@
 /archives/20160106e
+
+******** description ********
 호기심 상자 속 원숭이
 
 Monkeys in the Cabinet of Curiosity展
@@ -53,3 +55,11 @@ shinsegae.com,
 ■ 신세계 갤러리
 
 Vol.20160106e | 호기심 상자 속 원숭이 Monkeys in the Cabinet of Curiosity展
+******** imgSrcs ********
+https://neolook.com/archives/2016010601e.jpg
+https://neolook.com/archives/2016010602e.jpg
+https://neolook.com/archives/2016010603e.jpg
+https://neolook.com/archives/2016010604e.jpg
+https://neolook.com/archives/2016010605e.jpg
+https://neolook.com/archives/2016010606e.jpg
+https://neolook.com/archives/2016010607e.jpg

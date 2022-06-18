@@ -1,4 +1,6 @@
 /archives/20160112c
+
+******** description ********
 청출어람 靑出於藍 
 
 경일대 구본창 교수와 제자들展
@@ -41,3 +43,11 @@ www.ehyundai.com,
 ■ 구본창
 
 Vol.20160112c | 청출어람 靑出於藍-경일대 구본창 교수와 제자들展
+******** imgSrcs ********
+https://neolook.com/archives/2016011201c.jpg
+https://neolook.com/archives/2016011202c.jpg
+https://neolook.com/archives/2016011203c.jpg
+https://neolook.com/archives/2016011204c.jpg
+https://neolook.com/archives/2016011205c.jpg
+https://neolook.com/archives/2016011206c.jpg
+https://neolook.com/archives/2016011207c.jpg

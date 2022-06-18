@@ -1,4 +1,6 @@
 /archives/20190105a
+
+******** description ********
 변태도감 變態圖鑑
 
 김영래展 / KIMYOUNGLAE / 金英來 / painting
@@ -31,3 +33,11 @@ www.kooalldam.com,
 ■ 김영래
 
 Vol.20190105a | 김영래展 / KIMYOUNGLAE / 金英來 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019010501a.jpg
+https://neolook.com/archives/2019010502a.jpg
+https://neolook.com/archives/2019010503a.jpg
+https://neolook.com/archives/2019010504a.jpg
+https://neolook.com/archives/2019010505a.jpg
+https://neolook.com/archives/2019010506a.jpg
+https://neolook.com/archives/2019010507a.jpg

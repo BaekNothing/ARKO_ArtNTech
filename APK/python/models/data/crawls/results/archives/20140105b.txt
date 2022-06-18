@@ -1,4 +1,6 @@
 /archives/20140105b
+
+******** description ********
 Unfamiliar Landscape
 
 채다영展 / CHAEDAYOUNG / 蔡多暎 / engraving
@@ -26,3 +28,9 @@ www.ujungartcenter.com,
 ■ 채다영
 
 Vol.20140105b | 채다영展 / CHAEDAYOUNG / 蔡多暎 / engraving
+******** imgSrcs ********
+https://neolook.com/archives/2014010501b.jpg
+https://neolook.com/archives/2014010502b.jpg
+https://neolook.com/archives/2014010503b.jpg
+https://neolook.com/archives/2014010504b.jpg
+https://neolook.com/archives/2014010505b.jpg

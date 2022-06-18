@@ -1,4 +1,6 @@
 /archives/20170120b
+
+******** description ********
 피-빨강-피2 Blood-Red-Blood2
 
 이보람展 / LEEBORAM / 李보람 / painting
@@ -51,3 +53,11 @@ blog.naver.com/makeartspace,
 ■ 김성호
 
 Vol.20170120b | 이보람展 / LEEBORAM / 李보람 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017012001b.jpg
+https://neolook.com/archives/2017012002b.jpg
+https://neolook.com/archives/2017012003b.jpg
+https://neolook.com/archives/2017012004b.jpg
+https://neolook.com/archives/2017012005b.jpg
+https://neolook.com/archives/2017012006b.jpg
+https://neolook.com/archives/2017012007b.jpg

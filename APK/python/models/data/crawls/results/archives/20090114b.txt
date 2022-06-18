@@ -1,4 +1,6 @@
 /archives/20090114b
+
+******** description ********
 다섯 개의 끓는점
 2009_0114 ▶ 2009_0201,    이혜인_Shelter-Boat_캔버스에 유채_145×290cm_2008
 
@@ -30,3 +32,14 @@ www.ssamziegil.com,
 □ 허남준 아카이브 2009_0114 ▶ 2009_0201 / 11:00am~09:00pm / 04:00pm~05:00pm 제외
 
 Vol.20090114b | 다섯 개의 끓는점展
+******** imgSrcs ********
+https://neolook.com/archives/2009011401b.jpg
+https://neolook.com/archives/2009011402b.jpg
+https://neolook.com/archives/2009011403b.jpg
+https://neolook.com/archives/2009011404b.jpg
+https://neolook.com/archives/2009011405b.jpg
+https://neolook.com/archives/2009011406b.jpg
+https://neolook.com/archives/2009011407b.jpg
+https://neolook.com/archives/2009011408b.jpg
+https://neolook.com/archives/2009011409b.jpg
+https://neolook.com/archives/2009011410b.jpg

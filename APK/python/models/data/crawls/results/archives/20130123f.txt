@@ -1,4 +1,6 @@
 /archives/20130123f
+
+******** description ********
 섬...Isle
 
 이종헌展 / LEEJONGHEON / 李鍾憲 / photography
@@ -47,3 +49,11 @@ A Serious Voyage toward a Strange yet Communicative Isle
 ■ Lee Seung-min
 
 Vol.20130123f | 이종헌展 / LEEJONGHEON / 李鍾憲 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2013012301f.jpg
+https://neolook.com/archives/2013012302f.jpg
+https://neolook.com/archives/2013012303f.jpg
+https://neolook.com/archives/2013012304f.jpg
+https://neolook.com/archives/2013012305f.jpg
+https://neolook.com/archives/2013012306f.jpg
+https://neolook.com/archives/2013012307f.jpg

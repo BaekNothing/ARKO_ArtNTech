@@ -1,4 +1,6 @@
 /archives/20090101i
+
+******** description ********
 한국성에 대한 사색적 전망
 
 미술과비평 14호
@@ -64,3 +66,9 @@ www.sinwonart.co.kr,
 170   Review
 
 Vol.20090101i | 미술과비평 14호 / 한국성에 대한 사색적 전망
+******** imgSrcs ********
+https://neolook.com/archives/2009010101i.jpg
+https://neolook.com/archives/2009010102i.jpg
+https://neolook.com/archives/2009010103i.jpg
+https://neolook.com/archives/2009010104i.jpg
+https://neolook.com/archives/2009010105i.jpg

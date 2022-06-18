@@ -1,4 +1,6 @@
 /archives/20100125a
+
+******** description ********
 일상의 귀환
 
 2010_0125 ▶ 2010_0131,    ,    초대일시_2010_0125_월요일_05:00pm
@@ -57,3 +59,11 @@ NNR_Site specific art Department store_가변크기_혼합재료_2010,
 ■ 이주은
 
 Vol.20100125a | 일상의 귀환展
+******** imgSrcs ********
+https://neolook.com/archives/2010012501a.jpg
+https://neolook.com/archives/2010012502a.jpg
+https://neolook.com/archives/2010012503a.jpg
+https://neolook.com/archives/2010012504a.jpg
+https://neolook.com/archives/2010012505a.jpg
+https://neolook.com/archives/2010012506a.jpg
+https://neolook.com/archives/2010012507a.jpg

@@ -1,4 +1,6 @@
 /archives/20130115c
+
+******** description ********
 이정자展 / LEEJEUNGJA / 李貞子 / painting
  
 2013_0115 ▶ 2013_0226 / 백화점 휴점일 휴관,    
@@ -33,3 +35,11 @@ shinsegae.com,
 ■ 김동화
 
 Vol.20130115c | 이정자展 / LEEJEUNGJA / 李貞子 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011501c.jpg
+https://neolook.com/archives/2013011502c.jpg
+https://neolook.com/archives/2013011503c.jpg
+https://neolook.com/archives/2013011504c.jpg
+https://neolook.com/archives/2013011505c.jpg
+https://neolook.com/archives/2013011506c.jpg
+https://neolook.com/archives/2013011507c.jpg

@@ -1,4 +1,6 @@
 /archives/20220120b
+
+******** description ********
 The Hidden Masterpiece
 2022_0120 ▶ 2022_0224 / 월공휴일 휴관,    ,    별도의 초대일시가 없습니다.
 
@@ -42,3 +44,13 @@ Gallery BK는 이처럼 자신만의 철학과 신념 작업 방식으로 꾸준
 ■ 최민지
 
 Vol.20220120b | The Hidden Masterpiece展
+******** imgSrcs ********
+https://neolook.com/archives/2022012001b.jpg
+https://neolook.com/archives/2022012002b.jpg
+https://neolook.com/archives/2022012003b.jpg
+https://neolook.com/archives/2022012004b.jpg
+https://neolook.com/archives/2022012005b.jpg
+https://neolook.com/archives/2022012006b.jpg
+https://neolook.com/archives/2022012007b.jpg
+https://neolook.com/archives/2022012008b.jpg
+https://neolook.com/archives/2022012009b.jpg

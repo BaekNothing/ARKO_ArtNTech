@@ -1,4 +1,6 @@
 /archives/20080104d
+
+******** description ********
 당신의 보아뱀
 
 기획_KTF GALLERY The Orange
@@ -36,3 +38,16 @@ www.ktf.com/front/goodtime/orange.jsp,
 
 이상순_붉은사막_장지에 채색_160×120cm_2007,    용량이 커진 우리의 뇌 속에는 천지창조부터 생물의 탄생과 성장 블랙홀에 이르기까지 세상만사가 들어있어 우리들은 보지 않고도 볼 수 있고 듣지 않고도 듣게 된다. 그 결과 우리 주변과 몸 뇌 속에는 실체가 아닌 허상(虛像)들로 가득차게 된다. ■ KTF GALLERY The Orange
 Vol.20080104d | 당신의 보아뱀展
+******** imgSrcs ********
+/archives/2008010401d.gif
+https://neolook.com/archives/2008010402d.jpg
+https://neolook.com/archives/2008010403d.jpg
+https://neolook.com/archives/2008010404d.jpg
+https://neolook.com/archives/2008010405d.jpg
+https://neolook.com/archives/2008010406d.jpg
+https://neolook.com/archives/2008010407d.jpg
+https://neolook.com/archives/2008010408d.jpg
+https://neolook.com/archives/2008010409d.jpg
+https://neolook.com/archives/2008010410d.jpg
+https://neolook.com/archives/2008010411d.jpg
+https://neolook.com/archives/2008010412d.jpg

@@ -1,4 +1,6 @@
 /archives/20220105d
+
+******** description ********
 믿음과 미지수 Life Unknown
 
 박햇살展 / PARKHATSAL / 朴햇살 / painting
@@ -29,3 +31,11 @@ www.gallerydos.com,
 ■ 박햇살
 
 Vol.20210105d | 박햇살展 / PARKHATSAL / 朴햇살 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010501d.jpg
+https://neolook.com/archives/2022010502d.jpg
+https://neolook.com/archives/2022010503d.jpg
+https://neolook.com/archives/2022010504d.jpg
+https://neolook.com/archives/2022010505d.jpg
+https://neolook.com/archives/2022010506d.jpg
+https://neolook.com/archives/2022010507d.jpg

@@ -1,4 +1,6 @@
 /archives/20140117f
+
+******** description ********
 The End is Near
 
 스튜디오 화이트블럭 1기 입주작가 결과보고展
@@ -41,3 +43,9 @@ Yellow의 과정에서는 윤회 자연으로의 회기를 기점으로하여 or
 ■ 한지석
 
 Vol.20140117f | The End is Near-스튜디오 화이트블럭 1기 입주작가 결과보고展
+******** imgSrcs ********
+https://neolook.com/archives/2014011701f.jpg
+https://neolook.com/archives/2014011702f.jpg
+https://neolook.com/archives/2014011703f.jpg
+https://neolook.com/archives/2014011704f.jpg
+https://neolook.com/archives/2014011705f.jpg

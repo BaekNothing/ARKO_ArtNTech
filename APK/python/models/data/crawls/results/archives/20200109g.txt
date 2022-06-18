@@ -1,4 +1,6 @@
 /archives/20200109g
+
+******** description ********
 경계면을 투과하는 것은 빛과 바람이다
 
 이상용展 / LEESANGYONG / 李相龍 / painting
@@ -34,3 +36,11 @@ cmoa.cheongju.go.kr/cjas,
 ● 빈 화면처럼 보이던 막은 안과 밖 입체와 평면 익숙함과 낯섦 보이는 것과 보이지 않는 것의 경계가 된다. 경계면을 투과하는 것은 빛과 바람이다. 산처럼 거대한 벽이 바람에 펄럭인다. 파도처럼 일렁이는 평면 위로 빛이 부서진다. 불명확한 색과 형태들이 뒤섞인다. 막의 표면은 부드럽고 견고한 것 밝고 어두운 것 구겨지고 펼쳐지는 것이 공존하는 과도기적 공간으로 재탄생한다. ■ 이상용
 
 Vol.20200109g | 이상용展 / LEESANGYONG / 李相龍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020010901g.jpg
+https://neolook.com/archives/2020010902g.jpg
+https://neolook.com/archives/2020010903g.jpg
+https://neolook.com/archives/2020010904g.jpg
+https://neolook.com/archives/2020010905g.jpg
+https://neolook.com/archives/2020010906g.jpg
+https://neolook.com/archives/2020010907g.jpg

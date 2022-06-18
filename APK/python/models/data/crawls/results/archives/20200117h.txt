@@ -1,4 +1,6 @@
 /archives/20200117h
+
+******** description ********
 기다리는 사람 소외된 공간
 
 양화선_좌혜선 2인展
@@ -29,3 +31,11 @@ artforum.co.kr,
 ■ 대안공간 아트포럼리
 
 Vol.20200117h | 기다리는 사람 소외된 공간-양화선_좌혜선 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2020011701h.jpg
+https://neolook.com/archives/2020011702h.jpg
+https://neolook.com/archives/2020011703h.jpg
+https://neolook.com/archives/2020011704h.jpg
+https://neolook.com/archives/2020011705h.jpg
+https://neolook.com/archives/2020011706h.jpg
+https://neolook.com/archives/2020011707h.jpg

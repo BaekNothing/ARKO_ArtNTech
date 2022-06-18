@@ -1,4 +1,6 @@
 /archives/20120107d
+
+******** description ********
 2012 갤러리 이레 신진작가 공모전
 2012_0107 ▶ 2012_0202 / 월요일 휴관,    
 구교수_DOG연작(시간죽이기2011-2) / 허용성_Marmotte No.3
@@ -36,3 +38,10 @@ www.galleryjireh.co.kr,
 ■ 갤러리 이레
 
 Vol.20120107d | 2012 갤러리 이레 신진작가 공모展
+******** imgSrcs ********
+https://neolook.com/archives/2012010701d.jpg
+https://neolook.com/archives/2012010702d.jpg
+https://neolook.com/archives/2012010703d.jpg
+https://neolook.com/archives/2012010704d.jpg
+https://neolook.com/archives/2012010705d.jpg
+https://neolook.com/archives/2012010706d.jpg

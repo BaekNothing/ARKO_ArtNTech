@@ -1,4 +1,6 @@
 /archives/20210106c
+
+******** description ********
 38˚C
 
 학고재 소장품 Hakgojae Collection展
@@ -79,3 +81,11 @@ Humanity is ill. The disease that came abruptly proliferated at a terrifying pac
 ■ Miran Park,    Translated by: Yoonsung Cho
 
 Vol.20210106c | 38˚C : 학고재 소장품 Hakgojae Collection展
+******** imgSrcs ********
+https://neolook.com/archives/2021010601c.jpg
+https://neolook.com/archives/2021010602c.jpg
+https://neolook.com/archives/2021010604c.jpg
+https://neolook.com/archives/2021010603c.jpg
+https://neolook.com/archives/2021010605c.jpg
+https://neolook.com/archives/2021010606c.jpg
+https://neolook.com/archives/2021010607c.jpg

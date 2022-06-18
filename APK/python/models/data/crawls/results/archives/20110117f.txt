@@ -1,4 +1,6 @@
 /archives/20110117f
+
+******** description ********
 '수묵감성'으로 본 도시풍경展: 종로(鐘路)에서..선유도(仙遊島)_까지 II
 
 배지민展 / BAEJIMIN / 裵芝敏 / painting
@@ -119,3 +121,11 @@ www.bukchonartmuseum.com,
 ■ 김인환
 
 Vol.20110117f | 배지민展 / BAEJIMIN / 裵芝敏 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011701f.jpg
+https://neolook.com/archives/2011011702f.jpg
+https://neolook.com/archives/2011011703f.jpg
+https://neolook.com/archives/2011011704f.jpg
+https://neolook.com/archives/2011011705f.jpg
+https://neolook.com/archives/2011011706f.jpg
+https://neolook.com/archives/2011011707f.jpg

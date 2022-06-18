@@ -1,4 +1,6 @@
 /archives/20120130a
+
+******** description ********
 행동하는 시 Poem in Action
 
 "Form Follows Flow."-Mud
@@ -24,3 +26,8 @@ Green Underground,
 ■ 김장언
 
 Vol.20120130a | 행동하는 시 Poem in Action / 지은이_조은지 / 독립출판사 Rock-Paper-Scissors
+******** imgSrcs ********
+https://neolook.com/archives/2012013001a.jpg
+https://neolook.com/archives/2012013002a.jpg
+https://neolook.com/archives/2012013003a.jpg
+https://neolook.com/archives/2012013004a.jpg

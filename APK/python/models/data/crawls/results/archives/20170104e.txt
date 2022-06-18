@@ -1,4 +1,6 @@
 /archives/20170104e
+
+******** description ********
 無量筆墨
 
 백현 박경묵展 / PARKKYOUNGMUG / 白泫 朴京默 / painting
@@ -56,3 +58,14 @@ blog.naver.com/ud_dental,
 ■ 자암 김장현
 
 Vol.20170104e | 백현 박경묵展 / PARKKYOUNGMUG / 白泫 朴京默 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017010401e.jpg
+https://neolook.com/archives/2017010402e.jpg
+https://neolook.com/archives/2017010403e.jpg
+https://neolook.com/archives/2017010404e.jpg
+https://neolook.com/archives/2017010405e.jpg
+https://neolook.com/archives/2017010406e.jpg
+https://neolook.com/archives/2017010407e.jpg
+https://neolook.com/archives/2017010408e.jpg
+https://neolook.com/archives/2017010409e.jpg
+https://neolook.com/archives/2017010410e.jpg

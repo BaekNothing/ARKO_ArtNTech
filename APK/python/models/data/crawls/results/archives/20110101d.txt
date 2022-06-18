@@ -1,4 +1,6 @@
 /archives/20110101d
+
+******** description ********
 21세기 색채'빛'
 
 미술세계 2011년 1월호
@@ -50,3 +52,9 @@ Gallery in Magazine
 184  Postscripts 편집후기
 
 Vol.20110101d | 21세기 색채'빛'
+******** imgSrcs ********
+https://neolook.com/archives/2011010101d.jpg
+https://neolook.com/archives/2011010102d.jpg
+https://neolook.com/archives/2011010103d.jpg
+https://neolook.com/archives/2011010104d.jpg
+https://neolook.com/archives/2011010105d.jpg

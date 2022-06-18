@@ -1,4 +1,6 @@
 /archives/20180103a
+
+******** description ********
 jig
 
 허정展 / HUHJUNG / 許정 / painting
@@ -40,3 +42,14 @@ www.insaartspace.com,
 "우리가 사는 이 곳은 불완전 상태에서 실제이지만 실재하지 않는 어느 경계 속에 놓인 환영이 아닐까" / "내 작업은 건축물이 투명하다고 생각하였고 그 건축물을 구성하기 위한 요소들을 해체한 다음 다시 재구성하는 작업이다." (허정) ■ 허정
 
 Vol.20180103a | 허정展 / HUHJUNG / 許정 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010301a.jpg
+https://neolook.com/archives/2018010302a.jpg
+https://neolook.com/archives/2018010303a.jpg
+https://neolook.com/archives/2018010304a.jpg
+https://neolook.com/archives/2018010305a.jpg
+https://neolook.com/archives/2018010306a.jpg
+https://neolook.com/archives/2018010307a.jpg
+https://neolook.com/archives/2018010308a.jpg
+https://neolook.com/archives/2018010309a.jpg
+https://neolook.com/archives/2018010310a.jpg

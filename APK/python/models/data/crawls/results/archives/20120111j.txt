@@ -1,4 +1,6 @@
 /archives/20120111j
+
+******** description ********
 순간적 정지
 
 윤주展 / YOONJOO / 胤住 / drawing.installation
@@ -34,3 +36,11 @@ www.artandsmart.co.kr,
 세미나 문의 02- 735-6266
 
 Vol.20120111j | 윤주展 / YOONJOO / 胤住 / drawing.installation
+******** imgSrcs ********
+https://neolook.com/archives/2012011101j.jpg
+https://neolook.com/archives/2012011102j.jpg
+https://neolook.com/archives/2012011103j.jpg
+https://neolook.com/archives/2012011104j.jpg
+https://neolook.com/archives/2012011105j.jpg
+https://neolook.com/archives/2012011106j.jpg
+https://neolook.com/archives/2012011107j.jpg

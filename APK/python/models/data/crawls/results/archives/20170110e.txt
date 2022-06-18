@@ -1,4 +1,6 @@
 /archives/20170110e
+
+******** description ********
 서울 오늘을 찍다
 
 2016 SeMA 사진 아카데미展
@@ -50,3 +52,29 @@ sema.seoul.go.kr,
 ■ 서울혁신파크 SeMA 창고
 
 Vol.20170110e | 서울 오늘을 찍다-2016 SeMA 사진 아카데미展
+******** imgSrcs ********
+https://neolook.com/archives/2017011001e.jpg
+https://neolook.com/archives/2017011002e.jpg
+https://neolook.com/archives/2017011003e.jpg
+https://neolook.com/archives/2017011004e.jpg
+https://neolook.com/archives/2017011005e.jpg
+https://neolook.com/archives/2017011006e.jpg
+https://neolook.com/archives/2017011007e.jpg
+https://neolook.com/archives/2017011008e.jpg
+https://neolook.com/archives/2017011009e.jpg
+https://neolook.com/archives/2017011010e.jpg
+https://neolook.com/archives/2017011011e.jpg
+https://neolook.com/archives/2017011012e.jpg
+https://neolook.com/archives/2017011013e.jpg
+https://neolook.com/archives/2017011014e.jpg
+https://neolook.com/archives/2017011015e.jpg
+https://neolook.com/archives/2017011016e.jpg
+https://neolook.com/archives/2017011017e.jpg
+https://neolook.com/archives/2017011018e.jpg
+https://neolook.com/archives/2017011019e.jpg
+https://neolook.com/archives/2017011020e.jpg
+https://neolook.com/archives/2017011021e.jpg
+https://neolook.com/archives/2017011022e.jpg
+https://neolook.com/archives/2017011023e.jpg
+https://neolook.com/archives/2017011024e.jpg
+https://neolook.com/archives/2017011025e.jpg

@@ -1,4 +1,6 @@
 /archives/20110121c
+
+******** description ********
 Wish-365
 
 현대백화점 신촌점 U-PLEX 갤러리 H 2011 특별기획展
@@ -35,3 +37,8 @@ www.ehyundai.com,
 ■ 정영숙
 
 Vol.20110121c | Wish-365展
+******** imgSrcs ********
+https://neolook.com/archives/2011012101c.jpg
+https://neolook.com/archives/2011012102c.jpg
+https://neolook.com/archives/2011012103c.jpg
+https://neolook.com/archives/2011012104c.jpg

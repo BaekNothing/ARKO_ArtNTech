@@ -1,4 +1,6 @@
 /archives/20110112c
+
+******** description ********
 TOMO(友)
 
 도쿄공예대학 동문展 / photography
@@ -58,3 +60,14 @@ www.galleryiang.com,
 ■ 畑　鉄彦
 
 Vol.20110112c | TOMO(友)展
+******** imgSrcs ********
+https://neolook.com/archives/2011011201c.jpg
+https://neolook.com/archives/2011011202c.jpg
+https://neolook.com/archives/2011011203c.jpg
+https://neolook.com/archives/2011011204c.jpg
+https://neolook.com/archives/2011011205c.jpg
+https://neolook.com/archives/2011011206c.jpg
+https://neolook.com/archives/2011011207c.jpg
+https://neolook.com/archives/2011011208c.jpg
+https://neolook.com/archives/2011011209c.jpg
+https://neolook.com/archives/2011011210c.jpg

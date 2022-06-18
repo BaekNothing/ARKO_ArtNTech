@@ -1,4 +1,6 @@
 /archives/20090101e
+
+******** description ********
 EYEBALL_Media Art Webzine
 
 EYEBALL 2009년 1월
@@ -38,3 +40,10 @@ Cinema @ Korea
 Film Maker_Kim Jong kwan
 Film Festival_The Cinematheque Friends Film Festival,    ,    2009 01_Cinema@Korea_Film Festival_The 4th Cinematheque Friends Film Festival,    ■ contact: annlee7@eyeball.or.kr | 82.10.2484.0711
 Vol.20090101e | EYEBALL 2009년 1월 / EYEBALL_Media Art Webzine
+******** imgSrcs ********
+https://neolook.com/archives/2009010101e.jpg
+https://neolook.com/archives/2009010102e.jpg
+https://neolook.com/archives/2009010103e.jpg
+https://neolook.com/archives/2009010104e.jpg
+https://neolook.com/archives/2009010105e.jpg
+https://neolook.com/archives/2009010106e.jpg

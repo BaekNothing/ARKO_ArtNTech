@@ -1,4 +1,6 @@
 /archives/20220105g
+
+******** description ********
 고요한 시선 Quiet gaze
 
 윤소연展 / YOONSOYEON / 尹素蓮 / painting
@@ -43,3 +45,12 @@ sogongspace.org,
 ■ 윤소연
 
 Vol.20220105g | 윤소연展 / YOONSOYEON / 尹素蓮 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010501g.jpg
+https://neolook.com/archives/2022010502g.jpg
+https://neolook.com/archives/2022010503g.jpg
+https://neolook.com/archives/2022010504g.jpg
+https://neolook.com/archives/2022010505g.jpg
+https://neolook.com/archives/2022010506g.jpg
+https://neolook.com/archives/2022010507g.jpg
+https://neolook.com/archives/2022010508g.jpg

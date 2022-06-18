@@ -1,4 +1,6 @@
 /archives/20150105b
+
+******** description ********
 리얼리즘: 시대의 초상
 
 2015 한중 신진작가展
@@ -49,3 +51,15 @@ blog.naver.com/amway_art,
 ■ 최기영
 
 Vol.20150105b | 리얼리즘: 시대의 초상-2015 한중 신진작가展
+******** imgSrcs ********
+https://neolook.com/archives/2015010501b.jpg
+https://neolook.com/archives/2015010502b.jpg
+https://neolook.com/archives/2015010503b.jpg
+https://neolook.com/archives/2015010504b.jpg
+https://neolook.com/archives/2015010505b.jpg
+https://neolook.com/archives/2015010506b.jpg
+https://neolook.com/archives/2015010507b.jpg
+https://neolook.com/archives/2015010508b.jpg
+https://neolook.com/archives/2015010509b.jpg
+https://neolook.com/archives/2015010510b.jpg
+https://neolook.com/archives/2015010511b.jpg

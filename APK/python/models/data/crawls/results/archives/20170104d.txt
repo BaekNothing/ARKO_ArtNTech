@@ -1,4 +1,6 @@
 /archives/20170104d
+
+******** description ********
 생물을 표현하는 몇 가지 방식에 관하여
 
 이태호展 / YITAEHO / 李泰昊 / ceramic
@@ -32,3 +34,10 @@ cafe.daum.net/gallerydam,
 ■ 이태호
 
 Vol.20170104d | 이태호展 / YITAEHO / 李泰昊 / ceramic
+******** imgSrcs ********
+https://neolook.com/archives/2017010401d.jpg
+https://neolook.com/archives/2017010402d.jpg
+https://neolook.com/archives/2017010403d.jpg
+https://neolook.com/archives/2017010404d.jpg
+https://neolook.com/archives/2017010405d.jpg
+https://neolook.com/archives/2017010406d.jpg

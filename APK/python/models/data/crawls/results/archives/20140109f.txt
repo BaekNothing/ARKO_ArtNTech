@@ -1,4 +1,6 @@
 /archives/20140109f
+
+******** description ********
 NATURE  DMZ
 
 권혁展 / KWONHYUK / 權赫 / drawing.painting.installation
@@ -47,3 +49,11 @@ www.parksookeun.or.kr,
 ■ 이관훈
 
 Vol.20140109f | 권혁展 / KWONHYUK / 權赫 / drawing.painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010904f.jpg
+https://neolook.com/archives/2014010901f.jpg
+https://neolook.com/archives/2014010902f.jpg
+https://neolook.com/archives/2014010903f.jpg
+https://neolook.com/archives/2014010905f.jpg
+https://neolook.com/archives/2014010906f.jpg
+https://neolook.com/archives/2014010907f.jpg

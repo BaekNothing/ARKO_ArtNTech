@@ -1,4 +1,6 @@
 /archives/20080101e
+
+******** description ********
 EYEBALL_Media Art Webzine
 
 EYEBALL 2008년 1월
@@ -94,3 +96,12 @@ Gallery_Korean Film Archive
 Film Festival_2007 University Film Festival of Korea
 
 Vol.20080101e | EYEBALL 2008년 1월 / What is Media Art?
+******** imgSrcs ********
+/archives/2008010101e.gif
+/archives/2008010102e.gif
+https://neolook.com/archives/2008010103e.jpg
+/archives/2008010104e.gif
+/archives/2008010105e.gif
+https://neolook.com/archives/2008010106e.jpg
+https://neolook.com/archives/2008010107e.jpg
+https://neolook.com/archives/2008010108e.jpg

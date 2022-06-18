@@ -1,4 +1,6 @@
 /archives/20220110b
+
+******** description ********
 2022 팔복예술공장 창작스튜디오 5기 입주작가 모집
 
 2022 5th Palbok Artist in Residency Open Call
@@ -70,3 +72,6 @@ www.facebook.com/palbokart
 * 심사결과는 팔복예술공장 홈페이지 게시 및 선정자 개별통보
 
 Vol.20220110b | 2022 팔복예술공장 창작스튜디오 5기 입주작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2022011001b.jpg
+https://neolook.com/archives/2022011002b.jpg

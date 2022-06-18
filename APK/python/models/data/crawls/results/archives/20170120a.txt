@@ -1,4 +1,6 @@
 /archives/20170120a
+
+******** description ********
 추락사회
 
 김형展 / KIMHYUNG / 金亨 / photography
@@ -34,3 +36,12 @@ no12gallery.com,
 ■ 김형
 
 Vol.20170120a | 김형展 / KIMHYUNG / 金亨 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2017012001a.jpg
+https://neolook.com/archives/2017012002a.jpg
+https://neolook.com/archives/2017012003a.jpg
+https://neolook.com/archives/2017012004a.jpg
+https://neolook.com/archives/2017012005a.jpg
+https://neolook.com/archives/2017012006a.jpg
+https://neolook.com/archives/2017012007a.jpg
+https://neolook.com/archives/2017012008a.jpg

@@ -1,4 +1,6 @@
 /archives/20160127b
+
+******** description ********
 Goddess of Industry 가데스 오브 인더스트리
 
 막스 프리징거展 / Max Frisinger / sculpture.installation
@@ -35,3 +37,8 @@ Gallery Baton is pleased to present Max Frisinger's solo exhibition "Goddess of 
 ■ GALLERY BATON
 
 Vol.20160127b | 막스 프리징거展 / Max Frisinger / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2016012701b.jpg
+https://neolook.com/archives/2016012702b.jpg
+https://neolook.com/archives/2016012703b.jpg
+https://neolook.com/archives/2016012704b.jpg

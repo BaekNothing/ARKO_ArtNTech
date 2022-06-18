@@ -1,4 +1,6 @@
 /archives/20170115b
+
+******** description ********
 드로잉룸 Drawing Room
 
 황경현展 / HWANGGYUNGHYUN / 黃暻鉉 / installation.drawing
@@ -49,3 +51,11 @@ www.facebook.com/ggmoma,
 ■ 황경현
 
 Vol.20170115b | 황경현展 / HWANGGYUNGHYUN / 黃暻鉉 / installation.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2017011501b.jpg
+https://neolook.com/archives/2017011502b.jpg
+https://neolook.com/archives/2017011503b.jpg
+https://neolook.com/archives/2017011504b.jpg
+https://neolook.com/archives/2017011505b.jpg
+https://neolook.com/archives/2017011506b.jpg
+https://neolook.com/archives/2017011507b.jpg

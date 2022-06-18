@@ -1,4 +1,6 @@
 /archives/20200123a
+
+******** description ********
 ○○하여 광명 찾자 Let Us Face the Bright Future
 
 김혜연_최희정 2인展
@@ -44,3 +46,15 @@ blog.naver.com/175gallery,
 ■ 김혜연_최희정
 
 Vol.20200123a | ○○하여 광명 찾자 Let Us Face the Bright Future-김혜연_최희정 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2020012301a.jpg
+https://neolook.com/archives/2020012302a.jpg
+https://neolook.com/archives/2020012303a.jpg
+https://neolook.com/archives/2020012304a.jpg
+https://neolook.com/archives/2020012305a.jpg
+https://neolook.com/archives/2020012306a.jpg
+https://neolook.com/archives/2020012307a.jpg
+https://neolook.com/archives/2020012308a.jpg
+https://neolook.com/archives/2020012309a.jpg
+https://neolook.com/archives/2020012310a.jpg
+https://neolook.com/archives/2020012311a.jpg

@@ -1,4 +1,6 @@
 /archives/20170101c
+
+******** description ********
 미리보는 2017 유럽 그랜드 투어
 
 월간미술 2017년 1월호
@@ -111,3 +113,8 @@ Sim Eunlog Hwang Sukkoun,    114   exhibition focus
 cody choiㆍlee daehyungㆍlee Wan
 
 Vol.20170101c | 시대의 얼굴 동상의 진실을 파헤치다
+******** imgSrcs ********
+https://neolook.com/archives/2017010101c.jpg
+https://neolook.com/archives/2017010102c.jpg
+https://neolook.com/archives/2017010103c.jpg
+https://neolook.com/archives/2017010104c.jpg

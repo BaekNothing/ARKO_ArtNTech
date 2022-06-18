@@ -1,4 +1,6 @@
 /archives/20190112b
+
+******** description ********
 치밀한 망각 Elaborate Oblivion
 
 홍유영展 / HONGEUYOUNG / 洪惟永 / sculpture.installation
@@ -44,3 +46,14 @@ www.youngeunmuseum.org,
 ■ 홍유영
 
 Vol.20190112b | 홍유영展 / HONGEUYOUNG / 洪惟永 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2019011201b.jpg
+https://neolook.com/archives/2019011202b.jpg
+https://neolook.com/archives/2019011203b.jpg
+https://neolook.com/archives/2019011204b.jpg
+https://neolook.com/archives/2019011205b.jpg
+https://neolook.com/archives/2019011206b.jpg
+https://neolook.com/archives/2019011207b.jpg
+https://neolook.com/archives/2019011208b.jpg
+https://neolook.com/archives/2019011209b.jpg
+https://neolook.com/archives/2019011210b.jpg

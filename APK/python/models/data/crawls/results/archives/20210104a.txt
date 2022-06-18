@@ -1,4 +1,6 @@
 /archives/20210104a
+
+******** description ********
 코로나19 사진 포트폴리오 공모
 접수기간 / 2021_0104 ▶ 2021_0115,    ,    접수마감 / 2021_0115_금요일
 
@@ -44,3 +46,6 @@ www.facebook.com/koreashe,
 - 시각의 독창성 주제의 전달성 작품의 통일성(일관성) 기록의 충실성
 
 Vol.20210104a | 코로나19 사진 포트폴리오 공모
+******** imgSrcs ********
+https://neolook.com/archives/2021010401a.jpg
+https://neolook.com/archives/2021010402a.jpg

@@ -1,4 +1,6 @@
 /archives/20180102f
+
+******** description ********
 마른 정물 Dried still objects 
 
 김지은展 / KIMJIEUN / 金志殷 / drawing.photography
@@ -38,3 +40,14 @@ www.chungsa.go.kr,
 ■ 박영택
 
 Vol.20180102f | 김지은展 / KIMJIEUN / 金志殷 / drawing.photography
+******** imgSrcs ********
+https://neolook.com/archives/2018010201f.jpg
+https://neolook.com/archives/2018010202f.jpg
+https://neolook.com/archives/2018010203f.jpg
+https://neolook.com/archives/2018010204f.jpg
+https://neolook.com/archives/2018010205f.jpg
+https://neolook.com/archives/2018010206f.jpg
+https://neolook.com/archives/2018010207f.jpg
+https://neolook.com/archives/2018010208f.jpg
+https://neolook.com/archives/2018010209f.jpg
+https://neolook.com/archives/2018010210f.jpg

@@ -1,4 +1,6 @@
 /archives/20190118b
+
+******** description ********
 Play Art~: Pixel ∙ Line ∙ Touch
 
 윤제원展 / YOONJEWON / 尹堤圓 / painting
@@ -46,3 +48,12 @@ www.seojinartspace.com,
 최근 화재가 된 오비어스(Obvious)의 A.I의 그림 에드먼드 데 벨라미(Edmond de Belamy 2018) 역시 회화라는 타이틀이 무색하게 잉크로 프린트 된 작품이었다는 것을 감안할 때 현시 된 회화 이미지는 손실되지 않은 아날로그적 정보를 간직한다. 그리고 모든 이미지의 표면을 매끄럽게 다듬어버리는 디지털 이미지와 달리 회화의 시각정보는 촉각성을 수반한다. 회화 이미지는 아무리 다듬어도 디지털 이미지 보다 촉각적이다. 회화는 기존의 평면이라는 속성 대신 천과 나무와 질료 터치 먼지 반사율 측면 등 공간적이자 촉각적인 오브젝트로서 존재하는 시점을 맞이하게 된 것이다. 따라서 기존의 미디어는 물론 뉴미디어가 범람하는 디지털시대에 회화가 가지는 회화성은 가상성을 가진 이미지와 차이를 보이는 것 만으로도 충분히 획득이 가능한 게 아닐까 하는 생각을 해본다. 이는 과거에 주창되었던 역사적 사건과는 또 다른 의미이다. 디지털 시대 디지털화의 특성으로 인해 회화의 의미망이 변화하고 있다. ■ 윤제원
 
 Vol.20190118b | 윤제원展 / YOONJEWON / 尹堤圓 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011801b.jpg
+https://neolook.com/archives/2019011802b.jpg
+https://neolook.com/archives/2019011803b.jpg
+https://neolook.com/archives/2019011804b.jpg
+https://neolook.com/archives/2019011805b.jpg
+https://neolook.com/archives/2019011806b.jpg
+https://neolook.com/archives/2019011807b.jpg
+https://neolook.com/archives/2019011808b.jpg

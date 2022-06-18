@@ -1,4 +1,6 @@
 /archives/20120127h
+
+******** description ********
 예술하는 습관 The Habit of Art
 
 전소정展 / JUNSOJUNG / 全昭侹 / video.photography
@@ -33,3 +35,11 @@ www.zandari.com,
  ■ 
 
 Vol.20120127h | 전소정展 / JUNSOJUNG / 全昭侹 / video.photography
+******** imgSrcs ********
+https://neolook.com/archives/2012012701h.jpg
+https://neolook.com/archives/2012012702h.jpg
+https://neolook.com/archives/2012012703h.jpg
+https://neolook.com/archives/2012012704h.jpg
+https://neolook.com/archives/2012012705h.jpg
+https://neolook.com/archives/2012012706h.jpg
+https://neolook.com/archives/2012012707h.jpg

@@ -1,4 +1,6 @@
 /archives/20120117b
+
+******** description ********
 역사에 빛을 더하다
 
 정현숙展 / JEONGHYUNSUK / 鄭賢淑 / painting
@@ -32,3 +34,11 @@ The opening exhibition for 2012 :『The Gleaming of History』 ● In the up-com
  ■  KIMEUNKYOUNG
 
 Vol.20120117b | 정현숙展 / JEONGHYUNSUK / 鄭賢淑 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011701b.jpg
+https://neolook.com/archives/2012011702b.jpg
+https://neolook.com/archives/2012011703b.jpg
+https://neolook.com/archives/2012011704b.jpg
+https://neolook.com/archives/2012011705b.jpg
+https://neolook.com/archives/2012011706b.jpg
+https://neolook.com/archives/2012011707b.jpg

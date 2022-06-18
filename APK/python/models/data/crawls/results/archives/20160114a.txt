@@ -1,4 +1,6 @@
 /archives/20160114a
+
+******** description ********
 DUMBnB X 임경수
 
 임경수展 / YIMKYUNGSOO / 林慶洙 / painting.installation
@@ -45,3 +47,11 @@ DUMBnB project 1
 ■ 임경수
 
 Vol.20160114a | 임경수展 / YIMKYUNGSOO / 林慶洙 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2016011401a.jpg
+https://neolook.com/archives/2016011402a.jpg
+https://neolook.com/archives/2016011403a.jpg
+https://neolook.com/archives/2016011404a.jpg
+https://neolook.com/archives/2016011405a.jpg
+https://neolook.com/archives/2016011406a.jpg
+https://neolook.com/archives/2016011407a.jpg

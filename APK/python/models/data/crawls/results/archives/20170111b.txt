@@ -1,4 +1,6 @@
 /archives/20170111b
+
+******** description ********
 풀
 
 범진용展 / BEOMJINYONG / 范鎭用 / painting
@@ -37,3 +39,12 @@ www.gallerymeme.com,
 ■ 박영택
 
 Vol.20170111b | 범진용展 / BEOMJINYONG / 范鎭用 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011101b.jpg
+https://neolook.com/archives/2017011102b.jpg
+https://neolook.com/archives/2017011103b.jpg
+https://neolook.com/archives/2017011104b.jpg
+https://neolook.com/archives/2017011105b.jpg
+https://neolook.com/archives/2017011106b.jpg
+https://neolook.com/archives/2017011107b.jpg
+https://neolook.com/archives/2017011108b.jpg

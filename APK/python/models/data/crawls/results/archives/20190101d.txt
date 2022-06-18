@@ -1,4 +1,6 @@
 /archives/20190101d
+
+******** description ********
 전시로 보는 고려 건국 1100주년
 
 월간 미술세계 2019년 1월호
@@ -62,3 +64,11 @@ WORLD ART_FRANCE,
 184   POSTSCRIPT
 
 Vol.20190101d | 전시로 보는 고려 건국 1100주년
+******** imgSrcs ********
+https://neolook.com/archives/2019010101d.jpg
+https://neolook.com/archives/2019010102d.jpg
+https://neolook.com/archives/2019010103d.jpg
+https://neolook.com/archives/2019010104d.jpg
+https://neolook.com/archives/2019010105d.jpg
+https://neolook.com/archives/2019010106d.jpg
+https://neolook.com/archives/2019010107d.jpg

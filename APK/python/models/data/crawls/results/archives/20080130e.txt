@@ -1,4 +1,6 @@
 /archives/20080130e
+
+******** description ********
 U N A W A R E S
 
 오새라展 / OHSARAH / 吳새라 / photography
@@ -43,3 +45,11 @@ www.gallerylux.net,
 사물의 실체가 된다. ■ 오새라
 
 Vol.20080130e | 오새라展 / OHSARAH / 吳새라 / photography
+******** imgSrcs ********
+/archives/2008013001e.gif
+https://neolook.com/archives/2008013002e.jpg
+https://neolook.com/archives/2008013003e.jpg
+https://neolook.com/archives/2008013004e.jpg
+/archives/2008013005e.gif
+https://neolook.com/archives/2008013006e.jpg
+/archives/2008013007e.gif

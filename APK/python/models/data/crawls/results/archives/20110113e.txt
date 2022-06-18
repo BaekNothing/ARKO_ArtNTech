@@ -1,4 +1,6 @@
 /archives/20110113e
+
+******** description ********
 2부-하얀다락방
 
 2011_0112 ▶ 2011_0118,    
@@ -39,3 +41,10 @@ www.galleryskyyeon.com,
 ■ 연지리
 
 Vol.20110113e | 2부-하얀다락방展
+******** imgSrcs ********
+https://neolook.com/archives/2011011301e.jpg
+https://neolook.com/archives/2011011302e.jpg
+https://neolook.com/archives/2011011303e.jpg
+https://neolook.com/archives/2011011304e.jpg
+https://neolook.com/archives/2011011305e.jpg
+https://neolook.com/archives/2011011306e.jpg

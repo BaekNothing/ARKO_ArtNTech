@@ -1,4 +1,6 @@
 /archives/20130124f
+
+******** description ********
 반 허공
 
 박광수展 / PARKGWANGSOO / 朴光洙 / drawing
@@ -43,3 +45,11 @@ www.cjartstudio.com,
 ■ 박광수
 
 Vol.20130124f | 박광수展 / PARKGWANGSOO / 朴光洙 / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2013012401f.jpg
+https://neolook.com/archives/2013012402f.jpg
+https://neolook.com/archives/2013012403f.jpg
+https://neolook.com/archives/2013012404f.jpg
+https://neolook.com/archives/2013012405f.jpg
+https://neolook.com/archives/2013012406f.jpg
+https://neolook.com/archives/2013012407f.jpg

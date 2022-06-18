@@ -1,4 +1,6 @@
 /archives/20180124g
+
+******** description ********
 중간 - 어느 즈음에
 
 2018_0124 ▶ 2018_0130,    ,    
@@ -40,3 +42,15 @@ www.kyunginart.co.kr,
 ■ 이영욱
 
 Vol.20180124g | 중간 - 어느 즈음에展
+******** imgSrcs ********
+https://neolook.com/archives/2018012401g.jpg
+https://neolook.com/archives/2018012402g.jpg
+https://neolook.com/archives/2018012403g.jpg
+https://neolook.com/archives/2018012404g.jpg
+https://neolook.com/archives/2018012405g.jpg
+https://neolook.com/archives/2018012406g.jpg
+https://neolook.com/archives/2018012407g.jpg
+https://neolook.com/archives/2018012408g.jpg
+https://neolook.com/archives/2018012409g.jpg
+https://neolook.com/archives/2018012410g.jpg
+https://neolook.com/archives/2018012411g.jpg

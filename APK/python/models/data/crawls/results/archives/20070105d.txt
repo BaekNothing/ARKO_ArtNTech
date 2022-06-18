@@ -1,4 +1,6 @@
 /archives/20070105d
+
+******** description ********
 도로시의 빨간구두
 
 인사아트센터 겨울방학 특별기획展
@@ -52,3 +54,14 @@ www.ganaartgallery.com,
 동화작가처럼 재밌는 이야기도 써 넣으면 내가 주인공인 팝업북의 한 장면이 완성될 것입니다.
 
 Vol.20070105d | 도로시의 빨간구두_인사아트센터 겨울방학 특별기획展
+******** imgSrcs ********
+https://neolook.com/archives/2007010501d.jpg
+https://neolook.com/archives/2007010502d.jpg
+https://neolook.com/archives/2007010503d.jpg
+https://neolook.com/archives/2007010504d.jpg
+https://neolook.com/archives/2007010505d.jpg
+/archives/2007010506d.gif
+https://neolook.com/archives/2007010507d.jpg
+https://neolook.com/archives/2007010508d.jpg
+https://neolook.com/archives/2007010509d.jpg
+https://neolook.com/archives/2007010510d.jpg

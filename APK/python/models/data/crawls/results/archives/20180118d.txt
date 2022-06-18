@@ -1,4 +1,6 @@
 /archives/20180118d
+
+******** description ********
 Sitting
 
 사박展 / SABAK / painting
@@ -43,3 +45,14 @@ www.yeemockgallery.co.kr,
 ■ 사박
 
 Vol.20180118d | 사박展 / SABAK / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011801d.jpg
+https://neolook.com/archives/2018011802d.jpg
+https://neolook.com/archives/2018011803d.jpg
+https://neolook.com/archives/2018011804d.jpg
+https://neolook.com/archives/2018011805d.jpg
+https://neolook.com/archives/2018011806d.jpg
+https://neolook.com/archives/2018011807d.jpg
+https://neolook.com/archives/2018011808d.jpg
+https://neolook.com/archives/2018011809d.jpg
+https://neolook.com/archives/2018011810d.jpg

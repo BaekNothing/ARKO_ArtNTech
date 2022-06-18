@@ -1,4 +1,6 @@
 /archives/20180115c
+
+******** description ********
 포레누아
 
 정승혜展 / JUNGSEUNGHYE / ??? / mixed media.installation
@@ -30,3 +32,9 @@ www.emuartspace.com,
 ■ 복합문화공간 에무
 
 Vol.20180115c | 정승혜展 / JUNGSEUNGHYE / ??? / mixed media.installation
+******** imgSrcs ********
+https://neolook.com/archives/2018011501c.jpg
+https://neolook.com/archives/2018011502c.jpg
+https://neolook.com/archives/2018011503c.jpg
+https://neolook.com/archives/2018011504c.jpg
+https://neolook.com/archives/2018011505c.jpg

@@ -1,4 +1,6 @@
 /archives/20110116f
+
+******** description ********
 Bridge
 
 조영실展 / CHOYOUNGSIL / 趙榮實 / painting
@@ -44,3 +46,10 @@ Bridge ● 가야할 바를 알지 못할 때
 ■ 조영실
 
 Vol.20110116f | 조영실展 / CHOYOUNGSIL / 趙榮實 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011601f.jpg
+https://neolook.com/archives/2011011602f.jpg
+https://neolook.com/archives/2011011603f.jpg
+https://neolook.com/archives/2011011604f.jpg
+https://neolook.com/archives/2011011605f.jpg
+https://neolook.com/archives/2011011606f.jpg

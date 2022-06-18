@@ -1,4 +1,6 @@
 /archives/20110118h
+
+******** description ********
 단꿈
 
 2011_0119 ▶ 2011_0131,    ,    
@@ -42,3 +44,8 @@ www.dukwongallery.co.kr,
 ■ 변청자
 
 Vol.20110118h | 단꿈展
+******** imgSrcs ********
+https://neolook.com/archives/2011011801h.jpg
+https://neolook.com/archives/2011011802h.jpg
+https://neolook.com/archives/2011011803h.jpg
+https://neolook.com/archives/2011011804h.jpg

@@ -1,4 +1,6 @@
 /archives/20200128a
+
+******** description ********
 어둠 속에 내려앉은 빛_빛이 머문 자리에는 흔적을 남긴다
 
 모은미展 / MOEUNMI / 牟恩美 / holography.mixed media
@@ -41,3 +43,9 @@ www.ohzemidong.co.kr,
 ■ 모은미
 
 Vol.20200128a | 모은미展 / MOEUNMI / 牟恩美 / holography.mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2020012801a.jpg
+https://neolook.com/archives/2020012802a.jpg
+https://neolook.com/archives/2020012803a.jpg
+https://neolook.com/archives/2020012804a.jpg
+https://neolook.com/archives/2020012805a.jpg

@@ -1,4 +1,6 @@
 /archives/20200107b
+
+******** description ********
 섬 아닌 섬
 
 허미자展 / HEOHMIJA / 許美子 / painting
@@ -45,3 +47,14 @@ Tel. +82.(0)2.391.5458,
 ■ 서길헌
 
 Vol.20200107b | 허미자展 / HEOHMIJA / 許美子 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020010701b.jpg
+https://neolook.com/archives/2020010702b.jpg
+https://neolook.com/archives/2020010703b.jpg
+https://neolook.com/archives/2020010704b.jpg
+https://neolook.com/archives/2020010705b.jpg
+https://neolook.com/archives/2020010706b.jpg
+https://neolook.com/archives/2020010707b.jpg
+https://neolook.com/archives/2020010708b.jpg
+https://neolook.com/archives/2020010709b.jpg
+https://neolook.com/archives/2020010710b.jpg

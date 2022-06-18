@@ -1,4 +1,6 @@
 /archives/20160112a
+
+******** description ********
 contact chatter
 
 난지후속지원사업(프로젝트 지원)展
@@ -45,3 +47,12 @@ semananji.seoul.go.kr,
 "월드컵파크 3단지 난지천공원"정류장 하차 후 도보 15분
 
 Vol.20160112a | contact chatter展
+******** imgSrcs ********
+https://neolook.com/archives/2016011201a.jpg
+https://neolook.com/archives/2016011202a.jpg
+https://neolook.com/archives/2016011203a.jpg
+https://neolook.com/archives/2016011204a.jpg
+https://neolook.com/archives/2016011205a.jpg
+https://neolook.com/archives/2016011206a.jpg
+https://neolook.com/archives/2016011207a.jpg
+https://neolook.com/archives/2016011208a.jpg

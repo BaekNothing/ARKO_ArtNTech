@@ -1,4 +1,6 @@
 /archives/20020114a
+
+******** description ********
 최소한의 방
 
 송영미展 / installation
@@ -13,3 +15,7 @@ Tel. 02_725_6751,
 송영미__최소한의 방_설치_가변크기_2002
 
 Vol.20020114a | 송영미展 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2002011401a.jpg
+https://neolook.com/archives/2002011402a.jpg
+https://neolook.com/archives/2002011403a.jpg

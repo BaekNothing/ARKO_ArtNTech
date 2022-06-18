@@ -1,4 +1,6 @@
 /archives/20120125f
+
+******** description ********
 가위 바위 보 Rock-Scissors-Paper
 2012_0125 ▶ 2012_0131 / 월요일 휴관,    박정현_175SPEAK 비단_프로세싱 설치_2011,    초대일시 / 2012_0126_목요일_06:00pm
 
@@ -28,3 +30,8 @@ club.cyworld.com/gallery175,
 ■ 가위 바위 보
 
 Vol.20120125f | 가위 바위 보 Rock-Scissors-Paper展
+******** imgSrcs ********
+https://neolook.com/archives/2012012501f.jpg
+https://neolook.com/archives/2012012502f.jpg
+https://neolook.com/archives/2012012503f.jpg
+https://neolook.com/archives/2012012504f.jpg

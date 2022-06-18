@@ -1,4 +1,6 @@
 /archives/20100105d
+
+******** description ********
 SUPERHILL - SUPERHERO
 
 김민형展 / KIMMINHYUNG / 金民亨 / sculpture
@@ -38,3 +40,11 @@ SUPERHILL - SUPERHERO ●
 ■ 이재은
 
 Vol.20100105d | 김민형展 / KIMMINHYUNG / 金民亨 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2010010501d.jpg
+https://neolook.com/archives/2010010502d.jpg
+https://neolook.com/archives/2010010503d.jpg
+https://neolook.com/archives/2010010504d.jpg
+https://neolook.com/archives/2010010505d.jpg
+https://neolook.com/archives/2010010506d.jpg
+https://neolook.com/archives/2010010507d.jpg

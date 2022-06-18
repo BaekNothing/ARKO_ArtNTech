@@ -1,4 +1,6 @@
 /archives/20130101c
+
+******** description ********
 호모 픽토르 대한민국에 말걸기
 
 월간미술 2013년 1월호
@@ -83,3 +85,9 @@ Readers Gift 174
 Postscript 176
 
 Vol.20130101c | 호모 픽토르 대한민국에 말걸기
+******** imgSrcs ********
+https://neolook.com/archives/2013010101c.jpg
+https://neolook.com/archives/2013010102c.jpg
+https://neolook.com/archives/2013010103c.jpg
+https://neolook.com/archives/2013010104c.jpg
+https://neolook.com/archives/2013010105c.jpg

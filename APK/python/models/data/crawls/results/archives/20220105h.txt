@@ -1,4 +1,6 @@
 /archives/20220105h
+
+******** description ********
 백남준_Digital Painting
 
 백남준展 / PAIKNAMJUNE / 白南準 / mixed media
@@ -30,3 +32,9 @@ www.k-s-gallery.com,
 기존의 예술을 넘어서 본질주의 미학에 저항하겠다는 의지를 보여주는 작품들을 감상하면서 그가 이미 예상했던 미래 지금은 현실이 된 그 아이디어들을 만나보자. 그리고 왜 백남준의 작품은 오늘날까지 고이지 않고 여전히 시대를 거슬러 흘러가고 있는지flux 생각해 볼 수 있는 계기가 되기를 바란다. ■ 케이에스갤러리
 
 Vol.20220105h | 백남준展 / PAIKNAMJUNE / 白南準 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2022010501h.jpg
+https://neolook.com/archives/2022010502h.jpg
+https://neolook.com/archives/2022010503h.jpg
+https://neolook.com/archives/2022010504h.jpg
+https://neolook.com/archives/2022010505h.jpg

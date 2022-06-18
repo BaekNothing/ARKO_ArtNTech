@@ -1,4 +1,6 @@
 /archives/20070110c
+
+******** description ********
 print IN&OUT-broader and faster
 
 갤러리아이 기획 초대展
@@ -38,3 +40,14 @@ www.egalleryi.co.kr,
 
 이종철 / 2007_0307 ▶ 2007_0313 / Paradox,    작업의 조형적 배경이 판화에서 출발된 9명의 작가들이 참여하는 'print IN&OUT' 전은 프린트의 '의미 너머' 로 기존의 매체를 부정하거나 거부하는 것이 아니라 새로운 매체와 기존의 매체에 관한 다양한 시각을 확보하고 미술 매체에 관습적으로 종속되는 경향을 탈피하기 위한 노력의 한 단계로서 매체와 매체를 넘나들고 개념과 개념 사이를 파고 들어 매체위에 작가 중심의 '넘나들기' 를 시도하기 위한 제안적 형식의 릴레이 개인전 방식으로 이루어진다. ■ 갤러리 아이
 Vol.20070110c | print IN&OUT - broader and faster展
+******** imgSrcs ********
+https://neolook.com/archives/2007011001c.jpg
+https://neolook.com/archives/2007011002c.jpg
+https://neolook.com/archives/2007011003c.jpg
+https://neolook.com/archives/2007011004c.jpg
+https://neolook.com/archives/2007011005c.jpg
+https://neolook.com/archives/2007011006c.jpg
+https://neolook.com/archives/2007011007c.jpg
+https://neolook.com/archives/2007011008c.jpg
+https://neolook.com/archives/2007011009c.jpg
+https://neolook.com/archives/2007011010c.jpg

@@ -1,4 +1,6 @@
 /archives/20180124b
+
+******** description ********
 행운적중
 
 박노완_박성민_신지윤展
@@ -31,3 +33,11 @@ www.gallerygabi.com,
 ■ 갤러리 가비
 
 Vol.20180124b | 행운적중展
+******** imgSrcs ********
+https://neolook.com/archives/2018012401b.jpg
+https://neolook.com/archives/2018012402b.jpg
+https://neolook.com/archives/2018012403b.jpg
+https://neolook.com/archives/2018012404b.jpg
+https://neolook.com/archives/2018012405b.jpg
+https://neolook.com/archives/2018012406b.jpg
+https://neolook.com/archives/2018012407b.jpg

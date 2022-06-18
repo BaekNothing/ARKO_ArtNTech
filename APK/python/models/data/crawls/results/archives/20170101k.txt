@@ -1,4 +1,6 @@
 /archives/20170101k
+
+******** description ********
 희미해진 역사의 기록
 
 포토닷 2017년 1월호
@@ -74,3 +76,10 @@ Photodot + Radar 3_Interview - 사랑을 찍고 전하고 나누는 사진가 �
 정우영 『Paradise Macity』(2017.1.17-1.22 해오름 갤러리),    128   DOT 조합소개
 
 Vol.20170101k | 희미해진 역사의 기록
+******** imgSrcs ********
+https://neolook.com/archives/2017010101k.jpg
+https://neolook.com/archives/2017010102k.jpg
+https://neolook.com/archives/2017010103k.jpg
+https://neolook.com/archives/2017010104k.jpg
+https://neolook.com/archives/2017010105k.jpg
+https://neolook.com/archives/2017010106k.jpg

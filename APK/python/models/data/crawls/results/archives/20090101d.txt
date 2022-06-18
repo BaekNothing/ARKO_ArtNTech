@@ -1,4 +1,6 @@
 /archives/20090101d
+
+******** description ********
 2009년 나는 소망한다!
 
 미술세계 2009년 1월호
@@ -56,3 +58,10 @@ Art Serial
 240   Postscripts 편집후기
 
 Vol.20090101d | 미술세계 2009년 1월호 / 2009년 나는 소망한다!
+******** imgSrcs ********
+https://neolook.com/archives/2009010101d.jpg
+https://neolook.com/archives/2009010102d.jpg
+https://neolook.com/archives/2009010103d.jpg
+https://neolook.com/archives/2009010104d.jpg
+https://neolook.com/archives/2009010105d.jpg
+https://neolook.com/archives/2009010106d.jpg

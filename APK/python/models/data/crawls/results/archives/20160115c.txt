@@ -1,4 +1,6 @@
 /archives/20160115c
+
+******** description ********
 2016기억공작소 Ⅰ-순환-깃
 
 박철호展 / PARKCHELHO / 朴徹鎬 / painting
@@ -50,3 +52,11 @@ www.bongsanart.org,
 내    용 : 작품세계를 이해하기위한 실크스크린 체험
 
 Vol.20160115c | 박철호展 / PARKCHELHO / 朴徹鎬 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011501c.jpg
+https://neolook.com/archives/2016011502c.jpg
+https://neolook.com/archives/2016011503c.jpg
+https://neolook.com/archives/2016011504c.jpg
+https://neolook.com/archives/2016011505c.jpg
+https://neolook.com/archives/2016011506c.jpg
+https://neolook.com/archives/2016011507c.jpg

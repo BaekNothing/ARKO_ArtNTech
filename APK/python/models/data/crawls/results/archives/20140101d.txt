@@ -1,4 +1,6 @@
 /archives/20140101d
+
+******** description ********
 2014년 기다려지는 것들 2013년 남겨진 것들
 
 미술세계 2014년 1월호
@@ -71,3 +73,9 @@ Monthly Focus,
 176   Postscript
 
 Vol.20140101d | 2014년 기다려지는 것들 2013년 남겨진 것들
+******** imgSrcs ********
+https://neolook.com/archives/2014010101d.jpg
+https://neolook.com/archives/2014010102d.jpg
+https://neolook.com/archives/2014010103d.jpg
+https://neolook.com/archives/2014010104d.jpg
+https://neolook.com/archives/2014010105d.jpg

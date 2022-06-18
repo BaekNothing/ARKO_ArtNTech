@@ -1,4 +1,6 @@
 /archives/20130129b
+
+******** description ********
 크리티컬 포인트
 
 Critical Point展
@@ -34,3 +36,10 @@ www.spacek.co.kr,
 ■ 스페이스K
 
 Vol.20130129b | 크리티컬 포인트 Critical Point展
+******** imgSrcs ********
+https://neolook.com/archives/2013012901b.jpg
+https://neolook.com/archives/2013012902b.jpg
+https://neolook.com/archives/2013012903b.jpg
+https://neolook.com/archives/2013012904b.jpg
+https://neolook.com/archives/2013012905b.jpg
+https://neolook.com/archives/2013012906b.jpg

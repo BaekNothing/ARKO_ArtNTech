@@ -1,4 +1,6 @@
 /archives/20110110b
+
+******** description ********
 홍익대학교 미술대학원 현대미술최고위과정 제29기 모집
 
 2011전기과정 접수 / 2011_0110 ▶ 2011_0211
@@ -81,3 +83,5 @@ www.hongik.edu/grad/univ12/index.html,
 홍익대학교 홈페이지_www.hongik.ac.kr/grad/univ12
 
 Vol.20110110b | 홍익대학교 미술대학원 현대미술최고위과정 제29기 모집
+******** imgSrcs ********
+https://neolook.com/archives/2011011001b.jpg

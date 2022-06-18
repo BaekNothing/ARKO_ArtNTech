@@ -1,4 +1,6 @@
 /archives/20160118c
+
+******** description ********
 RETRO SCENE
 
 김성수_이상원_정재호展
@@ -40,3 +42,13 @@ RETRO-SCENE展_스페이스K_과천_2016,
 ■ 스페이스K_과천
 
 Vol.20160118c | RETRO SCENE展
+******** imgSrcs ********
+https://neolook.com/archives/2016011801c.jpg
+https://neolook.com/archives/2016011802c.jpg
+https://neolook.com/archives/2016011803c.jpg
+https://neolook.com/archives/2016011804c.jpg
+https://neolook.com/archives/2016011805c.jpg
+https://neolook.com/archives/2016011806c.jpg
+https://neolook.com/archives/2016011807c.jpg
+https://neolook.com/archives/2016011808c.jpg
+https://neolook.com/archives/2016011809c.jpg

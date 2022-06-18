@@ -1,4 +1,6 @@
 /archives/20170107c
+
+******** description ********
 꿈과 진실 사이
 
 G&J 광주‧전남갤러리 기획展
@@ -36,3 +38,12 @@ G&J 광주·전남 갤러리,
 ■ 오병희
 
 Vol.20170107c | 꿈과 진실 사이展
+******** imgSrcs ********
+https://neolook.com/archives/2017010701c.jpg
+https://neolook.com/archives/2017010702c.jpg
+https://neolook.com/archives/2017010703c.jpg
+https://neolook.com/archives/2017010704c.jpg
+https://neolook.com/archives/2017010705c.jpg
+https://neolook.com/archives/2017010706c.jpg
+https://neolook.com/archives/2017010707c.jpg
+https://neolook.com/archives/2017010708c.jpg

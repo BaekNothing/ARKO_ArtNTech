@@ -1,4 +1,6 @@
 /archives/20110124a
+
+******** description ********
 LANDSCAPE - THE WAY HOME
 
 신리라展 / SHINRIRA / 申吏羅 / painting
@@ -41,3 +43,11 @@ The foundation for an art work originates from the history of everyday life. If 
 ■ SHINRIRA
 
 Vol.20110124a | 신리라展 / SHINRIRA / 申吏羅 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012401a.jpg
+https://neolook.com/archives/2011012402a.jpg
+https://neolook.com/archives/2011012403a.jpg
+https://neolook.com/archives/2011012404a.jpg
+https://neolook.com/archives/2011012405a.jpg
+https://neolook.com/archives/2011012406a.jpg
+https://neolook.com/archives/2011012407a.jpg

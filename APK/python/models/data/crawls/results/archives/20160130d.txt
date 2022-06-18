@@ -1,4 +1,6 @@
 /archives/20160130d
+
+******** description ********
 Nature Dream Eternity
 
 김세중展 / KIMSEJOONG / 金世中 / painting
@@ -48,3 +50,13 @@ cm_다른cm_ 시간 cm_다른cm_ 장소
 ■ 김재도
 
 Vol.20160130d | 김세중展 / KIMSEJOONG / 金世中 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016013001d.jpg
+https://neolook.com/archives/2016013002d.jpg
+https://neolook.com/archives/2016013003d.jpg
+https://neolook.com/archives/2016013004d.jpg
+https://neolook.com/archives/2016013005d.jpg
+https://neolook.com/archives/2016013006d.jpg
+https://neolook.com/archives/2016013007d.jpg
+https://neolook.com/archives/2016013008d.jpg
+https://neolook.com/archives/2016013009d.jpg

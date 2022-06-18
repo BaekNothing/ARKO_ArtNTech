@@ -1,4 +1,6 @@
 /archives/20140104a
+
+******** description ********
 Grand Open
 
 루카스 헤퍼展 / LUKAS HOFER / installation
@@ -38,3 +40,11 @@ He recently showed his large scale site specific installations "Dom na Prospekte
 ■ 
 
 Vol.20140104a | 루카스 헤퍼展 / LUKAS HOFER / installation
+******** imgSrcs ********
+https://neolook.com/archives/2014010401a.jpg
+https://neolook.com/archives/2014010402a.jpg
+https://neolook.com/archives/2014010403a.jpg
+https://neolook.com/archives/2014010404a.jpg
+https://neolook.com/archives/2014010405a.jpg
+https://neolook.com/archives/2014010406a.jpg
+https://neolook.com/archives/2014010403a.jpg

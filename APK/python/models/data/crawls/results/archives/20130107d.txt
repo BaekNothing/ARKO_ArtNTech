@@ -1,4 +1,6 @@
 /archives/20130107d
+
+******** description ********
 서울디지털대학교 회화과 졸업전시회
 
 Seoul  Digital University  Bacheler 
@@ -42,3 +44,16 @@ www.57gallery.co.kr,
 ■ 김수진
 
 Vol.20130107d | 서울디지털대학교 회화과 졸업전시회
+******** imgSrcs ********
+https://neolook.com/archives/2013010701d.jpg
+https://neolook.com/archives/2013010702d.jpg
+https://neolook.com/archives/2013010703d.jpg
+https://neolook.com/archives/2013010704d.jpg
+https://neolook.com/archives/2013010705d.jpg
+https://neolook.com/archives/2013010706d.jpg
+https://neolook.com/archives/2013010707d.jpg
+https://neolook.com/archives/2013010708d.jpg
+https://neolook.com/archives/2013010709d.jpg
+https://neolook.com/archives/2013010710d.jpg
+https://neolook.com/archives/2013010711d.jpg
+https://neolook.com/archives/2013010712d.jpg

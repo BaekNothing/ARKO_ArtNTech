@@ -1,4 +1,6 @@
 /archives/20090102a
+
+******** description ********
 스타★예술가와 시민의 만남
 
 2009 유리상자-아트스타 전시공모
@@ -36,3 +38,7 @@ www.bongsanart.org,
 
 ● 문의 봉산문화회관_Tel. +82.53.661.3081~2
 Vol.20090102a | 스타★예술가와 시민의 만남 / 2009 유리상자-아트스타 전시공모
+******** imgSrcs ********
+https://neolook.com/archives/2009010201a.jpg
+https://neolook.com/archives/2009010202a.jpg
+https://neolook.com/archives/2009010203a.jpg

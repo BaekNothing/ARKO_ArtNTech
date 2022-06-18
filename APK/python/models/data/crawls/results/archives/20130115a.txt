@@ -1,4 +1,6 @@
 /archives/20130115a
+
+******** description ********
 비상(飛上)을 꿈꾸다.
 
 한유진展 / HANYUJIN / 韓有珍 / painting
@@ -35,3 +37,10 @@ www.lotteshopping.com,
 ■ 나민환
 
 Vol.20130115a | 한유진展 / HANYUJIN / 韓有珍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011501a.jpg
+https://neolook.com/archives/2013011502a.jpg
+https://neolook.com/archives/2013011503a.jpg
+https://neolook.com/archives/2013011504a.jpg
+https://neolook.com/archives/2013011505a.jpg
+https://neolook.com/archives/2013011506a.jpg

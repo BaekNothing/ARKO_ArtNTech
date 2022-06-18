@@ -1,4 +1,6 @@
 /archives/20180104h
+
+******** description ********
 2018년 전시·공연 후원 작가 공모 안내
 
 접수기간 / 2018_0104 ▶ 2018_0121,    ,    
@@ -36,3 +38,5 @@ www.nomadist.org/s104,
 이메일   curatorpark@gmail.com (공모문의 말머리 표기할 것)
 
 Vol.20180104h | 2018년 전시·공연 후원 작가 공모 안내
+******** imgSrcs ********
+https://neolook.com/archives/2018010401h.jpg

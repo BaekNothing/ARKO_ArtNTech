@@ -1,4 +1,6 @@
 /archives/20160105c
+
+******** description ********
 우정국×정현용
 
 정현용展 / JEONGHYUNYONG / 鄭賢溶 / painting
@@ -35,3 +37,5 @@ www.facebook.com/ujeongguk,
 ■ 우정국
 
 Vol.20160105c | 정현용展 / JEONGHYUNYONG / 鄭賢溶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016010501c.jpg

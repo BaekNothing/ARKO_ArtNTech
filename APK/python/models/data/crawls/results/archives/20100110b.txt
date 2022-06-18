@@ -1,4 +1,6 @@
 /archives/20100110b
+
+******** description ********
 Face me and you
 
 2009 스페이스 홀앤코너 공모 당선展
@@ -52,3 +54,13 @@ Ryuta Suzuke_looking through; behind the curtain_종이에 우드컷 실크스�
 ■ 박혜민
 
 Vol.20100110b | Face me and you展
+******** imgSrcs ********
+https://neolook.com/archives/2010011001b.jpg
+https://neolook.com/archives/2010011002b.jpg
+https://neolook.com/archives/2010011003b.jpg
+https://neolook.com/archives/2010011004b.jpg
+https://neolook.com/archives/2010011005b.jpg
+https://neolook.com/archives/2010011006b.jpg
+https://neolook.com/archives/2010011007b.jpg
+https://neolook.com/archives/2010011008b.jpg
+https://neolook.com/archives/2010011009b.jpg

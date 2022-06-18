@@ -1,4 +1,6 @@
 /archives/20210118c
+
+******** description ********
 제4회 VH 어워드 미디어 아트 작품 공모
 
 The 4th VH AWARD Call for Media Artists
@@ -101,3 +103,5 @@ www.vhaward.com,
   이는 수상 취소의 사유가 될 수 있습니다.)
 
 Vol.20210118c | 제4회 VH 어워드 미디어 아트 작품 공모
+******** imgSrcs ********
+https://neolook.com/archives/2021011801c.jpg

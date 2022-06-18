@@ -1,4 +1,6 @@
 /archives/20150109c
+
+******** description ********
 2015 스피돔 갤러리 작가 공모
 접수기간 / 2015_0109 ▶ 2015_0118,    ,    접수마감 / 2015_0118_일요일_06:00pm
 문의 / gallery@kspo.or.kr / +82.2.2067.5151 담당자 이윤경,    스피돔 갤러리
@@ -39,3 +41,6 @@ www.krace.or.kr,
    상기 공모전 관련 내용 및 일정은 공단 사정에 따라 변경될 수 있습니다.
 
 Vol.20150109c | 2015 스피돔 갤러리 작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2015010901c.jpg
+https://neolook.com/archives/2015010902c.jpg

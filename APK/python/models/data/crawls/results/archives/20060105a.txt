@@ -1,4 +1,6 @@
 /archives/20060105a
+
+******** description ********
 모자와 보아뱀
 
 어린이를 위한 워크샵과 전시
@@ -44,3 +46,9 @@ Tel. 02_3143_4675,
 전시회 및 작품 도록 CD 제작 제공
 
 Vol.20060105a | 모자와 보아뱀展
+******** imgSrcs ********
+https://neolook.com/archives/2006010501a.jpg
+https://neolook.com/archives/2006010502a.jpg
+https://neolook.com/archives/2006010503a.jpg
+https://neolook.com/archives/2006010504a.jpg
+https://neolook.com/archives/2006010505a.jpg

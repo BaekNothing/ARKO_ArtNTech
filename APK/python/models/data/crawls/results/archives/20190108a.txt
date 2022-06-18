@@ -1,4 +1,6 @@
 /archives/20190108a
+
+******** description ********
 정물 Ⅱ_representing
 
 권도연_윤한종_조성연_김시연展
@@ -36,3 +38,13 @@ hemistepa lyrata goosefoot_피그먼트 프린트_130×104cm_2018,    조성연_
 ■ 아트스페이스 J
 
 Vol.20190108a | 정물 Ⅱ_representing展
+******** imgSrcs ********
+https://neolook.com/archives/2019010801a.jpg
+https://neolook.com/archives/2019010802a.jpg
+https://neolook.com/archives/2019010803a.jpg
+https://neolook.com/archives/2019010804a.jpg
+https://neolook.com/archives/2019010805a.jpg
+https://neolook.com/archives/2019010806a.jpg
+https://neolook.com/archives/2019010807a.jpg
+https://neolook.com/archives/2019010808a.jpg
+https://neolook.com/archives/2019010809a.jpg

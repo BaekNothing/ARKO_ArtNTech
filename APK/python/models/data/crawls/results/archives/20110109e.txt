@@ -1,4 +1,6 @@
 /archives/20110109e
+
+******** description ********
 미국 마이애미에서 길어올린 최영욱의 달 항아리 그림
 
 최영욱展 / CHOIYOUNGWOOK / 崔永旭 / painting
@@ -53,3 +55,7 @@ www.gagagallery.com,
 ■ 강홍구
 
 Vol.20110109e | 최영욱展 / CHOIYOUNGWOOK / 崔永旭 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010901e.jpg
+https://neolook.com/archives/2011010902e.jpg
+https://neolook.com/archives/2011010903e.jpg

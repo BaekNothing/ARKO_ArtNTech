@@ -1,4 +1,6 @@
 /archives/20100112a
+
+******** description ********
 Botanic Gardens
 
 이용석_강기훈展
@@ -45,3 +47,14 @@ www.priors.co.kr,
 ■ 프라이어스 갤러리
 
 Vol.20100112a | Botanic Gardens-이용석_강기훈展
+******** imgSrcs ********
+https://neolook.com/archives/2010011201a.jpg
+https://neolook.com/archives/2010011202a.jpg
+https://neolook.com/archives/2010011203a.jpg
+https://neolook.com/archives/2010011204a.jpg
+https://neolook.com/archives/2010011205a.jpg
+https://neolook.com/archives/2010011206a.jpg
+https://neolook.com/archives/2010011207a.jpg
+https://neolook.com/archives/2010011208a.jpg
+https://neolook.com/archives/2010011209a.jpg
+https://neolook.com/archives/2010011210a.jpg

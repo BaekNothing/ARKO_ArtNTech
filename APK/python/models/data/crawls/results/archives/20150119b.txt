@@ -1,4 +1,6 @@
 /archives/20150119b
+
+******** description ********
 diaLog_in 다이얼로그_인
 
 김범준展 / KIMBUMZUN / 金範俊 / sculpture
@@ -35,3 +37,12 @@ www.gallerywe.com,
 ■ 김범준
 
 Vol.20150119b | 김범준展 / KIMBUMZUN / 金範俊 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2015011901b.jpg
+https://neolook.com/archives/2015011902b.jpg
+https://neolook.com/archives/2015011903b.jpg
+https://neolook.com/archives/2015011904b.jpg
+https://neolook.com/archives/2015011905b.jpg
+https://neolook.com/archives/2015011906b.jpg
+https://neolook.com/archives/2015011907b.jpg
+https://neolook.com/archives/2015011908b.jpg

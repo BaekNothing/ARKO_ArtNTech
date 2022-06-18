@@ -1,4 +1,6 @@
 /archives/20220113f
+
+******** description ********
 디지로그 Digilog
 
 장입규展 / JANGIPKYU / 張立奎 / mixed media
@@ -39,3 +41,16 @@ cmoa.cheongju.go.kr/cjas,
 ■ 장입규
 
 Vol.20220113f | 장입규展 / JANGIPKYU / 張立奎 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2022011301f.jpg
+https://neolook.com/archives/2022011302f.jpg
+https://neolook.com/archives/2022011303f.jpg
+https://neolook.com/archives/2022011304f.jpg
+https://neolook.com/archives/2022011305f.jpg
+https://neolook.com/archives/2022011306f.jpg
+https://neolook.com/archives/2022011307f.jpg
+https://neolook.com/archives/2022011308f.jpg
+https://neolook.com/archives/2022011309f.jpg
+https://neolook.com/archives/2022011310f.jpg
+https://neolook.com/archives/2022011311f.jpg
+https://neolook.com/archives/2022011312f.jpg

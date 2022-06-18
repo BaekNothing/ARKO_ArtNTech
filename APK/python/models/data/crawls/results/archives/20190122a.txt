@@ -1,4 +1,6 @@
 /archives/20190122a
+
+******** description ********
 Line of Memory and Healing
 
 박현주展 / PARKHYUNJU / 朴賢珠 / installation
@@ -45,3 +47,14 @@ www.gallerydos.com,
 ■ 신나경
 
 Vol.20190122a | 박현주展 / PARKHYUNJU / 朴賢珠 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2019012201a.jpg
+https://neolook.com/archives/2019012202a.jpg
+https://neolook.com/archives/2019012203a.jpg
+https://neolook.com/archives/2019012204a.jpg
+https://neolook.com/archives/2019012205a.jpg
+https://neolook.com/archives/2019012206a.jpg
+https://neolook.com/archives/2019012207a.jpg
+https://neolook.com/archives/2019012208a.jpg
+https://neolook.com/archives/2019012209a.jpg
+https://neolook.com/archives/2019012210a.jpg

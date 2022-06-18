@@ -1,4 +1,6 @@
 /archives/20160121g
+
+******** description ********
 제4회 크리티컬 포인트 Critical Point 2016
 
 박수연_손승석_채온展
@@ -43,3 +45,16 @@ www.spacek.co.kr,
 ■ 스페이스K_대구
 
 Vol.20160121g | 제4회 크리티컬 포인트 Critical Point 2016展
+******** imgSrcs ********
+https://neolook.com/archives/2016012101g.jpg
+https://neolook.com/archives/2016012102g.jpg
+https://neolook.com/archives/2016012103g.jpg
+https://neolook.com/archives/2016012104g.jpg
+https://neolook.com/archives/2016012105g.jpg
+https://neolook.com/archives/2016012106g.jpg
+https://neolook.com/archives/2016012107g.jpg
+https://neolook.com/archives/2016012108g.jpg
+https://neolook.com/archives/2016012109g.jpg
+https://neolook.com/archives/2016012110g.jpg
+https://neolook.com/archives/2016012111g.jpg
+https://neolook.com/archives/2016012112g.jpg

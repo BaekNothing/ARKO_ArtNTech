@@ -1,4 +1,6 @@
 /archives/20070120a
+
+******** description ********
 확
 
 갤러리 눈 창덕궁점 개관展
@@ -32,3 +34,11 @@ www.110011.co.kr,
 
 이순주_이종구 / 임국_주재환,    갤러리 눈 창덕궁점은 기존의 전시와 좀 다른 황당하고 골치 아픈 기획전과 초대전을 열겠습니다. 중국과 인도 등 해외작품이 넘치는 지금 신선하고 건강한 우리의 신진작가들을 초대하고 기획하는 전시를 열겠습니다. ● 갤러리 눈 창덕궁점에서는 늘 '사고' 칠 모의만 궁리하고 있는 삐딱한 눈이지만 따뜻한 격려의 눈으로 지켜봐 주시기 바랍니다. 감사합니다. ■ 박이찬국
 Vol.20070120a | 확_갤러리 눈 창덕궁점 개관展
+******** imgSrcs ********
+https://neolook.com/archives/2007012001a.jpg
+https://neolook.com/archives/2007012002a.jpg
+https://neolook.com/archives/2007012003a.jpg
+https://neolook.com/archives/2007012004a.jpg
+https://neolook.com/archives/2007012005a.jpg
+https://neolook.com/archives/2007012006a.jpg
+https://neolook.com/archives/2007012007a.jpg

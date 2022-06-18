@@ -1,4 +1,6 @@
 /archives/20150129f
+
+******** description ********
 2015 랜덤 액세스
 
 2015 Random Access展
@@ -84,3 +86,14 @@ Nam June Paik Art Center presents this year's first special exhibition 2015 Rand
 ■ NJP Art Center
 
 Vol.20150129f | 2015 랜덤 액세스 2015 Random Access展
+******** imgSrcs ********
+https://neolook.com/archives/2015012901f.jpg
+https://neolook.com/archives/2015012902f.jpg
+https://neolook.com/archives/2015012903f.jpg
+https://neolook.com/archives/2015012904f.jpg
+https://neolook.com/archives/2015012905f.jpg
+https://neolook.com/archives/2015012906f.jpg
+https://neolook.com/archives/2015012907f.jpg
+https://neolook.com/archives/2015012908f.jpg
+https://neolook.com/archives/2015012909f.jpg
+https://neolook.com/archives/2015012910f.jpg

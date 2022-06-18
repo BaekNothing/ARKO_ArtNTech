@@ -1,4 +1,6 @@
 /archives/20150115a
+
+******** description ********
 머리에 꽃을 피우다
 
 박병철展 / PARKBYUNGCHUL / 朴炳澈 / painting
@@ -31,3 +33,10 @@ Event Horizon-수많은 하나들을 보다.
 ■ 최종상
 
 Vol.20150115a | 박병철展 / PARKBYUNGCHUL / 朴炳澈 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015011501a.jpg
+https://neolook.com/archives/2015011502a.jpg
+https://neolook.com/archives/2015011503a.jpg
+https://neolook.com/archives/2015011504a.jpg
+https://neolook.com/archives/2015011505a.jpg
+https://neolook.com/archives/2015011506a.jpg

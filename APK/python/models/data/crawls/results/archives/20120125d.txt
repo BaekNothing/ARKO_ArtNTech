@@ -1,4 +1,6 @@
 /archives/20120125d
+
+******** description ********
 False truth
 
 이다展 / RHEEDA / 以多 / painting
@@ -30,3 +32,9 @@ Tel. +82.2.880.7480,
  ■ 이다
 
 Vol.20120125d | 이다展 / RHEEDA / 以多 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012012501d.jpg
+https://neolook.com/archives/2012012502d.jpg
+https://neolook.com/archives/2012012503d.jpg
+https://neolook.com/archives/2012012504d.jpg
+https://neolook.com/archives/2012012505d.jpg

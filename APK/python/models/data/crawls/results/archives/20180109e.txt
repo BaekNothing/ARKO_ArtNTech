@@ -1,4 +1,6 @@
 /archives/20180109e
+
+******** description ********
 수직충동 수평충동 Vertical Impulse Horizontal Impulse
 
 2018 소장품 2018 Collection展
@@ -45,3 +47,13 @@ artmuseum.daegu.go.kr,
 ■ 대구미술관
 
 Vol.20180109e | 수직충동 수평충동-2018 소장품展
+******** imgSrcs ********
+https://neolook.com/archives/2018010901e.jpg
+https://neolook.com/archives/2018010902e.jpg
+https://neolook.com/archives/2018010903e.jpg
+https://neolook.com/archives/2018010904e.jpg
+https://neolook.com/archives/2018010905e.jpg
+https://neolook.com/archives/2018010906e.jpg
+https://neolook.com/archives/2018010907e.jpg
+https://neolook.com/archives/2018010908e.jpg
+https://neolook.com/archives/2018010909e.jpg

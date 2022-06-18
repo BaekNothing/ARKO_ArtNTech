@@ -1,4 +1,6 @@
 /archives/20060110a
+
+******** description ********
 더미(The me) 폐기된 사물들
 
 이경애展 / photography
@@ -27,3 +29,11 @@ gallery.munhwa.co.kr,
 
 이경애_더미(The me) 폐기된 사물들_디지털 프린트,    작가는 "우리가 무심코 스쳐 지나는 것들 중 가장 대표적인 것은 땅에 떨어진 무엇이다. 그것이 무엇이든 생성과 소멸을 반복하는 모습 바로 그것은 나의 모습이고 우리 모두의 모습이다 - 오히려 소멸되는 존재에 삶의 진정한 가치와 의미가 있다. 왜냐하면 소멸은 소생의 또 다른 측면이기 때문이다"라고 자신의 노트에 적고 있다. ● 이와 같이 작가를 유혹한 것은 이미지의 외관이 외시하는 단순한 조형적 효과나 상투적인 암시 혹은 맹목적인 사회적 이슈가 아니라 그 외관 이면에서 폐기물 더미로 위장된 메시지 즉 자신의 삶이 투영되어 포착된 위대한 자연의 진실과 순리이다. 결국 사진 이미지로 나타난 폐기물 더미는 자신이 체험한 삶의 진실을 은밀히 들추어내는 지표(index)로서 작가 자신의 발생적인 침전물을 대체하는 무의식적인 전이물이 된다. 작품이 궁극적으로 함축하는 것 그것은 자신도 모르는 어떤 과거의 애착과 아쉬움으로부터 잉태된 순수 그 자체의 느낌 즉 자연의 섭리로서 생성과 소멸이다. ■ 이경률
 Vol.20060110a | 이경애展 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2006011001a.jpg
+https://neolook.com/archives/2006011002a.jpg
+https://neolook.com/archives/2006011003a.jpg
+https://neolook.com/archives/2006011004a.jpg
+https://neolook.com/archives/2006011005a.jpg
+https://neolook.com/archives/2006011006a.jpg
+https://neolook.com/archives/2006011007a.jpg

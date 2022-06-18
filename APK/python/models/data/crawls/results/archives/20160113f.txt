@@ -1,4 +1,6 @@
 /archives/20160113f
+
+******** description ********
 너는 너를 뺀 모든 것이다 The World Without I
 
 최영빈展 / CHOIYOUNGVIN / 崔永牝 / painting
@@ -42,3 +44,13 @@ www.artfactory4u.com,
 ■ 최영빈
 
 Vol.20160113f | 최영빈展 / CHOIYOUNGVIN / 崔永牝 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011301f.jpg
+https://neolook.com/archives/2016011302f.jpg
+https://neolook.com/archives/2016011303f.jpg
+https://neolook.com/archives/2016011304f.jpg
+https://neolook.com/archives/2016011305f.jpg
+https://neolook.com/archives/2016011306f.jpg
+https://neolook.com/archives/2016011307f.jpg
+https://neolook.com/archives/2016011308f.jpg
+https://neolook.com/archives/2016011309f.jpg

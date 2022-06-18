@@ -1,4 +1,6 @@
 /archives/20200101l
+
+******** description ********
 이야기를 생성하는 공간: 김동진
 
 SPACE(공간) 2020년 1월호
@@ -56,3 +58,8 @@ ART PRISM
 114   TALK l New Standards Derived from Nature_Lee Sisan × Choi Eunhwa
 
 Vol.20200101l | 이야기를 생성하는 공간: 김동진
+******** imgSrcs ********
+https://neolook.com/archives/2020010101l.jpg
+https://neolook.com/archives/2020010102l.jpg
+https://neolook.com/archives/2020010103l.jpg
+https://neolook.com/archives/2020010104l.jpg

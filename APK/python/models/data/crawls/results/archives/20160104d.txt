@@ -1,4 +1,6 @@
 /archives/20160104d
+
+******** description ********
 노마드
 
 권태균展 / KWONTAEGYUN / 權泰鈞 / photography
@@ -51,3 +53,14 @@ www.space22.co.kr,
 ■ 정진국
 
 Vol.20160104d | 권태균展 / KWONTAEGYUN / 權泰鈞 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016010401d.jpg
+https://neolook.com/archives/2016010402d.jpg
+https://neolook.com/archives/2016010403d.jpg
+https://neolook.com/archives/2016010404d.jpg
+https://neolook.com/archives/2016010405d.jpg
+https://neolook.com/archives/2016010406d.jpg
+https://neolook.com/archives/2016010407d.jpg
+https://neolook.com/archives/2016010408d.jpg
+https://neolook.com/archives/2016010409d.jpg
+https://neolook.com/archives/2016010410d.jpg

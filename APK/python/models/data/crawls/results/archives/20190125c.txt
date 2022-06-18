@@ -1,4 +1,6 @@
 /archives/20190125c
+
+******** description ********
 In white space
 
 송수민_이피_황도유展
@@ -34,3 +36,10 @@ Artside Gallery is holding its first special exhibition in 2019 "In White Space"
 ■ GALLERY ARTSIDE
 
 Vol.20190125c | In white space展
+******** imgSrcs ********
+https://neolook.com/archives/2019012501c.jpg
+https://neolook.com/archives/2019012502c.jpg
+https://neolook.com/archives/2019012503c.jpg
+https://neolook.com/archives/2019012504c.jpg
+https://neolook.com/archives/2019012505c.jpg
+https://neolook.com/archives/2019012506c.jpg

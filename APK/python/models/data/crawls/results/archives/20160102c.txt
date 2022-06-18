@@ -1,4 +1,6 @@
 /archives/20160102c
+
+******** description ********
 2016 쇠부리 Steel Art 공모
 
 2016 SOEBURI STEEL ART
@@ -69,3 +71,5 @@ soeburi.org,
 - 울산북구예술창작소(주관) / TEL. 052.289.7540(월요일 휴무)
 
 Vol.20160102c | 2016 쇠부리 Steel Art 공모
+******** imgSrcs ********
+https://neolook.com/archives/2016010201c.jpg

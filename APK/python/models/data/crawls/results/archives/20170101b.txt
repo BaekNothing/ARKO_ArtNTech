@@ -1,4 +1,6 @@
 /archives/20170101b
+
+******** description ********
 Annual Archive Korean Artists Today 117
 
 아트인컬처 2017년 1월호
@@ -137,3 +139,10 @@ ANNUAL ARCHIVE_ Korean Artists Today 100+17,    ,            ANNUAL ARCHIVE
 190   CREDIT
 
 Vol.20170101b | Annual Archive Korean Artists Today 117
+******** imgSrcs ********
+https://neolook.com/archives/2017010101b.jpg
+https://neolook.com/archives/2017010102b.jpg
+https://neolook.com/archives/2017010103b.jpg
+https://neolook.com/archives/2017010104b.jpg
+https://neolook.com/archives/2017010105b.jpg
+https://neolook.com/archives/2017010106b.jpg

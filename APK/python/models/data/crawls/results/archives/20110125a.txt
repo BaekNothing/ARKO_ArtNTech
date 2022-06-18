@@ -1,4 +1,6 @@
 /archives/20110125a
+
+******** description ********
 CPA-CLI System
 
 박경호展 / PARKKYOUNGHO / 朴京浩 / painting
@@ -39,3 +41,11 @@ www.kepco.co.kr/gallery,
 ■ 송민경
 
 Vol.20110125a | 박경호展 / PARKKYOUNGHO / 朴京浩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011012501a.jpg
+https://neolook.com/archives/2011012502a.jpg
+https://neolook.com/archives/2011012503a.jpg
+https://neolook.com/archives/2011012504a.jpg
+https://neolook.com/archives/2011012505a.jpg
+https://neolook.com/archives/2011012506a.jpg
+https://neolook.com/archives/2011012507a.jpg

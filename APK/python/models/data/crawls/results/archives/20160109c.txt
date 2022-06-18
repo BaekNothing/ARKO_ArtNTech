@@ -1,4 +1,6 @@
 /archives/20160109c
+
+******** description ********
 시선의 안과 밖
 
 안채경_문봉조 백제 2인展
@@ -36,3 +38,12 @@ www.spaceida.com,
 ■ 문봉조
 
 Vol.20160109c | 시선의 안과 밖-안채경_문봉조 백제 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2016010901c.jpg
+https://neolook.com/archives/2016010902c.jpg
+https://neolook.com/archives/2016010903c.jpg
+https://neolook.com/archives/2016010904c.jpg
+https://neolook.com/archives/2016010905c.jpg
+https://neolook.com/archives/2016010906c.jpg
+https://neolook.com/archives/2016010907c.jpg
+https://neolook.com/archives/2016010908c.jpg

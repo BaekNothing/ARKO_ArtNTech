@@ -1,4 +1,6 @@
 /archives/20190101c
+
+******** description ********
 1100년의 시간 고려에서 코리아를 만나다
 
 월간미술 2019년 1월호
@@ -106,3 +108,9 @@ wolganmisool.com,
 Cha Kyusun 『Seolsongdo』(detail) mixed media on canvas 181×227cm 2011
 
 Vol.20190101c | 1100년의 시간 고려에서 코리아를 만나다
+******** imgSrcs ********
+https://neolook.com/archives/2019010101c.jpg
+https://neolook.com/archives/2019010102c.jpg
+https://neolook.com/archives/2019010103c.jpg
+https://neolook.com/archives/2019010104c.jpg
+https://neolook.com/archives/2019010105c.jpg

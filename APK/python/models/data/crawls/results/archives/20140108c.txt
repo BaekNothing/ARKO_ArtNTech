@@ -1,4 +1,6 @@
 /archives/20140108c
+
+******** description ********
 휴면 [休眠] dormancy
 
 한승희展 / HANSUNGHEE / 韓承希 / ceramic
@@ -45,3 +47,11 @@ www.gallerylamer.com,
 ■ 한승희
 
 Vol.20140108c | 한승희展 / HANSUNGHEE / 韓承希 / ceramic
+******** imgSrcs ********
+https://neolook.com/archives/2014010801c.jpg
+https://neolook.com/archives/2014010802c.jpg
+https://neolook.com/archives/2014010803c.jpg
+https://neolook.com/archives/2014010804c.jpg
+https://neolook.com/archives/2014010805c.jpg
+https://neolook.com/archives/2014010806c.jpg
+https://neolook.com/archives/2014010807c.jpg

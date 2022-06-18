@@ -1,4 +1,6 @@
 /archives/20110106f
+
+******** description ********
 Ctrl+V
 
 허수영展 / HEOSUYOUNG / 許修榮 / painting
@@ -35,3 +37,10 @@ An image from a book ● These paintings are a pictorial manifestation of a book
 ■ HEOSUYOUNG 
 
 Vol.20110106f | 허수영展 / HEOSUYOUNG / 許修榮 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010601f.jpg
+https://neolook.com/archives/2011010602f.jpg
+https://neolook.com/archives/2011010603f.jpg
+https://neolook.com/archives/2011010604f.jpg
+https://neolook.com/archives/2011010605f.jpg
+https://neolook.com/archives/2011010606f.jpg

@@ -1,4 +1,6 @@
 /archives/20120106a
+
+******** description ********
 福을 繡놓다
 
 김현희展 / KIMHYUNHEE / 金賢姬 / crafts
@@ -46,3 +48,11 @@ Tel. +82.2.726.4428,
 ■ 롯데갤러리 본점
 
 Vol.20120106a | 김현희展 / KIMHYUNHEE / 金賢姬 / crafts
+******** imgSrcs ********
+https://neolook.com/archives/2012010601a.jpg
+https://neolook.com/archives/2012010602a.jpg
+https://neolook.com/archives/2012010603a.jpg
+https://neolook.com/archives/2012010604a.jpg
+https://neolook.com/archives/2012010605a.jpg
+https://neolook.com/archives/2012010606a.jpg
+https://neolook.com/archives/2012010607a.jpg

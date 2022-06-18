@@ -1,4 +1,6 @@
 /archives/20200104c
+
+******** description ********
 자리표시자 PLACEHOLDER
 
 이은경展 / LEEEUNKYUNG / 李垠京 / painting.installation
@@ -70,3 +72,12 @@ From Image to Substance: Thoughts on Eunkyung Lee's Meta-Paintings
 - 신청:  placemak@naver.com
 
 Vol.20200104c | 이은경展 / LEEEUNKYUNG / 李垠京 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2020010401c.jpg
+https://neolook.com/archives/2020010402c.jpg
+https://neolook.com/archives/2020010403c.jpg
+https://neolook.com/archives/2020010404c.jpg
+https://neolook.com/archives/2020010405c.jpg
+https://neolook.com/archives/2020010406c.jpg
+https://neolook.com/archives/2020010407c.jpg
+https://neolook.com/archives/2020010408c.jpg

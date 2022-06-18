@@ -1,4 +1,6 @@
 /archives/20120101b
+
+******** description ********
 한국을 뛰어넘는 한국미술
 
 아트인컬처 2012년 1월호
@@ -65,3 +67,9 @@ OB. SCENE_김보란
 에디터스 블로그
 
 Vol.20120101b | 아트인컬처 2012년 1월호 / January 2012 Vol.157 / 한국을 뛰어넘는 한국미술
+******** imgSrcs ********
+https://neolook.com/archives/2012010101b.jpg
+https://neolook.com/archives/2012010102b.jpg
+https://neolook.com/archives/2012010103b.jpg
+https://neolook.com/archives/2012010104b.jpg
+https://neolook.com/archives/2012010105b.jpg

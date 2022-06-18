@@ -1,4 +1,6 @@
 /archives/20160127e
+
+******** description ********
 Here and Now 지금 바로 여기
 
 2016_0127 ▶ 2016_0221 / 2월4~10일 휴관,    ,    
@@ -58,3 +60,12 @@ www.grimson.co.kr,
 ■ 홍지희
 
 Vol.20160127e | Here and Now 지금 바로 여기展
+******** imgSrcs ********
+https://neolook.com/archives/2016012701e.jpg
+https://neolook.com/archives/2016012702e.jpg
+https://neolook.com/archives/2016012703e.jpg
+https://neolook.com/archives/2016012704e.jpg
+https://neolook.com/archives/2016012705e.jpg
+https://neolook.com/archives/2016012706e.jpg
+https://neolook.com/archives/2016012707e.jpg
+https://neolook.com/archives/2016012708e.jpg

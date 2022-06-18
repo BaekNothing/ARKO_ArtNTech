@@ -1,4 +1,6 @@
 /archives/20200108d
+
+******** description ********
 Hawaii
 
 손준호展 / SONJUNHO / 孫浚鎬 / photography.video
@@ -37,3 +39,12 @@ www.galleryinsaart.com,
 
 * 하와이라는 명칭은 옛 폴리네시안어로 '고향'이라는 뜻에서 유래하였다.
 Vol.20200108d | 손준호展 / SONJUNHO / 孫浚鎬 / photography.video
+******** imgSrcs ********
+https://neolook.com/archives/2020010801d.jpg
+https://neolook.com/archives/2020010802d.jpg
+https://neolook.com/archives/2020010803d.jpg
+https://neolook.com/archives/2020010804d.jpg
+https://neolook.com/archives/2020010805d.jpg
+https://neolook.com/archives/2020010806d.jpg
+https://neolook.com/archives/2020010807d.jpg
+https://neolook.com/archives/2020010808d.jpg

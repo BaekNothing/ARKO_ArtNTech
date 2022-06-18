@@ -1,4 +1,6 @@
 /archives/20080118b
+
+******** description ********
 시공천월_時空穿越
 
 중국 현대미술가 8인 초대展
@@ -33,3 +35,13 @@ mjgallery.kr,
 
 짜오 즐강(趙志剛)_헝겊조각-고양이(補丁系列-描)_캔버스에 아크릴채색_150×150cm_2007,    『시공천월』展에 참가한 중국작가들은 유럽이나 미국에 유학을 한 작가들이 아니라 천안문사태를 전후한 시기에 미술대학을 다녔던 작가들로 구성되었다. 이들이 추구하는 작품의 주제는 각자 다양한 시각적 비전을 제시하고 있지만 형식적인 면에서 대부분의 작가들은 철저한 사실성을 바탕으로 하고 있다. 그렇기에 이번 전시는 중국적인 사실주의가 현대미술이라는 문맥 속에서 어떻게 표현되고 있는지 확인할 수 있는 자리이자 중국의 현대미술에 대한 이해를 확장하는 기회가 될 것이다. ■ 김옥렬
 Vol.20080118b | 중국 현대미술가 8인 초대展
+******** imgSrcs ********
+/archives/2008011801b.gif
+https://neolook.com/archives/2008011802b.jpg
+https://neolook.com/archives/2008011803b.jpg
+https://neolook.com/archives/2008011804b.jpg
+https://neolook.com/archives/2008011805b.jpg
+https://neolook.com/archives/2008011806b.jpg
+https://neolook.com/archives/2008011807b.jpg
+/archives/2008011808b.gif
+/archives/2008011809b.gif

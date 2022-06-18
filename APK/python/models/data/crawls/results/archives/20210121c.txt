@@ -1,4 +1,6 @@
 /archives/20210121c
+
+******** description ********
 포스트 프린트 2021
 
 Post-Prints 2021展
@@ -49,3 +51,10 @@ www.surimcf.or.kr/artcenter_01.html,
 (화상으로 열릴 예정)
 
 Vol.20210121c | 포스트 프린트 2021 Post-Prints 2021展
+******** imgSrcs ********
+https://neolook.com/archives/2021012101c.jpg
+https://neolook.com/archives/2021012102c.jpg
+https://neolook.com/archives/2021012103c.jpg
+https://neolook.com/archives/2021012104c.jpg
+https://neolook.com/archives/2021012105c.jpg
+https://neolook.com/archives/2021012106c.jpg

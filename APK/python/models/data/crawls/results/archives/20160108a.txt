@@ -1,4 +1,6 @@
 /archives/20160108a
+
+******** description ********
 서울구경 see the sights of SEOUL
 
 김정란_박능생_오민수_윤세열_이창희_최재석展
@@ -44,3 +46,11 @@ blog.naver.com/ljagallery,
 ■ 최재석
 
 Vol.20160108a | 서울구경 see the sights of SEOUL展
+******** imgSrcs ********
+https://neolook.com/archives/2016010801a.jpg
+https://neolook.com/archives/2016010802a.jpg
+https://neolook.com/archives/2016010803a.jpg
+https://neolook.com/archives/2016010804a.jpg
+https://neolook.com/archives/2016010805a.jpg
+https://neolook.com/archives/2016010806a.jpg
+https://neolook.com/archives/2016010807a.jpg

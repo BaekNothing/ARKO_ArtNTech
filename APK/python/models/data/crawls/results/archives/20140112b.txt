@@ -1,4 +1,6 @@
 /archives/20140112b
+
+******** description ********
 문 Door
 
 임은정展 / LIMEUNJUNG / 林垠廷 / painting
@@ -30,3 +32,9 @@ www.ujungartcenter.com,
 ■ 임은정
 
 Vol.20140112b | 임은정展 / LIMEUNJUNG / 林垠廷 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011201b.jpg
+https://neolook.com/archives/2014011202b.jpg
+https://neolook.com/archives/2014011203b.jpg
+https://neolook.com/archives/2014011204b.jpg
+https://neolook.com/archives/2014011205b.jpg

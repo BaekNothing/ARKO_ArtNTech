@@ -1,4 +1,6 @@
 /archives/20100103a
+
+******** description ********
 silent garden
 
 안진우_임광혁展
@@ -44,3 +46,13 @@ www.goghi.kr,
 그 순간에도 죽지 않고 쉬지 않고 내일의 햇살을 기다리며 뻗어 나갈 다음을 기다리고 있는 듯 보이기 때문이다. 
 ■ 임광혁
 Vol.20100103a | silent garden-안진우_임광혁展
+******** imgSrcs ********
+https://neolook.com/archives/2010010301a.jpg
+https://neolook.com/archives/2010010302a.jpg
+https://neolook.com/archives/2010010303a.jpg
+https://neolook.com/archives/2010010304a.jpg
+https://neolook.com/archives/2010010305a.jpg
+https://neolook.com/archives/2010010306a.jpg
+https://neolook.com/archives/2010010307a.jpg
+https://neolook.com/archives/2010010308a.jpg
+https://neolook.com/archives/2010010309a.jpg

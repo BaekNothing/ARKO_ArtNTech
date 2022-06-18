@@ -1,4 +1,6 @@
 /archives/20160106d
+
+******** description ********
 2016 아트 뉴웨이브 아트페어 공모
 
 2016 ART NEW WAVE
@@ -58,3 +60,5 @@ gallerytableau.com,
 
 □ 문의: 02-744-9169(오전11시부터 오후 6시까지 / 월~금)
 Vol.20160106d | 2016 아트 뉴웨이브 아트페어 공모
+******** imgSrcs ********
+https://neolook.com/archives/2016010601d.jpg

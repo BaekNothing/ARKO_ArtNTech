@@ -1,4 +1,6 @@
 /archives/20170119g
+
+******** description ********
 1인칭 주인공 시점
 
 전우현展 / JEONWOOHYUN / 全佑現 / painting
@@ -34,3 +36,12 @@ www.kooalldam.com,
 ■ 전우현
 
 Vol.20170119g | 전우현展 / JEONWOOHYUN / 全佑現 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011901g.jpg
+https://neolook.com/archives/2017011902g.jpg
+https://neolook.com/archives/2017011903g.jpg
+https://neolook.com/archives/2017011904g.jpg
+https://neolook.com/archives/2017011905g.jpg
+https://neolook.com/archives/2017011906g.jpg
+https://neolook.com/archives/2017011907g.jpg
+https://neolook.com/archives/2017011908g.jpg

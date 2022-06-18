@@ -1,4 +1,6 @@
 /archives/20080109d
+
+******** description ********
 2008 우수졸업작품展
 2008_0109 ▶ 2008_0122,    이동조_홍익대_Check Out_캔버스에 유채_130×162cm_2008
 
@@ -26,3 +28,10 @@ www.gallerydongduk.com,
 주관 동덕여자대학교 예술대학 회화과_동덕아트갤러리
 
 Vol.20080109d | 동덕여대 2008 우수졸업작품展
+******** imgSrcs ********
+https://neolook.com/archives/2008010901d.jpg
+https://neolook.com/archives/2008010902d.jpg
+https://neolook.com/archives/2008010903d.jpg
+https://neolook.com/archives/2008010904d.jpg
+https://neolook.com/archives/2008010905d.jpg
+https://neolook.com/archives/2008010906d.jpg

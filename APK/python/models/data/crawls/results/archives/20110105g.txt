@@ -1,4 +1,6 @@
 /archives/20110105g
+
+******** description ********
 국민대학교 일반대학원 회화전공 석사학위 청구展
  
 2011_0105 ▶ 2011_0118,    
@@ -49,3 +51,14 @@ art.kookmin.ac.kr/site/fine.htm,
 ■ 배한나
 
 Vol.20110105g | 국민대학교 일반대학원 회화전공 석사학위 청구展
+******** imgSrcs ********
+https://neolook.com/archives/2011010501g.jpg
+https://neolook.com/archives/2011010502g.jpg
+https://neolook.com/archives/2011010503g.jpg
+https://neolook.com/archives/2011010504g.jpg
+https://neolook.com/archives/2011010505g.jpg
+https://neolook.com/archives/2011010506g.jpg
+https://neolook.com/archives/2011010507g.jpg
+https://neolook.com/archives/2011010508g.jpg
+https://neolook.com/archives/2011010509g.jpg
+https://neolook.com/archives/2011010510g.jpg

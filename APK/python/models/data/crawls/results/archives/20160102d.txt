@@ -1,4 +1,6 @@
 /archives/20160102d
+
+******** description ********
 상(像) 상(上) 상(想) 하다
 
 김가을展 / KIMGAEUL / 金可乙 / mixed media
@@ -46,3 +48,14 @@ cafe.naver.com/gallery2yeonju,
 ■ 김가을
 
 Vol.20160102d | 김가을展 / KIMGAEUL / 金可乙 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2016010201d.jpg
+https://neolook.com/archives/2016010202d.jpg
+https://neolook.com/archives/2016010203d.jpg
+https://neolook.com/archives/2016010204d.jpg
+https://neolook.com/archives/2016010205d.jpg
+https://neolook.com/archives/2016010206d.jpg
+https://neolook.com/archives/2016010207d.jpg
+https://neolook.com/archives/2016010208d.jpg
+https://neolook.com/archives/2016010209d.jpg
+https://neolook.com/archives/2016010210d.jpg

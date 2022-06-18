@@ -1,4 +1,6 @@
 /archives/20130110c
+
+******** description ********
 존재와 벽
 
 정효정展 / JUNGHYOJUNG / 鄭孝晶 / mixed media
@@ -46,3 +48,11 @@ page 3.
 ■ 정효정
 
 Vol.20130110c | 정효정展 / JUNGHYOJUNG / 鄭孝晶 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2013011001c.jpg
+https://neolook.com/archives/2013011002c.jpg
+https://neolook.com/archives/2013011003c.jpg
+https://neolook.com/archives/2013011004c.jpg
+https://neolook.com/archives/2013011005c.jpg
+https://neolook.com/archives/2013011006c.jpg
+https://neolook.com/archives/2013011007c.jpg

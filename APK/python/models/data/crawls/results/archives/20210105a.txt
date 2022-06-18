@@ -1,4 +1,6 @@
 /archives/20210105a
+
+******** description ********
 한국의 약용식물 세화전
 
 2021_0101 ▶ 2021_0111,    
@@ -83,3 +85,12 @@ Tel. +82.(0)2.318.0131,
 ■ 디아트플랜트 요 갤러리
 
 Vol.20210105a | 한국의 약용식물 세화展
+******** imgSrcs ********
+https://neolook.com/archives/2021010501a.jpg
+https://neolook.com/archives/2021010502a.jpg
+https://neolook.com/archives/2021010503a.jpg
+https://neolook.com/archives/2021010504a.jpg
+https://neolook.com/archives/2021010505a.jpg
+https://neolook.com/archives/2021010506a.jpg
+https://neolook.com/archives/2021010507a.jpg
+https://neolook.com/archives/2021010508a.jpg

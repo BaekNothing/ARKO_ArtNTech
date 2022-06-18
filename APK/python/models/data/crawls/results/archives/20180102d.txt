@@ -1,4 +1,6 @@
 /archives/20180102d
+
+******** description ********
 파랑 연구 A study in	Parang
 
 파랑展 / PARANG / painting
@@ -44,3 +46,11 @@ blog.naver.com/bcutgallery,
 ■ 파랑
 
 Vol.20180102d | 파랑展 / PARANG / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018010201d.jpg
+https://neolook.com/archives/2018010202d.jpg
+https://neolook.com/archives/2018010203d.jpg
+https://neolook.com/archives/2018010204d.jpg
+https://neolook.com/archives/2018010205d.jpg
+https://neolook.com/archives/2018010206d.jpg
+https://neolook.com/archives/2018010207d.jpg

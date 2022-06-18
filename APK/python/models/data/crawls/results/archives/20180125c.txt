@@ -1,4 +1,6 @@
 /archives/20180125c
+
+******** description ********
 Amor Fati
 
 김상표展 / KIMSANGPYO / 金相杓 / painting
@@ -50,3 +52,14 @@ blog.naver.com/yoon_gallery,
 ■ 김상표
 
 Vol.20180125c | 김상표展 / KIMSANGPYO / 金相杓 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018012501c.jpg
+https://neolook.com/archives/2018012502c.jpg
+https://neolook.com/archives/2018012503c.jpg
+https://neolook.com/archives/2018012504c.jpg
+https://neolook.com/archives/2018012505c.jpg
+https://neolook.com/archives/2018012506c.jpg
+https://neolook.com/archives/2018012507c.jpg
+https://neolook.com/archives/2018012508c.jpg
+https://neolook.com/archives/2018012509c.jpg
+https://neolook.com/archives/2018012510c.jpg

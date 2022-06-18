@@ -1,4 +1,6 @@
 /archives/20080109f
+
+******** description ********
 문자 너머 鄕
 
 안미선展 / ANMISUN / 安美善 / photography
@@ -29,3 +31,11 @@ www.gallery-now.com,
 
 안미선_전북고창 1996년_잉크젯 프린트_108×160cm_2007,    누군가 사진은 찍히는 순간 죽음이 된다고 했다. 한 시대 절실했던 욕구나 감정이 훗날 다른 시간 속에선 아무런 의미와 공감을 얻지 못하고 씁쓸한 해프닝이 될 수도 있을 것이다. 그러나 '지금 여기에는' 없는 '그 때 그 곳의' 삶의 모습들이 이제는 저 박제된 문자처럼 하나의 관념으로 변해가는 풍경 앞에서 나는 마치 고향에 온 기분으로 '나'를 반추해본다. ■ 안미선
 Vol.20080109f | 안미선展 / ANMISUN / 安美善 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2008010901f.jpg
+https://neolook.com/archives/2008010902f.jpg
+https://neolook.com/archives/2008010903f.jpg
+https://neolook.com/archives/2008010904f.jpg
+https://neolook.com/archives/2008010905f.jpg
+https://neolook.com/archives/2008010906f.jpg
+https://neolook.com/archives/2008010907f.jpg

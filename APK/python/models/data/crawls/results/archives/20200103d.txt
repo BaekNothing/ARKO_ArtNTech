@@ -1,4 +1,6 @@
 /archives/20200103d
+
+******** description ********
 임시관찰 临时观察
 
 중국작가교류展
@@ -64,3 +66,17 @@ single-channel digital video Color and Colorless Stereo_00:53:40_2019,
 ■ LIUHONGQIANG
 
 Vol.20200103d | 임시관찰 临时观察-중국작가교류展
+******** imgSrcs ********
+https://neolook.com/archives/2020010301d.jpg
+https://neolook.com/archives/2020010302d.jpg
+https://neolook.com/archives/2020010303d.jpg
+https://neolook.com/archives/2020010304d.jpg
+https://neolook.com/archives/2020010305d.jpg
+https://neolook.com/archives/2020010306d.jpg
+https://neolook.com/archives/2020010307d.jpg
+https://neolook.com/archives/2020010308d.jpg
+https://neolook.com/archives/2020010309d.jpg
+https://neolook.com/archives/2020010310d.jpg
+https://neolook.com/archives/2020010311d.jpg
+https://neolook.com/archives/2020010312d.jpg
+https://neolook.com/archives/2020010313d.jpg

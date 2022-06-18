@@ -1,4 +1,6 @@
 /archives/20130111b
+
+******** description ********
 뱀은 봄에 脫皮를 한다
 
 A SNAKE SHEDS ITS SKIN IN SPRING展
@@ -52,3 +54,10 @@ ALL ABOUT PINK BUDDHA
 ■ 
 
 Vol.20130111b | 뱀은 봄에 脫皮를 한다 A SNAKE SHEDS ITS SKIN IN SPRING展
+******** imgSrcs ********
+https://neolook.com/archives/2013011101b.jpg
+https://neolook.com/archives/2013011102b.jpg
+https://neolook.com/archives/2013011103b.jpg
+https://neolook.com/archives/2013011104b.jpg
+https://neolook.com/archives/2013011105b.jpg
+https://neolook.com/archives/2013011106b.jpg

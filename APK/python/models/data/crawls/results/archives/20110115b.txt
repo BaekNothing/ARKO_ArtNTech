@@ -1,4 +1,6 @@
 /archives/20110115b
+
+******** description ********
 谷-姿
 
 안용선展 / ANNYONGSEON / 安用瑄 / painting
@@ -41,3 +43,11 @@ www.kepco.co.kr/gallery,
 ■ 안용선
 
 Vol.20110115b | 안용선展 / ANNYONGSEON / 安用瑄 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011501b.jpg
+https://neolook.com/archives/2011011502b.jpg
+https://neolook.com/archives/2011011503b.jpg
+https://neolook.com/archives/2011011504b.jpg
+https://neolook.com/archives/2011011505b.jpg
+https://neolook.com/archives/2011011506b.jpg
+https://neolook.com/archives/2011011507b.jpg

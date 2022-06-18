@@ -1,4 +1,6 @@
 /archives/20170119f
+
+******** description ********
 어둠 속에서 만물의 영혼을 일깨우다
 
 2017 정유년 신년기획展
@@ -56,3 +58,21 @@ shinsegae.com,
 ■ 광주신세계갤러리
 
 Vol.20170119f | 어둠 속에서 만물의 영혼을 일깨우다展
+******** imgSrcs ********
+https://neolook.com/archives/2017011901f.jpg
+https://neolook.com/archives/2017011902f.jpg
+https://neolook.com/archives/2017011903f.jpg
+https://neolook.com/archives/2017011904f.jpg
+https://neolook.com/archives/2017011905f.jpg
+https://neolook.com/archives/2017011906f.jpg
+https://neolook.com/archives/2017011907f.jpg
+https://neolook.com/archives/2017011908f.jpg
+https://neolook.com/archives/2017011909f.jpg
+https://neolook.com/archives/2017011910f.jpg
+https://neolook.com/archives/2017011911f.jpg
+https://neolook.com/archives/2017011912f.jpg
+https://neolook.com/archives/2017011913f.jpg
+https://neolook.com/archives/2017011914f.jpg
+https://neolook.com/archives/2017011915f.jpg
+https://neolook.com/archives/2017011916f.jpg
+https://neolook.com/archives/2017011917f.jpg

@@ -1,4 +1,6 @@
 /archives/20200119a
+
+******** description ********
 안드리 폴 Andri Pol
 
 열화당 사진문고
@@ -33,3 +35,8 @@ www.youlhwadang.co.kr,
 라르스 빌루마이트(Lars Willumeit 1974- )는 런던 정경대학교에서 사회인류학을 취리히 예술대학교에서 큐레이터학을 수학했으며 스위스 취리히에서 독립 큐레이터이자 작가 교육자로 활동하고 있다. 최근의 전시로는 「위기? 무슨 위기?!(Crisis? What Crisis?!)」 「율레스 스피나치—정상(Jules Spinatsch—SUMMIT)」 「코-옵(CO-OP)」 등이 있다.,    
 ■ 옮긴이 소개
 신해경(辛海京)은 서울대학교 미학과를 졸업하고 KDI국제정책대학원에서 경영학과 공공정책학(국제관계) 석사과정을 마쳤다. 생태와 환경 사회 예술 노동 등 다방면에 관심을 가지고 있으며 옮긴 책으로는 『누가 시를 읽는가』 『식스 웨이크』 『혁명하는 여자들』 『사소한 정의』 『아랍 그곳에도 사람들이 살고 있다』 『덫에 걸린 유럽』 『침묵을 위한 시간』 『북극을 꿈꾸다』 『인사이드 세른』 『몇 시인가요?』 등이 있다.,    Vol.20200119a | 안드리 폴 Andri Pol-열화당 사진문고  / 사진_안드리 폴 글_라르스 빌루마이트 @ 열화당
+******** imgSrcs ********
+https://neolook.com/archives/2020011901a.jpg
+https://neolook.com/archives/2020011902a.jpg
+https://neolook.com/archives/2020011903a.jpg
+https://neolook.com/archives/2020011904a.jpg

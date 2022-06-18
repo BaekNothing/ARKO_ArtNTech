@@ -1,4 +1,6 @@
 /archives/20180117b
+
+******** description ********
 순간을 잡다 Capture Moment
 
 남진숙展 / NAMJINSOOK / 南振淑 / painting
@@ -40,3 +42,13 @@ galleryknot.com,
 ■ 남진숙
 
 Vol.20180117b | 남진숙展 / NAMJINSOOK / 南振淑 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011701b.jpg
+https://neolook.com/archives/2018011702b.jpg
+https://neolook.com/archives/2018011703b.jpg
+https://neolook.com/archives/2018011704b.jpg
+https://neolook.com/archives/2018011705b.jpg
+https://neolook.com/archives/2018011706b.jpg
+https://neolook.com/archives/2018011707b.jpg
+https://neolook.com/archives/2018011708b.jpg
+https://neolook.com/archives/2018011709b.jpg

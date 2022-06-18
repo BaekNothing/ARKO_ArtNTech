@@ -1,4 +1,6 @@
 /archives/20200120b
+
+******** description ********
 2020 오픈스페이스 배 아티스트 인큐베이팅 프로그램 참여작가 공모
 
 2020 Artist Incubating Program
@@ -56,3 +58,5 @@ www.spacebae.com,
   기입해 주세요. ▶ 다운로드 페이지로 가기
 
 Vol.20200120b | 2020 오픈스페이스 배 아티스트 인큐베이팅 프로그램 참여작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2020012001b.jpg

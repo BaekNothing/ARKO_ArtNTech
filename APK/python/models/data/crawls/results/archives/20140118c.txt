@@ -1,4 +1,6 @@
 /archives/20140118c
+
+******** description ********
 wait-and-see
 
 김선하展 / KIMSUNHA / 金仙夏 / animation
@@ -30,3 +32,11 @@ www.cjartstudio.com,
 ■ 김선하
 
 Vol.20140118c | 김선하展 / KIMSUNHA / 金仙夏 / animation
+******** imgSrcs ********
+https://neolook.com/archives/2014011801c.jpg
+https://neolook.com/archives/2014011802c.jpg
+https://neolook.com/archives/2014011803c.jpg
+https://neolook.com/archives/2014011804c.jpg
+https://neolook.com/archives/2014011805c.jpg
+https://neolook.com/archives/2014011806c.jpg
+https://neolook.com/archives/2014011807c.jpg

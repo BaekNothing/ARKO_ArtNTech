@@ -1,4 +1,6 @@
 /archives/20140113b
+
+******** description ********
 보편적인 태도 universal attitude
 
 윤대희展 / YOONDAEHEE / 尹大熙 / painting.drawing
@@ -39,3 +41,11 @@ www.ohzemidong.co.kr,
 ■ 윤대희
 
 Vol.20140113b | 윤대희展 / YOONDAEHEE / 尹大熙 / painting.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2014011301b.jpg
+https://neolook.com/archives/2014011302b.jpg
+https://neolook.com/archives/2014011303b.jpg
+https://neolook.com/archives/2014011304b.jpg
+https://neolook.com/archives/2014011305b.jpg
+https://neolook.com/archives/2014011306b.jpg
+https://neolook.com/archives/2014011307b.jpg

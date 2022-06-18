@@ -1,4 +1,6 @@
 /archives/20200129a
+
+******** description ********
 This Very Minute of Each 각자의 지금
 
 김소현展 / KIMSOHYUN / 金召鉉 / painting
@@ -44,3 +46,14 @@ www.galleryis.com,
 ■ 
 
 Vol.20200129a | 김소현展 / KIMSOHYUN / 金召鉉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020012901a.jpg
+https://neolook.com/archives/2020012902a.jpg
+https://neolook.com/archives/2020012903a.jpg
+https://neolook.com/archives/2020012904a.jpg
+https://neolook.com/archives/2020012905a.jpg
+https://neolook.com/archives/2020012906a.jpg
+https://neolook.com/archives/2020012907a.jpg
+https://neolook.com/archives/2020012908a.jpg
+https://neolook.com/archives/2020012909a.jpg
+https://neolook.com/archives/2020012910a.jpg

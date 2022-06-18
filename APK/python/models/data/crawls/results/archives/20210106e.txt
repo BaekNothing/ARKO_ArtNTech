@@ -1,4 +1,6 @@
 /archives/20210106e
+
+******** description ********
 아티스트 캔버스
 
 사이언스월든 과학예술 융합프로젝트 온라인 레지던시
@@ -72,3 +74,20 @@ sciencewalden.org
 * 온라인 레지던시 입주작가들의 캔버스(채널)은 무료로 진행된다.
 
 Vol.20210106e | 아티스트 캔버스-사이언스월든 과학예술 융합프로젝트 온라인 레지던시
+******** imgSrcs ********
+https://neolook.com/archives/2021010601e.jpg
+https://neolook.com/archives/2021010602e.jpg
+https://neolook.com/archives/2021010603e.jpg
+https://neolook.com/archives/2021010604e.jpg
+https://neolook.com/archives/2021010605e.jpg
+https://neolook.com/archives/2021010606e.jpg
+https://neolook.com/archives/2021010607e.jpg
+https://neolook.com/archives/2021010608e.jpg
+https://neolook.com/archives/2021010609e.jpg
+https://neolook.com/archives/2021010610e.jpg
+https://neolook.com/archives/2021010611e.jpg
+https://neolook.com/archives/2021010612e.jpg
+https://neolook.com/archives/2021010613e.jpg
+https://neolook.com/archives/2021010614e.jpg
+https://neolook.com/archives/2021010615e.jpg
+https://neolook.com/archives/2021010616e.jpg

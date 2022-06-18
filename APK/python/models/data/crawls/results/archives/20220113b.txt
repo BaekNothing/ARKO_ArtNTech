@@ -1,4 +1,6 @@
 /archives/20220113b
+
+******** description ********
 밤을 넘는 아이들
 
 CHILDREN CROSSING THE NIGHT展
@@ -52,3 +54,15 @@ www.snumoa.org,
    2022. 2. 19 (토) 18:00-19:20 / 전시실3
 
 Vol.20220113b | 밤을 넘는 아이들展
+******** imgSrcs ********
+https://neolook.com/archives/2022011301b.jpg
+https://neolook.com/archives/2022011302b.jpg
+https://neolook.com/archives/2022011303b.jpg
+https://neolook.com/archives/2022011304b.jpg
+https://neolook.com/archives/2022011305b.jpg
+https://neolook.com/archives/2022011306b.jpg
+https://neolook.com/archives/2022011307b.jpg
+https://neolook.com/archives/2022011308b.jpg
+https://neolook.com/archives/2022011309b.jpg
+https://neolook.com/archives/2022011310b.jpg
+https://neolook.com/archives/2022011311b.jpg

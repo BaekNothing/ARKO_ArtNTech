@@ -1,4 +1,6 @@
 /archives/20210111a
+
+******** description ********
 계절들 SEASONS
 
 고권展 / KOKWON / 高權 / painting
@@ -38,3 +40,11 @@ www.spaceum.co.kr,
 ■ 스페이스 엄
 
 Vol.20210111a | 고권展 / KOKWON / 高權 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021011101a.jpg
+https://neolook.com/archives/2021011102a.jpg
+https://neolook.com/archives/2021011103a.jpg
+https://neolook.com/archives/2021011104a.jpg
+https://neolook.com/archives/2021011105a.jpg
+https://neolook.com/archives/2021011106a.jpg
+https://neolook.com/archives/2021011107a.jpg

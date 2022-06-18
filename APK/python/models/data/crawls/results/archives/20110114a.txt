@@ -1,4 +1,6 @@
 /archives/20110114a
+
+******** description ********
 MAP 1기 선정예술가 프로젝트 발표
 
 2010_1016 ▶ 2011_0211,    ,    
@@ -54,3 +56,12 @@ cafe.naver.com/mullaeartspace
 @mullaeartspace
 
 Vol.20110114a | MAP 1기 선정예술가 프로젝트 발표
+******** imgSrcs ********
+https://neolook.com/archives/2011011401a.jpg
+https://neolook.com/archives/2011011404a.jpg
+https://neolook.com/archives/2011011403a.jpg
+https://neolook.com/archives/2011011405a.jpg
+https://neolook.com/archives/2011011408a.jpg
+https://neolook.com/archives/2011011402a.jpg
+https://neolook.com/archives/2011011406a.jpg
+https://neolook.com/archives/2011011407a.jpg

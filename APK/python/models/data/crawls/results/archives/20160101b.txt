@@ -1,4 +1,6 @@
 /archives/20160101b
+
+******** description ********
 Korean Artists Today 100+16
 
 아트인컬처 2016년 1월호
@@ -149,3 +151,11 @@ SPECIAL FEATURE
 178   CREDIT
 
 Vol.20160101b | Korean Artists Today 100+16
+******** imgSrcs ********
+https://neolook.com/archives/2016010101b.jpg
+https://neolook.com/archives/2016010102b.jpg
+https://neolook.com/archives/2016010103b.jpg
+https://neolook.com/archives/2016010104b.jpg
+https://neolook.com/archives/2016010105b.jpg
+https://neolook.com/archives/2016010106b.jpg
+https://neolook.com/archives/2016010107b.jpg

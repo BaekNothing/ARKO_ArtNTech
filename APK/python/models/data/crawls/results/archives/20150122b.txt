@@ -1,4 +1,6 @@
 /archives/20150122b
+
+******** description ********
 Hopeful days
 
 최재영展 / CHOIJAEYOUNG/ 崔栽榮 / painting
@@ -41,3 +43,13 @@ www.cjartstudio.com,
 ■ 최재영
 
 Vol.20150122b | 최재영展 / CHOIJAEYOUNG/ 崔栽榮 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012201b.jpg
+https://neolook.com/archives/2015012202b.jpg
+https://neolook.com/archives/2015012203b.jpg
+https://neolook.com/archives/2015012204b.jpg
+https://neolook.com/archives/2015012205b.jpg
+https://neolook.com/archives/2015012206b.jpg
+https://neolook.com/archives/2015012207b.jpg
+https://neolook.com/archives/2015012208b.jpg
+https://neolook.com/archives/2015012209b.jpg

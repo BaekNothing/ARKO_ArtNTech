@@ -1,4 +1,6 @@
 /archives/20220109a
+
+******** description ********
 페르소나 PERSONA
 
 김종수展 / KIMJONGSOO / 金鍾秀/ painting
@@ -44,3 +46,14 @@ It's Part of You
 ■ 임대식
 
 Vol.20220109a | 김종수展 / KIMJONGSOO / 金鍾秀/ painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010901a.jpg
+https://neolook.com/archives/2022010902a.jpg
+https://neolook.com/archives/2022010903a.jpg
+https://neolook.com/archives/2022010904a.jpg
+https://neolook.com/archives/2022010905a.jpg
+https://neolook.com/archives/2022010906a.jpg
+https://neolook.com/archives/2022010907a.jpg
+https://neolook.com/archives/2022010908a.jpg
+https://neolook.com/archives/2022010909a.jpg
+https://neolook.com/archives/2022010910a.jpg

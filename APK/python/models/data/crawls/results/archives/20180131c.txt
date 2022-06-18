@@ -1,4 +1,6 @@
 /archives/20180131c
+
+******** description ********
 귀를 보고 하는 말
 
 정철규展 / JUNGCHOULGUE / 鄭哲奎 / painting
@@ -53,3 +55,11 @@ blog.naver.com/bcutgallery,
 ■ 정철규
 
 Vol.20180131c | 정철규展 / JUNGCHOULGUE / 鄭哲奎 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018013101c.jpg
+https://neolook.com/archives/2018013102c.jpg
+https://neolook.com/archives/2018013103c.jpg
+https://neolook.com/archives/2018013104c.jpg
+https://neolook.com/archives/2018013105c.jpg
+https://neolook.com/archives/2018013106c.jpg
+https://neolook.com/archives/2018013107c.jpg

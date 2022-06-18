@@ -1,4 +1,6 @@
 /archives/20160113g
+
+******** description ********
 돌꽃잔치2016
 
 차효범展 / CHAHYOBEOM / 車曉凡 / sculpture
@@ -40,3 +42,11 @@ www.kosa08.com,
 ■ 전뢰진
 
 Vol.20160113g | 차효범展 / CHAHYOBEOM / 車曉凡 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2016011301g.jpg
+https://neolook.com/archives/2016011302g.jpg
+https://neolook.com/archives/2016011303g.jpg
+https://neolook.com/archives/2016011304g.jpg
+https://neolook.com/archives/2016011305g.jpg
+https://neolook.com/archives/2016011306g.jpg
+https://neolook.com/archives/2016011307g.jpg

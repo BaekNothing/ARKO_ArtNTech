@@ -1,4 +1,6 @@
 /archives/20180111b
+
+******** description ********
 Blank-Hide and Seek
 
 최민규展 / CHOIMINKYOO / 崔愍圭 / installation
@@ -29,3 +31,8 @@ Blank- Hide and Seek 는 검정색 구조물로부터 출발한다. 검정구조
 ■ 최민규
 
 Vol.20180111b | 최민규展 / CHOIMINKYOO / 崔愍圭 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018011101b.jpg
+https://neolook.com/archives/2018011102b.jpg
+https://neolook.com/archives/2018011103b.jpg
+https://neolook.com/archives/2018011104b.jpg

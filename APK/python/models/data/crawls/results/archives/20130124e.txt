@@ -1,4 +1,6 @@
 /archives/20130124e
+
+******** description ********
 란 亂
 
 최현석展 / CHOIHYUNSEOK / 崔玹碩 / painting.video
@@ -33,3 +35,9 @@ www.cjartstudio.com,
 ■ 육종석
 
 Vol.20130124e | 최현석展 / CHOIHYUNSEOK / 崔玹碩 / painting.video
+******** imgSrcs ********
+https://neolook.com/archives/2013012401e.jpg
+https://neolook.com/archives/2013012402e.jpg
+https://neolook.com/archives/2013012403e.jpg
+https://neolook.com/archives/2013012404e.jpg
+https://neolook.com/archives/2013012405e.jpg

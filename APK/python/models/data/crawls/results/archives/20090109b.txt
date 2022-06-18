@@ -1,4 +1,6 @@
 /archives/20090109b
+
+******** description ********
 홍익대학교 미술대학원
 
 현대미술최고위과정 제 25기 모집
@@ -77,3 +79,5 @@ www.hongik.edu/grad/univ12/index.html,
    홍익대학교 홈페이지_ www.hongik.edu/grad/univ12/index.html
 
 Vol.20090109b | 홍익대학교 미술대학원-현대미술최고위과정 제 25기 모집
+******** imgSrcs ********
+https://neolook.com/archives/2009010901b.jpg

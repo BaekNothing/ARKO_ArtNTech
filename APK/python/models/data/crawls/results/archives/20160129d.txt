@@ -1,4 +1,6 @@
 /archives/20160129d
+
+******** description ********
 2016 TAV 타이페이 아티스트 빌리지 레지던시 참여작가 공모
 접수기간 / 2016_0129 ▶ 2016_0220,    ,    접수마감 / 2016_0220_토요일_06:00pm,    오픈스페이스 배
 OPENSPACE BAE
@@ -43,3 +45,5 @@ FAX +886-2-3393-7389
 www.artistvillage.org
 
 Vol.20160129d | 2016 TAV 타이페이 아티스트 빌리지 레지던시 참여작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2016012901d.jpg

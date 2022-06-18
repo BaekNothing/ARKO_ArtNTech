@@ -1,4 +1,6 @@
 /archives/20120110a
+
+******** description ********
 Brand New 2012
 
 2012_0110 ▶ 2012_0120,    ,    
@@ -32,3 +34,10 @@ UNC 갤러리는 '예술을 위한 예술'을 지양하고 '삶을 위한 예술
  ■ 
 
 Vol.20120110a | Brand New 2012展
+******** imgSrcs ********
+https://neolook.com/archives/2012011001a.jpg
+https://neolook.com/archives/2012011002a.jpg
+https://neolook.com/archives/2012011003a.jpg
+https://neolook.com/archives/2012011004a.jpg
+https://neolook.com/archives/2012011005a.jpg
+https://neolook.com/archives/2012011006a.jpg

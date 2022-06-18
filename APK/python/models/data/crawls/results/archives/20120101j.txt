@@ -1,4 +1,6 @@
 /archives/20120101j
+
+******** description ********
 2011 한국미술계의 힘
 2011년 가장 비싸게 낙찰된 작품은?,    새로운 미술경제 월간 아트프라이스 2012년 1월호
  
@@ -46,3 +48,9 @@ MONTHLY CALENDER
 2012년 1월 화랑가 전시일정,    
 BOOKS
 판도라의 도서관 아티스트에게 묻다 중국 사행을 다녀온 화가들 명화의 거짓말 이수지의 그림책 21세기의 메디치 슈퍼콜렉터 사치 김영숙 선생님이 들려주는 서양 미술사 색연필화 마스터하기 외.,    Vol.20120101j | 2011 한국미술계의 힘 2011년 가장 비싸게 낙찰된 작품은?
+******** imgSrcs ********
+https://neolook.com/archives/2012010101j.jpg
+https://neolook.com/archives/2012010102j.jpg
+https://neolook.com/archives/2012010103j.jpg
+https://neolook.com/archives/2012010104j.jpg
+https://neolook.com/archives/2012010105j.jpg

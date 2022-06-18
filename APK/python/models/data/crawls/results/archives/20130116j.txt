@@ -1,4 +1,6 @@
 /archives/20130116j
+
+******** description ********
 2013 오픈스페이스 배 Artist Incubating program 공모
 접수기간 / 2013_0116 ▶ 2013_0316,    ,    접수마감 / 2013_0316_토요일(마감일 소인 유효)
 문의 / spacebae@gmail.com,    오픈스페이스 배
@@ -51,3 +53,5 @@ spacebae.com,
 * 입주신청서는 오픈스페이스 배 홈페이지에서 다운받으신 후 기입해 주세요.
 
 Vol.20130116j | 2013 오픈스페이스 배 Artist Incubating program 공모
+******** imgSrcs ********
+https://neolook.com/archives/2013011601j.jpg

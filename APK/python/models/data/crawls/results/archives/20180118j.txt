@@ -1,4 +1,6 @@
 /archives/20180118j
+
+******** description ********
 골드 리트리버 gold retriever
 
 복을 기원하는 달력展
@@ -53,3 +55,11 @@ blog.naver.com/lottegallery_anyang,
 롯데갤러리 청량리점 / 2018_0118~2018_0204 *상시운영
 롯데갤러리 안양점 / 2018_0208~2018_0304 *상시운영
 Vol.20180118j | 골드 리트리버 gold retriever-복을 기원하는 달력展
+******** imgSrcs ********
+https://neolook.com/archives/2018011801j.jpg
+https://neolook.com/archives/2018011802j.jpg
+https://neolook.com/archives/2018011803j.jpg
+https://neolook.com/archives/2018011804j.jpg
+https://neolook.com/archives/2018011805j.jpg
+https://neolook.com/archives/2018011806j.jpg
+https://neolook.com/archives/2018011807j.jpg

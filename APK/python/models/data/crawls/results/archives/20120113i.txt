@@ -1,4 +1,6 @@
 /archives/20120113i
+
+******** description ********
 Inside Out
 
 전민혁展 / JEONMINHYUK / 全珉赫 / photography
@@ -42,3 +44,11 @@ This exhibition has two stories: one is 「One Way That You Can Look Into Yourse
  ■ JEONMINHYUK
 
 Vol.20120113i | 전민혁展 / JEONMINHYUK / 全珉赫 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2012011301i.jpg
+https://neolook.com/archives/2012011302i.jpg
+https://neolook.com/archives/2012011303i.jpg
+https://neolook.com/archives/2012011304i.jpg
+https://neolook.com/archives/2012011305i.jpg
+https://neolook.com/archives/2012011306i.jpg
+https://neolook.com/archives/2012011307i.jpg

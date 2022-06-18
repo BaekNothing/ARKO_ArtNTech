@@ -1,4 +1,6 @@
 /archives/20180111c
+
+******** description ********
 2018 Cre8tive Report
 
 OCI 미술관 창작스튜디오 입주작가 보고展
@@ -65,3 +67,13 @@ www.ocimuseum.org,
 5) 區分求積法. 말 그대로 여러 곳(區)로 나누어(分) 체적(積)을 구(求)하는 방법(法).
 
 Vol.20180111c | Cre8tive Report-OCI 미술관 창작스튜디오 입주작가 보고展
+******** imgSrcs ********
+https://neolook.com/archives/2018011101c.jpg
+https://neolook.com/archives/2018011102c.jpg
+https://neolook.com/archives/2018011103c.jpg
+https://neolook.com/archives/2018011104c.jpg
+https://neolook.com/archives/2018011105c.jpg
+https://neolook.com/archives/2018011106c.jpg
+https://neolook.com/archives/2018011107c.jpg
+https://neolook.com/archives/2018011108c.jpg
+https://neolook.com/archives/2018011109c.jpg

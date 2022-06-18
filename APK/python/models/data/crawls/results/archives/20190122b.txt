@@ -1,4 +1,6 @@
 /archives/20190122b
+
+******** description ********
 헬로우 팝티 HELLO POPTY
 
 정운학_이언_김아라_유의정_김민수_임택展
@@ -50,3 +52,14 @@ www.suwonartcenter.org,
 임택 작가의 작품에는 빙산처럼 하얀 절벽 위에 불쑥 자라난 소나무와 장난감 같은 요소들이 가득하다. 허구로 재구성된 현대적 산수화에서 인간이 범접할 수 없는 거대한 산수는 더 이상 존재하지 않는다. 작품은 이상향의 산수를 실제로 만들어내 사진으로 찍고 나무와 꽃 등을 디지털 합성하는 등 다양한 방식을 활용하는 크로스오버 방식의 작업으로 만들어진다. 본 전시에서는 사진 작품과 설치 작품이 함께 전시되는데 소금과 우드락 솜으로 만들어진 옮겨진 산수에서는 새하얀 산과 구름을 통하여 여백의 미를 드러내고자 하는 작가의 의도가 보인다. 산수라는 컨텐츠를 바라보는 현대인의 시각 입체적인 구성 속에 드러나는 여백의 미에서 전통과 현대의 이중적 성격을 발견할 수 있다. ■ 수원미술전시관
 
 Vol.20190122b | 헬로우 팝티 HELLO POPTY展
+******** imgSrcs ********
+https://neolook.com/archives/2019012201b.jpg
+https://neolook.com/archives/2019012202b.jpg
+https://neolook.com/archives/2019012203b.jpg
+https://neolook.com/archives/2019012204b.jpg
+https://neolook.com/archives/2019012205b.jpg
+https://neolook.com/archives/2019012206b.jpg
+https://neolook.com/archives/2019012207b.jpg
+https://neolook.com/archives/2019012208b.jpg
+https://neolook.com/archives/2019012209b.jpg
+https://neolook.com/archives/2019012210b.jpg

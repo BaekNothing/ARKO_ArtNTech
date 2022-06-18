@@ -1,4 +1,6 @@
 /archives/20160107a
+
+******** description ********
 페리지아트스쿨 2016
 
 페리지갤러리 무료강좌
@@ -27,3 +29,5 @@ www.perigee.co.kr,
 4강 망가와 일본 현대미술(2월25일)
 
 Vol.20160107a | 페리지아트스쿨 2016-페리지갤러리 무료강좌
+******** imgSrcs ********
+https://neolook.com/archives/2016010701a.jpg

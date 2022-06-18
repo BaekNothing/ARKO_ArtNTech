@@ -1,4 +1,6 @@
 /archives/20150106e
+
+******** description ********
 Fictional World
 
 박노을展 / PARKNOEL / 朴노을 / painting
@@ -35,3 +37,11 @@ www.jagallery.co.kr,
 ■ 이청아
 
 Vol.20150106e | 박노을展 / PARKNOEL / 朴노을 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010601e.jpg
+https://neolook.com/archives/2015010602e.jpg
+https://neolook.com/archives/2015010603e.jpg
+https://neolook.com/archives/2015010604e.jpg
+https://neolook.com/archives/2015010605e.jpg
+https://neolook.com/archives/2015010606e.jpg
+https://neolook.com/archives/2015010607e.jpg

@@ -1,4 +1,6 @@
 /archives/20170123c
+
+******** description ********
 화성에서 온 메시지 A message from Mars
 
 기후변화 대응 화학예술특별展
@@ -61,3 +63,12 @@ www.facebook.com/KRICT.PR,
 ■ Yoo Hyunjoo
 
 Vol.20170123c | 화성에서 온 메시지-A message from Mars展
+******** imgSrcs ********
+https://neolook.com/archives/2017012301c.jpg
+https://neolook.com/archives/2017012302c.jpg
+https://neolook.com/archives/2017012303c.jpg
+https://neolook.com/archives/2017012304c.jpg
+https://neolook.com/archives/2017012305c.jpg
+https://neolook.com/archives/2017012306c.jpg
+https://neolook.com/archives/2017012307c.jpg
+https://neolook.com/archives/2017012308c.jpg

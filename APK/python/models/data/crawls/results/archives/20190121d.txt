@@ -1,4 +1,6 @@
 /archives/20190121d
+
+******** description ********
 2019년 K'ARTS 미술원 창작스튜디오 4기 입주작가 공모
 접수기간 / 2019_0121 ▶ 2019_0228,    ,    접수마감 / 2019_0228_목요일_06:00pm
 이메일 접수 / studiokarts@naver.com
@@ -57,3 +59,5 @@ www.facebook.com/studio.karts,
 * 제출된 서류는 반환되지 않습니다.
 
 Vol.20190121d | 2019년 K'ARTS 미술원 창작스튜디오 4기 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2019012101d.jpg

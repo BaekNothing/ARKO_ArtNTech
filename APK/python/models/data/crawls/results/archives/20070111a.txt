@@ -1,4 +1,6 @@
 /archives/20070111a
+
+******** description ********
 GAnaNowArt
 
 가나아트갤러리 신진작가 공모
@@ -35,3 +37,5 @@ www.ganaart.com,
 14. 문의_nowart@ganaart.com / Tel. 02_720_1020
 
 Vol.20070111a | 가나아트갤러리 신진작가 공모
+******** imgSrcs ********
+/archives/2007011101a.gif

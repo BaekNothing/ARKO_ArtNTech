@@ -1,4 +1,6 @@
 /archives/20160114b
+
+******** description ********
 얼음땡
 
 신나군展 / SHINNAGUN / painting
@@ -36,3 +38,11 @@ cafe.daum.net/gallerydam,
 ■ 신나군
 
 Vol.20160114b | 신나군展 / SHINNAGUN / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011401b.jpg
+https://neolook.com/archives/2016011402b.jpg
+https://neolook.com/archives/2016011403b.jpg
+https://neolook.com/archives/2016011404b.jpg
+https://neolook.com/archives/2016011405b.jpg
+https://neolook.com/archives/2016011406b.jpg
+https://neolook.com/archives/2016011407b.jpg

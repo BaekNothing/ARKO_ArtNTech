@@ -1,4 +1,6 @@
 /archives/20120101c
+
+******** description ********
 미술에서도 한류는 가능한가?
 
 월간미술 2012년 1월호
@@ -91,3 +93,8 @@ Readers Gift 182
 Postscript 184
 
 Vol.20120101c | 미술에서도 한류는 가능한가?
+******** imgSrcs ********
+https://neolook.com/archives/2012010101c.jpg
+https://neolook.com/archives/2012010102c.jpg
+https://neolook.com/archives/2012010103c.jpg
+https://neolook.com/archives/2012010104c.jpg

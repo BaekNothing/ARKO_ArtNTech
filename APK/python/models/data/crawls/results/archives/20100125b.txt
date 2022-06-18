@@ -1,4 +1,6 @@
 /archives/20100125b
+
+******** description ********
 정윤아의'현대미술 강좌'
 
 두산아트스쿨 무료강좌
@@ -42,3 +44,5 @@ doosanartcenter.com,
 - 접수: E-mail_yoomee.kim@doosan.com (선착순 마감)
 
 Vol.20100125b | 두산아트스쿨 무료강좌-정윤아의 '현대미술 강좌'
+******** imgSrcs ********
+https://neolook.com/archives/2010012501b.jpg

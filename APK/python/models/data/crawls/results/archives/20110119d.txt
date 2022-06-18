@@ -1,4 +1,6 @@
 /archives/20110119d
+
+******** description ********
 김선태展 / KIMSUNTEI / 金善泰 / painting
  
 2011_0119 ▶ 2011_0125,    
@@ -35,3 +37,11 @@ www.topohaus.com,
 ■ 김선태
 
 Vol.20110119d | 김선태展 / KIMSUNTEI / 金善泰 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011011901d.jpg
+https://neolook.com/archives/2011011902d.jpg
+https://neolook.com/archives/2011011903d.jpg
+https://neolook.com/archives/2011011904d.jpg
+https://neolook.com/archives/2011011905d.jpg
+https://neolook.com/archives/2011011906d.jpg
+https://neolook.com/archives/2011011907d.jpg

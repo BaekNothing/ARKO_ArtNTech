@@ -1,4 +1,6 @@
 /archives/20170119c
+
+******** description ********
 아무것도 아닌 것들 thing of no account
 
 김수민展 / KIMSUMIN / 金秀敏 / painting.installation
@@ -44,3 +46,12 @@ www.cmoa.or.kr/cjas/index.do,
 ■ 김수민
 
 Vol.20170119c | 김수민展 / KIMSUMIN / 金秀敏 / painting.installation
+******** imgSrcs ********
+https://neolook.com/archives/2017011901c.jpg
+https://neolook.com/archives/2017011902c.jpg
+https://neolook.com/archives/2017011903c.jpg
+https://neolook.com/archives/2017011904c.jpg
+https://neolook.com/archives/2017011905c.jpg
+https://neolook.com/archives/2017011906c.jpg
+https://neolook.com/archives/2017011907c.jpg
+https://neolook.com/archives/2017011908c.jpg

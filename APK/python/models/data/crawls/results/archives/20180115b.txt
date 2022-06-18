@@ -1,4 +1,6 @@
 /archives/20180115b
+
+******** description ********
 공사중 - 달과 각자의 시간
 
 이찬주展 / ECHANZOO / 李贊柱 / installation
@@ -41,3 +43,10 @@ www.ohzemidong.co.kr,
 ■ 이찬주
 
 Vol.20180115b | 이찬주展 / ECHANZOO / 李贊柱 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018011501b.jpg
+https://neolook.com/archives/2018011502b.jpg
+https://neolook.com/archives/2018011503b.jpg
+https://neolook.com/archives/2018011504b.jpg
+https://neolook.com/archives/2018011505b.jpg
+https://neolook.com/archives/2018011506b.jpg

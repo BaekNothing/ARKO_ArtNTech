@@ -1,4 +1,6 @@
 /archives/20100101d
+
+******** description ********
 돈의 예술학 예술의 경제학
 
 미술세계 2010년 1월호
@@ -60,3 +62,10 @@ Gallery in Magazine
 192   Postscripts 편집후기
 
 Vol.20100101d | 미술세계 2010년 1월호 / 돈의 예술학 예술의 경제학
+******** imgSrcs ********
+https://neolook.com/archives/2010010101d.jpg
+https://neolook.com/archives/2010010102d.jpg
+https://neolook.com/archives/2010010103d.jpg
+https://neolook.com/archives/2010010104d.jpg
+https://neolook.com/archives/2010010105d.jpg
+https://neolook.com/archives/2010010106d.jpg

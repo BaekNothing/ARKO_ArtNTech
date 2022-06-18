@@ -1,4 +1,6 @@
 /archives/20160107d
+
+******** description ********
 타원궤도 Elliptical Orbit
 
 조해나展 / CHOHAENA / 趙해나 / installation.video
@@ -35,3 +37,11 @@ www.galleryjungmiso.co.kr,
 ■ 조해나
 
 Vol.20160107d | 조해나展 / CHOHAENA / 趙해나 / installation.video
+******** imgSrcs ********
+https://neolook.com/archives/2016010701d.jpg
+https://neolook.com/archives/2016010702d.jpg
+https://neolook.com/archives/2016010703d.jpg
+https://neolook.com/archives/2016010704d.jpg
+https://neolook.com/archives/2016010705d.jpg
+https://neolook.com/archives/2016010706d.jpg
+https://neolook.com/archives/2016010707d.jpg

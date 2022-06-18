@@ -1,4 +1,6 @@
 /archives/20110124b
+
+******** description ********
 ahead in 안암
 
 2011_0124 ▶ 2011_0213 / 설연휴 휴관,    ,    
@@ -36,3 +38,10 @@ cafe.naver.com/sbartspace,
 ■ 정선주
 
 Vol.20110124b | ahead in 안암展
+******** imgSrcs ********
+https://neolook.com/archives/2011012401b.jpg
+https://neolook.com/archives/2011012402b.jpg
+https://neolook.com/archives/2011012403b.jpg
+https://neolook.com/archives/2011012404b.jpg
+https://neolook.com/archives/2011012405b.jpg
+https://neolook.com/archives/2011012406b.jpg

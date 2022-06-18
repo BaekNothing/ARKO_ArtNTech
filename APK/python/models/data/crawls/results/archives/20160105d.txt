@@ -1,4 +1,6 @@
 /archives/20160105d
+
+******** description ********
 BELT 2016 선정작가전
 
 BELT Competition 2016展
@@ -106,3 +108,19 @@ www.trunkgallery.com,    ,    ,    판화 사진 영상 장르가 가질 수 있
 ■ (사)한국판화사진진흥협회
 
 Vol.20160105d | BELT 2016 선정작가展
+******** imgSrcs ********
+https://neolook.com/archives/2016010501d.jpg
+https://neolook.com/archives/201601051d.jpg
+https://neolook.com/archives/2016010502d.jpg
+https://neolook.com/archives/2016010503d.jpg
+https://neolook.com/archives/2016010504d.jpg
+https://neolook.com/archives/2016010505d.jpg
+https://neolook.com/archives/2016010506d.jpg
+https://neolook.com/archives/2016010507d.jpg
+https://neolook.com/archives/2016010508d.jpg
+https://neolook.com/archives/2016010509d.jpg
+https://neolook.com/archives/2016010510d.jpg
+https://neolook.com/archives/2016010511d.jpg
+https://neolook.com/archives/2016010512d.jpg
+https://neolook.com/archives/2016010513d.jpg
+https://neolook.com/archives/2016010514d.jpg

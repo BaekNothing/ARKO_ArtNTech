@@ -1,4 +1,6 @@
 /archives/20120104e
+
+******** description ********
 The Wayside
 
 이만나展 / LEEMANNA / 李만나 / painting
@@ -32,3 +34,10 @@ www.tongingallery.com,
 ■ 이만나
 
 Vol.20120104e | 이만나展 / LEEMANNA / 李만나 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010401e.jpg
+https://neolook.com/archives/2012010402e.jpg
+https://neolook.com/archives/2012010403e.jpg
+https://neolook.com/archives/2012010404e.jpg
+https://neolook.com/archives/2012010405e.jpg
+https://neolook.com/archives/2012010406e.jpg

@@ -1,4 +1,6 @@
 /archives/20170117h
+
+******** description ********
 도시·도시인 City and the People
 
 From SeMA Collection SeMA 소장작품 기획展
@@ -48,3 +50,11 @@ City and the People is an exhibition examining the distinctive aspects of the pe
 ■ SeMA Buk Seoul Museum of Art
 
 Vol.20170117h | 도시·도시인 City and the People-SeMA 소장작품 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2017011701h.jpg
+https://neolook.com/archives/2017011702h.jpg
+https://neolook.com/archives/2017011703h.jpg
+https://neolook.com/archives/2017011704h.jpg
+https://neolook.com/archives/2017011705h.jpg
+https://neolook.com/archives/2017011706h.jpg
+https://neolook.com/archives/2017011707h.jpg

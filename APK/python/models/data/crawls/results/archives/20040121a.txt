@@ -1,4 +1,6 @@
 /archives/20040121a
+
+******** description ********
 Zeit-2004
 
 덕원갤러리 기획 작가공모
@@ -32,3 +34,7 @@ Tel. +82.(0)2.723.7771,
 
 ■ 문의 : 문의사항은 이메일로만 받습니다. / 이메일 curator@dukwongallery.com
 Vol.20040121a | Zeit-2004-덕원갤러리 기획 작가공모
+******** imgSrcs ********
+https://neolook.com/archives/2004012101a.jpg
+https://neolook.com/archives/2004012102a.jpg
+https://neolook.com/archives/2004012103a.jpg

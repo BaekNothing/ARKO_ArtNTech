@@ -1,4 +1,6 @@
 /archives/20060108a
+
+******** description ********
 Foresight
 
 책임기획_오프라갤러리
@@ -37,3 +39,17 @@ Olivia Glebbeek_Strange Fruits No.3_고무 직물 pvc-테이프_230×100×100cm_
 정채희_작품 1_옻칠종합기법_40×30cm_2005
 
 허미자_무제_45×200cm_2005,    Vol.20060108a | Foresight展
+******** imgSrcs ********
+/archives/2006010801a.gif
+https://neolook.com/archives/2006010802a.jpg
+/archives/2006010803a.gif
+https://neolook.com/archives/2006010804a.jpg
+https://neolook.com/archives/2006010805a.jpg
+https://neolook.com/archives/2006010806a.jpg
+https://neolook.com/archives/2006010807a.jpg
+https://neolook.com/archives/2006010808a.jpg
+https://neolook.com/archives/2006010809a.jpg
+https://neolook.com/archives/2006010810a.jpg
+https://neolook.com/archives/2006010811a.jpg
+https://neolook.com/archives/2006010812a.jpg
+https://neolook.com/archives/2006010813a.jpg

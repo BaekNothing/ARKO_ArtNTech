@@ -1,4 +1,6 @@
 /archives/20100129a
+
+******** description ********
 흉
 
 양유연展 / YANGYOOYUN / 楊裕然 / painting
@@ -42,3 +44,11 @@ Tel. +82.2.6414.8840,    ,    상처와 가면의 일대기
 ■ 도선미
 
 Vol.20100129a | 양유연展 / YANGYOOYUN / 楊裕然 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012901a.jpg
+https://neolook.com/archives/2010012902a.jpg
+https://neolook.com/archives/2010012903a.jpg
+https://neolook.com/archives/2010012904a.jpg
+https://neolook.com/archives/2010012905a.jpg
+https://neolook.com/archives/2010012906a.jpg
+https://neolook.com/archives/2010012907a.jpg

@@ -1,4 +1,6 @@
 /archives/20120104c
+
+******** description ********
 ﻿
 MUTATION-돌연변이
 
@@ -33,3 +35,11 @@ www.artsagan.com,
  ■ 이경은
 
 Vol.20120104c | 이경은展 / LEEKYOUNGEUN / 李京恩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012010401c.jpg
+https://neolook.com/archives/2012010402c.jpg
+https://neolook.com/archives/2012010403c.jpg
+https://neolook.com/archives/2012010404c.jpg
+https://neolook.com/archives/2012010405c.jpg
+https://neolook.com/archives/2012010406c.jpg
+https://neolook.com/archives/2012010407c.jpg

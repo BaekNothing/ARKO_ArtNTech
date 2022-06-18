@@ -1,4 +1,6 @@
 /archives/20180118b
+
+******** description ********
 깜박일수록 선명한 Tenacious Afterimage
 
 박관택_염지혜_이동근展
@@ -31,3 +33,13 @@ www.doosangallery.com,
 ■ 두산갤러리 뉴욕
 
 Vol.20180118b | 깜박일수록 선명한 Tenacious Afterimage展
+******** imgSrcs ********
+https://neolook.com/archives/2018011801b.jpg
+https://neolook.com/archives/2018011802b.jpg
+https://neolook.com/archives/2018011803b.jpg
+https://neolook.com/archives/2018011804b.jpg
+https://neolook.com/archives/2018011805b.jpg
+https://neolook.com/archives/2018011806b.jpg
+https://neolook.com/archives/2018011807b.jpg
+https://neolook.com/archives/2018011808b.jpg
+https://neolook.com/archives/2018011809b.jpg

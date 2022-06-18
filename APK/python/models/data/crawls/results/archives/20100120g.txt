@@ -1,4 +1,6 @@
 /archives/20100120g
+
+******** description ********
 풀다 unfolding
 
 상명대학교 전시프로젝트과정 사진展
@@ -41,3 +43,14 @@ www.gallerylamer.com,
 나를 풀어놓다 ● 물이 들고 물이 난다. 달이 차고 달이 기운다. 모든 든 것은 나기 마련이며 모든 찬 것은 기울기 마련이다. 간밤에 함박눈 쌓이듯 자고나면 내 안에 무엇인가 자꾸 쌓여 간다. 내 속 어딘가에 뭉텅 뭉텅 덩어리가 몸집을 키우며 삐지고 나오려 한다. 쌓이고 쌓여서 어느 꼭지 점에 다다르면 터지거나 넘치기 마련 이럴 때는 미처 버리거나 구역을 더 이상 참지 말고 울컥울컥 토해 내야만 한다. 연필을 쥔 자는 글로 물감을 든 자는 그림으로 스스로의 푸닥거리를 하듯 사진을 도구로 삼는 자는 렌즈를 통과한 가시광선의 흔적으로 나를 풀어 내 놓는다. 내 안에 있으며 오로지 나이기만을 요구하고 세계와 끝없이 관계하며 끝없이 물음을 던지는 그 것을 풀어 놓는다. 씻김굿처럼... ■ 김민호
 
 Vol.20100120g | 풀다-상명대학교 전시프로젝트과정 사진展
+******** imgSrcs ********
+https://neolook.com/archives/2010012001g.jpg
+https://neolook.com/archives/2010012002g.jpg
+https://neolook.com/archives/2010012003g.jpg
+https://neolook.com/archives/2010012004g.jpg
+https://neolook.com/archives/2010012005g.jpg
+https://neolook.com/archives/2010012006g.jpg
+https://neolook.com/archives/2010012007g.jpg
+https://neolook.com/archives/2010012008g.jpg
+https://neolook.com/archives/2010012009g.jpg
+https://neolook.com/archives/2010012010g.jpg

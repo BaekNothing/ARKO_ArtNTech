@@ -1,4 +1,6 @@
 /archives/20190109b
+
+******** description ********
 개방 무대
 
 임지민展 / LIMJIMIN / 林志珉 / painting
@@ -40,3 +42,11 @@ blog.naver.com/bcutgallery,
 ■ 임지민
 
 Vol.20190109b | 임지민展 / LIMJIMIN / 林志珉 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019010901b.jpg
+https://neolook.com/archives/2019010902b.jpg
+https://neolook.com/archives/2019010903b.jpg
+https://neolook.com/archives/2019010904b.jpg
+https://neolook.com/archives/2019010905b.jpg
+https://neolook.com/archives/2019010906b.jpg
+https://neolook.com/archives/2019010907b.jpg

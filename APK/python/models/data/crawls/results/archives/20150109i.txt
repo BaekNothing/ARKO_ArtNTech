@@ -1,4 +1,6 @@
 /archives/20150109i
+
+******** description ********
 點心 : 마음에 점을 찍다 Dot in the mind
 
 정명화展 / CHOUNGMYOUNGHWA / 鄭明花 / painting
@@ -39,3 +41,11 @@ www.parksookeun.or.kr,
 ■ 정명화
 
 Vol.20150109i | 정명화展 / CHOUNGMYOUNGHWA / 鄭明花 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015010901i.jpg
+https://neolook.com/archives/2015010902i.jpg
+https://neolook.com/archives/2015010903i.jpg
+https://neolook.com/archives/2015010904i.jpg
+https://neolook.com/archives/2015010905i.jpg
+https://neolook.com/archives/2015010906i.jpg
+https://neolook.com/archives/2015010907i.jpg

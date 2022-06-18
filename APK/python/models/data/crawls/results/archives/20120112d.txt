@@ -1,4 +1,6 @@
 /archives/20120112d
+
+******** description ********
 Lost Flower-잃어버린 꽃
 
 전두인展 / CHUNDOOIN / 全斗寅 / painting
@@ -36,3 +38,9 @@ www.u-1korea.com,
 ■ 김해성
 
 Vol.20120112d | 전두인展 / CHUNDOOIN / 全斗寅 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011201d.jpg
+https://neolook.com/archives/2012011202d.jpg
+https://neolook.com/archives/2012011203d.jpg
+https://neolook.com/archives/2012011204d.jpg
+https://neolook.com/archives/2012011205d.jpg

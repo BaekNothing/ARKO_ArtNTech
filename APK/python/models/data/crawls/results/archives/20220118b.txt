@@ -1,4 +1,6 @@
 /archives/20220118b
+
+******** description ********
 장도사색 -그 풀이와 매김
 
 이율배展 / LEEYULBAE / 李律培 / painting
@@ -38,3 +40,11 @@ www.yeulmaru.org,
 ■ 신병은
 
 Vol.20220118b | 이율배展 / LEEYULBAE / 李律培 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011801b.jpg
+https://neolook.com/archives/2022011802b.jpg
+https://neolook.com/archives/2022011803b.jpg
+https://neolook.com/archives/2022011804b.jpg
+https://neolook.com/archives/2022011805b.jpg
+https://neolook.com/archives/2022011806b.jpg
+https://neolook.com/archives/2022011807b.jpg

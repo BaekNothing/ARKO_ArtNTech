@@ -1,4 +1,6 @@
 /archives/20090101f
+
+******** description ********
 2009 세계 사진의 이목
 
 월간 포토넷 2009년 1월호
@@ -47,3 +49,10 @@ Culture
 133    merry go around 덧없음으로 바라본 풍경 | 주도양 『Vanitascape』
 138    gallery 전시 소개,    ,    별책부록_photonet+ 한성필 포트폴리오,    별책부록    한성필 포트폴리오
 Vol.20090101f | 월간 포토넷 2009년 1월호 / 2009 세계 사진의 이목
+******** imgSrcs ********
+https://neolook.com/archives/2009010101f.jpg
+https://neolook.com/archives/2009010102f.jpg
+https://neolook.com/archives/2009010103f.jpg
+https://neolook.com/archives/2009010104f.jpg
+https://neolook.com/archives/2009010105f.jpg
+https://neolook.com/archives/2009010106f.jpg

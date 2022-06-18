@@ -1,4 +1,6 @@
 /archives/20200103c
+
+******** description ********
 2020 두산 큐레이터 워크샵 참가자 공모
 
 2020 DOOSAN Curator Workshop
@@ -31,3 +33,5 @@ doosangallery.seoul@doosan.com / * email 접수만 가능
 02) 708-5050 / www.doosangallery.com
 
 Vol.20200103c | 2020 두산 큐레이터 워크샵 참가자 공모
+******** imgSrcs ********
+https://neolook.com/archives/2020010301c.jpg

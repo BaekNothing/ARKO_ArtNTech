@@ -1,4 +1,6 @@
 /archives/20180123d
+
+******** description ********
 풍경이 된 선 From lines to landscape
 
 남춘모展 / NAMTCHUNMO / 南春模 / installation
@@ -35,3 +37,11 @@ artmuseum.daegu.go.kr,
 ■ 대구미술관
 
 Vol.20180123d | 남춘모展 / NAMTCHUNMO / 南春模 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2018012301d.jpg
+https://neolook.com/archives/2018012302d.jpg
+https://neolook.com/archives/2018012303d.jpg
+https://neolook.com/archives/2018012304d.jpg
+https://neolook.com/archives/2018012305d.jpg
+https://neolook.com/archives/2018012306d.jpg
+https://neolook.com/archives/2018012307d.jpg

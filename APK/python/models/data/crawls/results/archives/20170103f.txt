@@ -1,4 +1,6 @@
 /archives/20170103f
+
+******** description ********
 움직이는 거실MOVING ROOM,    국립현대미술관 과천관 회랑프로젝트
 MMCA Gwacheon Corridor Project展 
  
@@ -40,3 +42,8 @@ Q4. 휴식 기능을 담는 전이 공간으로 어떠한 요소가 필요할까
 ■ 국립현대미술관 과천
 
 Vol.20170103f | 움직이는 거실 MOVING ROOM-국립현대미술관 과천관 회랑프로젝트展
+******** imgSrcs ********
+https://neolook.com/archives/2017010301f.jpg
+https://neolook.com/archives/2017010302f.jpg
+https://neolook.com/archives/2017010303f.jpg
+https://neolook.com/archives/2017010304f.jpg

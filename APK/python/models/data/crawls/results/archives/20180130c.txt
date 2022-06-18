@@ -1,4 +1,6 @@
 /archives/20180130c
+
+******** description ********
 Stories of Magic Realism 매직 리얼리즘 에세이
 
 권유정展 / KWONYOUJEONG / 權裕晶 / painting
@@ -29,3 +31,9 @@ I view my work as an extension of Magic Realism related with object oriented ont
 ■ KWONYOUJEONG
 
 Vol.20180130c | 권유정展 / KWONYOUJEONG / 權裕晶 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018013001c.jpg
+https://neolook.com/archives/2018013002c.jpg
+https://neolook.com/archives/2018013003c.jpg
+https://neolook.com/archives/2018013004c.jpg
+https://neolook.com/archives/2018013005c.jpg

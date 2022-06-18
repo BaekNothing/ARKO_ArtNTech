@@ -1,4 +1,6 @@
 /archives/20150120c
+
+******** description ********
 2015 오픈스페이스 배 아티스트 인큐베이팅 프로그램 참여작가 공모
 
 2015 Artist Incubating Program
@@ -50,3 +52,5 @@ www.spacebae.com,
 주소: 부산광역시 기장군 일광면 삼성리 297-1번지
 
 Vol.20150120c | 2015 오픈스페이스 배 아티스트 인큐베이팅 프로그램 참여작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2015012001c.jpg

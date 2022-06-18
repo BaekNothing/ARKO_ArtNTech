@@ -1,4 +1,6 @@
 /archives/20140114f
+
+******** description ********
 White Void - 공백의 반응
 
 오희원展 / OHHEEWON / 吳熙媛 / painting
@@ -34,3 +36,11 @@ www.factory483.org,
 ■ 박재용
 
 Vol.20140114f | 오희원展 / OHHEEWON / 吳熙媛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014011401f.jpg
+https://neolook.com/archives/2014011402f.jpg
+https://neolook.com/archives/2014011403f.jpg
+https://neolook.com/archives/2014011404f.jpg
+https://neolook.com/archives/2014011405f.jpg
+https://neolook.com/archives/2014011406f.jpg
+https://neolook.com/archives/2014011407f.jpg

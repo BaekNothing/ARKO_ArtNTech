@@ -1,4 +1,6 @@
 /archives/20220102b
+
+******** description ********
 art
 
 등작展 / DUNGZAK Cestlavie / 燈酌 / painting
@@ -74,3 +76,24 @@ Tel. +82.(0)10.3426.9915,
 ■ 등작
 
 Vol.20220102b | 등작展 / DUNGZAK Cestlavie / 燈酌 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010201b.jpg
+https://neolook.com/archives/2022010202b.jpg
+https://neolook.com/archives/2022010203b.jpg
+https://neolook.com/archives/2022010204b.jpg
+https://neolook.com/archives/2022010205b.jpg
+https://neolook.com/archives/2022010206b.jpg
+https://neolook.com/archives/2022010207b.jpg
+https://neolook.com/archives/2022010208b.jpg
+https://neolook.com/archives/2022010209b.jpg
+https://neolook.com/archives/2022010210b.jpg
+https://neolook.com/archives/2022010211b.jpg
+https://neolook.com/archives/2022010212b.jpg
+https://neolook.com/archives/2022010213b.jpg
+https://neolook.com/archives/2022010214b.jpg
+https://neolook.com/archives/2022010215b.jpg
+https://neolook.com/archives/2022010216b.jpg
+https://neolook.com/archives/2022010217b.jpg
+https://neolook.com/archives/2022010218b.jpg
+https://neolook.com/archives/2022010219b.jpg
+https://neolook.com/archives/2022010220b.jpg

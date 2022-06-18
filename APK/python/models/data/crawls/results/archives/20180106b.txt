@@ -1,4 +1,6 @@
 /archives/20180106b
+
+******** description ********
 스물의 파편 Fragments of twenties
 
 오태풍展 / OHTAEPUNG / 吳泰風 / photography
@@ -42,3 +44,14 @@ Pure factory-문 닫힌 공장에서 ● 순수란 본래의 목적과 기능을
 ■ 김혜원
 
 Vol.20180106b | 오태풍展 / OHTAEPUNG / 吳泰風 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2018010601b.jpg
+https://neolook.com/archives/2018010602b.jpg
+https://neolook.com/archives/2018010603b.jpg
+https://neolook.com/archives/2018010604b.jpg
+https://neolook.com/archives/2018010605b.jpg
+https://neolook.com/archives/2018010606b.jpg
+https://neolook.com/archives/2018010607b.jpg
+https://neolook.com/archives/2018010608b.jpg
+https://neolook.com/archives/2018010609b.jpg
+https://neolook.com/archives/2018010610b.jpg

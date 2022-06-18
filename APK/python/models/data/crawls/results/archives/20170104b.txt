@@ -1,4 +1,6 @@
 /archives/20170104b
+
+******** description ********
 극기드로잉 시리즈 : 극기산수화
 
 김예슬展 / KIMYESEUL / performance
@@ -50,3 +52,14 @@ limitations.
 ■ Yeseul Kim
 
 Vol.20170104b | 김예슬展 / KIMYESEUL / performance
+******** imgSrcs ********
+https://neolook.com/archives/2017010401b.jpg
+https://neolook.com/archives/2017010402b.jpg
+https://neolook.com/archives/2017010403b.jpg
+https://neolook.com/archives/2017010404b.jpg
+https://neolook.com/archives/2017010405b.jpg
+https://neolook.com/archives/2017010406b.jpg
+https://neolook.com/archives/2017010407b.jpg
+https://neolook.com/archives/2017010408b.jpg
+https://neolook.com/archives/2017010409b.jpg
+https://neolook.com/archives/2017010410b.jpg

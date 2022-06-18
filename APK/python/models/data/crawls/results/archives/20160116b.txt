@@ -1,4 +1,6 @@
 /archives/20160116b
+
+******** description ********
 Memorandum 비망록
 
 윤병운展 / YOONBYUNGWOON / 尹秉運 / painting
@@ -50,3 +52,14 @@ www.sophisgallery.com,
 ■ 이건수
 
 Vol.20160116b | 윤병운展 / YOONBYUNGWOON / 尹秉運 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011601b.jpg
+https://neolook.com/archives/2016011602b.jpg
+https://neolook.com/archives/2016011603b.jpg
+https://neolook.com/archives/2016011604b.jpg
+https://neolook.com/archives/2016011605b.jpg
+https://neolook.com/archives/2016011606b.jpg
+https://neolook.com/archives/2016011607b.jpg
+https://neolook.com/archives/2016011608b.jpg
+https://neolook.com/archives/2016011609b.jpg
+https://neolook.com/archives/2016011610b.jpg

@@ -1,4 +1,6 @@
 /archives/20110118b
+
+******** description ********
 Decoding
 
 김병준_김지연_서이겸_이정희展
@@ -51,3 +53,12 @@ decoding은 '해독'이란 뜻으로 코드화된 기호를 푸는 과정을 말
 ■ 김호경
 
 Vol.20110118b | Decoding展
+******** imgSrcs ********
+https://neolook.com/archives/2011011801b.jpg
+https://neolook.com/archives/2011011802b.jpg
+https://neolook.com/archives/2011011803b.jpg
+https://neolook.com/archives/2011011804b.jpg
+https://neolook.com/archives/2011011805b.jpg
+https://neolook.com/archives/2011011806b.jpg
+https://neolook.com/archives/2011011807b.jpg
+https://neolook.com/archives/2011011808b.jpg

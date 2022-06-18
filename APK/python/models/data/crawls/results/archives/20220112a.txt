@@ -1,4 +1,6 @@
 /archives/20220112a
+
+******** description ********
 abstract impression 50x60&
 
 이상선展 / LEESANGSUN / 李尙宣 / painting
@@ -54,3 +56,15 @@ www.artbit.kr,
 ■ 이상선
 
 Vol.20220112a | 이상선展 / LEESANGSUN / 李尙宣 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011201a.jpg
+https://neolook.com/archives/2022011202a.jpg
+https://neolook.com/archives/2022011203a.jpg
+https://neolook.com/archives/2022011204a.jpg
+https://neolook.com/archives/2022011205a.jpg
+https://neolook.com/archives/2022011206a.jpg
+https://neolook.com/archives/2022011207a.jpg
+https://neolook.com/archives/2022011208a.jpg
+https://neolook.com/archives/2022011209a.jpg
+https://neolook.com/archives/2022011210a.jpg
+https://neolook.com/archives/2022011211a.jpg

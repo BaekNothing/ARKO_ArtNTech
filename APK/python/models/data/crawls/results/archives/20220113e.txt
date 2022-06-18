@@ -1,4 +1,6 @@
 /archives/20220113e
+
+******** description ********
 사건번호: 2019 타경 9869
 case number : 2019 TK 9869,    김도수展 / KIMDOSU / 金道洙 / painting
  
@@ -43,3 +45,19 @@ cmoa.cheongju.go.kr/cjas,
 ■ 김도수
 
 Vol.20220113e | 김도수展 / KIMDOSU / 金道洙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022011301e.jpg
+https://neolook.com/archives/2022011302e.jpg
+https://neolook.com/archives/2022011303e.jpg
+https://neolook.com/archives/2022011304e.jpg
+https://neolook.com/archives/2022011305e.jpg
+https://neolook.com/archives/2022011306e.jpg
+https://neolook.com/archives/2022011307e.jpg
+https://neolook.com/archives/2022011308e.jpg
+https://neolook.com/archives/2022011309e.jpg
+https://neolook.com/archives/2022011310e.jpg
+https://neolook.com/archives/2022011311e.jpg
+https://neolook.com/archives/2022011312e.jpg
+https://neolook.com/archives/2022011313e.jpg
+https://neolook.com/archives/2022011314e.jpg
+https://neolook.com/archives/2022011315e.jpg

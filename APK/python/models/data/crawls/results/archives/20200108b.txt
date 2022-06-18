@@ -1,4 +1,6 @@
 /archives/20200108b
+
+******** description ********
 Hug 끌어안다
 
 이금주展 / LEEGEUMJU / 李金洲 / painting
@@ -56,3 +58,13 @@ www.kyunginart.co.kr,
 ■ 이금주
 
 Vol.20200108b | 이금주展 / LEEGEUMJU / 李金洲 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2020010801b.jpg
+https://neolook.com/archives/2020010802b.jpg
+https://neolook.com/archives/2020010803b.jpg
+https://neolook.com/archives/2020010804b.jpg
+https://neolook.com/archives/2020010805b.jpg
+https://neolook.com/archives/2020010806b.jpg
+https://neolook.com/archives/2020010807b.jpg
+https://neolook.com/archives/2020010808b.jpg
+https://neolook.com/archives/2020010809b.jpg

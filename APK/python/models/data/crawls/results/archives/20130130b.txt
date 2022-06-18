@@ -1,4 +1,6 @@
 /archives/20130130b
+
+******** description ********
 불협화음
 
 2013 상명대학교 예술디자인대학원 
@@ -46,3 +48,12 @@ www.gallerylux.net,
 ■ 한소영
 
 Vol.20130130b | 불협화음展
+******** imgSrcs ********
+https://neolook.com/archives/2013013001b.jpg
+https://neolook.com/archives/2013013002b.jpg
+https://neolook.com/archives/2013013003b.jpg
+https://neolook.com/archives/2013013004b.jpg
+https://neolook.com/archives/2013013005b.jpg
+https://neolook.com/archives/2013013006b.jpg
+https://neolook.com/archives/2013013007b.jpg
+https://neolook.com/archives/2013013008b.jpg

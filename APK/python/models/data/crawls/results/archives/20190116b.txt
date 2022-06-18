@@ -1,4 +1,6 @@
 /archives/20190116b
+
+******** description ********
 끈
 
 김지유展 / KIMJIYOO / 金池柚 / painting
@@ -63,3 +65,12 @@ www.galleryis.com,
 ■ 김지유
 
 Vol.20190116b | 김지유展 / KIMJIYOO / 金池柚 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011601b.jpg
+https://neolook.com/archives/2019011602b.jpg
+https://neolook.com/archives/2019011603b.jpg
+https://neolook.com/archives/2019011604b.jpg
+https://neolook.com/archives/2019011605b.jpg
+https://neolook.com/archives/2019011606b.jpg
+https://neolook.com/archives/2019011607b.jpg
+https://neolook.com/archives/2019011608b.jpg

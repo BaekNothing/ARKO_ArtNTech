@@ -1,4 +1,6 @@
 /archives/20110114c
+
+******** description ********
 Margins of Life
 
 이두식展 / LEEDOOSHIK / 李斗植 / drawing
@@ -36,3 +38,8 @@ www.galleryform.com,
 ■ 김경선
 
 Vol.20110114c | 이두식展 / LEEDOOSHIK / 李斗植 / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2011011401c.jpg
+https://neolook.com/archives/2011011402c.jpg
+https://neolook.com/archives/2011011403c.jpg
+https://neolook.com/archives/2011011404c.jpg

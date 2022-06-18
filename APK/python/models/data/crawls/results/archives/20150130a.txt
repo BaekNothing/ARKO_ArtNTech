@@ -1,4 +1,6 @@
 /archives/20150130a
+
+******** description ********
 REM
 
 Rapid Eye Movement展
@@ -48,3 +50,10 @@ A는 곧잘 자신의 꿈에 대해 이야기를 한다. 그 꿈은 반복적으
 ■ 이석대
 
 Vol.20150130a | REM-Rapid Eye Movement展
+******** imgSrcs ********
+https://neolook.com/archives/2015013001a.jpg
+https://neolook.com/archives/2015013002a.jpg
+https://neolook.com/archives/2015013003a.jpg
+https://neolook.com/archives/2015013004a.jpg
+https://neolook.com/archives/2015013005a.jpg
+https://neolook.com/archives/2015013006a.jpg

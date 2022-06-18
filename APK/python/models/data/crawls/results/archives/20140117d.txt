@@ -1,4 +1,6 @@
 /archives/20140117d
+
+******** description ********
 삶을 짓다 '그리고'
 2014_0116 ▶ 2014_0205,    박문종_수북산거도_종이에 황토 먹 채색_140×150cm_2012,    초대일시 / 2014_0122_수요일_06:00pm 
 
@@ -55,3 +57,18 @@ department.shinsegae.com,
 ■ 광주신세계갤러리
 
 Vol.고유번호 | 삶을 짓다 '그리고'展
+******** imgSrcs ********
+https://neolook.com/archives/2014011701d.jpg
+https://neolook.com/archives/2014011702d.jpg
+https://neolook.com/archives/2014011703d.jpg
+https://neolook.com/archives/2014011704d.jpg
+https://neolook.com/archives/2014011705d.jpg
+https://neolook.com/archives/2014011706d.jpg
+https://neolook.com/archives/2014011707d.jpg
+https://neolook.com/archives/2014011708d.jpg
+https://neolook.com/archives/2014011709d.jpg
+https://neolook.com/archives/2014011710d.jpg
+https://neolook.com/archives/2014011711d.jpg
+https://neolook.com/archives/2014011712d.jpg
+https://neolook.com/archives/2014011713d.jpg
+https://neolook.com/archives/2014011714d.jpg

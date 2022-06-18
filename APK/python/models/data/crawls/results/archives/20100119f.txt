@@ -1,4 +1,6 @@
 /archives/20100119f
+
+******** description ********
 사색하는 긴장 Contemplative tension
 
 최종운展 / CHOICHONGWOON / 崔鐘云 / installation
@@ -35,3 +37,9 @@ www.kwanhoongallery.com,
 ■ 김은정
 
 Vol.20100119f | 최종운展 / CHOICHONGWOON / 崔鐘云 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2010011901f.jpg
+https://neolook.com/archives/2010011902f.jpg
+https://neolook.com/archives/2010011903f.jpg
+https://neolook.com/archives/2010011904f.jpg
+https://neolook.com/archives/2010011905f.jpg

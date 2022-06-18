@@ -1,4 +1,6 @@
 /archives/20120112b
+
+******** description ********
 blossom
 
 강희주展 / KANGHEEJOO / 姜希妵 / painting
@@ -32,3 +34,11 @@ www.kepco.co.kr/gallery,
  ■ 강희주
 
 Vol.20120112b | 강희주展 / KANGHEEJOO / 姜希妵 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011201b.jpg
+https://neolook.com/archives/2012011202b.jpg
+https://neolook.com/archives/2012011203b.jpg
+https://neolook.com/archives/2012011204b.jpg
+https://neolook.com/archives/2012011205b.jpg
+https://neolook.com/archives/2012011206b.jpg
+https://neolook.com/archives/2012011207b.jpg

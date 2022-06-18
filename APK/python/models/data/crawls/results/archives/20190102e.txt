@@ -1,4 +1,6 @@
 /archives/20190102e
+
+******** description ********
 Beyond the New Landscape
 
 배남주_변지예_신혜진_윤겸_임수빈_장종완_전희경展
@@ -38,3 +40,12 @@ shinsegae.com,
 ■ 신세계갤러리
 
 Vol.20190102e | Beyond the New Landscape展
+******** imgSrcs ********
+https://neolook.com/archives/2019010201e.jpg
+https://neolook.com/archives/2019010202e.jpg
+https://neolook.com/archives/2019010203e.jpg
+https://neolook.com/archives/2019010204e.jpg
+https://neolook.com/archives/2019010205e.jpg
+https://neolook.com/archives/2019010206e.jpg
+https://neolook.com/archives/2019010207e.jpg
+https://neolook.com/archives/2019010208e.jpg

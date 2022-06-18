@@ -1,4 +1,6 @@
 /archives/20190104b
+
+******** description ********
 연희도자미술대전
 
 1st Yeonhui Ceramic Art Festival展
@@ -50,3 +52,16 @@ www.artertain.com,
 ■ 아터테인
 
 Vol.20190104b | 연희도자미술대전-1st Yeonhui Ceramic Art Festival展
+******** imgSrcs ********
+https://neolook.com/archives/2019010401b.jpg
+https://neolook.com/archives/2019010402b.jpg
+https://neolook.com/archives/2019010403b.jpg
+https://neolook.com/archives/2019010404b.jpg
+https://neolook.com/archives/2019010405b.jpg
+https://neolook.com/archives/2019010406b.jpg
+https://neolook.com/archives/2019010407b.jpg
+https://neolook.com/archives/2019010408b.jpg
+https://neolook.com/archives/2019010409b.jpg
+https://neolook.com/archives/2019010410b.jpg
+https://neolook.com/archives/2019010411b.jpg
+https://neolook.com/archives/2019010412b.jpg

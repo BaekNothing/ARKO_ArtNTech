@@ -1,4 +1,6 @@
 /archives/20110106d
+
+******** description ********
 광활한 방 CLOSED COSMOS
 
 최영빈展 / CHOIYOUNGVIN / 崔永牝 / painting
@@ -39,3 +41,11 @@ www.songamfoundation.org,
 ■ 김최은영
 
 Vol.20110106d | 최영빈展 / CHOIYOUNGVIN / 崔永牝 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010601d.jpg
+https://neolook.com/archives/2011010602d.jpg
+https://neolook.com/archives/2011010603d.jpg
+https://neolook.com/archives/2011010604d.jpg
+https://neolook.com/archives/2011010605d.jpg
+https://neolook.com/archives/2011010606d.jpg
+https://neolook.com/archives/2011010607d.jpg

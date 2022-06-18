@@ -1,4 +1,6 @@
 /archives/20110116d
+
+******** description ********
 아무도 모르는 전람회
 
 2011_0118 ▶ 2011_0123 / 월요일 휴관,    ,    
@@ -35,3 +37,10 @@ cafe.naver.com/seoulartspace,
 ■ 반이정
 
 Vol.20110116d | 아무도 모르는 전람회展
+******** imgSrcs ********
+https://neolook.com/archives/2011011601d.jpg
+https://neolook.com/archives/2011011602d.jpg
+https://neolook.com/archives/2011011603d.jpg
+https://neolook.com/archives/2011011604d.jpg
+https://neolook.com/archives/2011011605d.jpg
+https://neolook.com/archives/2011011606d.jpg

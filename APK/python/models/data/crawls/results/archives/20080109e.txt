@@ -1,4 +1,6 @@
 /archives/20080109e
+
+******** description ********
 희미한 집합 [A Fuzzy Set]
 
 정영훈展 / JEONGYOUNGHOON / 鄭暎薰 / interactive installation
@@ -20,3 +22,10 @@ suncontemporary.com,
 정영훈_Anonymous Epic_디지털 프린트_80×150cm_2008,    에피소드 1. Deep (fathomless) Gaze ● 양쪽으로 설치된 2개의 모니터 사이에 두 가상의 인물은 베르디 리골레토 중 그리운 이름이여를 읊조리며 인간의 형상과 요정의 형상으로 존재한다. 관객을 인식하면 자연스럽게 쳐다보며 가상인물의 눈에는 실시간으로 관객의 형상이 디스플레이 된다. 두 인물은 눈을 깜빡이며 관객과 상호 작용하며 몰핑 되기 시작하고 서로의 모습으로 변해가며 인간 신화와 판타지의 혼성모습을 보여준다. 에피소드 2. Fly Dust ● 관객의 입장을 인식하면 2개의 벽에 설치되어 있는 모니터로부터 까마귀 형상들이 관객을 향해 날아든다. 수많은 날개는 관객의 얼굴과 몸을 공격하듯이 날아오며 관객은 몸을 흔들어 날개를 쫓아낼 수 있다. 동작을 5 초간 멈추면 새와 관객이 먼지로 변해 사라지는 초 자연적인 현상을 관객과의 상호 작용으로 재현한다. 까마귀 떼와 관객의 사라짐은 소멸 또는 죽음을 의미하지만 관객은 스스로의 모습이 화면에서 사라짐으로써 역설적으로 현실적 존재감을 느끼게 된다.,    
 정영훈_Anonymous Epic_디지털 프린트_80×150cm_2008,    에피소드 3. Anonymous Epic ● 근육 구조로 되어 있는 두 손이 3D 애니메이션으로 상영된다. 영상 자체는 폭력적으로 보이나 작품의 서사 구조는 서정적으로 표현되어 숭고한 감동을 받도록 한다. 에피소드 4. Infinity Substance ● 관객이 양팔을 벌려 날갯짓을 함으로 가상의 날개를 날린다. 관객은 작품과의 인터랙션을 통해 스스로의 신체에 날개를 다는 현상을 느끼며 이카루스의 날개처럼 태양을 향한다. ■ 정영훈
 Vol.20080109e | 정영훈展 / JEONGYOUNGHOON / 鄭暎薰 / interactive installation
+******** imgSrcs ********
+https://neolook.com/archives/2008010901e.jpg
+https://neolook.com/archives/2008010902e.jpg
+https://neolook.com/archives/2008010903e.jpg
+https://neolook.com/archives/2008010904e.jpg
+https://neolook.com/archives/2008010905e.jpg
+https://neolook.com/archives/2008010906e.jpg

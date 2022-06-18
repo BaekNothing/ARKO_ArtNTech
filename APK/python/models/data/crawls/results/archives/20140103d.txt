@@ -1,4 +1,6 @@
 /archives/20140103d
+
+******** description ********
 프로포즈
 
 2014 DF 작가展
@@ -30,3 +32,9 @@ DF 디자이너는 리미티드에디션을 통해 핸드메이드 중심의 아
 ■ 갤러리 소유
 
 Vol.20140103d | 프로포즈-2014 DF 작가展
+******** imgSrcs ********
+https://neolook.com/archives/2014010301d.jpg
+https://neolook.com/archives/2014010302d.jpg
+https://neolook.com/archives/2014010303d.jpg
+https://neolook.com/archives/2014010304d.jpg
+https://neolook.com/archives/2014010305d.jpg

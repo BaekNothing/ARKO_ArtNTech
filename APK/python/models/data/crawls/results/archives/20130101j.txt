@@ -1,4 +1,6 @@
 /archives/20130101j
+
+******** description ********
 KS호당 가격지수 2012년 경매시장 결산 2012 한국미술계의 힘
 
 새로운 미술경제 계간 아트프라이스 2013년 겨울호
@@ -43,3 +45,9 @@ AP Members
 서울 인철 대구 경기남부 경기북부 대전 강원 전북 부산 지역의 소식,    Member's Calender
 2013년 1월의 회원화랑 전시일정,    Books
 성공한 예술가의 초상 알폰스 무하 홀로문을 두드리다 미술사 방법론 현대사회와 문화예술 How to See How to Draw 에드워드 호퍼 10개의 테마로 만나는 아트살롱 아름다운 색의 마술사 마티스 예술가여 무엇이 두려운가! 한 권으로 끝내는 디자인 창업&경영에 대한 모든 것,    Vol.20130101j | KS호당 가격지수 2012년 경매시장 결산 2012 한국미술계의 힘
+******** imgSrcs ********
+https://neolook.com/archives/2013010101j.jpg
+https://neolook.com/archives/2013010102j.jpg
+https://neolook.com/archives/2013010103j.jpg
+https://neolook.com/archives/2013010104j.jpg
+https://neolook.com/archives/2013010105j.jpg

@@ -1,4 +1,6 @@
 /archives/20160102b
+
+******** description ********
 2016 별의 별잔치 "분양分陽"
 
 따뜻함 인간애 공간을 함께 나눕니다.展
@@ -41,3 +43,12 @@ www.sunarts.kr,
 ■ 서현
 
 Vol.20160102b | 2016 별의 별잔치 "분양分陽"展
+******** imgSrcs ********
+https://neolook.com/archives/2016010201b.jpg
+https://neolook.com/archives/2016010202b.jpg
+https://neolook.com/archives/2016010203b.jpg
+https://neolook.com/archives/2016010204b.jpg
+https://neolook.com/archives/2016010205b.jpg
+https://neolook.com/archives/2016010206b.jpg
+https://neolook.com/archives/2016010207b.jpg
+https://neolook.com/archives/2016010208b.jpg

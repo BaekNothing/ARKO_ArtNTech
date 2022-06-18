@@ -1,4 +1,6 @@
 /archives/20120126c
+
+******** description ********
 Building a Castle of Sand (Or Breaking It)
 
 모래성을 쌓는 일 혹은 무너뜨리는 일展
@@ -48,3 +50,13 @@ Featuring the work of 4 Japanese artists Hisashi Kurachi Ayako Kurihara Nobuyuki
  ■ NEXT DOOR Gallery
 
 Vol.20120126c | Building a Castle of Sand (Or Breaking It)展
+******** imgSrcs ********
+https://neolook.com/archives/2012012601c.jpg
+https://neolook.com/archives/2012012602c.jpg
+https://neolook.com/archives/2012012603c.jpg
+https://neolook.com/archives/2012012604c.jpg
+https://neolook.com/archives/2012012605c.jpg
+https://neolook.com/archives/2012012606c.jpg
+https://neolook.com/archives/2012012607c.jpg
+https://neolook.com/archives/2012012608c.jpg
+https://neolook.com/archives/2012012609c.jpg

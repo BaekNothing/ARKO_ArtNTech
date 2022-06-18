@@ -1,4 +1,6 @@
 /archives/20180109c
+
+******** description ********
 무브! 무브! 무브! Move! Move! Move!
 
 김우진_정덕현_이준영展
@@ -34,3 +36,12 @@ blog.naver.com/175gallery,
 ■ 갤러리175
 
 Vol.20180109c | 무브! 무브! 무브! Move! Move! Move!展
+******** imgSrcs ********
+https://neolook.com/archives/2018010901c.jpg
+https://neolook.com/archives/2018010902c.jpg
+https://neolook.com/archives/2018010903c.jpg
+https://neolook.com/archives/2018010904c.jpg
+https://neolook.com/archives/2018010905c.jpg
+https://neolook.com/archives/2018010906c.jpg
+https://neolook.com/archives/2018010907c.jpg
+https://neolook.com/archives/2018010908c.jpg

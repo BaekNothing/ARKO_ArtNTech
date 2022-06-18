@@ -1,4 +1,6 @@
 /archives/20130129d
+
+******** description ********
 수채화 마스터하기
 
 기초부터 고급 테크닉까지
@@ -142,3 +144,8 @@ DIY 팔레트 만들기,    팔레트 나이프  ...28
 문제:  물감이 튀겼을 때,    갤러리    ...138
 
 Vol.20130129d | 수채화 마스터하기 / 지은이_고든 매킨지 / 도서출판 비즈앤비즈
+******** imgSrcs ********
+https://neolook.com/archives/2013012901d.jpg
+https://neolook.com/archives/2013012902d.jpg
+https://neolook.com/archives/2013012903d.jpg
+https://neolook.com/archives/2013012904d.jpg

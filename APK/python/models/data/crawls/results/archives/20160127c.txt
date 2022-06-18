@@ -1,4 +1,6 @@
 /archives/20160127c
+
+******** description ********
 백야 白夜
 
 배윤경展 / BAEYOUNKYOUNG / 裵允卿 / painting
@@ -37,3 +39,11 @@ www.galleryis.com,
 ■ 이정배
 
 Vol.20160127c | 배윤경展 / BAEYOUNKYOUNG / 裵允卿 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016012701c.jpg
+https://neolook.com/archives/2016012702c.jpg
+https://neolook.com/archives/2016012703c.jpg
+https://neolook.com/archives/2016012704c.jpg
+https://neolook.com/archives/2016012705c.jpg
+https://neolook.com/archives/2016012706c.jpg
+https://neolook.com/archives/2016012707c.jpg

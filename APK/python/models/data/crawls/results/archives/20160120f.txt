@@ -1,4 +1,6 @@
 /archives/20160120f
+
+******** description ********
 부스까르 쿠바(Buscar Cuba)
 
 손문상展 / SONMUNSANG / 孫文祥 / photography
@@ -44,3 +46,14 @@ buscar 1. 찾다 수색하다  2. 향하다  3. 구하다 (네이버 스페인�
 ■ 손문상
 
 Vol.20160120f | 손문상展 / SONMUNSANG / 孫文祥 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2016012001f.jpg
+https://neolook.com/archives/2016012002f.jpg
+https://neolook.com/archives/2016012003f.jpg
+https://neolook.com/archives/2016012004f.jpg
+https://neolook.com/archives/2016012005f.jpg
+https://neolook.com/archives/2016012006f.jpg
+https://neolook.com/archives/2016012007f.jpg
+https://neolook.com/archives/2016012008f.jpg
+https://neolook.com/archives/2016012009f.jpg
+https://neolook.com/archives/2016012010f.jpg

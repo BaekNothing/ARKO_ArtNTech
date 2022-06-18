@@ -1,4 +1,6 @@
 /archives/20120103c
+
+******** description ********
 ﻿
 Where do we come from? Where are we? Where are we going?
 
@@ -37,3 +39,11 @@ www.ujungartcenter.com,
 ■ 김민
 
 Vol.20120103c | 김민展 / KIMMINNE / 金旻 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2012010301c.jpg
+https://neolook.com/archives/2012010302c.jpg
+https://neolook.com/archives/2012010303c.jpg
+https://neolook.com/archives/2012010304c.jpg
+https://neolook.com/archives/2012010305c.jpg
+https://neolook.com/archives/2012010306c.jpg
+https://neolook.com/archives/2012010307c.jpg

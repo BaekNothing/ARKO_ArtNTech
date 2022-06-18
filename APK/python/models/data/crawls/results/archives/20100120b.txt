@@ -1,4 +1,6 @@
 /archives/20100120b
+
+******** description ********
 구덕진展 / A J Kimo / 具德晋 /painting
  
 2010_0120 ▶ 2010_0126,    
@@ -48,3 +50,11 @@ INSOMINA
 'TKFKDGO'라 쓰고 '사랑해'라 읽는다. ■ A J Kimo
 
 Vol.20100120b | 구덕진展 / A J Kimo / 具德晋 /painting
+******** imgSrcs ********
+https://neolook.com/archives/2010012001b.jpg
+https://neolook.com/archives/2010012002b.jpg
+https://neolook.com/archives/2010012003b.jpg
+https://neolook.com/archives/2010012004b.jpg
+https://neolook.com/archives/2010012005b.jpg
+https://neolook.com/archives/2010012006b.jpg
+https://neolook.com/archives/2010012007b.jpg

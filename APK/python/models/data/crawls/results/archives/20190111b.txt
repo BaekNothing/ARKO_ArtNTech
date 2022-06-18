@@ -1,4 +1,6 @@
 /archives/20190111b
+
+******** description ********
 구름아이
 
 조지연展 / CHOCHIYUN / 趙智衍 / painting
@@ -74,3 +76,11 @@ www.gallerydam.com,
 ■ 고충환
 
 Vol.20190111b | 조지연展 / CHOCHIYUN / 趙智衍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011101b.jpg
+https://neolook.com/archives/2019011102b.jpg
+https://neolook.com/archives/2019011103b.jpg
+https://neolook.com/archives/2019011104b.jpg
+https://neolook.com/archives/2019011105b.jpg
+https://neolook.com/archives/2019011106b.jpg
+https://neolook.com/archives/2019011107b.jpg

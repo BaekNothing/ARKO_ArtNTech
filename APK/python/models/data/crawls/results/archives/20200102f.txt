@@ -1,4 +1,6 @@
 /archives/20200102f
+
+******** description ********
 봄의 횡단
 
 정상곤展 / CHUNGSANGGON / 鄭尙坤 / printmaking.painting
@@ -40,3 +42,11 @@ gallerytheflux.com,
 ● 「나의 슬픔 프로젝트」는 지난 초여름에 진행했던 총 11명의 인터뷰 장면과 대화 내용으로 제작한 일련의 판화 작업에 붙인 제목이다. 일련의 판화의 왼쪽 화면에는 인터뷰를 진행하는 동안 생각하고 망설이고 있는 순간을 포착한 인물들의 모습들이 정지된 화면처럼 중첩되어 나타나고 있으며 판화의 오른쪽 화면에는 좌우명과 같은 글들 혹은 금방이라도 공기 중으로 흩어져 버릴 것 같은 흐릿한 넋두리와 같은 문장들이 등장한다. 인터뷰 장면을 간추리고 그들이 말했던 내용들을 판에 새기고 찍고 지우고 다시 찍는 과정의 반복을 통해서 흐릿하게 지워지고 사라지는 판화 이미지가 마치 랙이 걸려 멈춰 선 영상의 파편처럼 우리 시대의 상처와 상실감 혹은 시대적 슬픔을 담지하고 있는 타자가 된 나 자신(우리들)의 모습일 수 있겠다고 생각하였다. (2019.12) ■ 정상곤
 
 Vol.20200102f | 정상곤展 / CHUNGSANGGON / 鄭尙坤 / printmaking.painting
+******** imgSrcs ********
+https://neolook.com/archives/2020010201f.jpg
+https://neolook.com/archives/2020010202f.jpg
+https://neolook.com/archives/2020010203f.jpg
+https://neolook.com/archives/2020010204f.jpg
+https://neolook.com/archives/2020010205f.jpg
+https://neolook.com/archives/2020010206f.jpg
+https://neolook.com/archives/2020010207f.jpg

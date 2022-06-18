@@ -1,4 +1,6 @@
 /archives/20130118d
+
+******** description ********
 Echo inescapable 울림 지나칠 수 없는
 
 차미혜展 / CHAMIHYE / 車美惠 / video.photography
@@ -54,3 +56,9 @@ www.cornerartspace.org,
 ■ 양지윤
 
 Vol.20130118d | 차미혜展 / CHAMIHYE / 車美惠 / video.photography
+******** imgSrcs ********
+https://neolook.com/archives/2013011801d.jpg
+https://neolook.com/archives/2013011802d.jpg
+https://neolook.com/archives/2013011803d.jpg
+https://neolook.com/archives/2013011804d.jpg
+https://neolook.com/archives/2013011805d.jpg

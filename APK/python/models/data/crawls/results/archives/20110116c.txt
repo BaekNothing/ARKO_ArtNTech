@@ -1,4 +1,6 @@
 /archives/20110116c
+
+******** description ********
 사진은 나에게
 
 성완경展 / SUNGWANKYUNG / 成完慶 / photography
@@ -49,3 +51,11 @@ www.choijeonghwa.com,
 ■ 성완경
 
 Vol.20110116c | 성완경展 / SUNGWANKYUNG / 成完慶 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2011011601c.jpg
+https://neolook.com/archives/2011011602c.jpg
+https://neolook.com/archives/2011011603c.jpg
+https://neolook.com/archives/2011011604c.jpg
+https://neolook.com/archives/2011011605c.jpg
+https://neolook.com/archives/2011011606c.jpg
+https://neolook.com/archives/2011011607c.jpg

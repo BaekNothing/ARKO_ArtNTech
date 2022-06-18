@@ -1,4 +1,6 @@
 /archives/20160114d
+
+******** description ********
 제3지대
 
 The Third Zone展
@@ -69,3 +71,16 @@ gmoma.ggcf.kr,
 ■ 
 
 Vol.20160114d | 제3지대 The Third Zone展
+******** imgSrcs ********
+https://neolook.com/archives/2016011401d.jpg
+https://neolook.com/archives/2016011402d.jpg
+https://neolook.com/archives/2016011403d.jpg
+https://neolook.com/archives/2016011404d.jpg
+https://neolook.com/archives/2016011405d.jpg
+https://neolook.com/archives/2016011406d.jpg
+https://neolook.com/archives/2016011407d.jpg
+https://neolook.com/archives/2016011408d.jpg
+https://neolook.com/archives/2016011409d.jpg
+https://neolook.com/archives/2016011410d.jpg
+https://neolook.com/archives/2016011411d.jpg
+https://neolook.com/archives/2016011412d.jpg

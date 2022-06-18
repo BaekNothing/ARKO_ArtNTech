@@ -1,4 +1,6 @@
 /archives/20200117i
+
+******** description ********
 2020 기다렸쥐~
 
 2020 경자년 신년기획展
@@ -43,3 +45,15 @@ shinsegae.com,
 ■ 광주신세계갤러리
 
 Vol.20200117i | 2020 기다렸쥐~-2020 경자년 신년기획展
+******** imgSrcs ********
+https://neolook.com/archives/2020011701i.jpg
+https://neolook.com/archives/2020011702i.jpg
+https://neolook.com/archives/2020011703i.jpg
+https://neolook.com/archives/2020011704i.jpg
+https://neolook.com/archives/2020011705i.jpg
+https://neolook.com/archives/2020011706i.jpg
+https://neolook.com/archives/2020011707i.jpg
+https://neolook.com/archives/2020011708i.jpg
+https://neolook.com/archives/2020011709i.jpg
+https://neolook.com/archives/2020011710i.jpg
+https://neolook.com/archives/2020011711i.jpg

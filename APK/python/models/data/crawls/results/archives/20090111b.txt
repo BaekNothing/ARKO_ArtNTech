@@ -1,4 +1,6 @@
 /archives/20090111b
+
+******** description ********
 사진의 개념을 바꾼 88년생 꽃미남 예술가는 누구?
  
 한종석展 / HANJONGSEOK / 韓宗錫 / mixed media
@@ -19,3 +21,11 @@ www.honsound.pe.kr,
 
 한종석_람의_JPEG_1920×2560pixel_2008,    본다고 보이는 것도 아닌데 ● 본다고 보이는 것도 아닌데 / 보지 않는다고 보이지 않는 것도 아닌데 / 말한다고 들리는 것도 아닌데 / 말하지 않는다고 안 들리는 것도 아닌데 / 돌아보면 있는 것도 아닌데 / 돌아보지 않는다고 없는 것도 아닌데 // ■ 한종석
 Vol.20090111b | 한종석展 / HANJONGSEOK / 韓宗錫 / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2009011101b.jpg
+https://neolook.com/archives/2009011102b.jpg
+https://neolook.com/archives/2009011103b.jpg
+https://neolook.com/archives/2009011104b.jpg
+https://neolook.com/archives/2009011105b.jpg
+https://neolook.com/archives/2009011106b.jpg
+https://neolook.com/archives/2009011107b.jpg

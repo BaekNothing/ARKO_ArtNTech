@@ -1,4 +1,6 @@
 /archives/20110105a
+
+******** description ********
 폭력의 놀이_Play of Violence
 
 김선휘展 / KIMSUNHWEE / 金善輝 / painting
@@ -37,3 +39,11 @@ www.shinhanmuseum.co.kr,
 ■ 심소미
 
 Vol.20110105a | 김선휘展 / KIMSUNHWEE / 金善輝 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2011010501a.jpg
+https://neolook.com/archives/2011010502a.jpg
+https://neolook.com/archives/2011010503a.jpg
+https://neolook.com/archives/2011010504a.jpg
+https://neolook.com/archives/2011010505a.jpg
+https://neolook.com/archives/2011010506a.jpg
+https://neolook.com/archives/2011010507a.jpg

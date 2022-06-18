@@ -1,4 +1,6 @@
 /archives/20170112b
+
+******** description ********
 골든타임 Golden Time
 
 이종석_이철규_장인희_채은미_최성임展
@@ -29,3 +31,10 @@ shinsegae.com,
 ■ 신세계갤러리
 
 Vol.20170112b | 골든타임 Golden Time展
+******** imgSrcs ********
+https://neolook.com/archives/2017011201b.jpg
+https://neolook.com/archives/2017011202b.jpg
+https://neolook.com/archives/2017011203b.jpg
+https://neolook.com/archives/2017011204b.jpg
+https://neolook.com/archives/2017011205b.jpg
+https://neolook.com/archives/2017011206b.jpg

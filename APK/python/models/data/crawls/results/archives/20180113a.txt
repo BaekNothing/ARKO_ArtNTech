@@ -1,4 +1,6 @@
 /archives/20180113a
+
+******** description ********
 기억 변주곡
 
 방규태展 / BANGGYUTAE / ??? / painting
@@ -49,3 +51,11 @@ www.kooalldam.com,
 ■ 방규태
 
 Vol.20180113a | 방규태展 / BANGGYUTAE / ??? / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011301a.jpg
+https://neolook.com/archives/2018011302a.jpg
+https://neolook.com/archives/2018011303a.jpg
+https://neolook.com/archives/2018011304a.jpg
+https://neolook.com/archives/2018011305a.jpg
+https://neolook.com/archives/2018011306a.jpg
+https://neolook.com/archives/2018011307a.jpg

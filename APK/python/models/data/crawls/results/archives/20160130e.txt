@@ -1,4 +1,6 @@
 /archives/20160130e
+
+******** description ********
 다중시간 Wrap around the Time
 
 백남준 추모 10주기 특별展
@@ -147,3 +149,19 @@ _가변설치_2004_사라 코티에 갤러리 소장,
 * 이후 연계 교육 프로그램 일정은 홈페이지에 공지 예정
 
 Vol.20160130e | 다중시간 Wrap around the Time展
+******** imgSrcs ********
+https://neolook.com/archives/2016013001e.jpg
+https://neolook.com/archives/2016013002e.jpg
+https://neolook.com/archives/2016013003e.jpg
+https://neolook.com/archives/2016013004e.jpg
+https://neolook.com/archives/2016013005e.jpg
+https://neolook.com/archives/2016013006e.jpg
+https://neolook.com/archives/2016013007e.jpg
+https://neolook.com/archives/2016013008e.jpg
+https://neolook.com/archives/2016013009e.jpg
+https://neolook.com/archives/2016013010e.jpg
+https://neolook.com/archives/2016013011e.jpg
+https://neolook.com/archives/2016013012e.jpg
+https://neolook.com/archives/2016013013e.jpg
+https://neolook.com/archives/2016013014e.jpg
+https://neolook.com/archives/2016013015e.jpg

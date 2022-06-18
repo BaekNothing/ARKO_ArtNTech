@@ -1,4 +1,6 @@
 /archives/20190111g
+
+******** description ********
 물빛 이야기
 
 박영희展 / PARKYOUNGHEE / 朴永喜 / painting
@@ -55,3 +57,10 @@ cafe.naver.com/suwonarteco,
   - 내용 : 작가에게 직접 듣는 스토리 수업을 듣기 + 작가와 함께 나만의 물빛 수영장을 만들어 보기
   - 신청 : 홈페이지 접수 www.suwonartcenter.org
   - 문의 : 031-228-3585,    Vol.20190111g | 박영희展 / PARKYOUNGHEE / 朴永喜 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011101g.jpg
+https://neolook.com/archives/2019011102g.jpg
+https://neolook.com/archives/2019011103g.jpg
+https://neolook.com/archives/2019011104g.jpg
+https://neolook.com/archives/2019011105g.jpg
+https://neolook.com/archives/2019011106g.jpg

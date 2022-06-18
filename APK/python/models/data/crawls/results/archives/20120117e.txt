@@ -1,4 +1,6 @@
 /archives/20120117e
+
+******** description ********
 풀잎 오디세이
 
 2012 수원시미술전시관 분관 어린이생태미술체험관 '풀잎' 특별기획展
@@ -60,3 +62,13 @@ cafe.naver.com/suwonarteco,
 ■ 김민경
 
 Vol.20120117e | 풀잎 오디세이展
+******** imgSrcs ********
+https://neolook.com/archives/2012011701e.jpg
+https://neolook.com/archives/2012011702e.jpg
+https://neolook.com/archives/2012011703e.jpg
+https://neolook.com/archives/2012011704e.jpg
+https://neolook.com/archives/2012011705e.jpg
+https://neolook.com/archives/2012011706e.jpg
+https://neolook.com/archives/2012011707e.jpg
+https://neolook.com/archives/2012011708e.jpg
+https://neolook.com/archives/2012011709e.jpg

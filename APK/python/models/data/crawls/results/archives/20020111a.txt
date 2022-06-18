@@ -1,4 +1,6 @@
 /archives/20020111a
+
+******** description ********
 신인류 - 신디자인
 
 이종빈展 / LEEJONGBIN / sculpture.installation
@@ -13,3 +15,8 @@ Tel. 031_780_2063,
 
 작가·이종빈∥제목·'신인류-신디자인'∥재료·철·F.R.P·동·알루미늄∥크기·300×240×2000cm∥중량·2500kg∥제작기간·2001년 7월∼9월∥설치장소·코리아디자인센터∥제작팀·팀장 이재효 정인식 전귀남 차종규 김용헌 안성현∥지원팀·팀장 조승억 대리 허영구 담당 이경순∥설치·LG중량∥사진·이종수
 Vol.20020111a | 이종빈展 / LEEJONGBIN / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2002011101a.jpg
+https://neolook.com/archives/2002011102a.jpg
+https://neolook.com/archives/2002011103a.jpg
+https://neolook.com/archives/2002011104a.jpg

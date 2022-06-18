@@ -1,4 +1,6 @@
 /archives/20150121d
+
+******** description ********
 BOOK
 
 안경희展 / ANKYUNGHEE / 安庚喜 / photography
@@ -42,3 +44,11 @@ An Kyunghee: Vanishing Books Vanishing Memories
 ■ Park Young-taek
 
 Vol.20150121d | 안경희展 / ANKYUNGHEE / 安庚喜 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2015012101d.jpg
+https://neolook.com/archives/2015012102d.jpg
+https://neolook.com/archives/2015012103d.jpg
+https://neolook.com/archives/2015012104d.jpg
+https://neolook.com/archives/2015012105d.jpg
+https://neolook.com/archives/2015012106d.jpg
+https://neolook.com/archives/2015012107d.jpg

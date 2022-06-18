@@ -1,4 +1,6 @@
 /archives/20150122d
+
+******** description ********
 Matter & Things
 
 오윤석展 / OHYOUNSEOK / 吳玧錫 / painting
@@ -37,3 +39,9 @@ www.cjartstudio.com,
 ■ 정용도
 
 Vol.20150122d | 오윤석展 / OHYOUNSEOK / 吳玧錫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012201d.jpg
+https://neolook.com/archives/2015012202d.jpg
+https://neolook.com/archives/2015012203d.jpg
+https://neolook.com/archives/2015012204d.jpg
+https://neolook.com/archives/2015012205d.jpg

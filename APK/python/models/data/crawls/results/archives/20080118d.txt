@@ -1,4 +1,6 @@
 /archives/20080118d
+
+******** description ********
 내일을 향해 쏴라!
 
 대안공간 충정각 5번째 기획展
@@ -38,3 +40,12 @@ Tel. +82.2.313.0424,
 이인화_디지털 풍속도 / 박성일_바나나치타
 최지영_The beauty1 / 김미경_엄마가 그랬어,    『내일을 향해 쏴라!』전은 엉뚱하고 기발한 각자의 무기를 가진 신진작가들이 세상을 향해 그리고 기성세대를 향해 쏘는 의미 있는 한발의 총성이었으며 한다. ■ 대안공간 충정각
 Vol.20080118d | 내일을 향해 쏴라!展
+******** imgSrcs ********
+/archives/2008011801d.gif
+https://neolook.com/archives/2008011802d.jpg
+https://neolook.com/archives/2008011803d.jpg
+https://neolook.com/archives/2008011804d.jpg
+https://neolook.com/archives/2008011805d.jpg
+https://neolook.com/archives/2008011806d.jpg
+https://neolook.com/archives/2008011807d.jpg
+https://neolook.com/archives/2008011808d.jpg

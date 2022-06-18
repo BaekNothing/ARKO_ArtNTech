@@ -1,4 +1,6 @@
 /archives/20160118b
+
+******** description ********
 서울 바벨
 
 SeMA Blue 2016展
@@ -26,3 +28,9 @@ sema.seoul.go.kr,
 ■ 신은진
 
 Vol.20160118b | 서울 바벨-SeMA Blue 2016展
+******** imgSrcs ********
+https://neolook.com/archives/2016011801b.jpg
+https://neolook.com/archives/2016011802b.jpg
+https://neolook.com/archives/2016011803b.jpg
+https://neolook.com/archives/2016011804b.jpg
+https://neolook.com/archives/2016011805b.jpg

@@ -1,4 +1,6 @@
 /archives/20090112a
+
+******** description ********
 국민대학교 종합예술대학원
 
 2009학년도 전기 신입생 모집(석사)
@@ -47,3 +49,7 @@ totalart.kookmin.ac.kr,
 ※ 기타 자세한 입시요강은 홈페이지 참조.
 
 Vol.20090112a | 국민대학교 종합예술대학원 2009학년도 전기 신입생 모집(석사)
+******** imgSrcs ********
+https://neolook.com/archives/2009011201a.jpg
+https://neolook.com/archives/2009011202a.jpg
+https://neolook.com/archives/2009011203a.jpg

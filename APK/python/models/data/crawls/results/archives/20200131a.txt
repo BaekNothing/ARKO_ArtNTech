@@ -1,4 +1,6 @@
 /archives/20200131a
+
+******** description ********
 중간계 中間界 Mid Land: 모호한 경계
 
 이재훈展 / LEEJAEHOON / 李哉勳 / photography
@@ -35,3 +37,8 @@ www.seoigallery.com,
 ● 나는 렌즈를 통해 도시를 보고 있는 줄 알았지만 사실 도시가 나를 지켜보고 있었다. (2020년 초겨울) ■ 이재훈
 
 Vol.20200131a |이재훈展 / LEEJAEHOON / 李哉勳 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2020013101a.jpg
+https://neolook.com/archives/2020013102a.jpg
+https://neolook.com/archives/2020013103a.jpg
+https://neolook.com/archives/2020013104a.jpg

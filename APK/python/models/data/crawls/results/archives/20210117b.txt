@@ -1,4 +1,6 @@
 /archives/20210117b
+
+******** description ********
 이응노의 사계(四季)
 
 The Four Seasons of Lee Ungno展
@@ -46,3 +48,13 @@ www.facebook.com/LEEUNGNO
 「너츠라이더」는 자전거 페달과 컨베이어스 방식을 활용하여 작품을 감상할 수 있도록 제작된 미디어 작품이며 「메모어스」 역시 폴라로이드 사진기를 이용하여 관람객의 방문 기록을 남길 수 있도록 구성된 작품으로 전시에 특색을 더해 줄 것으로 기대한다. ■ 이응노미술관
 
 Vol.20210117b | 이응노의 사계(四季)展
+******** imgSrcs ********
+https://neolook.com/archives/2021011701b.jpg
+https://neolook.com/archives/2021011702b.jpg
+https://neolook.com/archives/2021011703b.jpg
+https://neolook.com/archives/2021011704b.jpg
+https://neolook.com/archives/2021011705b.jpg
+https://neolook.com/archives/2021011706b.jpg
+https://neolook.com/archives/2021011707b.jpg
+https://neolook.com/archives/2021011708b.jpg
+https://neolook.com/archives/2021011709b.jpg

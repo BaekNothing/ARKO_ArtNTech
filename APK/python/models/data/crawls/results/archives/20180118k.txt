@@ -1,4 +1,6 @@
 /archives/20180118k
+
+******** description ********
 제18회 서울국제뉴미디어페스티벌
 
 한국구애전 작품 공모
@@ -42,3 +44,5 @@ nemafest@gmail.com
 전시부문: 02-337-2873
 
 Vol.20180118k | 제18회 서울국제뉴미디어페스티벌 한국구애전 작품 공모
+******** imgSrcs ********
+https://neolook.com/archives/2018011801k.jpg

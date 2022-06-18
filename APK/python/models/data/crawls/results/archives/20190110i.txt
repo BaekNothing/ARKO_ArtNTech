@@ -1,4 +1,6 @@
 /archives/20190110i
+
+******** description ********
 Pulling Teeth
 2019_0110 ▶ 2019_0118,    ,    초대일시 / 2019_0110_목요일_06:00pm
 
@@ -40,3 +42,14 @@ Pulling Teeth is an exhibition of new work from first year graduate painting stu
 ■ ASC Gallery
 
 Vol.20190110i | Pulling Teeth展
+******** imgSrcs ********
+https://neolook.com/archives/2019011001i.jpg
+https://neolook.com/archives/2019011002i.jpg
+https://neolook.com/archives/2019011003i.jpg
+https://neolook.com/archives/2019011004i.jpg
+https://neolook.com/archives/2019011005i.jpg
+https://neolook.com/archives/2019011006i.jpg
+https://neolook.com/archives/2019011007i.jpg
+https://neolook.com/archives/2019011008i.jpg
+https://neolook.com/archives/2019011009i.jpg
+https://neolook.com/archives/2019011010i.jpg

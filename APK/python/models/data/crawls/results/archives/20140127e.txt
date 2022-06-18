@@ -1,4 +1,6 @@
 /archives/20140127e
+
+******** description ********
 벽안(碧眼)의 가출 BLUE-EYED RUNAWAY 
 
 김동현展 / KIMDONGHYUN / 東炫 / painting
@@ -37,3 +39,11 @@ www.can-foundation.org,
 ■ 윤상훈
 
 Vol.20140127e | 김동현展 / KIMDONGHYUN / 東炫 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012701e.jpg
+https://neolook.com/archives/2014012702e.jpg
+https://neolook.com/archives/2014012703e.jpg
+https://neolook.com/archives/2014012704e.jpg
+https://neolook.com/archives/2014012705e.jpg
+https://neolook.com/archives/2014012706e.jpg
+https://neolook.com/archives/2014012707e.jpg

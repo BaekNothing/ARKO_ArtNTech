@@ -1,4 +1,6 @@
 /archives/20170124a
+
+******** description ********
 우물 바닥에 조약돌 닿는 소리가 들리지 않는다
 
 노수인展 / NOSUIN / 魯琇粼 / installation
@@ -41,3 +43,14 @@ www.gongcraft.net,
 ■ 노수인
 
 Vol.20170124a | 노수인展 / NOSUIN / 魯琇粼 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2017012401a.jpg
+https://neolook.com/archives/2017012402a.jpg
+https://neolook.com/archives/2017012403a.jpg
+https://neolook.com/archives/2017012404a.jpg
+https://neolook.com/archives/2017012405a.jpg
+https://neolook.com/archives/2017012406a.jpg
+https://neolook.com/archives/2017012407a.jpg
+https://neolook.com/archives/2017012408a.jpg
+https://neolook.com/archives/2017012409a.jpg
+https://neolook.com/archives/2017012410a.jpg

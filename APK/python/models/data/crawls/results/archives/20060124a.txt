@@ -1,4 +1,6 @@
 /archives/20060124a
+
+******** description ********
 세가지 유혹
 
 열일곱개의 의자展
@@ -25,3 +27,9 @@ Tel. 02_3449_6071,
 최은덕_코마츠에리코,    
 여기 열일곱 명의 젊은 작가들이 유혹이란 마케팅 전략에 익숙해진 현대사회에 대해 이야기하고자 한다. 그들의 작품은 단순히 보는 이의 눈을 매료시키는 것을 넘어 '유혹' 그 자체에 대한 혹은 그러한 현상에 대한 다양한 시각을 풀어 보고자 한다. 이미 '유혹'이 만연한 시대를 살아가는 작가들의 눈을 통해 우리를 다시 한 번 되돌아볼 수 있는 기회를 갖고자 한다. ■ 열일곱개의 의자
 Vol.20060124a | 세가지 유혹展
+******** imgSrcs ********
+https://neolook.com/archives/2006012401a.jpg
+https://neolook.com/archives/2006012402a.jpg
+https://neolook.com/archives/2006012403a.jpg
+https://neolook.com/archives/2006012404a.jpg
+https://neolook.com/archives/2006012405a.jpg

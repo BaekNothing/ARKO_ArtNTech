@@ -1,4 +1,6 @@
 /archives/20110103a
+
+******** description ********
 갤러리룩스 2011 신진작가 지원전 공모 안내
 
 공모일정 / 2011_0103 ▶ 2011_0215,    ,    
@@ -44,3 +46,5 @@ www.gallerylux.net,
                      gallerylux@gmail.com
 
 Vol.20110103a | 갤러리룩스 2011 신진작가 지원전 공모 안내
+******** imgSrcs ********
+https://neolook.com/archives/2011010301a.jpg

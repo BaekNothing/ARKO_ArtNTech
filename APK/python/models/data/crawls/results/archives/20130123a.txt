@@ -1,4 +1,6 @@
 /archives/20130123a
+
+******** description ********
 한국 만화의 色
 
 Manhwa Story & Painting展
@@ -75,3 +77,19 @@ www.insaartcenter.com,
 ■ 이종한
 
 Vol.20130123a | 한국 만화의 色-Manhwa Story & Painting展
+******** imgSrcs ********
+https://neolook.com/archives/2013012301a.jpg
+https://neolook.com/archives/2013012302a.jpg
+https://neolook.com/archives/2013012303a.jpg
+https://neolook.com/archives/2013012304a.jpg
+https://neolook.com/archives/2013012305a.jpg
+https://neolook.com/archives/2013012306a.jpg
+https://neolook.com/archives/2013012307a.jpg
+https://neolook.com/archives/2013012308a.jpg
+https://neolook.com/archives/2013012309a.jpg
+https://neolook.com/archives/2013012310a.jpg
+https://neolook.com/archives/2013012311a.jpg
+https://neolook.com/archives/2013012312a.jpg
+https://neolook.com/archives/2013012313a.jpg
+https://neolook.com/archives/2013012314a.jpg
+https://neolook.com/archives/2013012315a.jpg

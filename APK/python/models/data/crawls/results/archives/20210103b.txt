@@ -1,4 +1,6 @@
 /archives/20210103b
+
+******** description ********
 2020 하반기 서정아트센터 작가공모 당선작가 초대전
 
 홍지영_김용원展
@@ -32,3 +34,10 @@ www.seojung-art.com,
 ■ 서정아트센터
 
 Vol.20210103b | 2020 하반기 서정아트센터 작가공모 당선작가 초대전-홍지영_김용원展
+******** imgSrcs ********
+https://neolook.com/archives/2021010301b.jpg
+https://neolook.com/archives/2021010302b.jpg
+https://neolook.com/archives/2021010303b.jpg
+https://neolook.com/archives/2021010304b.jpg
+https://neolook.com/archives/2021010305b.jpg
+https://neolook.com/archives/2021010306b.jpg

@@ -1,4 +1,6 @@
 /archives/20170111d
+
+******** description ********
 사물들: 조각적 시도 Things: Sculptural Practice
 
 두산 큐레이터 워크샵 기획展
@@ -43,3 +45,13 @@ www.doosangallery.com,
 ■ 두산갤러리 서울
 
 Vol.20170111d | 사물들: 조각적 시도-두산 큐레이터 워크샵 기획展
+******** imgSrcs ********
+https://neolook.com/archives/2017011101d.jpg
+https://neolook.com/archives/2017011102d.jpg
+https://neolook.com/archives/2017011103d.jpg
+https://neolook.com/archives/2017011104d.jpg
+https://neolook.com/archives/2017011105d.jpg
+https://neolook.com/archives/2017011106d.jpg
+https://neolook.com/archives/2017011107d.jpg
+https://neolook.com/archives/2017011108d.jpg
+https://neolook.com/archives/2017011109d.jpg

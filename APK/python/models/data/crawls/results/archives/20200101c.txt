@@ -1,4 +1,6 @@
 /archives/20200101c
+
+******** description ********
 홀로 욜로 기획자들
 
 월간미술 2020년 1월호
@@ -100,3 +102,9 @@ monthlyart.com,
 An Gyungsu_a loud fire_acrylic on canvas_270×360cm_2019_detail
 
 Vol.20200101c | 홀로 욜로 기획자들
+******** imgSrcs ********
+https://neolook.com/archives/2020010101c.jpg
+https://neolook.com/archives/2020010102c.jpg
+https://neolook.com/archives/2020010103c.jpg
+https://neolook.com/archives/2020010104c.jpg
+https://neolook.com/archives/2020010105c.jpg

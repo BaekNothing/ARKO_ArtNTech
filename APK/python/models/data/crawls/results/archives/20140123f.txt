@@ -1,4 +1,6 @@
 /archives/20140123f
+
+******** description ********
 In Your mind...집으로
 
 이경애展 / LEEKYOUNGAEI / 李慶愛 / painting
@@ -38,3 +40,11 @@ Going Home ●
 ■ 이경애
 
 Vol.20140123f | 이경애展 / LEEKYOUNGAEI / 李慶愛 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2014012301f.jpg
+https://neolook.com/archives/2014012302f.jpg
+https://neolook.com/archives/2014012303f.jpg
+https://neolook.com/archives/2014012304f.jpg
+https://neolook.com/archives/2014012305f.jpg
+https://neolook.com/archives/2014012306f.jpg
+https://neolook.com/archives/2014012307f.jpg

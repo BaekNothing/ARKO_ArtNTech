@@ -1,4 +1,6 @@
 /archives/20110119c
+
+******** description ********
 젊음이 있다면
 
 2011_0119 ▶ 2011_0213 / 2월 2~4일 휴관,    
@@ -52,3 +54,13 @@ blog.naver.com/lab201,
 ● 2010년 에딘버그 대학에서 미술침리치료를 전공으로 대학원을 졸업하였다. 인간심리와 연관된 설치작업을 전시한다.
 
 Vol.20110119c | 젊음이 있다면展
+******** imgSrcs ********
+https://neolook.com/archives/2011011901c.jpg
+https://neolook.com/archives/2011011902c.jpg
+https://neolook.com/archives/2011011903c.jpg
+https://neolook.com/archives/2011011904c.jpg
+https://neolook.com/archives/2011011905c.jpg
+https://neolook.com/archives/2011011906c.jpg
+https://neolook.com/archives/2011011907c.jpg
+https://neolook.com/archives/2011011908c.jpg
+https://neolook.com/archives/2011011909c.jpg

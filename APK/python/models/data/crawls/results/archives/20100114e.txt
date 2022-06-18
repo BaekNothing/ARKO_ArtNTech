@@ -1,4 +1,6 @@
 /archives/20100114e
+
+******** description ********
 탈-코드화 된 빛 Light for Cracking the Code
 
 최익진展 / CHOIEEKJIN / 崔益賑 / mixed media.installation
@@ -48,3 +50,11 @@ Tel. +82.2.736.9005 ,
 텍스트 장치에 입력된 내용은 역사적 인물들이 쓴 글을 중심으로 재구성하였다. 조선시대 사색당파 중 하나인 노론(老論)의 대표적인 인물들로 김상헌 송시열 이관명 김창집과 이들과는 시간적으로나 정치적으로 대척점에 서있는 비전향장기수인 김선명 신현칠 이 종 이종환 등이 쓴 것을 중심 텍스트로 구성하였다. 이를 모듈 하나로 구성된 RG LED채널사인장치에서 흘러나오게 하고 이것이 거울에 의해서 반사되어 거꾸로 뒤집힌 텍스트를 우리가  보게 되는 방식으로 설치하였다. 이러한 병치구성을 통해서 모든 면에서 대척점에 놓인 것으로 보이는 역사 속의 노론과 현대의 비전향장기수 간의 절대적으로 소통할 수 없는 입장을 극적으로 보여주고자 하였다. 동시에 자신들의 코드에 짜여져 소통하기 어려운 그들의 삶을 거울 속 뒤집혀 진 텍스트를 통해서 역설적으로 정주하지 않고 이동하는 공간 속에 배치함으로써 탈-코드화된 자유로운 소통에 이를 수 있도록 어쩌면 불가능할지 모르지만 결코 포기할 수 없는 우리의 고민 그 자체를 표현코자 하였다. ■ 최익진
 
 Vol.20100114e | 최익진展 / CHOIEEKJIN / 崔益賑 / mixed media.installation
+******** imgSrcs ********
+https://neolook.com/archives/2010011401e.jpg
+https://neolook.com/archives/2010011402e.jpg
+https://neolook.com/archives/2010011403e.jpg
+https://neolook.com/archives/2010011404e.jpg
+https://neolook.com/archives/2010011405e.jpg
+https://neolook.com/archives/2010011406e.jpg
+https://neolook.com/archives/2010011407e.jpg

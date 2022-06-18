@@ -1,4 +1,6 @@
 /archives/20110108f
+
+******** description ********
 최인호의 폼생폼사
 
 최인호展 / CHOIINHO / 崔仁豪 / printing
@@ -29,3 +31,9 @@ blog.naver.com/kjhgallery,
 ■ 최인호
 
 Vol.20110108f | 최인호展 / CHOIINHO / 崔仁豪 / printing
+******** imgSrcs ********
+https://neolook.com/archives/2011010801f.jpg
+https://neolook.com/archives/2011010802f.jpg
+https://neolook.com/archives/2011010803f.jpg
+https://neolook.com/archives/2011010804f.jpg
+https://neolook.com/archives/2011010805f.jpg

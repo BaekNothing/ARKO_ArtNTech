@@ -1,4 +1,6 @@
 /archives/20110106a
+
+******** description ********
 후인마이의 편지–다문화사회의 한국인을 위한 그림 소설
 
 2011_0106 ▶ 2011_0215 / 첫째주 월요일 휴관,    ,    
@@ -51,3 +53,14 @@ gallery.sangsangmadang.com,
 ■ 김지혜
 
 Vol.20110106a | 후인마이의 편지–다문화사회의 한국인을 위한 그림 소설展
+******** imgSrcs ********
+https://neolook.com/archives/2011010601a.jpg
+https://neolook.com/archives/2011010602a.jpg
+https://neolook.com/archives/2011010603a.jpg
+https://neolook.com/archives/2011010604a.jpg
+https://neolook.com/archives/2011010605a.jpg
+https://neolook.com/archives/2011010606a.jpg
+https://neolook.com/archives/2011010607a.jpg
+https://neolook.com/archives/2011010608a.jpg
+https://neolook.com/archives/2011010609a.jpg
+https://neolook.com/archives/2011010610a.jpg

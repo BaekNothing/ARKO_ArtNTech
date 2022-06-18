@@ -1,4 +1,6 @@
 /archives/20150109f
+
+******** description ********
 동화나라에서 온 편지
 
 소은명_이지영_이혜원_전슬기_최정인_홍선주展
@@ -33,3 +35,10 @@ AK갤러리는 이번 전시가 온 가족이 모두 함께 동화 속 이야기
 ■ AK 갤러리
 
 Vol.20150109f | 동화나라에서 온 편지展
+******** imgSrcs ********
+https://neolook.com/archives/2015010901f.jpg
+https://neolook.com/archives/2015010902f.jpg
+https://neolook.com/archives/2015010903f.jpg
+https://neolook.com/archives/2015010904f.jpg
+https://neolook.com/archives/2015010905f.jpg
+https://neolook.com/archives/2015010906f.jpg

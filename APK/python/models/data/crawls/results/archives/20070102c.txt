@@ -1,4 +1,6 @@
 /archives/20070102c
+
+******** description ********
 의재창작스튜디오 2차 입주작가 공모
 접수기간 / 2007_0101 ▶ 2007_0115,    1차 입주작가 천대광의 의재미술관 설치 장면,    
 의재창작스튜디오
@@ -67,3 +69,10 @@ www.uijaeartstudio.net,
 ※ 필요한 경우 전화인터뷰 심사나 이메일 인터뷰심사를 병행할 수 있음.
 
 Vol.20070102c | 의재창작스튜디오 2차 입주작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2007010201c.jpg
+https://neolook.com/archives/2007010202c.jpg
+https://neolook.com/archives/2007010203c.jpg
+https://neolook.com/archives/2007010204c.jpg
+https://neolook.com/archives/2007010205c.jpg
+https://neolook.com/archives/2007010206c.jpg

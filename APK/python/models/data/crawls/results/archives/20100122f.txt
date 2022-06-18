@@ -1,4 +1,6 @@
 /archives/20100122f
+
+******** description ********
 Today I ...
 
 구금란_한충석展
@@ -35,3 +37,11 @@ More than paradise ...불안한 현실을 마주하고 있는 나와 나와 같�
 ■ 문화매개공간 '쌈'
 
 Vol.20100122f | Today I ... 구금란_한충석展
+******** imgSrcs ********
+https://neolook.com/archives/2010012201f.jpg
+https://neolook.com/archives/2010012202f.jpg
+https://neolook.com/archives/2010012203f.jpg
+https://neolook.com/archives/2010012204f.jpg
+https://neolook.com/archives/2010012205f.jpg
+https://neolook.com/archives/2010012206f.jpg
+https://neolook.com/archives/2010012207f.jpg

@@ -1,4 +1,6 @@
 /archives/20210121g
+
+******** description ********
 44개의 요술봉과 색동 아우라
 44 Magic Sticks and Saek-dong Aura,    도로시 엠 윤展 / DOROTHY M. YOON / mixed media
  
@@ -70,24 +72,32 @@ s3.ap-northeast-2.amazonaws.com/ghostlx.digital-twin/AKRO_AT2020/DMY,
 ■ Dorothy M Yoon,    □ 도로시 엠 윤 작업 유튜브 영상 보러 가기
 ① 별자리 자수 AR
 Constellation Embroidery AR
-▶ https://www.youtube.com/watch?v=4WyPmA8HL1o&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=4WyPmA8HL1o&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&ab_channel=DorothyMYoon
 ② 44개 요술봉과 색동 아우라 AR
 44 magic sticks and Saekdong Aura AR
-▶ https://www.youtube.com/watch?v=7RFPp8uq-xo&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index;=3&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=7RFPp8uq-xo&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index=3&ab_channel=DorothyMYoon
 ③ 색동 아우라 모션 그래픽
 Saekdong Aura Motion graphic
-▶ https://www.youtube.com/watch?v=gTzBkVpy0dA&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index;=4&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=gTzBkVpy0dA&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index=4&ab_channel=DorothyMYoon
 ④ 44개 요술봉과 색동 아우라 전시 뷰와 시간의 요술봉과 마법의7일 비디오
 44 magic sticks and Saekdong Aura Exhibition View with Time magic stick and 7days Video
-▶ https://www.youtube.com/watch?v=v1_vCLK5QZI&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index;=5&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=v1_vCLK5QZI&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index=5&ab_channel=DorothyMYoon
 ⑤ 색동 아우라 AR과 Nreal 공연
 Saekdong Aura AR and Nreal performance
-▶ https://www.youtube.com/watch?v=JR5H4ThGcuU&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index;=6&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=JR5H4ThGcuU&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index=6&ab_channel=DorothyMYoon
 ⑥ Nreal글래스「 MOMENT」 프로젝트
 Nreal glass 「 MOMENT」 project
-▶ https://www.youtube.com/watch?v=gtlt5jesl9I&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index;=7&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=gtlt5jesl9I&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index=7&ab_channel=DorothyMYoon
 ⑦ 44개 색동 요술봉과 색동 아우라 프로젝트-도로시엠윤 개인전
 44 magic sticks and Saekdong Aura project –Dorothy M Yoon solo show
-▶ https://www.youtube.com/watch?v=3pNR2PEscAs&list;=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index;=8&ab;_channel=DorothyMYoon
+▶ https://www.youtube.com/watch?v=3pNR2PEscAs&list=PL7xRPAXxI6Qq9eIJraqQEEEMdk_6v121l&index=8&ab_channel=DorothyMYoon
 
 Vol.20210121g | 도로시 엠 윤展 / DOROTHY M. YOON / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2021012101g.jpg
+https://neolook.com/archives/2021012102g.jpg
+https://neolook.com/archives/2021012103g.jpg
+https://neolook.com/archives/2021012104g.jpg
+https://neolook.com/archives/2021012105g.jpg
+https://neolook.com/archives/2021012106g.jpg
+https://neolook.com/archives/2021012107g.jpg

@@ -1,4 +1,6 @@
 /archives/20140124c
+
+******** description ********
 가깝고도 먼 젊은 작가 2014
 
 유·스퀘어 문화관 금호갤러리 신년 기획展
@@ -69,3 +71,11 @@ www.usquareculture.co.kr,
 ■ 김영일
 
 Vol.20140124c | 가깝고도 먼 젊은 작가 2014展
+******** imgSrcs ********
+https://neolook.com/archives/2014012401c.jpg
+https://neolook.com/archives/2014012402c.jpg
+https://neolook.com/archives/2014012403c.jpg
+https://neolook.com/archives/2014012404c.jpg
+https://neolook.com/archives/2014012405c.jpg
+https://neolook.com/archives/2014012406c.jpg
+https://neolook.com/archives/2014012407c.jpg

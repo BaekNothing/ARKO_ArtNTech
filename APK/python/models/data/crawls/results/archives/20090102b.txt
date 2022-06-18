@@ -1,4 +1,6 @@
 /archives/20090102b
+
+******** description ********
 2009 Coffee With Sugar 작가공모
 
 International exchange screening project
@@ -21,3 +23,6 @@ www.preparat.org,
 ■ 문의_신윤선_umaserra@paran.com / Tel. 010.2641.5753
 
 Vol.20090102b | 2009 Coffee With Sugar 작가공모
+******** imgSrcs ********
+https://neolook.com/archives/2009010201b.jpg
+https://neolook.com/archives/2009010202b.jpg

@@ -1,4 +1,6 @@
 /archives/20140125a
+
+******** description ********
 당인리 아트 서비스
 
 Danginri ART Service展
@@ -68,3 +70,11 @@ www.artetc.org,
 장소 / 그문화 갤러리_서울 마포구 당인동 28-9 1층
 
 Vol.20140125a | 당인리 아트 서비스-Danginri ART Service展
+******** imgSrcs ********
+https://neolook.com/archives/2014012501a.jpg
+https://neolook.com/archives/2014012502a.jpg
+https://neolook.com/archives/2014012503a.jpg
+https://neolook.com/archives/2014012504a.jpg
+https://neolook.com/archives/2014012505a.jpg
+https://neolook.com/archives/2014012506a.jpg
+https://neolook.com/archives/2014012507a.jpg

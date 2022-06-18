@@ -1,4 +1,6 @@
 /archives/20190116a
+
+******** description ********
 FROM TRACE TO SEASCAPE
 
 허청展 / HUHCHUNG / 許淸 / painting
@@ -46,3 +48,14 @@ Chung's theme of work is to gather the passing of time and imprints. The process
 ■ FROM TRACE TO SEASCAPE
 
 Vol.20190116a | 허청展 / HUHCHUNG / 許淸 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019011601a.jpg
+https://neolook.com/archives/2019011602a.jpg
+https://neolook.com/archives/2019011603a.jpg
+https://neolook.com/archives/2019011604a.jpg
+https://neolook.com/archives/2019011605a.jpg
+https://neolook.com/archives/2019011606a.jpg
+https://neolook.com/archives/2019011607a.jpg
+https://neolook.com/archives/2019011608a.jpg
+https://neolook.com/archives/2019011609a.jpg
+https://neolook.com/archives/2019011610a.jpg

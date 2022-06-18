@@ -1,4 +1,6 @@
 /archives/20100114c
+
+******** description ********
 전경선展 / JUNKYUNGSUN / 全慶善 / sculpture
  
 2010_0113 ▶ 2010_0119,    
@@ -35,3 +37,9 @@ www.gallerygodo.com,
 ■ 김종길
 
 Vol.20100114c | 전경선展 / JUNKYUNGSUN / 全慶善 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2010011401c.jpg
+https://neolook.com/archives/2010011402c.jpg
+https://neolook.com/archives/2010011403c.jpg
+https://neolook.com/archives/2010011404c.jpg
+https://neolook.com/archives/2010011405c.jpg

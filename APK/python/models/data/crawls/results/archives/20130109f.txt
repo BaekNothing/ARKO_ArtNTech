@@ -1,4 +1,6 @@
 /archives/20130109f
+
+******** description ********
 Transformed "The Landscape"
 
 임희성展 / YIMHEESEONG / 林希星 / painting
@@ -42,3 +44,10 @@ Delicate and sensible touches can be found in his paintings. This invites unique
 ■ Jang Junseok
 
 Vol.20130109f | 임희성展 / YIMHEESEONG / 林希星 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013010901f.jpg
+https://neolook.com/archives/2013010902f.jpg
+https://neolook.com/archives/2013010903f.jpg
+https://neolook.com/archives/2013010904f.jpg
+https://neolook.com/archives/2013010905f.jpg
+https://neolook.com/archives/2013010906f.jpg

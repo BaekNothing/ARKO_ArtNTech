@@ -1,4 +1,6 @@
 /archives/20210109a
+
+******** description ********
 가장 완벽한 선 The perfect line
 
 장준호展 / JANGJUNHO / 張俊豪 / installation
@@ -42,3 +44,14 @@ www.youngeunmuseum.org,
 ■ 영은미술관
 
 Vol.20210109a | 장준호展 / JANGJUNHO / 張晙好 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2021010901a.jpg
+https://neolook.com/archives/2021010902a.jpg
+https://neolook.com/archives/2021010903a.jpg
+https://neolook.com/archives/2021010904a.jpg
+https://neolook.com/archives/2021010905a.jpg
+https://neolook.com/archives/2021010906a.jpg
+https://neolook.com/archives/2021010907a.jpg
+https://neolook.com/archives/2021010908a.jpg
+https://neolook.com/archives/2021010909a.jpg
+https://neolook.com/archives/2021010910a.jpg

@@ -1,4 +1,6 @@
 /archives/20120118a
+
+******** description ********
 '가가호호' 문화교감 '낮달' 문화소풍 '활생' 문화공명
 
 2011 경기문화바우처 기획사업 아카이브展
@@ -94,3 +96,12 @@ www.stonenwater.org,
    www.ggace.or.kr
 
 Vol.20120118a | 2011 경기문화바우처 기획사업 아카이브展
+******** imgSrcs ********
+https://neolook.com/archives/2012011801a.jpg
+https://neolook.com/archives/2012011802a.jpg
+https://neolook.com/archives/2012011803a.jpg
+https://neolook.com/archives/2012011804a.jpg
+https://neolook.com/archives/2012011805a.jpg
+https://neolook.com/archives/2012011806a.jpg
+https://neolook.com/archives/2012011807a.jpg
+https://neolook.com/archives/2012011808a.jpg

@@ -1,4 +1,6 @@
 /archives/20220104c
+
+******** description ********
 바디다운로드매뉴얼 http://body.download.manual
 
 김성연_이경주_장윤영_얄루展
@@ -81,3 +83,21 @@ www.onsu-gonggan.com,
 - 1월 7일 / 홍익대학교 종합강의동 UB101호
 
 Vol.20220104c | 展
+******** imgSrcs ********
+https://neolook.com/archives/2022010401c.jpg
+https://neolook.com/archives/2022010402c.jpg
+https://neolook.com/archives/2022010403c.jpg
+https://neolook.com/archives/2022010404c.jpg
+https://neolook.com/archives/2022010405c.jpg
+https://neolook.com/archives/2022010406c.jpg
+https://neolook.com/archives/2022010407c.jpg
+https://neolook.com/archives/2022010408c.jpg
+https://neolook.com/archives/2022010409c.jpg
+https://neolook.com/archives/2022010410c.jpg
+https://neolook.com/archives/2022010411c.jpg
+https://neolook.com/archives/2022010412c.jpg
+https://neolook.com/archives/2022010413c.jpg
+https://neolook.com/archives/2022010414c.jpg
+https://neolook.com/archives/2022010415c.jpg
+https://neolook.com/archives/2022010416c.jpg
+https://neolook.com/archives/2022010417c.jpg

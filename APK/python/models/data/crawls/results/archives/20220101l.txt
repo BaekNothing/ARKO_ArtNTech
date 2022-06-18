@@ -1,4 +1,6 @@
 /archives/20220101l
+
+******** description ********
 경계 없는 건축을 향하여: 민현준
 
 SPACE(공간) 2022년 1월호
@@ -58,3 +60,8 @@ RELAY INTERVIEW
 124   Reviewing the Inaugural Issue of SPACE_Hyon-Sob Kim
 
 Vol.20220101l | 경계 없는 건축을 향하여: 민현준
+******** imgSrcs ********
+https://neolook.com/archives/2022010101l.jpg
+https://neolook.com/archives/2022010102l.jpg
+https://neolook.com/archives/2022010103l.jpg
+https://neolook.com/archives/2022010104l.jpg

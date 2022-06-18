@@ -1,4 +1,6 @@
 /archives/20090122a
+
+******** description ********
 Dissolve: In-form/De-form/Per-form
  
 MICHELLE LEE展 / photography
@@ -27,3 +29,11 @@ MICHELLE LEE_The Daily Triumph of Objects_디지털 프린트_30×40inch,    "We
 MICHELLE LEE_Busan: Low_디지털 프린트_20×20inch,    사진들은 진행되는(on-going) 순간에서 추출된 유물이 아니라 계속 진행되는(on-going) 행위의 기록이며 카메라를 위해 제작된 현실인 것이다.연출된 행위들을 정지시켜 주관성 제조의 감추어진 심리적 과정을 표출 시켜보았다. 일상적 사물들이 장소와의 상호 작용 후 그 물체가 남긴 표시된 흔적들을 관찰한다.각각 개별적으로 만들어진 사진들이 합성되는 공간으로 전시공간을 번갈아 재현해본다.일 초에 24장의 정지된 이미지들이 프로젝터를 통해 움직이는 환상으로 보이듯 각각의 사진들이 정지된 화면들처럼 조각난 개개인의 이야기를 부서진 파편 같은 영상의 영역으로 전시공간에 투영해 보려는 의도이다.,    
 MICHELLE LEE_The Other Side of Eveningside Drive_디지털 프린트_30×40inch,    사진작가 뿐 아니라 주제와 관찰자 또한 의미의 제작자 이다. 각 에이전트는 이 과정에 참여하여 각자 자신들의 특이한 점으로 인하여 개별적이고 이견 적 의미를 만들어낸다. 각 참여자간 보는 행위에서 우리들이 살아가는 이야기들이 어떻게 만들어지는지의 의식된 시선을 유발시키는 것이 나의 의도이다. ■ MICHELLE LEE
 Vol.20090122a | MICHELLE LEE展 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2009012201a.jpg
+https://neolook.com/archives/2009012202a.jpg
+https://neolook.com/archives/2009012203a.jpg
+https://neolook.com/archives/2009012204a.jpg
+https://neolook.com/archives/2009012205a.jpg
+https://neolook.com/archives/2009012206a.jpg
+https://neolook.com/archives/2009012207a.jpg

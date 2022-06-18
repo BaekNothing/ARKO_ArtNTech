@@ -1,4 +1,6 @@
 /archives/20150130c
+
+******** description ********
 Pensivité-사진 생각에 잠김
 
 김영석_김해권_황규백_이영욱展
@@ -27,3 +29,9 @@ Tel. +82.31.957.0325,
 ■ 이영욱
 
 Vol.20150130c | Pensivité-사진 생각에 잠김展
+******** imgSrcs ********
+https://neolook.com/archives/2015013001c.jpg
+https://neolook.com/archives/2015013002c.jpg
+https://neolook.com/archives/2015013003c.jpg
+https://neolook.com/archives/2015013004c.jpg
+https://neolook.com/archives/2015013005c.jpg

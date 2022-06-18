@@ -1,4 +1,6 @@
 /archives/20100121e
+
+******** description ********
 Seoul – Helsinki | Monster Project
 
 이서준展 / LEESEOJOON / 李瑞埈 / sculpture.drawing
@@ -42,3 +44,11 @@ www.kngallery.org,
 ■ 최흥철
 
 Vol.20100121e | 이서준展 / LEESEOJOON / 李瑞埈 / sculpture.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2010012101e.jpg
+https://neolook.com/archives/2010012102e.jpg
+https://neolook.com/archives/2010012103e.jpg
+https://neolook.com/archives/2010012104e.jpg
+https://neolook.com/archives/2010012105e.jpg
+https://neolook.com/archives/2010012106e.jpg
+https://neolook.com/archives/2010012107e.jpg

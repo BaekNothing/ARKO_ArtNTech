@@ -1,4 +1,6 @@
 /archives/20130109i
+
+******** description ********
 Alike mAn
 
 명난희展 / MYUNGNANHEE / 明蘭姬 / printing.drawing
@@ -36,3 +38,9 @@ Tel. +82.2.865.2119,
 ■ 명난희
 
 Vol.20130109i | 명난희展 / MYUNGNANHEE / 明蘭姬 / printing.drawing
+******** imgSrcs ********
+https://neolook.com/archives/2013010901i.jpg
+https://neolook.com/archives/2013010902i.jpg
+https://neolook.com/archives/2013010903i.jpg
+https://neolook.com/archives/2013010904i.jpg
+https://neolook.com/archives/2013010905i.jpg

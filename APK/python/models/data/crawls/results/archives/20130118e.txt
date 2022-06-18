@@ -1,4 +1,6 @@
 /archives/20130118e
+
+******** description ********
 New & Now
 
 서울시립미술관 2012 신소장작품展
@@ -55,3 +57,19 @@ sema.seoul.go.kr,
 ■ 서울시립미술관
 
 Vol.20130118e | New & Now-서울시립미술관 2012 신소장작품展
+******** imgSrcs ********
+https://neolook.com/archives/2013011801e.jpg
+https://neolook.com/archives/2013011802e.jpg
+https://neolook.com/archives/2013011803e.jpg
+https://neolook.com/archives/2013011804e.jpg
+https://neolook.com/archives/2013011805e.jpg
+https://neolook.com/archives/2013011806e.jpg
+https://neolook.com/archives/2013011807e.jpg
+https://neolook.com/archives/2013011808e.jpg
+https://neolook.com/archives/2013011809e.jpg
+https://neolook.com/archives/2013011810e.jpg
+https://neolook.com/archives/2013011811e.jpg
+https://neolook.com/archives/2013011812e.jpg
+https://neolook.com/archives/2013011813e.jpg
+https://neolook.com/archives/2013011814e.jpg
+https://neolook.com/archives/2013011815e.jpg

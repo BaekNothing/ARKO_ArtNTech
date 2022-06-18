@@ -1,4 +1,6 @@
 /archives/20130122e
+
+******** description ********
 제한된 사용
 2013_0122 ▶ 2013_0216 / 월요일 휴관,    ,    초대일시 / 2013_0126_토요일_02:00pm
 
@@ -45,3 +47,11 @@ www.altpool.org,
 ■ 바이홍
 
 Vol.20130122e | 제한된 사용展
+******** imgSrcs ********
+https://neolook.com/archives/2013012201e.jpg
+https://neolook.com/archives/2013012202e.jpg
+https://neolook.com/archives/2013012203e.jpg
+https://neolook.com/archives/2013012204e.jpg
+https://neolook.com/archives/2013012205e.jpg
+https://neolook.com/archives/2013012206e.jpg
+https://neolook.com/archives/2013012207e.jpg

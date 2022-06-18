@@ -1,4 +1,6 @@
 /archives/20140116a
+
+******** description ********
 Uncanny
 
 김하나展 / KIMHANA / 金하나 / sculpture
@@ -30,3 +32,11 @@ Greed : Extinction series 탐욕 : 멸종 시리즈 ● 김하나는 현대사�
 ■ 김하나
 
 Vol.20140116a | 김하나展 / KIMHANA / 金하나 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2014011601a.jpg
+https://neolook.com/archives/2014011602a.jpg
+https://neolook.com/archives/2014011603a.jpg
+https://neolook.com/archives/2014011604a.jpg
+https://neolook.com/archives/2014011605a.jpg
+https://neolook.com/archives/2014011606a.jpg
+https://neolook.com/archives/2014011607a.jpg

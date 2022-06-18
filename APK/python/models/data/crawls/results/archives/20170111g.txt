@@ -1,4 +1,6 @@
 /archives/20170111g
+
+******** description ********
 고요함이 필요한 시간
 
 허은오展 / HUREUNOH / 許銀午 / painting
@@ -31,3 +33,9 @@ www.ganaartspace.com,
 ■ 박영택
 
 Vol.20170111g | 허은오展 / HUREUNOH / 許銀午 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011101g.jpg
+https://neolook.com/archives/2017011102g.jpg
+https://neolook.com/archives/2017011103g.jpg
+https://neolook.com/archives/2017011104g.jpg
+https://neolook.com/archives/2017011105g.jpg

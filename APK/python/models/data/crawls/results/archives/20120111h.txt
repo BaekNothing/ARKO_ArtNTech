@@ -1,4 +1,6 @@
 /archives/20120111h
+
+******** description ********
 수작 3th-In the middle of crossroad
 
 2012_0111 ▶ 2012_0131,    
@@ -19,3 +21,10 @@ Tel. +82.2.337.3121,
 ■ 
 
 Vol.20120111h | 수작 3th-In the middle of crossroad展
+******** imgSrcs ********
+https://neolook.com/archives/2012011101h.jpg
+https://neolook.com/archives/2012011102h.jpg
+https://neolook.com/archives/2012011103h.jpg
+https://neolook.com/archives/2012011104h.jpg
+https://neolook.com/archives/2012011105h.jpg
+https://neolook.com/archives/2012011106h.jpg

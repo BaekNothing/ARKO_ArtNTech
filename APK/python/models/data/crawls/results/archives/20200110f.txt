@@ -1,4 +1,6 @@
 /archives/20200110f
+
+******** description ********
 현재는 과거의 미래 Time Does Not Pass It Continues
 
 배서영_원동민 2인展
@@ -35,3 +37,14 @@ Tel. +82.(0)2.498.7474,
 
 * 사진: 홍철기
 Vol.20200110f | 현재는 과거의 미래-배서영_원동민 2인展
+******** imgSrcs ********
+https://neolook.com/archives/2020011001f.jpg
+https://neolook.com/archives/2020011002f.jpg
+https://neolook.com/archives/2020011003f.jpg
+https://neolook.com/archives/2020011004f.jpg
+https://neolook.com/archives/2020011005f.jpg
+https://neolook.com/archives/2020011006f.jpg
+https://neolook.com/archives/2020011007f.jpg
+https://neolook.com/archives/2020011008f.jpg
+https://neolook.com/archives/2020011009f.jpg
+https://neolook.com/archives/2020011010f.jpg

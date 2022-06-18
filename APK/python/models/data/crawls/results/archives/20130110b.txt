@@ -1,4 +1,6 @@
 /archives/20130110b
+
+******** description ********
 Builds Lego Housing Units on the Streets
 
 문재원展 / MOONJAYE / 文載媛 / installation
@@ -39,3 +41,11 @@ www.cjartstudio.com,
 ■ 
 
 Vol.20130110b | 문재원展 / MOONJAYE / 文載媛 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2013011001b.jpg
+https://neolook.com/archives/2013011002b.jpg
+https://neolook.com/archives/2013011004b.jpg
+https://neolook.com/archives/2013011007b.jpg
+https://neolook.com/archives/2013011003b.jpg
+https://neolook.com/archives/2013011005b.jpg
+https://neolook.com/archives/2013011006b.jpg

@@ -1,4 +1,6 @@
 /archives/20220119b
+
+******** description ********
 고요_존재는 고요하다
 
 한정식展 / HANCHUNGSHIK / 韓靜湜 / photography
@@ -56,3 +58,11 @@ KP Gallery에서 2022년 1월 19일부터 3월 3일까지 '고요_존재는 고�
 ■ 박인식
 
 Vol.20220119b | 한정식展 / HANCHUNGSHIK / 韓靜湜 / photography
+******** imgSrcs ********
+https://neolook.com/archives/2022011901b.jpg
+https://neolook.com/archives/2022011902b.jpg
+https://neolook.com/archives/2022011903b.jpg
+https://neolook.com/archives/2022011904b.jpg
+https://neolook.com/archives/2022011905b.jpg
+https://neolook.com/archives/2022011906b.jpg
+https://neolook.com/archives/2022011907b.jpg

@@ -1,4 +1,6 @@
 /archives/20130125c
+
+******** description ********
 상황 /희미하게 지탱하기 Situation /leaning against
 
 노은주展 / RHOEUNJOO / 盧恩珠 / painting
@@ -29,3 +31,9 @@ www.willingndealing.com,
 ■ 노은주
 
 Vol.20130125c | 노은주展 / RHOEUNJOO / 盧恩珠 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013012501c.jpg
+https://neolook.com/archives/2013012502c.jpg
+https://neolook.com/archives/2013012503c.jpg
+https://neolook.com/archives/2013012504c.jpg
+https://neolook.com/archives/2013012505c.jpg

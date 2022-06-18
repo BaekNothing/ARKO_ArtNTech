@@ -1,4 +1,6 @@
 /archives/20150106f
+
+******** description ********
 2015 쇠부리 Steel Art 공모
 접수기간 / 2015_0106 ▶ 2015_0223,    ,    접수마감 / 2015_0223_월요일_06:00pm,    쇠부리축제 추진위원회
 ULSAN SOEBURI FESTIVA L COMMITTEE
@@ -45,3 +47,5 @@ soeburi.org,
 - 울산북구예술창작소(주관) : TEL. 052.289.7540(월요일 휴무) / 010-3758-4116
 
 Vol.20150106f | 2015 쇠부리 Steel Art 공모
+******** imgSrcs ********
+https://neolook.com/archives/2015010601f.jpg

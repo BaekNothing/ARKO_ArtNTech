@@ -1,4 +1,6 @@
 /archives/20150129a
+
+******** description ********
 도시의 똥과 몸
 
 서재웅展 / SEOJAEWOONG / 徐在雄 / painting
@@ -29,3 +31,10 @@ www.artspaceo.com,
 ■ 서재웅
 
 Vol.20150129a | 서재웅展 / SEOJAEWOONG / 徐在雄 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2015012901a.jpg
+https://neolook.com/archives/2015012902a.jpg
+https://neolook.com/archives/2015012903a.jpg
+https://neolook.com/archives/2015012904a.jpg
+https://neolook.com/archives/2015012905a.jpg
+https://neolook.com/archives/2015012906a.jpg

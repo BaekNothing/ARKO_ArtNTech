@@ -1,4 +1,6 @@
 /archives/20210120a
+
+******** description ********
 Double Trouble.(골치 아픈 일)-Drawing Show
 
 엄덕용展 / UMDEOKYONG / 嚴德鎔 / painting
@@ -32,3 +34,11 @@ www.sfac.or.kr,
 ● 이제 예술적 시각을 돌이켜 또다시 새로움으로 모색하고 있는 이번 전시는 그간의 예술여정의 길었던 한 획으로 정리하며 또 다른 변화. 진화의 장(場)이 될 것이다. ■ 김식
 
 Vol.20210120a | 엄덕용展 / UMDEOKYONG / 嚴德鎔 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2021012001a.jpg
+https://neolook.com/archives/2021012002a.jpg
+https://neolook.com/archives/2021012003a.jpg
+https://neolook.com/archives/2021012004a.jpg
+https://neolook.com/archives/2021012005a.jpg
+https://neolook.com/archives/2021012006a.jpg
+https://neolook.com/archives/2021012007a.jpg

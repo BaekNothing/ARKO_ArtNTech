@@ -1,4 +1,6 @@
 /archives/20050127b
+
+******** description ********
 2005 세오갤러리 작가 공모
 
 세오갤러리 기획 작가지원 프로그램
@@ -43,3 +45,5 @@ www.seogallery.com,
 문의_ 김선아_Tel. 02_522_5618~9 / Fax. 02_523_6606 / 이메일 smilesuna@hanmail.net
 
 Vol.20050127b | 2005 세오갤러리 작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2005012701b.jpg

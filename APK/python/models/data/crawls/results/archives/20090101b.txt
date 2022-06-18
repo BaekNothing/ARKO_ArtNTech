@@ -1,4 +1,6 @@
 /archives/20090101b
+
+******** description ********
 Art Now Where We are
 
 아트인컬처 2009년 1월호
@@ -49,3 +51,9 @@ www.artinculture.kr,
 에디터스 블로그
 
 Vol.20090101b | 아트인컬처 2009년 1월호 / Art Now Where We are
+******** imgSrcs ********
+https://neolook.com/archives/2009010101b.jpg
+https://neolook.com/archives/2009010102b.jpg
+https://neolook.com/archives/2009010103b.jpg
+https://neolook.com/archives/2009010104b.jpg
+https://neolook.com/archives/2009010105b.jpg

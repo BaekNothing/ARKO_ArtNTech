@@ -1,4 +1,6 @@
 /archives/20140117e
+
+******** description ********
 경계와 탈경계
 
 Borders and Border Crossings展
@@ -39,3 +41,11 @@ www.poma.kr,
 ■ 박소영
 
 Vol.20140117e | 경계와 탈경계 Borders and Border Crossings展
+******** imgSrcs ********
+https://neolook.com/archives/2014011701e.jpg
+https://neolook.com/archives/2014011702e.jpg
+https://neolook.com/archives/2014011703e.jpg
+https://neolook.com/archives/2014011704e.jpg
+https://neolook.com/archives/2014011705e.jpg
+https://neolook.com/archives/2014011706e.jpg
+https://neolook.com/archives/2014011707e.jpg

@@ -1,4 +1,6 @@
 /archives/20160120a
+
+******** description ********
 HEART
 
 오혜선展 / OHHYESEON / 吳蕙先 / sculpture.installation
@@ -39,3 +41,11 @@ www.artspaceknot.com,
 ■ 오혜선
 
 Vol.20160120a | 오혜선展 / OHHYESEON / 吳蕙先 / sculpture.installation
+******** imgSrcs ********
+https://neolook.com/archives/2016012001a.jpg
+https://neolook.com/archives/2016012002a.jpg
+https://neolook.com/archives/2016012003a.jpg
+https://neolook.com/archives/2016012004a.jpg
+https://neolook.com/archives/2016012005a.jpg
+https://neolook.com/archives/2016012006a.jpg
+https://neolook.com/archives/2016012007a.jpg

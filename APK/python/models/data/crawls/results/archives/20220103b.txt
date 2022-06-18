@@ -1,4 +1,6 @@
 /archives/20220103b
+
+******** description ********
 흩어진 연결_두번째(scattered connection)
 
 모유진展 / MOYUJIN / 牟庾珍 / painting
@@ -47,3 +49,16 @@ www.changwon.ac.kr/arts/main.do,
 ■ 이나연
 
 Vol.20220103b | 모유진展 / MOYUJIN / 牟庾珍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2022010301b.jpg
+https://neolook.com/archives/2022010302b.jpg
+https://neolook.com/archives/2022010303b.jpg
+https://neolook.com/archives/2022010304b.jpg
+https://neolook.com/archives/2022010305b.jpg
+https://neolook.com/archives/2022010306b.jpg
+https://neolook.com/archives/2022010307b.jpg
+https://neolook.com/archives/2022010308b.jpg
+https://neolook.com/archives/2022010309b.jpg
+https://neolook.com/archives/2022010310b.jpg
+https://neolook.com/archives/2022010311b.jpg
+https://neolook.com/archives/2022010312b.jpg

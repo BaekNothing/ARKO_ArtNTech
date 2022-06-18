@@ -1,4 +1,6 @@
 /archives/20220101c
+
+******** description ********
 재난시대 가로지르기 I: 인문학
 
 월간미술 2022년 1월호
@@ -96,4 +98,13 @@ ART FORUM   170
 ART JOURNAL   174 
 ART BOOK   178
 READERS GIFT   180
-130.3×130.3cm 2021
+130.3×130.3cm 2021,    COVER
+Choi Sujin 〈Color Pumpkin Vines〉(detail) oil on canvas 130.3×130.3cm 2021
+
+Vol.20220101c | 재난시대 가로지르기 I: 인문학
+******** imgSrcs ********
+https://neolook.com/archives/2022010101c.jpg
+https://neolook.com/archives/2022010102c.jpg
+https://neolook.com/archives/2022010103c.jpg
+https://neolook.com/archives/2022010104c.jpg
+https://neolook.com/archives/2022010105c.jpg

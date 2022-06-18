@@ -1,4 +1,6 @@
 /archives/20170110b
+
+******** description ********
 행복을 위한 제안 Proposal for Happiness
 
 김희조展 / KIMHEEJO / 金喜照 / painting
@@ -65,3 +67,10 @@ It is not easy building a happy family. It is even harder to look after children
 ■ Kim Hee Jo
 
 Vol.20170110b | 김희조展 / KIMHEEJO / 金喜照 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011001b.jpg
+https://neolook.com/archives/2017011002b.jpg
+https://neolook.com/archives/2017011003b.jpg
+https://neolook.com/archives/2017011004b.jpg
+https://neolook.com/archives/2017011005b.jpg
+https://neolook.com/archives/2017011006b.jpg

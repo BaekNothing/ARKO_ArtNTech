@@ -1,4 +1,6 @@
 /archives/20090130g
+
+******** description ********
 MAESTRO MOON SHIN 1
 
 작가는 오직 작품으로만 평가 받는다
@@ -29,3 +31,9 @@ blog.naver.com/studiomiin,
 
 작가 연보
 Vol.20090130g | MAESTRO MOON SHIN 1 / 지은이_문신 / 디자인&출판 스튜디오 미인
+******** imgSrcs ********
+https://neolook.com/archives/2009013001g.jpg
+https://neolook.com/archives/2009013002g.jpg
+https://neolook.com/archives/2009013003g.jpg
+https://neolook.com/archives/2009013004g.jpg
+https://neolook.com/archives/2009013005g.jpg

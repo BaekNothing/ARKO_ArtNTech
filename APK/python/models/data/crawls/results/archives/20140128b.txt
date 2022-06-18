@@ -1,4 +1,6 @@
 /archives/20140128b
+
+******** description ********
 Daddy & Biddy
 
 지지수展 / GIGISUE / 知智秀 / contemporary art
@@ -29,3 +31,8 @@ www.can-foundation.org,
 ■ 지지수
 
 Vol.20140128b | 지지수展 / GIGISUE / 知智秀 / contemporary art
+******** imgSrcs ********
+https://neolook.com/archives/2014012801b.jpg
+https://neolook.com/archives/2014012802b.jpg
+https://neolook.com/archives/2014012803b.jpg
+https://neolook.com/archives/2014012804b.jpg

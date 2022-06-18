@@ -1,4 +1,6 @@
 /archives/20090120b
+
+******** description ********
 SOAF2009 EMERGING ARTIST CONTEST
  
 제4회 서울오픈아트페어(SOAF) 참여작가 모집
@@ -43,3 +45,5 @@ www.webhard.co.kr ID:seoulopenartfair / PW: 5453314,    ■ 접수방법_이메�
 제출된 자료는 일체 반환하지 않습니다. 기타 자세한 사항은 SOAF 사무국으로 문의 바랍니다.
 
 Vol.20090120b | 제4회 서울오픈아트페어(SOAF) 참여작가 모집
+******** imgSrcs ********
+https://neolook.com/archives/2009012001b.jpg

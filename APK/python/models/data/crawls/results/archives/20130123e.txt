@@ -1,4 +1,6 @@
 /archives/20130123e
+
+******** description ********
 a state 어떤 상태
 
 권아람展 / KWONAHRAM / 權訝嵐 / video
@@ -37,3 +39,10 @@ I am interested in constructing uncertain and unusual sensory spaces through the
 ■ Ahram Kwon
 
 Vol.20130123e | 권아람展 / KWONAHRAM / 權訝嵐 / video
+******** imgSrcs ********
+https://neolook.com/archives/2013012301e.jpg
+https://neolook.com/archives/2013012302e.jpg
+https://neolook.com/archives/2013012303e.jpg
+https://neolook.com/archives/2013012304e.jpg
+https://neolook.com/archives/2013012305e.jpg
+https://neolook.com/archives/2013012306e.jpg

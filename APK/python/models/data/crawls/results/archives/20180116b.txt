@@ -1,4 +1,6 @@
 /archives/20180116b
+
+******** description ********
 숨쉬다 Breathe
 
 윤여름展 / YOUNYEOREUM / 尹여름 / painting
@@ -38,3 +40,13 @@ www.cyartgallery.com,
 ■ 이승훈
 
 Vol.20180116b | 윤여름展 / YOUNYEOREUM / 尹여름 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2018011601b.jpg
+https://neolook.com/archives/2018011602b.jpg
+https://neolook.com/archives/2018011603b.jpg
+https://neolook.com/archives/2018011604b.jpg
+https://neolook.com/archives/2018011605b.jpg
+https://neolook.com/archives/2018011606b.jpg
+https://neolook.com/archives/2018011607b.jpg
+https://neolook.com/archives/2018011608b.jpg
+https://neolook.com/archives/2018011609b.jpg

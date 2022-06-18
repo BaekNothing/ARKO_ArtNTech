@@ -1,4 +1,6 @@
 /archives/20160127g
+
+******** description ********
 FLATRUM
 
 김범중展 / KIMBEOMJOONG / 金凡中 / drawing
@@ -29,3 +31,7 @@ www.zahamuseum.org,
 ■ 이선영
 
 Vol.20160127g | 김범중展 / KIMBEOMJOONG / 金凡中 / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2016012701g.jpg
+https://neolook.com/archives/2016012702g.jpg
+https://neolook.com/archives/2016012703g.jpg

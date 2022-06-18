@@ -1,4 +1,6 @@
 /archives/20150113a
+
+******** description ********
 서울옥션 아카데미 Artist Talk-작가와의 대화
 행사기간 / 2015_0113 ▶ 2015_0224,    ,    행사기간 / 2015_0113 ▶ 2015_0224
 
@@ -34,3 +36,6 @@ www.seoulauction.com,
 
 * 참가신청은 선착순 마감입니다.
 Vol.20150113a | 서울옥션 아카데미 Artist Talk-작가와의 대화
+******** imgSrcs ********
+https://neolook.com/archives/2015011301a.jpg
+https://neolook.com/archives/2015011302a.jpg

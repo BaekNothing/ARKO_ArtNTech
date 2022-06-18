@@ -1,4 +1,6 @@
 /archives/20130116g
+
+******** description ********
 Ace of sorrow
 
 김병택展 / KIMBYOUNGTAEK / 金秉澤 / painting
@@ -35,3 +37,11 @@ artmuse.gwangju.go.kr,
 ■ 고영재
 
 Vol.20130116g | 김병택展 / KIMBYOUNGTAEK / 金秉澤 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2013011601g.jpg
+https://neolook.com/archives/2013011602g.jpg
+https://neolook.com/archives/2013011603g.jpg
+https://neolook.com/archives/2013011604g.jpg
+https://neolook.com/archives/2013011605g.jpg
+https://neolook.com/archives/2013011606g.jpg
+https://neolook.com/archives/2013011607g.jpg

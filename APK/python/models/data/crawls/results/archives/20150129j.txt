@@ -1,4 +1,6 @@
 /archives/20150129j
+
+******** description ********
 내 말이 들리나요? Can you hear me?
 
 유영주展 / YOOYOUNGJOO / 劉鈴珠 / installation
@@ -34,3 +36,11 @@ culturespaceyang.com,
 ■ 김지혜
 
 Vol.20150129j | 유영주展 / YOOYOUNGJOO / 劉鈴珠 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2015012901j.jpg
+https://neolook.com/archives/2015012902j.jpg
+https://neolook.com/archives/2015012903j.jpg
+https://neolook.com/archives/2015012904j.jpg
+https://neolook.com/archives/2015012905j.jpg
+https://neolook.com/archives/2015012906j.jpg
+https://neolook.com/archives/2015012907j.jpg

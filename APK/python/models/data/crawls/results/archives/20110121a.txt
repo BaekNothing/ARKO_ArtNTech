@@ -1,4 +1,6 @@
 /archives/20110121a
+
+******** description ********
 두 개의 섬
 
 오숙진_이수경展
@@ -54,3 +56,11 @@ Part Ⅱ 그 섬 ●
 ■ 이수경
 
 Vol.20110121a | 두 개의 섬-오숙진_이수경展
+******** imgSrcs ********
+https://neolook.com/archives/2011012101a.jpg
+https://neolook.com/archives/2011012102a.jpg
+https://neolook.com/archives/2011012103a.jpg
+https://neolook.com/archives/2011012104a.jpg
+https://neolook.com/archives/2011012105a.jpg
+https://neolook.com/archives/2011012106a.jpg
+https://neolook.com/archives/2011012107a.jpg

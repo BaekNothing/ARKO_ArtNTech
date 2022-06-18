@@ -1,4 +1,6 @@
 /archives/20170114b
+
+******** description ********
 벽 속의 책
 
 권상록_박소희_장인준_채한빛展
@@ -48,3 +50,15 @@ UNION
 ■ 채한빛
 
 Vol.20170114b | 벽 속의 책展
+******** imgSrcs ********
+https://neolook.com/archives/2017011401b.jpg
+https://neolook.com/archives/2017011402b.jpg
+https://neolook.com/archives/2017011403b.jpg
+https://neolook.com/archives/2017011404b.jpg
+https://neolook.com/archives/2017011405b.jpg
+https://neolook.com/archives/2017011406b.jpg
+https://neolook.com/archives/2017011407b.jpg
+https://neolook.com/archives/2017011408b.jpg
+https://neolook.com/archives/2017011409b.jpg
+https://neolook.com/archives/2017011410b.jpg
+https://neolook.com/archives/2017011411b.jpg

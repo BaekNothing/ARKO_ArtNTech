@@ -1,4 +1,6 @@
 /archives/20100101h
+
+******** description ********
 「사람들」주제와 합일하는 산정의 숭고한 예술–서세옥
  
 서울아트코리아 2010년 1월호
@@ -67,3 +69,9 @@ ZOOM IN_천지창조_김현중,
 226    전시마당
 
 Vol.20100101h | 서울아트코리아 2010년 1월호 / 「사람들」주제와 합일하는 산정의 숭고한 예술–서세옥
+******** imgSrcs ********
+https://neolook.com/archives/2010010101h.jpg
+https://neolook.com/archives/2010010102h.jpg
+https://neolook.com/archives/2010010103h.jpg
+https://neolook.com/archives/2010010104h.jpg
+https://neolook.com/archives/2010010105h.jpg

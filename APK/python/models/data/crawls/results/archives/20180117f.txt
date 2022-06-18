@@ -1,4 +1,6 @@
 /archives/20180117f
+
+******** description ********
 동상이몽 同床異夢
 
 2018 우민보고展
@@ -65,3 +67,14 @@ www.wuminartcenter.org,
 ■ 우민아트센터
 
 Vol.20180117f | 동상이몽 同床異夢展
+******** imgSrcs ********
+https://neolook.com/archives/2018011701f.jpg
+https://neolook.com/archives/2018011702f.jpg
+https://neolook.com/archives/2018011703f.jpg
+https://neolook.com/archives/2018011704f.jpg
+https://neolook.com/archives/2018011705f.jpg
+https://neolook.com/archives/2018011706f.jpg
+https://neolook.com/archives/2018011707f.jpg
+https://neolook.com/archives/2018011708f.jpg
+https://neolook.com/archives/2018011709f.jpg
+https://neolook.com/archives/2018011710f.jpg

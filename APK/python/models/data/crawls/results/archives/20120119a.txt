@@ -1,4 +1,6 @@
 /archives/20120119a
+
+******** description ********
 ﻿
 내려놓기
 
@@ -25,3 +27,11 @@ www.ujungartcenter.com,
 ■ 강안나
 
 Vol.20120119a | 이윤진展 / LEEYUNJIN / 李允珍 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2012011901a.jpg
+https://neolook.com/archives/2012011902a.jpg
+https://neolook.com/archives/2012011903a.jpg
+https://neolook.com/archives/2012011904a.jpg
+https://neolook.com/archives/2012011905a.jpg
+https://neolook.com/archives/2012011906a.jpg
+https://neolook.com/archives/2012011907a.jpg

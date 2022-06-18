@@ -1,4 +1,6 @@
 /archives/20170129a
+
+******** description ********
 2017 오픈스페이스 배 아티스트 인큐베이팅 프로그램 참여 작가 공모
 
 2017 Artist Incubating Program
@@ -52,3 +54,5 @@ www.spacebae.com,
   www.spacebae.com - 해당 페이지로 이동합니다.
 
 Vol.20170129a | 2017 오픈스페이스 배 아티스트 인큐베이팅 프로그램 참여작가 공모
+******** imgSrcs ********
+https://neolook.com/archives/2017012901a.jpg

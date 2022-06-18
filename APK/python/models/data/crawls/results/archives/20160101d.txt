@@ -1,4 +1,6 @@
 /archives/20160101d
+
+******** description ********
 단색화 새로운 비평의 시작 
 
 미술세계 2016년 1월호
@@ -70,3 +72,13 @@ ART SPACE_우수영 문화마을,
 176   POSTSCRIPT
 
 Vol.20160101d | 단색화 새로운 비평의 시작
+******** imgSrcs ********
+https://neolook.com/archives/2016010101d.jpg
+https://neolook.com/archives/2016010102d.jpg
+https://neolook.com/archives/2016010103d.jpg
+https://neolook.com/archives/2016010104d.jpg
+https://neolook.com/archives/2016010105d.jpg
+https://neolook.com/archives/2016010106d.jpg
+https://neolook.com/archives/2016010107d.jpg
+https://neolook.com/archives/2016010108d.jpg
+https://neolook.com/archives/2016010109d.jpg

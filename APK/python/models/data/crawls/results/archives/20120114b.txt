@@ -1,4 +1,6 @@
 /archives/20120114b
+
+******** description ********
 3 + 1 = 展
 
 2012_0114 ▶ 2012_0205 / 월요일 휴관,    ,    
@@ -50,3 +52,13 @@ www.drparkart.com,
 ■ 이수항
 
 Vol.20120114b | 3 + 1 = 展
+******** imgSrcs ********
+https://neolook.com/archives/2012011401b.jpg
+https://neolook.com/archives/2012011402b.jpg
+https://neolook.com/archives/2012011403b.jpg
+https://neolook.com/archives/2012011404b.jpg
+https://neolook.com/archives/2012011405b.jpg
+https://neolook.com/archives/2012011406b.jpg
+https://neolook.com/archives/2012011407b.jpg
+https://neolook.com/archives/2012011408b.jpg
+https://neolook.com/archives/2012011409b.jpg

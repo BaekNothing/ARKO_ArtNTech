@@ -1,4 +1,6 @@
 /archives/20140123b
+
+******** description ********
 origin
 
 지용호展 / JIYONGHO / 池龍虎 / sculpture
@@ -37,3 +39,11 @@ www.ganaart.com,
 ■ 지용호
 
 Vol.20140123b | 지용호展 / JIYONGHO / 池龍虎 / sculpture
+******** imgSrcs ********
+https://neolook.com/archives/2014012301b.jpg
+https://neolook.com/archives/2014012302b.jpg
+https://neolook.com/archives/2014012303b.jpg
+https://neolook.com/archives/2014012304b.jpg
+https://neolook.com/archives/2014012305b.jpg
+https://neolook.com/archives/2014012306b.jpg
+https://neolook.com/archives/2014012307b.jpg

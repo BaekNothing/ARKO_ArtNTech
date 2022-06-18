@@ -1,4 +1,6 @@
 /archives/20110108g
+
+******** description ********
 공공미술 어디까지 왔나?_부산의 공공미술
 
 문전성시프로젝트 부산부전시장 좌담회 2부
@@ -21,3 +23,5 @@ www.ngocenter.or.kr,
 Tel. +82.51.805.2552   |  cafe.naver.com/camelplay
 
 Vol.20110108g | 공공미술 어디까지 왔나?_부산의 공공미술-좌담회
+******** imgSrcs ********
+https://neolook.com/archives/2011010801g.jpg

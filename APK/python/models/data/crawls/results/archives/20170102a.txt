@@ -1,4 +1,6 @@
 /archives/20170102a
+
+******** description ********
 기억된 초록
 
 이재연展 / LEEZAEYEON / 李在涓 / painting
@@ -54,3 +56,14 @@ www.elandspace.co.kr,
 ■ 이재연
 
 Vol.20170102a | 이재연展 / LEEZAEYEON / 李在涓 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017010201a.jpg
+https://neolook.com/archives/2017010202a.jpg
+https://neolook.com/archives/2017010203a.jpg
+https://neolook.com/archives/2017010204a.jpg
+https://neolook.com/archives/2017010205a.jpg
+https://neolook.com/archives/2017010206a.jpg
+https://neolook.com/archives/2017010207a.jpg
+https://neolook.com/archives/2017010208a.jpg
+https://neolook.com/archives/2017010209a.jpg
+https://neolook.com/archives/2017010210a.jpg

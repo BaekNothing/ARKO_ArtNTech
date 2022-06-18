@@ -1,4 +1,6 @@
 /archives/20170111f
+
+******** description ********
 수목  樹木 산책
 
 정다은展 / JUNGDAEUN / 鄭茶恩 / painting
@@ -34,3 +36,12 @@ www.ganaartspace.com,
 ■ 박영택
 
 Vol.20170111f | 정다은展 / JUNGDAEUN / 鄭茶恩 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2017011101f.jpg
+https://neolook.com/archives/2017011102f.jpg
+https://neolook.com/archives/2017011103f.jpg
+https://neolook.com/archives/2017011104f.jpg
+https://neolook.com/archives/2017011105f.jpg
+https://neolook.com/archives/2017011106f.jpg
+https://neolook.com/archives/2017011107f.jpg
+https://neolook.com/archives/2017011108f.jpg

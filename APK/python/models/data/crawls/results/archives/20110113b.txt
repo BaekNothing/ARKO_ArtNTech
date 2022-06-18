@@ -1,4 +1,6 @@
 /archives/20110113b
+
+******** description ********
 두 번째 심장_트윗온 에어 생방송 퍼포먼스 프로젝트 
 
 장선아展 / JANGSUNA / 張善雅 / installation
@@ -84,3 +86,11 @@ twitonair.com/jangsuna,
 ■ TWITONAIR_장선아
 
 Vol.20110113b | 장선아展 / JANGSUNA / 張善雅 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2011011301b.jpg
+https://neolook.com/archives/2011011302b.jpg
+https://neolook.com/archives/2011011303b.jpg
+https://neolook.com/archives/2011011304b.jpg
+https://neolook.com/archives/2011011305b.jpg
+https://neolook.com/archives/2011011306b.jpg
+https://neolook.com/archives/2011011307b.jpg

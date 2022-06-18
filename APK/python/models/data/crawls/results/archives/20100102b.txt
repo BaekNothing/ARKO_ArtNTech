@@ -1,4 +1,6 @@
 /archives/20100102b
+
+******** description ********
 '환유적바다' Seaofmirage
 
 창남展 / CHANGNAM / photography
@@ -46,3 +48,10 @@ Photography is a medium art so it is essential for artists to understand the fea
 ■ Yeung Tae Kim
 
 Vol.20100102b | 창남展 / CHANGNAM / photography
+******** imgSrcs ********
+https://neolook.com/archives/2010010201b.jpg
+https://neolook.com/archives/2010010202b.jpg
+https://neolook.com/archives/2010010203b.jpg
+https://neolook.com/archives/2010010204b.jpg
+https://neolook.com/archives/2010010205b.jpg
+https://neolook.com/archives/2010010206b.jpg

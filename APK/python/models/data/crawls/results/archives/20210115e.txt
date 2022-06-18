@@ -1,4 +1,6 @@
 /archives/20210115e
+
+******** description ********
 봉산 십층철탑
 
 서현규展 / SEOHYEONGYU / 徐玹揆 / installation
@@ -46,3 +48,11 @@ www.bongsanart.org,
 ■ 박연숙
 
 Vol.20210115e | 서현규展 / SEOHYEONGYU / 徐玹揆 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2021011501e.jpg
+https://neolook.com/archives/2021011502e.jpg
+https://neolook.com/archives/2021011503e.jpg
+https://neolook.com/archives/2021011504e.jpg
+https://neolook.com/archives/2021011505e.jpg
+https://neolook.com/archives/2021011506e.jpg
+https://neolook.com/archives/2021011507e.jpg

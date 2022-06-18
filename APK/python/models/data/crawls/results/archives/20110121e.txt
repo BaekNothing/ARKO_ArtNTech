@@ -1,4 +1,6 @@
 /archives/20110121e
+
+******** description ********
 Into Drawing 13
 
 권혁展 / KWONHYUK / 權赫 / drawing
@@ -55,3 +57,11 @@ And it starts from drawing.
 ■ KWONHYUK
 
 Vol.20110121e | 권혁展 / KWONHYUK / 權赫 / drawing
+******** imgSrcs ********
+https://neolook.com/archives/2011012101e.jpg
+https://neolook.com/archives/2011012102e.jpg
+https://neolook.com/archives/2011012103e.jpg
+https://neolook.com/archives/2011012104e.jpg
+https://neolook.com/archives/2011012105e.jpg
+https://neolook.com/archives/2011012106e.jpg
+https://neolook.com/archives/2011012107e.jpg

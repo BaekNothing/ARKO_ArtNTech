@@ -1,4 +1,6 @@
 /archives/20120109b
+
+******** description ********
 파동 the forces behind
 
 2012_0112 ▶ 2012_0209 / 월요일 휴관,    
@@ -28,3 +30,8 @@ www.doosangallery.com,
  ■ 강소정_김수영_조은비
 
 Vol.20120109b | 파동 the forces behind展
+******** imgSrcs ********
+https://neolook.com/archives/2012010901b.jpg
+https://neolook.com/archives/2012010902b.jpg
+https://neolook.com/archives/2012010903b.jpg
+https://neolook.com/archives/2012010904b.jpg

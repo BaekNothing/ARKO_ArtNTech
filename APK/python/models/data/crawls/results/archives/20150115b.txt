@@ -1,4 +1,6 @@
 /archives/20150115b
+
+******** description ********
 Borderline
 
 홍남기展 / HONGNAMKEE / 洪男基 / animation.installation
@@ -32,3 +34,9 @@ www.artspaceo.com,
 ■ 홍남기
 
 Vol.20150115b | 홍남기展 / HONGNAMKEE / 洪男基 / animation.installation
+******** imgSrcs ********
+https://neolook.com/archives/2015011501b.jpg
+https://neolook.com/archives/2015011502b.jpg
+https://neolook.com/archives/2015011503b.jpg
+https://neolook.com/archives/2015011504b.jpg
+https://neolook.com/archives/2015011505b.jpg

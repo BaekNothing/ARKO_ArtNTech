@@ -1,4 +1,6 @@
 /archives/20160105f
+
+******** description ********
 행복한 원숭이 Happy Monkeys
 
 강상훈_김신혜_김태연_류재형_이제형展
@@ -38,3 +40,12 @@ shinsegae.com,
 ■ 유재빈
 
 Vol.20160105f | 행복한 원숭이 Happy Monkeys展
+******** imgSrcs ********
+https://neolook.com/archives/2016010501f.jpg
+https://neolook.com/archives/2016010502f.jpg
+https://neolook.com/archives/2016010503f.jpg
+https://neolook.com/archives/2016010504f.jpg
+https://neolook.com/archives/2016010505f.jpg
+https://neolook.com/archives/2016010506f.jpg
+https://neolook.com/archives/2016010507f.jpg
+https://neolook.com/archives/2016010508f.jpg

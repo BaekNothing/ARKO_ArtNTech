@@ -1,4 +1,6 @@
 /archives/20190113c
+
+******** description ********
 작은 것들의 신 The God of Small things
 
 박가연展 / BAHCGAYEON / 朴哿延 / installation
@@ -44,3 +46,11 @@ www.gallerymeme.com,
 ■ 안소연
 
 Vol.20190113c | 박가연展 / BAHCGAYEON / 朴哿延 / installation
+******** imgSrcs ********
+https://neolook.com/archives/2019011301c.jpg
+https://neolook.com/archives/2019011302c.jpg
+https://neolook.com/archives/2019011303c.jpg
+https://neolook.com/archives/2019011304c.jpg
+https://neolook.com/archives/2019011305c.jpg
+https://neolook.com/archives/2019011306c.jpg
+https://neolook.com/archives/2019011307c.jpg

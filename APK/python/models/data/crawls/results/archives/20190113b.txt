@@ -1,4 +1,6 @@
 /archives/20190113b
+
+******** description ********
 한국현대미술선040 김홍식
 지은이_김홍식,    
 지은이_김홍식 || 분류_예술/대중문화/미술 || 판형_150×180mm
@@ -41,3 +43,10 @@ www.hexagonbook.com,
 - 시선의 사이를 거닐다,    184 프로필 Profile
 
 Vol.20190113b | 한국현대미술선040 김홍식 / 지은이_김홍식 / 출판회사 헥사곤
+******** imgSrcs ********
+https://neolook.com/archives/2019011301b.jpg
+https://neolook.com/archives/2019011302b.jpg
+https://neolook.com/archives/2019011303b.jpg
+https://neolook.com/archives/2019011304b.jpg
+https://neolook.com/archives/2019011305b.jpg
+https://neolook.com/archives/2019011306b.jpg

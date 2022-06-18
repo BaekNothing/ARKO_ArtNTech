@@ -1,4 +1,6 @@
 /archives/20100129b
+
+******** description ********
 제2회 Homecoming 'YAP'
 
 2010_0129 ▶ 2010_0227 / 일요일 휴관,    
@@ -45,3 +47,10 @@ www.galleryjung.com,
 ■ 김윤주
 
 Vol.20100129b | 제2회 Homecoming 'YAP'展
+******** imgSrcs ********
+https://neolook.com/archives/2010012901b.jpg
+https://neolook.com/archives/2010012902b.jpg
+https://neolook.com/archives/2010012903b.jpg
+https://neolook.com/archives/2010012904b.jpg
+https://neolook.com/archives/2010012905b.jpg
+https://neolook.com/archives/2010012906b.jpg

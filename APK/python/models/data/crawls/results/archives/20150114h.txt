@@ -1,4 +1,6 @@
 /archives/20150114h
+
+******** description ********
 Life is a Comedy
 2015_0114 ▶ 2015_0224 / 백화점 휴점일 휴관,    ,    별도의 초대일시가 없습니다.
 
@@ -33,3 +35,11 @@ Life is a Comedy展_신세계갤러리 센텀시티_2015,
 ■ 신세계갤러리
 
 Vol.20150114h | Life is a Comedy展
+******** imgSrcs ********
+https://neolook.com/archives/2015011401h.jpg
+https://neolook.com/archives/2015011402h.jpg
+https://neolook.com/archives/2015011403h.jpg
+https://neolook.com/archives/2015011404h.jpg
+https://neolook.com/archives/2015011405h.jpg
+https://neolook.com/archives/2015011406h.jpg
+https://neolook.com/archives/2015011407h.jpg

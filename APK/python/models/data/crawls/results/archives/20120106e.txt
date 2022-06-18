@@ -1,4 +1,6 @@
 /archives/20120106e
+
+******** description ********
 김성렬 윤근영 강서영 윤영완
 2012_0106 ▶ 2012_0120,    ,    오프닝 퍼포먼스 / 2012_0106_금요일_07:00pm_윤근영
 참여작가 / 김성렬_윤근영_강서영_윤영완
@@ -57,3 +59,17 @@ www.noamgallery.com,
 ■ 배은혜
 
 Vol.20120106e | 김성렬 윤근영 강서영 윤영완展
+******** imgSrcs ********
+https://neolook.com/archives/2012010601e.jpg
+https://neolook.com/archives/2012010602e.jpg
+https://neolook.com/archives/2012010603e.jpg
+https://neolook.com/archives/2012010604e.jpg
+https://neolook.com/archives/2012010605e.jpg
+https://neolook.com/archives/2012010606e.jpg
+https://neolook.com/archives/2012010607e.jpg
+https://neolook.com/archives/2012010608e.jpg
+https://neolook.com/archives/2012010609e.jpg
+https://neolook.com/archives/2012010610e.jpg
+https://neolook.com/archives/2012010611e.jpg
+https://neolook.com/archives/2012010612e.jpg
+https://neolook.com/archives/2012010613e.jpg

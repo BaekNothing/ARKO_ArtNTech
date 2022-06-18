@@ -1,4 +1,6 @@
 /archives/20190126a
+
+******** description ********
 LEGOSCAPE
 
 젠박展 / JENPAK / painting
@@ -51,3 +53,14 @@ www.arcegallery.com,
 ■ 고충환
 
 Vol.20190126a | 젠박展 / JENPAK / painting
+******** imgSrcs ********
+https://neolook.com/archives/2019012601a.jpg
+https://neolook.com/archives/2019012602a.jpg
+https://neolook.com/archives/2019012603a.jpg
+https://neolook.com/archives/2019012604a.jpg
+https://neolook.com/archives/2019012605a.jpg
+https://neolook.com/archives/2019012606a.jpg
+https://neolook.com/archives/2019012607a.jpg
+https://neolook.com/archives/2019012608a.jpg
+https://neolook.com/archives/2019012609a.jpg
+https://neolook.com/archives/2019012610a.jpg

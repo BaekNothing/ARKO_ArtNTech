@@ -1,4 +1,6 @@
 /archives/20140123g
+
+******** description ********
 Songs for Our Muses
 
 여성문화예술기획展
@@ -63,3 +65,13 @@ www.galleryjj.org,
 ■ 신현경
 
 Vol.20140123g | Songs for Our Muses-여성문화예술기획展
+******** imgSrcs ********
+https://neolook.com/archives/2014012301g.jpg
+https://neolook.com/archives/2014012302g.jpg
+https://neolook.com/archives/2014012303g.jpg
+https://neolook.com/archives/2014012304g.jpg
+https://neolook.com/archives/2014012305g.jpg
+https://neolook.com/archives/2014012306g.jpg
+https://neolook.com/archives/2014012307g.jpg
+https://neolook.com/archives/2014012308g.jpg
+https://neolook.com/archives/2014012309g.jpg

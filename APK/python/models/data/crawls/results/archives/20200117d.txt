@@ -1,4 +1,6 @@
 /archives/20200117d
+
+******** description ********
 emograms with LOVE
 
 키스미클로스展 / kissmiklos / mixed media
@@ -44,3 +46,7 @@ Part2. 러브 LOVE - 신작 '러브 LOVE'시리즈 소개 키스미클로스가 
 ● 디자인을 기반으로 조형예술을 통해 세상 사람들과 긍정적인 교감을 꿈꾸는 키스미클로스의 작품을 통해 2020년 새해 보다 밝고 활기찬 에너지를 나누는 자리가 되기를 희망한다. ■ 롯데갤러리 인천터미널점
 
 Vol.20200117d | 키스미클로스展 / kissmiklos / mixed media
+******** imgSrcs ********
+https://neolook.com/archives/2020011701d.jpg
+https://neolook.com/archives/2020011702d.jpg
+https://neolook.com/archives/2020011703d.jpg

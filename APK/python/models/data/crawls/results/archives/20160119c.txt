@@ -1,4 +1,6 @@
 /archives/20160119c
+
+******** description ********
 산수(山水) 마음 아득한 경지에서 노닐다
 
 김가을展 / KIMGAEUL / 金可乙 / painting
@@ -41,3 +43,13 @@ www.gcr.kr,
 ■ 김가을
 
 Vol.20160119c | 김가을展 / KIMGAEUL / 金可乙 / painting
+******** imgSrcs ********
+https://neolook.com/archives/2016011901c.jpg
+https://neolook.com/archives/2016011902c.jpg
+https://neolook.com/archives/2016011903c.jpg
+https://neolook.com/archives/2016011904c.jpg
+https://neolook.com/archives/2016011905c.jpg
+https://neolook.com/archives/2016011906c.jpg
+https://neolook.com/archives/2016011907c.jpg
+https://neolook.com/archives/2016011908c.jpg
+https://neolook.com/archives/2016011909c.jpg

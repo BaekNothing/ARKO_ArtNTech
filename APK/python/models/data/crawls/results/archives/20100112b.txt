@@ -1,4 +1,6 @@
 /archives/20100112b
+
+******** description ********
 2010-2011 청주미술창작스튜디오 제4기 입주작가 모집공고
  
 접수기간 / 2010_0112 ▶ 2010_0202,    ,    
@@ -57,3 +59,7 @@ www.cjartstudio.com,
     청주미술창작스튜디오 홈페이지 www.cjartstudio.com / 청주시청 홈페이지 / www.cjcity.net
 
 Vol.20100112b | 2010-2011 청주미술창작스튜디오 제4기 입주작가 모집공고
+******** imgSrcs ********
+https://neolook.com/archives/2010011201b.jpg
+https://neolook.com/archives/2010011202b.jpg
+https://neolook.com/archives/2010011203b.jpg

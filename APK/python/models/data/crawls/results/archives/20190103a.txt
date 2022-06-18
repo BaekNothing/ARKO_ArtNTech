@@ -1,4 +1,6 @@
 /archives/20190103a
+
+******** description ********
 한국 현대사진 스펙트럼
 
 SPECTRUM of Contemporary Photography in Korea
@@ -64,3 +66,10 @@ www.hexagonbook.com,
 4. 사진 컬렉션의 노하우 230
 
 Vol.20190103a | 한국 현대사진 스펙트럼 / 지은이_박영숙 / 출판회사 헥사곤
+******** imgSrcs ********
+https://neolook.com/archives/2019010301a.jpg
+https://neolook.com/archives/2019010302a.jpg
+https://neolook.com/archives/2019010303a.jpg
+https://neolook.com/archives/2019010304a.jpg
+https://neolook.com/archives/2019010305a.jpg
+https://neolook.com/archives/2019010306a.jpg

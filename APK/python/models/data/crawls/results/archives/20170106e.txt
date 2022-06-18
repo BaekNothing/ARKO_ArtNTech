@@ -1,4 +1,6 @@
 /archives/20170106e
+
+******** description ********
 첫 번째 이튿날
 
 박효빈_서지선_하이경展
@@ -35,3 +37,11 @@ www.ksdgallery.kr,
 ■ KSD갤러리
 
 Vol.20170106e | 첫 번째 이튿날展
+******** imgSrcs ********
+https://neolook.com/archives/2017010601e.jpg
+https://neolook.com/archives/2017010602e.jpg
+https://neolook.com/archives/2017010603e.jpg
+https://neolook.com/archives/2017010604e.jpg
+https://neolook.com/archives/2017010605e.jpg
+https://neolook.com/archives/2017010606e.jpg
+https://neolook.com/archives/2017010607e.jpg
