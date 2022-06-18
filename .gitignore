@@ -81,3 +81,6 @@ dist/
 APK/python/models/data/*.csv
 APK/python/models/models/*.bin
 .fake
+
+APK/python/models/data/crawls/results/archives/
+D:\unityWorks\ARKO_ArtNTech\APK\python\models\data\crawls\results\archives\19891106a.txt
