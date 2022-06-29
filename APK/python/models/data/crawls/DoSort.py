@@ -9,13 +9,15 @@ def remove_comma(string):
     return string.replace(',', '')
 
 def read_textfile_write_csv(filepath, filename):
+    fileId = filename[0:4]
     filename = filepath + '/' + filename
     with open(filename, 'r', encoding='utf8') as f:
         text = f.read()
     text = remove_empty_line(text)
     text = remove_comma(text)
     splice = text.split("********")
-    with open('result.csv', 'a', encoding='utf-8-sig', newline='') as f:
+    
+    with open('result' + fileId + '.csv', 'a', encoding='utf-8-sig', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(splice)
 

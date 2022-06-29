@@ -1,4 +1,6 @@
+from cmath import e
 from operator import index
+import string
 from turtle import delay
 import urllib.request  
 from bs4 import BeautifulSoup  
@@ -19,16 +21,22 @@ def get_index():
     return index
 
 def get_subIndex(url):
-    conn = urllib.request.urlopen('https://neolook.com' + url)
-    soup = BeautifulSoup(conn, 'html.parser')
-    arta = soup.find_all('li', class_='py-1')
-    subIndex = ""
-    for art in arta:
-        subIndex += art.find('a')["href"] + '\n'
-    print(subIndex)
-    with open('crawls/index/' + url + '.txt', 'wt', encoding='utf8') as f:
-        f.write(str(subIndex))
-    return subIndex
+    for i in range(1, 13): # 1 ~ 12
+        try:
+            new_url = url + ('0' if i < 10 else '') + str(i)
+            conn = urllib.request.urlopen('https://neolook.com' + new_url)
+            soup = BeautifulSoup(conn, 'html.parser')
+            arta = soup.find_all('li', class_='py-1')
+            subIndex = ""
+            for art in arta:
+                subIndex += art.find('a')["href"] + '\n'
+            print(subIndex)
+            with open('crawls/index/' + new_url + '.txt', 'wt', encoding='utf8') as f:
+                f.write(str(subIndex))
+            subIndex
+        except Exception as e:
+            print("error :", url, e)
+            continue
 
 def get_text_from_index():
     listdir = os.listdir('crawls/index/archives')
