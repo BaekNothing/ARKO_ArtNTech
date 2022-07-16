@@ -85,4 +85,5 @@ APK/python/models/models/*.bin
 APK/python/models/data/crawls/results/archives/
 D:\unityWorks\ARKO_ArtNTech\APK\python\models\data\crawls\results\archives\19891106a.txt
 APK/python/models/data/crawls/ChatBotData.csv
-*backup.csv
+*backup.csv*
+APK/python/models/data/crawls/results/archives/*.txt
