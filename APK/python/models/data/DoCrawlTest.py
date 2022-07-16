@@ -57,22 +57,44 @@ def get_text(url):
     print(fname)
     conn = urllib.request.urlopen('https://neolook.com' + url)
     soup = BeautifulSoup(conn, "html.parser")  
-    arta = soup.find_all('div', class_='archives-description')
+#    arta = soup.find_all('div', class_='archives-description')
 
+ #   print(arta)
     filteredText = url + '\n'
-    filteredText += "\n******** description ********\n" 
-    for art in arta:
-        filteredText += art.text.strip()
-    filteredText = filteredText.replace(',', '')
-    filteredText = filteredText.replace('\n\n\n', ',    ')
-    
-    filteredText += "\n******** imgSrcs ********\n"
-    imgs = soup.find_all('img')
-    for img in imgs:
-        if "archives" in img["src"]:
-            filteredText += img["src"] + '\n'
-    
-    print(filteredText)
+    filteredText += "****** Title ******\n"
+    title = soup.find_all('h1')
+    for text in title :
+        filteredText += text.getText() + '\n'
+    title = soup.find_all('h2')
+    for text in title :
+        filteredText += text.getText() + '\n'
+
+    filteredText += "****** DESC ******\n"
+
+    descText = soup.find_all('p')
+    for text in descText:
+        try :
+            if str(text["class"]).find('line') != -1 :
+                descText.remove(text)
+        except Exception as e:
+            print("error ", e)
+            continue
+    for text in descText:
+        if len(str(text)) > 5 :
+            filteredText += text.get_text()
+    filteredText.replace('\n\n', '\n')
+    filteredText += "\n****** IMGS ******\n"
+    imgSrcs = soup.find_all('dt')
+    imgDesc = soup.find_all('dd')
+    for i in range(len(imgSrcs)):
+        try:
+            imgSrcs[i] = imgSrcs[i].find('img')["src"]
+            imgDesc[i] = imgDesc[i].get_text().replace(',', '') 
+            filteredText += imgDesc[i] + ',' + imgSrcs[i] + '\n'
+        except Exception as e:
+            print("error ", imgSrcs[i], e)
+            continue
+    #print(filteredText)    
     with open(fname, 'wt', encoding='utf8') as f:
         f.write(str(filteredText))
 
