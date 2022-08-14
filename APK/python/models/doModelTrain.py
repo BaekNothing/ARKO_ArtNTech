@@ -1,4 +1,4 @@
-# from https://wikidocs.net/157001 KoGPT2 챗봇 만들기
+﻿# from https://wikidocs.net/157001 KoGPT2 챗봇 만들기
 
 from regex import D
 import setModelData
@@ -28,10 +28,11 @@ model = GPT2LMHeadModel.from_pretrained('skt/kogpt2-base-v2')
 
 import urllib.request
 
-urllib.request.urlretrieve(
-    "https://raw.githubusercontent.com/songys/Chatbot_data/master/ChatbotData.csv",
-    filename="data/ChatBotData.csv",
-)
+# urllib.request.urlretrieve(
+#     "https://raw.githubusercontent.com/songys/Chatbot_data/master/ChatbotData.csv",
+#     filename="data/ChatBotData.csv",
+# )
+
 Chatbot_Data = pd.read_csv("data/ChatBotData.csv")
 # Test 용으로 300개 데이터만 처리한다.
 Chatbot_Data = Chatbot_Data[:300]

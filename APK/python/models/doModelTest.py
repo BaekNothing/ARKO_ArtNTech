@@ -1,4 +1,4 @@
-from numpy import empty
+﻿from numpy import empty
 from transformers import PreTrainedTokenizerFast
 
 Q_TKN = "<usr>"

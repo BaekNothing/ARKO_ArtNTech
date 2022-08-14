@@ -1,4 +1,4 @@
-from numpy import empty
+﻿from numpy import empty
 from transformers import PreTrainedTokenizerFast
 
 tokenizer = PreTrainedTokenizerFast.from_pretrained("skt/kogpt2-base-v2",

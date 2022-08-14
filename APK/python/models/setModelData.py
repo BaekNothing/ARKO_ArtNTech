@@ -1,4 +1,4 @@
-# from https://wikidocs.net/157001 KoGPT2 챗봇 만들기
+﻿# from https://wikidocs.net/157001 KoGPT2 챗봇 만들기
 
 import math
 import numpy as np
