@@ -1,4 +1,4 @@
-
+ï»¿
 using UnityEngine;
 using System;
 using System.Collections.Generic;
@@ -27,7 +27,7 @@ class SocketManager : SingleTone<SocketManager>
             return;       
         thread = new Thread(WaitReceive);
         thread.Start();
-        //ÃâÃ³: https://nowonbun.tistory.com/670 [¸í¿ù ÀÏÁö:Æ¼½ºÅä¸®]
+        //ì¶œì²˜: https://nowonbun.tistory.com/670 [ëª…ì›” ì¼ì§€:í‹°ìŠ¤í† ë¦¬]
     }
 
     string result = "";
@@ -48,7 +48,7 @@ class SocketManager : SingleTone<SocketManager>
         {
             try
             {
-                client.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9999));
+                client.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 1280));
                 var data = Encoding.UTF8.GetBytes(message);
                 client.Send(BitConverter.GetBytes(data.Length));
                 client.Send(data);

@@ -67,12 +67,7 @@ public class InputManager : SingleTone<InputManager>
 
     void GetKeyUp_Space()
     {
-        if(parryFlag && player.JumpCount < 2)
-        {
-            Debug.Log(parryVector);
-            player.Jump(parryVector.normalized);
-            parryFlag = false;
-        }
+       
     }
 
     void GetKey_Attack(){
